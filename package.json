@@ -1,0 +1,19 @@
+{
+  "name": "tarkov-ah-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Xetro/tarkov-AH-scrapper.git"
+  },
+  "author": "Matevz Golob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xetro/tarkov-AH-scrapper/issues"
+  },
+  "homepage": "https://github.com/Xetro/tarkov-AH-scrapper#readme"
+}

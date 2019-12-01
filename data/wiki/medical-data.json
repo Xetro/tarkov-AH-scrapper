@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Analgin painkillers",
+    "image": "EFT Painkillers Icon.png",
+    "title": "Analgin painkillers",
+    "pageId": 3973,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/EFT_Painkillers_Icon.png?version=c23af4eaa675ec2d71605241e33dad12",
+    "filePath": "analgin_painkillers"
+  },
+  {
+    "name": "Augmentin antibiotic pills",
+    "image": "EFT Augmentin-antibiotic-pills Icon.png",
+    "title": "Augmentin antibiotic pills",
+    "pageId": 5429,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2c/EFT_Augmentin-antibiotic-pills_Icon.png",
+    "filePath": "augmentin_antibiotic_pills"
+  },
+  {
+    "name": "Morphine injector",
+    "image": "EFT Morphine Icon.png",
+    "title": "Morphine injector",
+    "pageId": 3975,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/EFT_Morphine_Icon.png?version=a568c2e9e7c314520497a6d512a0422a",
+    "filePath": "morphine_injector"
+  },
+  {
+    "name": "Ibuprofen painkillers",
+    "image": "Ibuprofen painkiller icon.png",
+    "title": "Ibuprofen painkillers",
+    "pageId": 10354,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8a/Ibuprofen_painkiller_icon.png?version=9092e04ee3dd43a40570661cac19e9f4",
+    "filePath": "ibuprofen_painkillers"
+  },
+  {
+    "name": "Aseptic bandage",
+    "image": "EFT Aseptic-Bandage Icon.png",
+    "title": "Aseptic bandage",
+    "pageId": 3978,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/11/EFT_Aseptic-Bandage_Icon.png",
+    "filePath": "aseptic_bandage"
+  },
+  {
+    "name": "Army bandage",
+    "image": "EFT Army-Bandage Icon.png",
+    "title": "Army bandage",
+    "pageId": 3983,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/EFT_Army-Bandage_Icon.png",
+    "filePath": "army_bandage"
+  },
+  {
+    "name": "AI-2 medikit",
+    "image": "AI-2 Icon.png",
+    "title": "AI-2 medikit",
+    "pageId": 3972,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/AI-2_Icon.png",
+    "filePath": "ai_2_medikit"
+  },
+  {
+    "name": "Car first aid kit",
+    "image": "EFT Car-first-aid-kit Icon.png",
+    "title": "Car first aid kit",
+    "pageId": 5341,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/EFT_Car-first-aid-kit_Icon.png",
+    "filePath": "car_first_aid_kit"
+  },
+  {
+    "name": "Salewa FIRST AID KIT",
+    "image": "EFT Salewa-First-Aid-Kit Icon 2.png",
+    "title": "Salewa FIRST AID KIT",
+    "pageId": 3969,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/EFT_Salewa-First-Aid-Kit_Icon_2.png",
+    "filePath": "salewa_first_aid_kit"
+  },
+  {
+    "name": "IFAK personal tactical first aid kit",
+    "image": "EFT IFAK Icon.png",
+    "title": "IFAK personal tactical first aid kit",
+    "pageId": 5347,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/20/EFT_IFAK_Icon.png?version=72976daf76d0bbbed483485183116c48",
+    "filePath": "ifak_personal_tactical_first_aid_kit"
+  },
+  {
+    "name": "Grizzly First Aid Kit",
+    "image": "EFT_Grizzly_Icon.png",
+    "title": "Grizzly First Aid Kit",
+    "pageId": 6135,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/EFT_Grizzly_Icon.png?version=e7f0175bc4849a68b9d5d3d212c6dd03",
+    "filePath": "grizzly_first_aid_kit"
+  },
+  {
+    "name": "Immobilizing splint",
+    "image": "EFT Splint Icon.png",
+    "title": "Immobilizing splint",
+    "pageId": 3980,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/EFT_Splint_Icon.png?version=644279b477207dbcb9dc5deb686b01b9",
+    "filePath": "immobilizing_splint"
+  },
+  {
+    "name": "Immobilizing splint (alu)",
+    "image": "AluSplintIcon.png",
+    "title": "Immobilizing splint (alu)",
+    "pageId": 10355,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/AluSplintIcon.png?version=8eb642b726250a6b8cc09401a8a3a9be",
+    "filePath": "immobilizing_splint__alu_"
+  },
+  {
+    "name": "Vaseline",
+    "image": "EFT Vaseline Icon.png",
+    "title": "Vaseline",
+    "pageId": 3974,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/EFT_Vaseline_Icon.png?version=9093b2d1e4c8fb70b5037e88f6274b98",
+    "filePath": "vaseline"
+  },
+  {
+    "name": "Golden Star Balm",
+    "image": "Golden Star Balm Icon.png",
+    "title": "Golden Star Balm",
+    "pageId": 3984,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Golden_Star_Balm_Icon.png?version=045382f47a839d9e60b2a8c3423d093d",
+    "filePath": "golden_star_balm"
+  },
+  {
+    "name": "CMS kit",
+    "image": "CMS_Icon.png",
+    "title": "CMS kit",
+    "pageId": 15488,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/CMS_Icon.png?version=311ca0d0aa47c33576cad09158587691",
+    "filePath": "cms_kit"
+  },
+  {
+    "name": "Surv12 field surgical kit",
+    "image": "Surv12 icon.png",
+    "title": "Surv12 field surgical kit",
+    "pageId": 15489,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/Surv12_icon.png?version=e5dc4db532e72f6d8af4f8e128d97984",
+    "filePath": "surv12_field_surgical_kit"
+  }
+]

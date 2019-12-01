@@ -1,0 +1,1022 @@
+[
+  {
+    "name": "Izhmash 7.62x39 AKM muzzlebrake & compensator (6P1 0-14)",
+    "image": "6p1.png",
+    "title": "Izhmash 7.62x39 AKM muzzlebrake & compensator (6P1 0-14)",
+    "pageId": 7077,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/6p1.png?version=43e15aeed2bb22f0a4e6543aafaeb82e",
+    "filePath": "izhmash_7_62x39_akm_muzzlebrake___compensator__6p1_0_14_"
+  },
+  {
+    "name": "Molot 7.62x39 Vepr KM / VPO-136 muzzlebrake & compensator",
+    "image": "Vpo136muz.png",
+    "title": "Molot 7.62x39 Vepr KM / VPO-136 muzzlebrake & compensator",
+    "pageId": 7149,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Vpo136muz.png?version=37e10ff8079fc00761d4bdfe87235dd2",
+    "filePath": "molot_7_62x39_vepr_km___vpo_136_muzzlebrake___compensator"
+  },
+  {
+    "name": "Thread protection for AKM/VPO-209",
+    "image": "Vpo209muzz.png",
+    "title": "Thread protection for AKM/VPO-209",
+    "pageId": 7156,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4c/Vpo209muzz.png?version=58d6508fdae2e953e20735137d19fb46",
+    "filePath": "thread_protection_for_akm_vpo_209"
+  },
+  {
+    "name": "KAC QD Compensator 5.56x45",
+    "image": "Kac.png",
+    "title": "KAC QD Compensator 5.56x45",
+    "pageId": 3224,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/Kac.png?version=8a1027cacc4a2a174ea6463a12c0b0f8",
+    "filePath": "kac_qd_compensator_5_56x45"
+  },
+  {
+    "name": "Izhmash 7.62x39 flash hider for AKML system",
+    "image": "Akml.png",
+    "title": "Izhmash 7.62x39 flash hider for AKML system",
+    "pageId": 7869,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/Akml.png?version=8a214dd8ff816e7b618e31b2f616deda",
+    "filePath": "izhmash_7_62x39_flash_hider_for_akml_system"
+  },
+  {
+    "name": "AAC Blackout 51T flash hider (7.62x51)",
+    "image": "Blackout.png",
+    "title": "AAC Blackout 51T flash hider (7.62x51)",
+    "pageId": 7870,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8e/Blackout.png?version=f9e5a1b5e6f89c15a9f2ca63fd7dd82c",
+    "filePath": "aac_blackout_51t_flash_hider__7_62x51_"
+  },
+  {
+    "name": "Taktika Tula AK and AKM adapter",
+    "image": "Ttakm.png",
+    "title": "Taktika Tula AK and AKM adapter",
+    "pageId": 8417,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/ff/Ttakm.png?version=19039962de60b39c7e7b03bb928ec299",
+    "filePath": "taktika_tula_ak_and_akm_adapter"
+  },
+  {
+    "name": "Carver Custom 4 Port 9x19 muzzle brake",
+    "image": "4port.png",
+    "title": "Carver Custom 4 Port 9x19 muzzle brake",
+    "pageId": 8480,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/4port.png?version=cb3155f18e49ec5a94bf4b1cafe2123e",
+    "filePath": "carver_custom_4_port_9x19_muzzle_brake"
+  },
+  {
+    "name": "Decelerator 3 Port 9x19 Compensator",
+    "image": "G3port.png",
+    "title": "Decelerator 3 Port 9x19 Compensator",
+    "pageId": 8481,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/89/G3port.png?version=1079788708701d2a52b5eb5feb61d004",
+    "filePath": "decelerator_3_port_9x19_compensator"
+  },
+  {
+    "name": "Double Diamond flash hider",
+    "image": "Glockdd.png",
+    "title": "Double Diamond flash hider",
+    "pageId": 8482,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2f/Glockdd.png?version=434d85c74fade8090f79a3cfe8e5f844",
+    "filePath": "double_diamond_flash_hider"
+  },
+  {
+    "name": "Alpha Wolf Bullnose 9x19 Compensator",
+    "image": "Gaw.png",
+    "title": "Alpha Wolf Bullnose 9x19 Compensator",
+    "pageId": 8483,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/Gaw.png?version=68f1ba2c424acb62415a82420d58b77f",
+    "filePath": "alpha_wolf_bullnose_9x19_compensator"
+  },
+  {
+    "name": "Lone Wolf Compensator 9 9x19",
+    "image": "Lw9.png",
+    "title": "Lone Wolf Compensator 9 9x19",
+    "pageId": 8484,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/Lw9.png?version=e80e8cbf6b3c50651f183d832bfeb17a",
+    "filePath": "lone_wolf_compensator_9_9x19"
+  },
+  {
+    "name": "Strike Industries G4 slide compensator 9x19",
+    "image": "G4.png",
+    "title": "Strike Industries G4 slide compensator 9x19",
+    "pageId": 8472,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/30/G4.png?version=025702726df99394717f9a8b0e69a502",
+    "filePath": "strike_industries_g4_slide_compensator_9x19"
+  },
+  {
+    "name": "Lantac Drakon 7.62x39 muzzlebrake & compensator for AK",
+    "image": "LantacDrakonIcon.png",
+    "title": "Lantac Drakon 7.62x39 muzzlebrake & compensator for AK",
+    "pageId": 13906,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/LantacDrakonIcon.png?version=6d00cdac4fadedf55d614946b77429b7",
+    "filePath": "lantac_drakon_7_62x39_muzzlebrake___compensator_for_ak"
+  },
+  {
+    "name": "SAI Jail Break 5.56x45 for AR-15",
+    "image": "SAIJailBreakIcon.png",
+    "title": "SAI Jail Break 5.56x45 for AR-15",
+    "pageId": 13887,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/SAIJailBreakIcon.png?version=183f5e0d4707aa882ee67caf56d66797",
+    "filePath": "sai_jail_break_5_56x45_for_ar_15"
+  },
+  {
+    "name": "AAC Blackout 51T 5.56x45 flash-hider",
+    "image": "Blackout 5 Icon.png",
+    "title": "AAC Blackout 51T 5.56x45 flash-hider",
+    "pageId": 13898,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Blackout_5_Icon.png?version=aefe56379cf282343ec5b3ab56d5bd8a",
+    "filePath": "aac_blackout_51t_5_56x45_flash_hider"
+  },
+  {
+    "name": "Thread adapter 7.62x54 for SV-98",
+    "image": "SV-98 Thread Icon.png",
+    "title": "Thread adapter 7.62x54 for SV-98",
+    "pageId": 13614,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/SV-98_Thread_Icon.png",
+    "filePath": "thread_adapter_7_62x54_for_sv_98"
+  },
+  {
+    "name": "Surefire WarComp 5.56x45 Flashhider for AR-15",
+    "image": "WarCompIcon.png",
+    "title": "Surefire WarComp 5.56x45 Flashhider for AR-15",
+    "pageId": 13880,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/WarCompIcon.png?version=bf24db25353269d55ddd4a1d16569937",
+    "filePath": "surefire_warcomp_5_56x45_flashhider_for_ar_15"
+  },
+  {
+    "name": "Lantac Dragon 7.62x51 muzzlebrake",
+    "image": "DGN762 Icon.png",
+    "title": "Lantac Dragon 7.62x51 muzzlebrake",
+    "pageId": 13905,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/DGN762_Icon.png?version=5297e55000dd50650780ef896e4a4de6",
+    "filePath": "lantac_dragon_7_62x51_muzzlebrake"
+  },
+  {
+    "name": "Izhmash 7.62x54 SVDS muzzlebrake & compensator",
+    "image": "Izhmash 7.62x54 SVDS muzzlebrake & compensator icon.png",
+    "title": "Izhmash 7.62x54 SVDS muzzlebrake & compensator",
+    "pageId": 13836,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/Izhmash_7.62x54_SVDS_muzzlebrake_%26_compensator_icon.png",
+    "filePath": "izhmash_7_62x54_svds_muzzlebrake___compensator"
+  },
+  {
+    "name": "SRVV \"Mk.2.0\" compensator 7.62x54 for SV-98",
+    "image": "Muzzle break SRVV for SV-98 icon.png",
+    "title": "SRVV \"Mk.2.0\" compensator 7.62x54 for SV-98",
+    "pageId": 13608,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/Muzzle_break_SRVV_for_SV-98_icon.png",
+    "filePath": "srvv__mk_2_0__compensator_7_62x54_for_sv_98"
+  },
+  {
+    "name": "Venom Antidote muzzlebrake & compensator for AK",
+    "image": "Antidote Icon.png",
+    "title": "Venom Antidote muzzlebrake & compensator for AK",
+    "pageId": 13892,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/Antidote_Icon.png?version=72694274c60c11057505d976c7cd1595",
+    "filePath": "venom_antidote_muzzlebrake___compensator_for_ak"
+  },
+  {
+    "name": "Surefire SF3P 5.56x45 Flashhider for AR-15",
+    "image": "SF3P Icon.png",
+    "title": "Surefire SF3P 5.56x45 Flashhider for AR-15",
+    "pageId": 13900,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/SF3P_Icon.png?version=3be1c1903ab8a482024ba6840bbc4679",
+    "filePath": "surefire_sf3p_5_56x45_flashhider_for_ar_15"
+  },
+  {
+    "name": "TJ Custom 9x19 Compensator",
+    "image": "TJ Icon.png",
+    "title": "TJ Custom 9x19 Compensator",
+    "pageId": 13869,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/48/TJ_Icon.png?version=751df19d25a23851e5b0778217f8ea90",
+    "filePath": "tj_custom_9x19_compensator"
+  },
+  {
+    "name": "Muzzle brake Desert Tech 5.56x45",
+    "image": "Muzzle brake Desert Tech 5.56x45 icon.png",
+    "title": "Muzzle brake Desert Tech 5.56x45",
+    "pageId": 13609,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dd/Muzzle_brake_Desert_Tech_5.56x45_icon.png",
+    "filePath": "muzzle_brake_desert_tech_5_56x45"
+  },
+  {
+    "name": "HK Noveske style muzzlebrake & compensator for MP-5",
+    "image": "HKNoveskeMP5icon.png",
+    "title": "HK Noveske style muzzlebrake & compensator for MP-5",
+    "pageId": 12795,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/HKNoveskeMP5icon.png?version=a0c2e435f9d3a04fd2587ff4f25a21b9",
+    "filePath": "hk_noveske_style_muzzlebrake___compensator_for_mp_5"
+  },
+  {
+    "name": "PM-Laser DTK-TT muzzle brake for TT pistol",
+    "image": "PMLaserDTK-TTMuzzleBrakeicon.png",
+    "title": "PM-Laser DTK-TT muzzle brake for TT pistol",
+    "pageId": 12720,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/41/PMLaserDTK-TTMuzzleBrakeicon.png",
+    "filePath": "pm_laser_dtk_tt_muzzle_brake_for_tt_pistol"
+  },
+  {
+    "name": "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator",
+    "image": "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator icon.png",
+    "title": "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator",
+    "pageId": 12524,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fc/Izhmash_5.45x39_RPK-16_muzzlebrake_%26_compensator_icon.png",
+    "filePath": "izhmash_5_45x39_rpk_16_muzzlebrake___compensator"
+  },
+  {
+    "name": "ADAR 2-15.56x45 Flashhider",
+    "image": "ADAR2-15Muzzleicon.png",
+    "title": "ADAR 2-15.56x45 Flashhider",
+    "pageId": 12781,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/ADAR2-15Muzzleicon.png",
+    "filePath": "adar_2_15_56x45_flashhider"
+  },
+  {
+    "name": "Noveske KX3 5.56x45 flashhider",
+    "image": "Kx3.png",
+    "title": "Noveske KX3 5.56x45 flashhider",
+    "pageId": 3074,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Kx3.png?version=f59187cc7dd94656deeca57612579560",
+    "filePath": "noveske_kx3_5_56x45_flashhider"
+  },
+  {
+    "name": "Muzzlebrake Odin Works Atlas-7 7.62x51 for AR-10",
+    "image": "OdinMuzzleIcon.png",
+    "title": "Muzzlebrake Odin Works Atlas-7 7.62x51 for AR-10",
+    "pageId": 12119,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/OdinMuzzleIcon.png?version=6359b6f2f0412adb93213824b01e606f",
+    "filePath": "muzzlebrake_odin_works_atlas_7_7_62x51_for_ar_10"
+  },
+  {
+    "name": "Tacfire Tanker style muzzlebrake for Mosin rifle",
+    "image": "TankerMuzzleIcon.png",
+    "title": "Tacfire Tanker style muzzlebrake for Mosin rifle",
+    "pageId": 12086,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f0/TankerMuzzleIcon.png?version=313afd2d0b7981ab0279effc1eff3890",
+    "filePath": "tacfire_tanker_style_muzzlebrake_for_mosin_rifle"
+  },
+  {
+    "name": "Witt Machine muzzlebrake for Mosin rifle",
+    "image": "WittMuzzleIcon.png",
+    "title": "Witt Machine muzzlebrake for Mosin rifle",
+    "pageId": 12085,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/00/WittMuzzleIcon.png?version=886400b8cd47a7dbbbe3ace311809b45",
+    "filePath": "witt_machine_muzzlebrake_for_mosin_rifle"
+  },
+  {
+    "name": "HK A1 4.6x30 Flashhider for MP7",
+    "image": "MP7FlashHiderIcon.png",
+    "title": "HK A1 4.6x30 Flashhider for MP7",
+    "pageId": 11878,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f0/MP7FlashHiderIcon.png?version=4888a0a06fd8973508079fd73a8b0e16",
+    "filePath": "hk_a1_4_6x30_flashhider_for_mp7"
+  },
+  {
+    "name": "DS Arms \"Austrian Style\" 7.62x51 muzzle brake for SA-58",
+    "image": "FAL Austrian Muzzle Icon.png",
+    "title": "DS Arms \"Austrian Style\" 7.62x51 muzzle brake for SA-58",
+    "pageId": 11525,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/FAL_Austrian_Muzzle_Icon.png?version=72add356f34c4933dcdcc500d7d8bc6a",
+    "filePath": "ds_arms__austrian_style__7_62x51_muzzle_brake_for_sa_58"
+  },
+  {
+    "name": "Compensator 2A \"X3\" 7.62x51 for AR-10",
+    "image": "2A X3 Icon.png",
+    "title": "Compensator 2A \"X3\" 7.62x51 for AR-10",
+    "pageId": 11509,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/64/2A_X3_Icon.png?version=d15fb8f09c93b923ddda6ddd3f23b0f2",
+    "filePath": "compensator_2a__x3__7_62x51_for_ar_10"
+  },
+  {
+    "name": "Annihilator 7.62x39, 5.56x45 and 9mm flash hider for AR-15",
+    "image": "Anihilator_Icon.png",
+    "title": "Annihilator 7.62x39, 5.56x45 and 9mm flash hider for AR-15",
+    "pageId": 11021,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/29/Anihilator_Icon.png?version=d0aab92f0477d37d9c4ab7c44d73841a",
+    "filePath": "annihilator_7_62x39__5_56x45_and_9mm_flash_hider_for_ar_15"
+  },
+  {
+    "name": "DS Arms \"3 prong trident\" 7.62x51 Flashhider for SA-58",
+    "image": "SA58_3Prong_Icon.png",
+    "title": "DS Arms \"3 prong trident\" 7.62x51 Flashhider for SA-58",
+    "pageId": 11020,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/SA58_3Prong_Icon.png?version=5c9ae33537cc8925b85c3ee08a3ca758",
+    "filePath": "ds_arms__3_prong_trident__7_62x51_flashhider_for_sa_58"
+  },
+  {
+    "name": "Phantom 7.62x51 muzzlebrake & compensator for M14",
+    "image": "Phantomicon.png",
+    "title": "Phantom 7.62x51 muzzlebrake & compensator for M14",
+    "pageId": 10408,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1f/Phantomicon.png?version=bec07c14fd351a5fcb84d6cc8e017fee",
+    "filePath": "phantom_7_62x51_muzzlebrake___compensator_for_m14"
+  },
+  {
+    "name": "Vortex DC 7.62x51 muzzlebrake & compensator for M14",
+    "image": "Vortexicon.png",
+    "title": "Vortex DC 7.62x51 muzzlebrake & compensator for M14",
+    "pageId": 10405,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Vortexicon.png?version=4104e21f23e0c8ba1304831e516ba71c",
+    "filePath": "vortex_dc_7_62x51_muzzlebrake___compensator_for_m14"
+  },
+  {
+    "name": "National Match 7.62x51 muzzlebrake & compensator for M1A",
+    "image": "NationalMatchMBIcon.png",
+    "title": "National Match 7.62x51 muzzlebrake & compensator for M1A",
+    "pageId": 10404,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/NationalMatchMBIcon.png?version=9d589b3e06591e4cad30215a2b52e316",
+    "filePath": "national_match_7_62x51_muzzlebrake___compensator_for_m1a"
+  },
+  {
+    "name": "JP Enterprises tactical compensator 7.62x51 muzzlebrake & compensator for M14",
+    "image": "jpmuzzlem1icon.png",
+    "title": "JP Enterprises tactical compensator 7.62x51 muzzlebrake & compensator for M14",
+    "pageId": 10406,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/Jpmuzzlem1icon.png?version=d1b9acddcc5c89dc733812d20ccfe7d7",
+    "filePath": "jp_enterprises_tactical_compensator_7_62x51_muzzlebrake___compensator_for_m14"
+  },
+  {
+    "name": "Good Iron 7.62x51 muzzlebrake & compensator for M14",
+    "image": "GoodIronIcon.png",
+    "title": "Good Iron 7.62x51 muzzlebrake & compensator for M14",
+    "pageId": 10407,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/GoodIronIcon.png?version=b8604b83ad1568d0518ff40bd9e823f4",
+    "filePath": "good_iron_7_62x51_muzzlebrake___compensator_for_m14"
+  },
+  {
+    "name": "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)",
+    "image": "6p20.png",
+    "title": "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)",
+    "pageId": 3221,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/6p20.png?version=30062d1b08a0fdbe6f855ce5f8c985ba",
+    "filePath": "izhmash_5_45x39_ak_74_muzzlebrake___compensator__6p20_0_20_"
+  },
+  {
+    "name": "Zenit DTK-1 7.62x39 & 5.45x39 muzzlebrake & compensator for AK",
+    "image": "DTK-1.png",
+    "title": "Zenit DTK-1 7.62x39 & 5.45x39 muzzlebrake & compensator for AK",
+    "pageId": 3222,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/DTK-1.png",
+    "filePath": "zenit_dtk_1_7_62x39___5_45x39_muzzlebrake___compensator_for_ak"
+  },
+  {
+    "name": "Izhmash 5.45x39 muzzle break for AKS-74U (6P26 0-20)",
+    "image": "6P26.png",
+    "title": "Izhmash 5.45x39 muzzle break for AKS-74U (6P26 0-20)",
+    "pageId": 3227,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/6P26.png?version=c9d61943e74dc33136920c0cdc7fb648",
+    "filePath": "izhmash_5_45x39_muzzle_break_for_aks_74u__6p26_0_20_"
+  },
+  {
+    "name": "Colt USGI A2 5.56x45 Flashhider for AR-15",
+    "image": "Usgia2.png",
+    "title": "Colt USGI A2 5.56x45 Flashhider for AR-15",
+    "pageId": 3218,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/Usgia2.png?version=99398ea792be75e57df2a0396a96d2d5",
+    "filePath": "colt_usgi_a2_5_56x45_flashhider_for_ar_15"
+  },
+  {
+    "name": "PWS CQB 5.56 x 45 Muzzle brake",
+    "image": "Pwsm4.png",
+    "title": "PWS CQB 5.56 x 45 Muzzle brake",
+    "pageId": 7868,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a1/Pwsm4.png?version=f2efe7ce98fa8145e6c193a7f38d0fd9",
+    "filePath": "pws_cqb_5_56_x_45_muzzle_brake"
+  },
+  {
+    "name": "A2 9x19 Flashhider for MPX",
+    "image": "Mpxa2.png",
+    "title": "A2 9x19 Flashhider for MPX",
+    "pageId": 6863,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/Mpxa2.png?version=051eaa059af3e4325433dc3478af865e",
+    "filePath": "a2_9x19_flashhider_for_mpx"
+  },
+  {
+    "name": "SV-98 muzzle device",
+    "image": "Sv98thread.png",
+    "title": "SV-98 muzzle device",
+    "pageId": 3220,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/Sv98thread.png?version=51af5c39b95416bb5fd823df348d43ba",
+    "filePath": "sv_98_muzzle_device"
+  },
+  {
+    "name": "Muzzle brake Vendetta precision VP-09 5.56x45",
+    "image": "Vpo09.png",
+    "title": "Muzzle brake Vendetta precision VP-09 5.56x45",
+    "pageId": 8408,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Vpo09.png?version=cffd5d3beed557eeb89bbdd014dac0d9",
+    "filePath": "muzzle_brake_vendetta_precision_vp_09_5_56x45"
+  },
+  {
+    "name": "Izhmash 9x19 PP-19-01 muzzle brake/compensator",
+    "image": "Pp19muzz.png",
+    "title": "Izhmash 9x19 PP-19-01 muzzle brake/compensator",
+    "pageId": 7068,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/Pp19muzz.png?version=e20b9ebe7d7c7e90360fe88021ec38e0",
+    "filePath": "izhmash_9x19_pp_19_01_muzzle_brake_compensator"
+  },
+  {
+    "name": "Izhmash 9x19 Saiga-9 muzzle brake/compensator",
+    "image": "Saiga9muz.png",
+    "title": "Izhmash 9x19 Saiga-9 muzzle brake/compensator",
+    "pageId": 7032,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a9/Saiga9muz.png?version=6de09271482aa01589bd209c51d54706",
+    "filePath": "izhmash_9x19_saiga_9_muzzle_brake_compensator"
+  },
+  {
+    "name": "PWS CQB 74 5.45x39 Muzzle brake",
+    "image": "Pws74.png",
+    "title": "PWS CQB 74 5.45x39 Muzzle brake",
+    "pageId": 7200,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/Pws74.png?version=5c60bdceab713c7a5c0ab3dd1576cb0b",
+    "filePath": "pws_cqb_74_5_45x39_muzzle_brake"
+  },
+  {
+    "name": "DVL-10 M2 muzzle break",
+    "image": "DVL-10 M2.png",
+    "title": "DVL-10 M2 muzzle break",
+    "pageId": 3228,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/DVL-10_M2.png",
+    "filePath": "dvl_10_m2_muzzle_break"
+  },
+  {
+    "name": "DVL-10 muzzle device",
+    "image": "DVL-10 MD.png",
+    "title": "DVL-10 muzzle device",
+    "pageId": 3229,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/DVL-10_MD.png",
+    "filePath": "dvl_10_muzzle_device"
+  },
+  {
+    "name": "Tromix Monster Claw 12ga muzzle brake",
+    "image": "12gamonster.png",
+    "title": "Tromix Monster Claw 12ga muzzle brake",
+    "pageId": 7208,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/12gamonster.png?version=30062d1b08a0fdbe6f855ce5f8c985ba",
+    "filePath": "tromix_monster_claw_12ga_muzzle_brake"
+  },
+  {
+    "name": "Socom 16 7.62x51 muzzlebrake & compensator for M1A (threaded)",
+    "image": "Socom16thicon.png",
+    "title": "Socom 16 7.62x51 muzzlebrake & compensator for M1A (threaded)",
+    "pageId": 9918,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Socom16thicon.png?version=c7f0c9e67b9978d70389a4c64e60eff6",
+    "filePath": "socom_16_7_62x51_muzzlebrake___compensator_for_m1a__threaded_"
+  },
+  {
+    "name": "Izhmash 5.56x45 АK-101 muzzlebrake & compensator",
+    "image": "Ak101mbicon.png",
+    "title": "Izhmash 5.56x45 АK-101 muzzlebrake & compensator",
+    "pageId": 9874,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7f/Ak101mbicon.png?version=157c924e94f93c1882cee1b85eddc78c",
+    "filePath": "izhmash_5_56x45__k_101_muzzlebrake___compensator"
+  },
+  {
+    "name": "Izhmash 5.45x39 АK-74M muzzlebrake & compensator (6P20 0-20)",
+    "image": "6P20 0-20Icon.png",
+    "title": "Izhmash 5.45x39 АK-74M muzzlebrake & compensator (6P20 0-20)",
+    "pageId": 9872,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/25/6P20_0-20Icon.png",
+    "filePath": "izhmash_5_45x39__k_74m_muzzlebrake___compensator__6p20_0_20_"
+  },
+  {
+    "name": "Izhmash 5.45x39 АK-105 muzzlebrake & compensator (6P44 0-20)",
+    "image": "6P44 0-20Icon.png",
+    "title": "Izhmash 5.45x39 АK-105 muzzlebrake & compensator (6P44 0-20)",
+    "pageId": 9871,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/6P44_0-20Icon.png",
+    "filePath": "izhmash_5_45x39__k_105_muzzlebrake___compensator__6p44_0_20_"
+  },
+  {
+    "name": "Izhmash 7.62x39 АK-104 muzzlebrake & compensator (6P46 0-20)",
+    "image": "6p46icon.png",
+    "title": "Izhmash 7.62x39 АK-104 muzzlebrake & compensator (6P46 0-20)",
+    "pageId": 9876,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/6p46icon.png?version=0637a53dffc24909b7786c512bb36919",
+    "filePath": "izhmash_7_62x39__k_104_muzzlebrake___compensator__6p46_0_20_"
+  },
+  {
+    "name": "Izhmash 7.62x39 АK-103 muzzlebrake & compensator",
+    "image": "Ak103mbicon.png",
+    "title": "Izhmash 7.62x39 АK-103 muzzlebrake & compensator",
+    "pageId": 9875,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/Ak103mbicon.png?version=43db51964edb30dda7f4322322460412",
+    "filePath": "izhmash_7_62x39__k_103_muzzlebrake___compensator"
+  },
+  {
+    "name": "Izhmash 5.56x45 АK-102 muzzlebrake & compensator (6P44 0-20)",
+    "image": "6P44 0-20Icon.png",
+    "title": "Izhmash 5.56x45 АK-102 muzzlebrake & compensator (6P44 0-20)",
+    "pageId": 9873,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/6P44_0-20Icon.png",
+    "filePath": "izhmash_5_56x45__k_102_muzzlebrake___compensator__6p44_0_20_"
+  },
+  {
+    "name": "Socom 16 7.62x51 muzzlebrake & compensator for M1A (unthreaded)",
+    "image": "Socom16muzzleicon.png",
+    "title": "Socom 16 7.62x51 muzzlebrake & compensator for M1A (unthreaded)",
+    "pageId": 9870,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f4/Socom16muzzleicon.png?version=fb72d173d318cb2ecf26fc5282a888c1",
+    "filePath": "socom_16_7_62x51_muzzlebrake___compensator_for_m1a__unthreaded_"
+  },
+  {
+    "name": "Spike tactical dynacomp 7.62x39 muzzlebrake & compensator for AK",
+    "image": "Dynacompicon.png",
+    "title": "Spike tactical dynacomp 7.62x39 muzzlebrake & compensator for AK",
+    "pageId": 9882,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Dynacompicon.png?version=86d679996fba329c4297c3cbd6bbe45d",
+    "filePath": "spike_tactical_dynacomp_7_62x39_muzzlebrake___compensator_for_ak"
+  },
+  {
+    "name": "Texas Precision Products muzzlebrake for Mosin rifle",
+    "image": "Tpp icon.png",
+    "title": "Texas Precision Products muzzlebrake for Mosin rifle",
+    "pageId": 11927,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Tpp_icon.png?version=32caafa046b682997b79d09d66c50d73",
+    "filePath": "texas_precision_products_muzzlebrake_for_mosin_rifle"
+  },
+  {
+    "name": "Fortis Red Brake 7.62x51 muzzle brake for AR-10",
+    "image": "RedBrakeIcon.png",
+    "title": "Fortis Red Brake 7.62x51 muzzle brake for AR-10",
+    "pageId": 15487,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8c/RedBrakeIcon.png?version=2b8fb354f30c1d67a048833b31caf093",
+    "filePath": "fortis_red_brake_7_62x51_muzzle_brake_for_ar_10"
+  },
+  {
+    "name": "ASh-12 regular muzzlebrake 12.7x55",
+    "image": "wiki.png",
+    "title": "ASh-12 regular muzzlebrake 12.7x55",
+    "pageId": 15409,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "ash_12_regular_muzzlebrake_12_7x55"
+  },
+  {
+    "name": "FN P90 5.7x28 flash hider",
+    "image": "FN_P90_5.7x28_flash_hider_icon.png",
+    "title": "FN P90 5.7x28 flash hider",
+    "pageId": 15429,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/FN_P90_5.7x28_flash_hider_icon.png",
+    "filePath": "fn_p90_5_7x28_flash_hider"
+  },
+  {
+    "name": "SRVV 5.45x39 AK-74 muzzlebrake",
+    "image": "SRVV 5.45.PNG",
+    "title": "SRVV 5.45x39 AK-74 muzzlebrake",
+    "pageId": 15430,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/SRVV_5.45.PNG",
+    "filePath": "srvv_5_45x39_ak_74_muzzlebrake"
+  },
+  {
+    "name": "SRVV 7.62x39 AK muzzlebrake & compensator",
+    "image": "wiki.png",
+    "title": "SRVV 7.62x39 AK muzzlebrake & compensator",
+    "pageId": 15431,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "srvv_7_62x39_ak_muzzlebrake___compensator"
+  },
+  {
+    "name": "TROY Claymore 5.56x45 muzzle brakefor AR-15",
+    "image": "wiki.png",
+    "title": "TROY Claymore 5.56x45 muzzle brakefor AR-15",
+    "pageId": 15432,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "troy_claymore_5_56x45_muzzle_brakefor_ar_15"
+  },
+  {
+    "name": "Muzzlebrake Keeno Arms SHREWD 7.62x51 for AR-10",
+    "image": "wiki.png",
+    "title": "Muzzlebrake Keeno Arms SHREWD 7.62x51 for AR-10",
+    "pageId": 15437,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "muzzlebrake_keeno_arms_shrewd_7_62x51_for_ar_10"
+  },
+  {
+    "name": "Muzzlebrake Precision Armament M-11 7.62x51 for AR-10",
+    "image": "wiki.png",
+    "title": "Muzzlebrake Precision Armament M-11 7.62x51 for AR-10",
+    "pageId": 15438,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "muzzlebrake_precision_armament_m_11_7_62x51_for_ar_10"
+  },
+  {
+    "name": "Carbine brake for SIG MPX by TACCOM",
+    "image": "wiki.png",
+    "title": "Carbine brake for SIG MPX by TACCOM",
+    "pageId": 15464,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "carbine_brake_for_sig_mpx_by_taccom"
+  },
+  {
+    "name": "Bulletec ST-6012 5.56x45 Flashhider for AR-15",
+    "image": "ST-6012 Icon.PNG",
+    "title": "Bulletec ST-6012 5.56x45 Flashhider for AR-15",
+    "pageId": 15465,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/93/ST-6012_Icon.PNG",
+    "filePath": "bulletec_st_6012_5_56x45_flashhider_for_ar_15"
+  },
+  {
+    "name": "Lantac \"Blast mitigation device\" 7.62x51",
+    "image": "wiki.png",
+    "title": "Lantac \"Blast mitigation device\" 7.62x51",
+    "pageId": 15467,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "lantac__blast_mitigation_device__7_62x51"
+  },
+  {
+    "name": "Daniel Defense Wave Muzzle Brake 5.56x45",
+    "image": "wiki.png",
+    "title": "Daniel Defense Wave Muzzle Brake 5.56x45",
+    "pageId": 15472,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "daniel_defense_wave_muzzle_brake_5_56x45"
+  },
+  {
+    "name": "Nordic Corvette 7.62x51 muzzle brake for AR-10",
+    "image": "wiki.png",
+    "title": "Nordic Corvette 7.62x51 muzzle brake for AR-10",
+    "pageId": 15486,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "nordic_corvette_7_62x51_muzzle_brake_for_ar_10"
+  },
+  {
+    "name": "Fortis Red Brake 7.62x51 muzzle brake for AR-10",
+    "image": "wiki.png",
+    "title": "Fortis Red Brake 7.62x51 muzzle brake for AR-10",
+    "pageId": 15487,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "fortis_red_brake_7_62x51_muzzle_brake_for_ar_10"
+  },
+  {
+    "name": "Nordic Corvette 5.56x45 compensator for AR-15",
+    "image": "wiki.png",
+    "title": "Nordic Corvette 5.56x45 compensator for AR-15",
+    "pageId": 15485,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "nordic_corvette_5_56x45_compensator_for_ar_15"
+  },
+  {
+    "name": "Daniel Defence Wave Muzzle Brake 7.62x51",
+    "image": "wiki.png",
+    "title": "Daniel Defence Wave Muzzle Brake 7.62x51",
+    "pageId": 15533,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "daniel_defence_wave_muzzle_brake_7_62x51"
+  },
+  {
+    "name": "Thunder Beast 223CB Muzzle Brake 5.56x45",
+    "image": "223CB Icon.PNG",
+    "title": "Thunder Beast 223CB Muzzle Brake 5.56x45",
+    "pageId": 15573,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/223CB_Icon.PNG?version=d0f5711c993545e943ab0445a48b7c69",
+    "filePath": "thunder_beast_223cb_muzzle_brake_5_56x45"
+  },
+  {
+    "name": "Thunder Beast 30CB Muzzle Brake 7.62x51",
+    "image": "wiki.png",
+    "title": "Thunder Beast 30CB Muzzle Brake 7.62x51",
+    "pageId": 15580,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "thunder_beast_30cb_muzzle_brake_7_62x51"
+  }
+]

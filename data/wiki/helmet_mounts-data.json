@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Norotos Titanium Advanced Tactical Mount",
+    "image": "Tatm.png",
+    "title": "Norotos Titanium Advanced Tactical Mount",
+    "pageId": 7986,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Tatm.png?version=e42ecaec850ec89d9fff632fcfc65a8a",
+    "filePath": "norotos_titanium_advanced_tactical_mount"
+  },
+  {
+    "name": "PNV-10T dovetail adapter",
+    "image": "PNV-10TDovetailicon.png",
+    "title": "PNV-10T dovetail adapter",
+    "pageId": 12877,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/PNV-10TDovetailicon.png",
+    "filePath": "pnv_10t_dovetail_adapter"
+  },
+  {
+    "name": "Dual Dovetail Mount for PVS-14 monocular",
+    "image": "Ddt.png",
+    "title": "Dual Dovetail Mount for PVS-14 monocular",
+    "pageId": 8383,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d5/Ddt.png?version=0b67a9cfc6a4061de183494c8010c38d",
+    "filePath": "dual_dovetail_mount_for_pvs_14_monocular"
+  },
+  {
+    "name": "Wilcox Interface for PVS-7",
+    "image": "wiki.png",
+    "title": "Wilcox Interface for PVS-7",
+    "pageId": 14960,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "wilcox_interface_for_pvs_7"
+  }
+]

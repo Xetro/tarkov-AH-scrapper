@@ -1,0 +1,122 @@
+[
+  {
+    "name": "TerraGroup Labs access keycard",
+    "image": "Terragroup Labs access keycard icon.png",
+    "title": "TerraGroup Labs access keycard",
+    "pageId": 13734,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/Terragroup_Labs_access_keycard_icon.png?version=91eb12f29aa0ad1779a5e07aa0c09cbd",
+    "filePath": "terragroup_labs_access_keycard"
+  },
+  {
+    "name": "Lab. Black keycard",
+    "image": "LkEA_Icon.png",
+    "title": "Lab. Black keycard",
+    "pageId": 12669,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a9/LkEA_Icon.png?version=388ce112e5856a535c4a29edc1367c40",
+    "filePath": "lab__black_keycard"
+  },
+  {
+    "name": "Lab. Blue keycard",
+    "image": "Lab. key. The quarantine zone icon.png",
+    "title": "Lab. Blue keycard",
+    "pageId": 12679,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/Lab._key._The_quarantine_zone_icon.png",
+    "filePath": "lab__blue_keycard"
+  },
+  {
+    "name": "Lab. Green keycard",
+    "image": "Lab_Key_Block2.png",
+    "title": "Lab. Green keycard",
+    "pageId": 12677,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Lab_Key_Block2.png?version=69176bb6cc2b02c9ec77b77e09ec4d53",
+    "filePath": "lab__green_keycard"
+  },
+  {
+    "name": "Lab. Red keycard",
+    "image": "Lab. key. Security arsenal.png",
+    "title": "Lab. Red keycard",
+    "pageId": 12675,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f3/Lab._key._Security_arsenal.png",
+    "filePath": "lab__red_keycard"
+  },
+  {
+    "name": "Lab. Violet keycard",
+    "image": "Lab. key. Security post icon.png",
+    "title": "Lab. Violet keycard",
+    "pageId": 12674,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a6/Lab._key._Security_post_icon.png",
+    "filePath": "lab__violet_keycard"
+  },
+  {
+    "name": "Lab. Yellow keycard",
+    "image": "Lab. key. Alarm system control panel icon.png",
+    "title": "Lab. Yellow keycard",
+    "pageId": 12661,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/eb/Lab._key._Alarm_system_control_panel_icon.png",
+    "filePath": "lab__yellow_keycard"
+  },
+  {
+    "name": "Lab. key. Arsenal storage room",
+    "image": "Lab_key_Arsenal_storage_room_icon.png",
+    "title": "Lab. key. Arsenal storage room",
+    "pageId": 12678,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Lab_key_Arsenal_storage_room_icon.png?version=e8caa34377d9eaf24b7335513d1e405c",
+    "filePath": "lab__key__arsenal_storage_room"
+  },
+  {
+    "name": "Lab. key. Manager office",
+    "image": "Lab. key. Manager office icon.png",
+    "title": "Lab. key. Manager office",
+    "pageId": 12676,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/07/Lab._key._Manager_office_icon.png",
+    "filePath": "lab__key__manager_office"
+  },
+  {
+    "name": "Lab. key. Testing area (weap.)",
+    "image": "Lab. key. Testing area (weap.) Icon.png",
+    "title": "Lab. key. Testing area (weap.)",
+    "pageId": 12525,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fc/Lab._key._Testing_area_%28weap.%29_Icon.png",
+    "filePath": "lab__key__testing_area__weap__"
+  }
+]

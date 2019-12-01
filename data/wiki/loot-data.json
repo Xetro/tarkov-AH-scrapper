@@ -1,0 +1,1706 @@
+[
+  {
+    "name": "Folder with intelligence",
+    "image": "FolderWithIntelligence Icon.png",
+    "title": "Folder with intelligence",
+    "pageId": 12550,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/FolderWithIntelligence_Icon.png?version=7b43a98bf2810d4cd41b353e954fca33",
+    "filePath": "folder_with_intelligence"
+  },
+  {
+    "name": "Matches",
+    "image": "Matches Icon.png",
+    "title": "Matches",
+    "pageId": 4072,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/Matches_Icon.png?version=bbe060b7aee007542ef7cf137213c0c0",
+    "filePath": "matches"
+  },
+  {
+    "name": "Paracord",
+    "image": "ParacordIcon.png",
+    "title": "Paracord",
+    "pageId": 12757,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/ParacordIcon.png?version=c0af6f07fc9df7f57a54d0540635e2b3",
+    "filePath": "paracord"
+  },
+  {
+    "name": "Corrugated hose",
+    "image": "Hoseicon.png",
+    "title": "Corrugated hose",
+    "pageId": 7446,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Hoseicon.png?version=94b37287061dc0535164d35dbdcf3a33",
+    "filePath": "corrugated_hose"
+  },
+  {
+    "name": "Crickent lighter",
+    "image": "Cricket lighter Icon.png",
+    "title": "Crickent lighter",
+    "pageId": 4109,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/Cricket_lighter_Icon.png?version=312f8170e9dd1f2a519af126a07907da",
+    "filePath": "crickent_lighter"
+  },
+  {
+    "name": "A pack of nails",
+    "image": "Nailsicon.png",
+    "title": "A pack of nails",
+    "pageId": 7186,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/Nailsicon.png?version=5a41f0b87eda0a1a7d5636b4d0ac0dd6",
+    "filePath": "a_pack_of_nails"
+  },
+  {
+    "name": "A pack of screws",
+    "image": "Screwsicon.png",
+    "title": "A pack of screws",
+    "pageId": 7203,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Screwsicon.png?version=6c80dfd98b28df772fe78516bff7f2d7",
+    "filePath": "a_pack_of_screws"
+  },
+  {
+    "name": "Screw nut",
+    "image": "Screwnuticon.png",
+    "title": "Screw nut",
+    "pageId": 7185,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cd/Screwnuticon.png?version=e091e71bcae7cbae1da4945188b1bcb4",
+    "filePath": "screw_nut"
+  },
+  {
+    "name": "Bolts",
+    "image": "Boltsicon.png",
+    "title": "Bolts",
+    "pageId": 6442,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/70/Boltsicon.png?version=9f37dc35d6c452a4bc7b9dc25ea3e457",
+    "filePath": "bolts"
+  },
+  {
+    "name": "Piece of plexiglas",
+    "image": "Plexicon.png",
+    "title": "Piece of plexiglas",
+    "pageId": 7187,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Plexicon.png?version=06406c18539c6a9625661bf833bfc1a9",
+    "filePath": "piece_of_plexiglas"
+  },
+  {
+    "name": "Zibbo lighter",
+    "image": "Zibbo lighter Icon.png",
+    "title": "Zibbo lighter",
+    "pageId": 4112,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/Zibbo_lighter_Icon.png?version=3799a956a8977bc27c6f161046a786fc",
+    "filePath": "zibbo_lighter"
+  },
+  {
+    "name": "Apollon Soyuz cigarettes",
+    "image": "Apollon Soyuz cigarettes Icon.png",
+    "title": "Apollon Soyuz cigarettes",
+    "pageId": 4114,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cc/Apollon_Soyuz_cigarettes_Icon.png?version=344b4db9e2297f9cb150576bbcfb7532",
+    "filePath": "apollon_soyuz_cigarettes"
+  },
+  {
+    "name": "Malboro Cigarettes",
+    "image": "Malboro Cigarettes Icon.png",
+    "title": "Malboro Cigarettes",
+    "pageId": 4115,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Malboro_Cigarettes_Icon.png?version=7db88dd37e411b7b946b7e37e2ef7256",
+    "filePath": "malboro_cigarettes"
+  },
+  {
+    "name": "Wilston cigarettes",
+    "image": "Wilstonicon.png",
+    "title": "Wilston cigarettes",
+    "pageId": 4118,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Wilstonicon.png?version=c4f628ca5dfc292840e55c6ef1c12fd5",
+    "filePath": "wilston_cigarettes"
+  },
+  {
+    "name": "Strike Cigarettes",
+    "image": "Cigred.png",
+    "title": "Strike Cigarettes",
+    "pageId": 4120,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/Cigred.png?version=4353ae2c44f0d1cf389f81c376d43069",
+    "filePath": "strike_cigarettes"
+  },
+  {
+    "name": "Horse figurine",
+    "image": "Horse figurine Icon.png",
+    "title": "Horse figurine",
+    "pageId": 4123,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/Horse_figurine_Icon.png?version=f2b99d209c78cc6a410a28358637599a",
+    "filePath": "horse_figurine"
+  },
+  {
+    "name": "Cat figurine",
+    "image": "Caticon.png",
+    "title": "Cat figurine",
+    "pageId": 6126,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/36/Caticon.png?version=5fb5dd7c8c0105389667a73d38ec2ed5",
+    "filePath": "cat_figurine"
+  },
+  {
+    "name": "Bronze lion",
+    "image": "Bronze Lion Icon.png",
+    "title": "Bronze lion",
+    "pageId": 6074,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/Bronze_Lion_Icon.png?version=378db4b59ed0baa796da3c4e638200aa",
+    "filePath": "bronze_lion"
+  },
+  {
+    "name": "Wooden clock",
+    "image": "Wooden clock icon.png",
+    "title": "Wooden clock",
+    "pageId": 6155,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/Wooden_clock_icon.png?version=397c0b2306d156f11a83b1c3a2900014",
+    "filePath": "wooden_clock"
+  },
+  {
+    "name": "Gas analyzer",
+    "image": "Gas Analyzer Icon.png",
+    "title": "Gas analyzer",
+    "pageId": 5828,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Gas_Analyzer_Icon.png?version=cc127b699676c872aa27cb181ec43929",
+    "filePath": "gas_analyzer"
+  },
+  {
+    "name": "SSD drive",
+    "image": "Ssd icon.png",
+    "title": "SSD drive",
+    "pageId": 8045,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Ssd_icon.png?version=7a84d2b19179bef331b941a3e89d1fbf",
+    "filePath": "ssd_drive"
+  },
+  {
+    "name": "SAS drive",
+    "image": "Sas icon.png",
+    "title": "SAS drive",
+    "pageId": 8055,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/Sas_icon.png?version=8185f5b89e48ab5b84ce79c3acd10930",
+    "filePath": "sas_drive"
+  },
+  {
+    "name": "Military COFDM wireless Signal Transmitter",
+    "image": "COFDM Icon.png",
+    "title": "Military COFDM wireless Signal Transmitter",
+    "pageId": 12544,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3a/COFDM_Icon.png?version=4f93668ac368d4835b6fb0c4f1721f4c",
+    "filePath": "military_cofdm_wireless_signal_transmitter"
+  },
+  {
+    "name": "UHF RFID Reader",
+    "image": "UHFRFIDIcon.png",
+    "title": "UHF RFID Reader",
+    "pageId": 12575,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/UHFRFIDIcon.png?version=b15c4d589a1e8201e21d992e30cd9ffb",
+    "filePath": "uhf_rfid_reader"
+  },
+  {
+    "name": "VPX Flash Storage Module",
+    "image": "VPXFlashIcon.png",
+    "title": "VPX Flash Storage Module",
+    "pageId": 12579,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/VPXFlashIcon.png?version=38a5c6f058527019cea178c7411a4d39",
+    "filePath": "vpx_flash_storage_module"
+  },
+  {
+    "name": "Virtex programmable processor",
+    "image": "Virtex programmable processor Icon.png",
+    "title": "Virtex programmable processor",
+    "pageId": 12541,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0d/Virtex_programmable_processor_Icon.png?version=d25fe6f2fe80d0b3030386c715681f54",
+    "filePath": "virtex_programmable_processor"
+  },
+  {
+    "name": "Capacitors",
+    "image": "Capacitorsicon.png",
+    "title": "Capacitors",
+    "pageId": 12648,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Capacitorsicon.png?version=5c8bf117e8edb35dd6c3708ce95f85ee",
+    "filePath": "capacitors"
+  },
+  {
+    "name": "Wires",
+    "image": "Wiresicon.png",
+    "title": "Wires",
+    "pageId": 12645,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/Wiresicon.png?version=da8dce2d56a6a912fa940f7647b4efe3",
+    "filePath": "wires"
+  },
+  {
+    "name": "Broken GPhone X",
+    "image": "Broken GPhone x Icon.png",
+    "title": "Broken GPhone X",
+    "pageId": 12815,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/80/Broken_GPhone_x_Icon.png?version=1d5cd4a29cfe6dfcc05888245e6033a4",
+    "filePath": "broken_gphone_x"
+  },
+  {
+    "name": "WD-40 400ml",
+    "image": "Wd-40400icon.png",
+    "title": "WD-40 400ml",
+    "pageId": 5755,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/Wd-40400icon.png",
+    "filePath": "wd_40_400ml"
+  },
+  {
+    "name": "WD-40 100ml.|WD-40 100ml",
+    "image": "WD40 100ml Icon.png",
+    "title": "WD-40 100ml.",
+    "pageId": 5825,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/WD40_100ml_Icon.png?version=c6c29b553dd9bb88d9a9dabc40dfea3e",
+    "filePath": "wd_40_100ml__wd_40_100ml"
+  },
+  {
+    "name": "AA Battery",
+    "image": "AA Battery Icon 2.png",
+    "title": "AA Battery",
+    "pageId": 4105,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/AA_Battery_Icon_2.png?version=b738650f843db83aca17bc5d32f8b591",
+    "filePath": "aa_battery"
+  },
+  {
+    "name": "D Size Battery",
+    "image": "D Size Battery Icon.png",
+    "title": "D Size Battery",
+    "pageId": 4106,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/D_Size_Battery_Icon.png?version=1ab6f71e5f75b741d8023b183ccabbcf",
+    "filePath": "d_size_battery"
+  },
+  {
+    "name": "Car battery",
+    "image": "Car Battery Icon.png",
+    "title": "Car battery",
+    "pageId": 4108,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Car_Battery_Icon.png?version=4f8f32d61755639496e1608ad985f618",
+    "filePath": "car_battery"
+  },
+  {
+    "name": "Spark plug",
+    "image": "Spark Plug Icon .png",
+    "title": "Spark plug",
+    "pageId": 5842,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/Spark_Plug_Icon_.png?version=33184ffd196f3580d4c0378ac82766ad",
+    "filePath": "spark_plug"
+  },
+  {
+    "name": "Energy-saving lamp",
+    "image": "Energy-Saving Lamp Icon.png",
+    "title": "Energy-saving lamp",
+    "pageId": 5850,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/Energy-Saving_Lamp_Icon.png",
+    "filePath": "energy_saving_lamp"
+  },
+  {
+    "name": "Ultraviolet lamp",
+    "image": "UV lamp Icon.png",
+    "title": "Ultraviolet lamp",
+    "pageId": 5862,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/UV_lamp_Icon.png?version=be2ceb59e4ea020b1c7d662607c73e9e",
+    "filePath": "ultraviolet_lamp"
+  },
+  {
+    "name": "Geiger-Muller counter",
+    "image": "Geiger-Mueller counter Icon.png",
+    "title": "Geiger-Muller counter",
+    "pageId": 4081,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/Geiger-Mueller_counter_Icon.png",
+    "filePath": "geiger_muller_counter"
+  },
+  {
+    "name": "Broken GPhone",
+    "image": "Broken GPhone Icon.png",
+    "title": "Broken GPhone",
+    "pageId": 4083,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/be/Broken_GPhone_Icon.png?version=ae0f1be8781a022ab9c590edfb387b98",
+    "filePath": "broken_gphone"
+  },
+  {
+    "name": "CPU Fan",
+    "image": "CPU Fan Icon.png",
+    "title": "CPU Fan",
+    "pageId": 4086,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/CPU_Fan_Icon.png?version=e5688d2861d9ad290856c2150547ed76",
+    "filePath": "cpu_fan"
+  },
+  {
+    "name": "PC CPU",
+    "image": "PC CPU Icon.png",
+    "title": "PC CPU",
+    "pageId": 4087,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9e/PC_CPU_Icon.png?version=3e40bc8a3898c3ac36b42c9776bd38c2",
+    "filePath": "pc_cpu"
+  },
+  {
+    "name": "DVD drive",
+    "image": "DVD drive Icon.png",
+    "title": "DVD drive",
+    "pageId": 4089,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/de/DVD_drive_Icon.png?version=1f010ddf9684fe05e344df41baabceb3",
+    "filePath": "dvd_drive"
+  },
+  {
+    "name": "RAM",
+    "image": "ramicon.png",
+    "title": "RAM",
+    "pageId": 4091,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/Ramicon.png?version=344c358f046142205fe4424073d37bfd",
+    "filePath": "ram"
+  },
+  {
+    "name": "Power supply unit",
+    "image": "Psuicon.png",
+    "title": "Power supply unit",
+    "pageId": 4092,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Psuicon.png?version=8ce87d51bb9761e3914a2924f1421212",
+    "filePath": "power_supply_unit"
+  },
+  {
+    "name": "Printed circuit board",
+    "image": "Circuit_Icon.png",
+    "title": "Printed circuit board",
+    "pageId": 7738,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/Circuit_Icon.png?version=1b0ca841c5cb1dec5e63faba0ef96bdd",
+    "filePath": "printed_circuit_board"
+  },
+  {
+    "name": "Graphics card",
+    "image": "Graphics_Card_icon.png",
+    "title": "Graphics card",
+    "pageId": 4094,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Graphics_Card_icon.png?version=450ed885fdf2c8a3f9e2d0f4a3d96ce1",
+    "filePath": "graphics_card"
+  },
+  {
+    "name": "Powercord",
+    "image": "Powercord icon.png",
+    "title": "Powercord",
+    "pageId": 7180,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Powercord_icon.png?version=343fd806a2ae1db2638fc354542077b7",
+    "filePath": "powercord"
+  },
+  {
+    "name": "Insulating tape",
+    "image": "Insulating tape Icon.png",
+    "title": "Insulating tape",
+    "pageId": 4096,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/Insulating_tape_Icon.png?version=b720a4ef81d409c724abfde15dfedff2",
+    "filePath": "insulating_tape"
+  },
+  {
+    "name": "Duct tape",
+    "image": "Duct tape Icon.png",
+    "title": "Duct tape",
+    "pageId": 4098,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/38/Duct_tape_Icon.png?version=9a91daef3571322766ec2b121faad04e",
+    "filePath": "duct_tape"
+  },
+  {
+    "name": "Construction measuring tape",
+    "image": "Construction Measuring Tape Icon.png",
+    "title": "Construction measuring tape",
+    "pageId": 5853,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0e/Construction_Measuring_Tape_Icon.png?version=c4e1f38c35d0c142c3be62a781428829",
+    "filePath": "construction_measuring_tape"
+  },
+  {
+    "name": "Toothpaste",
+    "image": "toothpasteicon.png",
+    "title": "Toothpaste",
+    "pageId": 4100,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d0/Toothpasteicon.png?version=b0ae0d117c119fecc9f927a00a41ee33",
+    "filePath": "toothpaste"
+  },
+  {
+    "name": "USB Adapter",
+    "image": "USB Adapter Icon.png",
+    "title": "USB Adapter",
+    "pageId": 5863,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/USB_Adapter_Icon.png?version=4fbb19c7bbb94661c066fcfcd3c06fa1",
+    "filePath": "usb_adapter"
+  },
+  {
+    "name": "T-Shaped Plug",
+    "image": "T-Shaped Plug Icon.png",
+    "title": "T-Shaped Plug",
+    "pageId": 4101,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/T-Shaped_Plug_Icon.png",
+    "filePath": "t_shaped_plug"
+  },
+  {
+    "name": "Printer paper",
+    "image": "Printer Paper icon.png",
+    "title": "Printer paper",
+    "pageId": 4104,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Printer_Paper_icon.png?version=161224d7c0f0bdd1bcb8259f92c3f61b",
+    "filePath": "printer_paper"
+  },
+  {
+    "name": "Screwdriver",
+    "image": "Screwdriver Icon.png",
+    "title": "Screwdriver",
+    "pageId": 5773,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/Screwdriver_Icon.png?version=0f869aa12ba63e6161020d78aef4c6ac",
+    "filePath": "screwdriver"
+  },
+  {
+    "name": "Wrench",
+    "image": "Wrench Icon.png",
+    "title": "Wrench",
+    "pageId": 5736,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/Wrench_Icon.png?version=c7cd8992eb6f8ce08bec82222a9322c4",
+    "filePath": "wrench"
+  },
+  {
+    "name": "Pliers",
+    "image": "Plier Icon.png",
+    "title": "Pliers",
+    "pageId": 5767,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Plier_Icon.png?version=2f7adc80dcc53bf002d0bf3c8e5060ce",
+    "filePath": "pliers"
+  },
+  {
+    "name": "Electric drill",
+    "image": "Electric Drill icon.png",
+    "title": "Electric drill",
+    "pageId": 6007,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Electric_Drill_icon.png?version=3f4d1442891bedf6d6ccd4de2c0064af",
+    "filePath": "electric_drill"
+  },
+  {
+    "name": "Antique vase",
+    "image": "Vaseicon.png",
+    "title": "Antique vase",
+    "pageId": 7942,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4c/Vaseicon.png?version=b0abc80da7cf1ac654f726c705dddaa2",
+    "filePath": "antique_vase"
+  },
+  {
+    "name": "Antique teapot",
+    "image": "Teapot icon.png",
+    "title": "Antique teapot",
+    "pageId": 7941,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Teapot_icon.png?version=bcb0433a307aec2dbcbca9187f7c100e",
+    "filePath": "antique_teapot"
+  },
+  {
+    "name": "Silver Badge",
+    "image": "Silver_Badge_icon.png",
+    "title": "Silver Badge",
+    "pageId": 11923,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/41/Silver_Badge_icon.png?version=5f8066cc70358ff0aaed58d5ad88387c",
+    "filePath": "silver_badge"
+  },
+  {
+    "name": "Chainlet",
+    "image": "Chainlet icon.png",
+    "title": "Chainlet",
+    "pageId": 4076,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/Chainlet_icon.png?version=210d1870f2907044d1192237137c073f",
+    "filePath": "chainlet"
+  },
+  {
+    "name": "Golden neck chain",
+    "image": "Golden neck chain Icon.png",
+    "title": "Golden neck chain",
+    "pageId": 4079,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/Golden_neck_chain_Icon.png?version=585a192e850f1ed02c6f2a3b074f3cbb",
+    "filePath": "golden_neck_chain"
+  },
+  {
+    "name": "Physical bitcoin",
+    "image": "Bitcoin icon.png",
+    "title": "Physical bitcoin",
+    "pageId": 6715,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/Bitcoin_icon.png?version=5a00a487dcbf31f765eb2bf65f67592d",
+    "filePath": "physical_bitcoin"
+  },
+  {
+    "name": "Damaged hard drive",
+    "image": "Damaged Hard Drive Icon.png",
+    "title": "Damaged hard drive",
+    "pageId": 5722,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Damaged_Hard_Drive_Icon.png?version=d2e5a704fb96bcc41d2e6c2104d9ddc1",
+    "filePath": "damaged_hard_drive"
+  },
+  {
+    "name": "Magnet",
+    "image": "Magnet_Icon.png",
+    "title": "Magnet",
+    "pageId": 5762,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/Magnet_Icon.png?version=ecbff2cece8480f998d305895cb85041",
+    "filePath": "magnet"
+  },
+  {
+    "name": "Paid AntiRoach",
+    "image": "Paidicon.png",
+    "title": "Paid AntiRoach",
+    "pageId": 5989,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/Paidicon.png?version=1ff271838af12448c68367576cd827bd",
+    "filePath": "paid_antiroach"
+  },
+  {
+    "name": "Clin wiper",
+    "image": "Clin Wiper icon.png",
+    "title": "Clin wiper",
+    "pageId": 7178,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Clin_Wiper_icon.png?version=2ebf443aae479ff9d44e0280de45f791",
+    "filePath": "clin_wiper"
+  },
+  {
+    "name": "Portable defibrillator",
+    "image": "Defibrillatoricon.png",
+    "title": "Portable defibrillator",
+    "pageId": 12829,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Defibrillatoricon.png?version=1b83c6ddc09a0ebf10b8325952fde865",
+    "filePath": "portable_defibrillator"
+  },
+  {
+    "name": "LEDX Skin Transilluminator",
+    "image": "TransilluminatorIcon.png",
+    "title": "LEDX Skin Transilluminator",
+    "pageId": 12603,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/TransilluminatorIcon.png?version=308910ea350ac982b031008419879a8e",
+    "filePath": "ledx_skin_transilluminator"
+  },
+  {
+    "name": "Saline solution",
+    "image": "Saline Solution icon.png",
+    "title": "Saline solution",
+    "pageId": 6090,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/Saline_Solution_icon.png?version=5f47d70c970ee13a29045715803053e1",
+    "filePath": "saline_solution"
+  },
+  {
+    "name": "Medical bloodset",
+    "image": "Medical Bloodset Icon.png",
+    "title": "Medical bloodset",
+    "pageId": 10779,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/56/Medical_Bloodset_Icon.png?version=042dbe8931b48168d9517775810db377",
+    "filePath": "medical_bloodset"
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "image": "Hydrogen Peroxide icon.png",
+    "title": "Hydrogen peroxide",
+    "pageId": 7181,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/Hydrogen_Peroxide_icon.png?version=ed4334bfe2637d82a7575b8f6bf83bbe",
+    "filePath": "hydrogen_peroxide"
+  },
+  {
+    "name": "Ox bleach",
+    "image": "Bleachicon.png",
+    "title": "Ox bleach",
+    "pageId": 6099,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Bleachicon.png?version=201be9643769e60b05a5390ad54c7406",
+    "filePath": "ox_bleach"
+  },
+  {
+    "name": "Shustrilo sealing foam",
+    "image": "Shusicon.png",
+    "title": "Shustrilo sealing foam",
+    "pageId": 7184,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Shusicon.png?version=b00a8c14727268318ea2d40550d72bed",
+    "filePath": "shustrilo_sealing_foam"
+  },
+  {
+    "name": "Xenomorph sealing foam",
+    "image": "Xenoicon.png",
+    "title": "Xenomorph sealing foam",
+    "pageId": 7179,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ce/Xenoicon.png?version=4ec1847afd3d381d066e781654994a9f",
+    "filePath": "xenomorph_sealing_foam"
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "image": "Sodium Bicarbonate icon.png",
+    "title": "Sodium bicarbonate",
+    "pageId": 7182,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/Sodium_Bicarbonate_icon.png?version=5e4497e14248c2152ac75b1e0cf7430c",
+    "filePath": "sodium_bicarbonate"
+  },
+  {
+    "name": "Soap",
+    "image": "Soap icon.png",
+    "title": "Soap",
+    "pageId": 12635,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/Soap_icon.png?version=c39cda63168f00f59c3c227735e2ff66",
+    "filePath": "soap"
+  },
+  {
+    "name": "Toilet paper",
+    "image": "Toilet paper icon.png",
+    "title": "Toilet paper",
+    "pageId": 12818,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Toilet_paper_icon.png?version=85e0316e9d990f11fe288fa305b5f48f",
+    "filePath": "toilet_paper"
+  },
+  {
+    "name": "5L propane tank",
+    "image": "5L propane tank icon.png",
+    "title": "5L propane tank",
+    "pageId": 7175,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/5L_propane_tank_icon.png?version=c7f1bd0c8719174de57a14a168f4728d",
+    "filePath": "5l_propane_tank"
+  },
+  {
+    "name": "Fuel conditioner",
+    "image": "fuelcondicon.png",
+    "title": "Fuel conditioner",
+    "pageId": 10780,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/Fuelcondicon.png?version=c13e47a3d78799207f69793581c903b2",
+    "filePath": "fuel_conditioner"
+  },
+  {
+    "name": "Heat-exchange alkali surface washer",
+    "image": "Heat-exchange alkali surface washer icon.png",
+    "title": "Heat-exchange alkali surface washer",
+    "pageId": 7177,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Heat-exchange_alkali_surface_washer_icon.png",
+    "filePath": "heat_exchange_alkali_surface_washer"
+  },
+  {
+    "name": "Dry fuel",
+    "image": "Dryfuelicon.png",
+    "title": "Dry fuel",
+    "pageId": 7081,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Dryfuelicon.png?version=59f8f62bbe41377f64457126ca2d567f",
+    "filePath": "dry_fuel"
+  },
+  {
+    "name": "A set of tools",
+    "image": "Toolsicon.png",
+    "title": "A set of tools",
+    "pageId": 7030,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3a/Toolsicon.png?version=e8993b9d03afc74ea01a5fc7b8104ec9",
+    "filePath": "a_set_of_tools"
+  },
+  {
+    "name": "Rechargeable battery",
+    "image": "Recicon.png",
+    "title": "Rechargeable battery",
+    "pageId": 7183,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Recicon.png?version=15a3b3b561def68cb5e229e8a7026a9f",
+    "filePath": "rechargeable_battery"
+  },
+  {
+    "name": "Air filter for gas mask",
+    "image": "Airfiltericon.png",
+    "title": "Air filter for gas mask",
+    "pageId": 7940,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Airfiltericon.png?version=2f46d8912a55bc455f011fca27d2c898",
+    "filePath": "air_filter_for_gas_mask"
+  },
+  {
+    "name": "Secure Flash drive",
+    "image": "Secure Flash drive Icon.png",
+    "title": "Secure Flash drive",
+    "pageId": 8051,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Secure_Flash_drive_Icon.png?version=753b982a57bcd47e96b0ca140d913980",
+    "filePath": "secure_flash_drive"
+  },
+  {
+    "name": "Coffee Majaica",
+    "image": "Coffeicon.png",
+    "title": "Coffee Majaica",
+    "pageId": 10334,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/Coffeicon.png?version=cf8a588c106c23b065721eaa5f3064fc",
+    "filePath": "coffee_majaica"
+  },
+  {
+    "name": "Ophthalmoscope",
+    "image": "Ophthalmoscopeicon.png",
+    "title": "Ophthalmoscope",
+    "pageId": 10345,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/Ophthalmoscopeicon.png?version=b6fd171ea79ee9b6bbd446ba45b8a472",
+    "filePath": "ophthalmoscope"
+  },
+  {
+    "name": "Pliers Elite",
+    "image": "PliersElite.png",
+    "title": "Pliers Elite",
+    "pageId": 10347,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/PliersElite.png?version=008aeb7c79ef9f500be2c5457642305d",
+    "filePath": "pliers_elite"
+  },
+  {
+    "name": "Powerbank",
+    "image": "PowerbankIcon.png",
+    "title": "Powerbank",
+    "pageId": 10276,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/PowerbankIcon.png?version=3eb69fa869721648a5cb84e33d41c9a7",
+    "filePath": "powerbank"
+  },
+  {
+    "name": "42nd Signature Blend English Tea",
+    "image": "EnglishTeaIcon.png",
+    "title": "42nd Signature Blend English Tea",
+    "pageId": 11930,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/EnglishTeaIcon.png?version=c121fd04746f80b0554eb12d6e49f112",
+    "filePath": "42nd_signature_blend_english_tea"
+  },
+  {
+    "name": "Golden rooster",
+    "image": "GoldenRoosterIcon.png",
+    "title": "Golden rooster",
+    "pageId": 11932,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/GoldenRoosterIcon.png?version=8375d800e6eb2c58f940779046b320e7",
+    "filePath": "golden_rooster"
+  },
+  {
+    "name": "Roler submariner gold wrist watch",
+    "image": "Roler icon.png",
+    "title": "Roler submariner gold wrist watch",
+    "pageId": 6709,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e7/Roler_icon.png?version=6c14c56bb00a58e88e07e53af0877db9",
+    "filePath": "roler_submariner_gold_wrist_watch"
+  },
+  {
+    "name": "Battered antique Book",
+    "image": "BatteredBookIcon.png",
+    "title": "Battered antique Book",
+    "pageId": 11897,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/BatteredBookIcon.png?version=5f9511fd46f6821bed0db21d04f8aaf9",
+    "filePath": "battered_antique_book"
+  },
+  {
+    "name": "FireKlean gun lube",
+    "image": "FireKlean_icon.png",
+    "title": "FireKlean gun lube",
+    "pageId": 11911,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/FireKlean_icon.png?version=e1bcd1594bfef0da0ebc65832d1a9f5f",
+    "filePath": "fireklean_gun_lube"
+  },
+  {
+    "name": "Old firesteel",
+    "image": "FireSteelIcon.png",
+    "title": "Old firesteel",
+    "pageId": 11929,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/87/FireSteelIcon.png?version=5aefe619f0d510860c898032b9e4bccb",
+    "filePath": "old_firesteel"
+  },
+  {
+    "name": "Deadlyslob's beard oil",
+    "image": "Deadlyslobs beard oil icon.png",
+    "title": "Deadlyslob's beard oil",
+    "pageId": 11920,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Deadlyslobs_beard_oil_icon.png?version=e0e1da2fb393507a4c77e74a39d23e5f",
+    "filePath": "deadlyslob_s_beard_oil"
+  },
+  {
+    "name": "Golden 1GPhone",
+    "image": "1gphone icon.png",
+    "title": "Golden 1GPhone",
+    "pageId": 11908,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/1gphone_icon.png?version=16ffdf148c42ad7882c80dc3c83b83bd",
+    "filePath": "golden_1gphone"
+  },
+  {
+    "name": "Tetriz portable game",
+    "image": "Tetriz icon.png",
+    "title": "Tetriz portable game",
+    "pageId": 12258,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Tetriz_icon.png?version=5b7137d1d3438a1938caba8ca4211dff",
+    "filePath": "tetriz_portable_game"
+  },
+  {
+    "name": "Chain with Prokill medallion",
+    "image": "Prokill medallion Icon.png",
+    "title": "Chain with Prokill medallion",
+    "pageId": 12865,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Prokill_medallion_Icon.png?version=c199b99284a9af59afc85b380b0cd444",
+    "filePath": "chain_with_prokill_medallion"
+  },
+  {
+    "name": "Nippers",
+    "image": "Nippers small.jpg",
+    "title": "Nippers",
+    "pageId": 15000,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Nippers_small.jpg?version=22f72e359e9c6aff1368bf87ef8a3ca8",
+    "filePath": "nippers"
+  },
+  {
+    "name": "Metal cutting scissors",
+    "image": "Metal_cutting_scissors_icon.png",
+    "title": "Metal cutting scissors",
+    "pageId": 15008,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Metal_cutting_scissors_icon.png?version=f3fa6e7f985babf3c79c44e6d3557311",
+    "filePath": "metal_cutting_scissors"
+  },
+  {
+    "name": "Handdrill",
+    "image": "Handdrill_icon.png",
+    "title": "Handdrill",
+    "pageId": 15006,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/Handdrill_icon.png?version=27dac6222dc65cb6d142052e4b41d3a4",
+    "filePath": "handdrill"
+  },
+  {
+    "name": "6-STEN-140-M military battery",
+    "image": "Mil Batt icon.png",
+    "title": "6-STEN-140-M military battery",
+    "pageId": 15011,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Mil_Batt_icon.png?version=e157ce82be8681e010127adc53a19bad",
+    "filePath": "6_sten_140_m_military_battery"
+  },
+  {
+    "name": "NIXXOR lens",
+    "image": "NIXXOR_lens_icon.png",
+    "title": "NIXXOR lens",
+    "pageId": 15521,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/NIXXOR_lens_icon.png?version=cc60b2b07ee5dd281fcbf5cd199cf188",
+    "filePath": "nixxor_lens"
+  },
+  {
+    "name": "Expeditionary fuel tank",
+    "image": "expeditionary-fuel-tank-icon.png",
+    "title": "Expeditionary fuel tank",
+    "pageId": 14996,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Expeditionary-fuel-tank-icon.png",
+    "filePath": "expeditionary_fuel_tank"
+  },
+  {
+    "name": "Metal fuel tank",
+    "image": "Metal-fuel-tank-icon.png",
+    "title": "Metal fuel tank",
+    "pageId": 15525,
+    "size": {
+      "width": "2",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/Metal-fuel-tank-icon.png",
+    "filePath": "metal_fuel_tank"
+  },
+  {
+    "name": "FP-100 filter absorber",
+    "image": "FP-100 filter absorber icon.png",
+    "title": "FP-100 filter absorber",
+    "pageId": 15519,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/FP-100_filter_absorber_icon.png",
+    "filePath": "fp_100_filter_absorber"
+  },
+  {
+    "name": "Electric motor",
+    "image": "Electric motor icon.png",
+    "title": "Electric motor",
+    "pageId": 15520,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9f/Electric_motor_icon.png?version=940ae203664cf7cca1a7b5e9677e4cee",
+    "filePath": "electric_motor"
+  },
+  {
+    "name": "Broken LCD",
+    "image": "lcd-icon.PNG",
+    "title": "Broken LCD",
+    "pageId": 15005,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/be/Lcd-icon.PNG",
+    "filePath": "broken_lcd"
+  },
+  {
+    "name": "Working LCD",
+    "image": "Working LCD Icon.png",
+    "title": "Working LCD",
+    "pageId": 15058,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ca/Working_LCD_Icon.png?version=794cb298e903df15e0dfc314abb13eeb",
+    "filePath": "working_lcd"
+  },
+  {
+    "name": "GP coin",
+    "image": "gp_coin_icon.png",
+    "title": "GP coin",
+    "pageId": 15127,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/Gp_coin_icon.png?version=196a2fe6b1f472402584099d94ca0041",
+    "filePath": "gp_coin"
+  },
+  {
+    "name": "Water filter",
+    "image": "water_filter_icon.png",
+    "title": "Water filter",
+    "pageId": 15527,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Water_filter_icon.png?version=c770e2d8ff54e417e1559f22db40a1b7",
+    "filePath": "water_filter"
+  },
+  {
+    "name": "Gunpowder \"Kite\"",
+    "image": "Gunpowder Icon.png",
+    "title": "Gunpowder \"Kite\"",
+    "pageId": 5840,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Gunpowder_Icon.png?version=416b2bc9667be2c64994f7eb649b52ff",
+    "filePath": "gunpowder__kite_"
+  },
+  {
+    "name": "Gunpowder \"Eagle\"",
+    "image": "gunpowder_eagle_icon.png",
+    "title": "Gunpowder \"Eagle\"",
+    "pageId": 15266,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/Gunpowder_eagle_icon.png?version=368777625e2cadda82b9d0a508146d33",
+    "filePath": "gunpowder__eagle_"
+  },
+  {
+    "name": "Gunpowder \"Hawk\"",
+    "image": "GunpowderHawkIcon.png",
+    "title": "Gunpowder \"Hawk\"",
+    "pageId": 15606,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/GunpowderHawkIcon.png?version=6b0729a365bcda2c332eae818088403a",
+    "filePath": "gunpowder__hawk_"
+  },
+  {
+    "name": "Pile of meds",
+    "image": "Pile of meds icon.png",
+    "title": "Pile of meds",
+    "pageId": 15294,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b6/Pile_of_meds_icon.png?version=ccdc450eb21acbc2ec1ec87497148ef2",
+    "filePath": "pile_of_meds"
+  },
+  {
+    "name": "Disposable syringe",
+    "image": "DisposableSyringeIcon.png",
+    "title": "Disposable syringe",
+    "pageId": 15332,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/DisposableSyringeIcon.png?version=159aecd34e714210de2e9b07389a31fe",
+    "filePath": "disposable_syringe"
+  },
+  {
+    "name": "Phased array element",
+    "image": "Phased-Array-Element-icon.png",
+    "title": "Phased array element",
+    "pageId": 15357,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Phased-Array-Element-icon.png",
+    "filePath": "phased_array_element"
+  },
+  {
+    "name": "Military circuit board",
+    "image": "MilitaryCircuitBoardIcon.png",
+    "title": "Military circuit board",
+    "pageId": 15360,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/MilitaryCircuitBoardIcon.png?version=2e2f8a0441d46edf1a04ac10e796a747",
+    "filePath": "military_circuit_board"
+  },
+  {
+    "name": "Military thermal vision module Iridium",
+    "image": "mil thervis.png",
+    "title": "Military thermal vision module Iridium",
+    "pageId": 15362,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/Mil_thervis.png?version=d30891ec3efd2b7041297734cebcab95",
+    "filePath": "military_thermal_vision_module_iridium"
+  },
+  {
+    "name": "Military gyrotachometer",
+    "image": "MGT_Icon.png",
+    "title": "Military gyrotachometer",
+    "pageId": 15364,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f2/MGT_Icon.png?version=c200d910abbb539afe292f885b622a29",
+    "filePath": "military_gyrotachometer"
+  },
+  {
+    "name": "Weapon parts",
+    "image": "WeaponPartsIcon.png",
+    "title": "Weapon parts",
+    "pageId": 15375,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/WeaponPartsIcon.png?version=eeff1447e7d944f476d77fca851b931a",
+    "filePath": "weapon_parts"
+  },
+  {
+    "name": "Round pliers",
+    "image": "RoundPliersIcon.png",
+    "title": "Round pliers",
+    "pageId": 15378,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dd/RoundPliersIcon.png?version=6d95f7c815a1e791ac6bb1baf9499d85",
+    "filePath": "round_pliers"
+  },
+  {
+    "name": "OFZ 30x160mm shell",
+    "image": "30x160mmShellicon.png",
+    "title": "OFZ 30x160mm shell",
+    "pageId": 15389,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/30x160mmShellicon.png?version=8b4479cb0b2b520741dfd2d9c13ff04f",
+    "filePath": "ofz_30x160mm_shell"
+  },
+  {
+    "name": "Military cable",
+    "image": "MilitaryCableIcon.png",
+    "title": "Military cable",
+    "pageId": 15490,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/MilitaryCableIcon.png?version=d5611454d5867791b037f43a1bd358fa",
+    "filePath": "military_cable"
+  },
+  {
+    "name": "Military power filter",
+    "image": "Mil Filter Icon.png",
+    "title": "Military power filter",
+    "pageId": 15491,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/47/Mil_Filter_Icon.png?version=d90a35e5524017dba0edd1e74b54bad2",
+    "filePath": "military_power_filter"
+  },
+  {
+    "name": "Pressure gauge",
+    "image": "Pressure gauge icon.png",
+    "title": "Pressure gauge",
+    "pageId": 15522,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/Pressure_gauge_icon.png?version=b29e8469458df973693f0abd6e6c31ce",
+    "filePath": "pressure_gauge"
+  },
+  {
+    "name": "Analog thermometer",
+    "image": "Anal Thermometer Icon.png",
+    "title": "Analog thermometer",
+    "pageId": 15523,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/Anal_Thermometer_Icon.png?version=7dc84f13cab0f85185c95fa1b02d3546",
+    "filePath": "analog_thermometer"
+  },
+  {
+    "name": "Light bulb",
+    "image": "Bulb icon.png",
+    "title": "Light bulb",
+    "pageId": 15528,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/Bulb_icon.png?version=aa00f8e0427743fc291d0c496d73739a",
+    "filePath": "light_bulb"
+  },
+  {
+    "name": "Radiator helix",
+    "image": "RadiatorHelixIcon.png",
+    "title": "Radiator helix",
+    "pageId": 15532,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/RadiatorHelixIcon.png?version=4926ab9902029f2bb7977f10baad092a",
+    "filePath": "radiator_helix"
+  },
+  {
+    "name": "Gold skull ring",
+    "image": "SkullRing Icon.png",
+    "title": "Gold skull ring",
+    "pageId": 15534,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/SkullRing_Icon.png?version=0777254227b5457af940c790b8de8331",
+    "filePath": "gold_skull_ring"
+  },
+  {
+    "name": "Technical documentation",
+    "image": "lada_manual_icon.png",
+    "title": "Technical documentation",
+    "pageId": 8053,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7b/Lada_manual_icon.png?version=f22872f2f9e9abb22f2648dd6f6fa4ff",
+    "filePath": "technical_documentation"
+  },
+  {
+    "name": "Schaman shampoo",
+    "image": "Shampoo_icon.png",
+    "title": "Schaman shampoo",
+    "pageId": 15568,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/Shampoo_icon.png?version=5441ac9a83a3d6c0cd5dfa826fe9d86f",
+    "filePath": "schaman_shampoo"
+  },
+  {
+    "name": "Ortodontox toothpaste",
+    "image": "OrtodontoxToothpasteIcon.png",
+    "title": "Ortodontox toothpaste",
+    "pageId": 15569,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/OrtodontoxToothpasteIcon.png?version=a078b54e23647e5fb55198d08ad9c314",
+    "filePath": "ortodontox_toothpaste"
+  },
+  {
+    "name": "Long flat screwdriver",
+    "image": "Long_screwdriver_icon.png",
+    "title": "Long flat screwdriver",
+    "pageId": 15570,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/51/Long_screwdriver_icon.png?version=a48e3bf153a8616eaa36c210061dd466",
+    "filePath": "long_flat_screwdriver"
+  },
+  {
+    "name": "Flat screwdriver",
+    "image": "Flat Screwdriver Icon.PNG",
+    "title": "Flat screwdriver",
+    "pageId": 15594,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/Flat_Screwdriver_Icon.PNG?version=32952818c2266861ec4c5bbce5bf4593",
+    "filePath": "flat_screwdriver"
+  },
+  {
+    "name": "Phase control relay",
+    "image": "Relay Icon.png",
+    "title": "Phase control relay",
+    "pageId": 14967,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2c/Relay_Icon.png?version=4b7f4b9e8e1779e58bdab83882f92bdb",
+    "filePath": "phase_control_relay"
+  },
+  {
+    "name": "Silicone tube",
+    "image": "SiliconeTubeIcon.png",
+    "title": "Silicone tube",
+    "pageId": 15015,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2e/SiliconeTubeIcon.png?version=a304c0dc1da3f655bd13efba50010cbe",
+    "filePath": "silicone_tube"
+  },
+  {
+    "name": "Diary",
+    "image": "Diary Icon1.png",
+    "title": "Diary",
+    "pageId": 5931,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/Diary_Icon1.png?version=128423312c8e90c2339d2996c2997345",
+    "filePath": "diary"
+  },
+  {
+    "name": "Slim diary",
+    "image": "SlimDiaryIcon.png",
+    "title": "Slim diary",
+    "pageId": 8054,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/SlimDiaryIcon.png?version=63f02b39a57bee953723b0cbcd8bd91c",
+    "filePath": "slim_diary"
+  }
+]

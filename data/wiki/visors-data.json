@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Ops-Core FAST Visor",
+    "image": "Fvisoriconblack.png",
+    "title": "Ops-Core FAST Visor",
+    "pageId": 7981,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a5/Fvisoriconblack.png?version=15a09f9f93be2402c927d123bb1a61fa",
+    "filePath": "ops_core_fast_visor"
+  },
+  {
+    "name": "K1S Visor",
+    "image": "K1svisoricon.png",
+    "title": "K1S Visor",
+    "pageId": 9572,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/K1svisoricon.png?version=62b96f0b6e26df8c70b5c6cb810e0180",
+    "filePath": "k1s_visor"
+  },
+  {
+    "name": "Multi-hit ballistic face shield-visor for Ops-Core FAST helmet",
+    "image": "Fshield.png",
+    "title": "Multi-hit ballistic face shield-visor for Ops-Core FAST helmet",
+    "pageId": 7982,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Fshield.png?version=78f3c305e0234324f16cead0633a3bde",
+    "filePath": "multi_hit_ballistic_face_shield_visor_for_ops_core_fast_helmet"
+  },
+  {
+    "name": "Kiver face shield",
+    "image": "Kiver face shield icon.png",
+    "title": "Kiver face shield",
+    "pageId": 10802,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/Kiver_face_shield_icon.png?version=883bf2fb51e2f3e73799d8bb41064e9d",
+    "filePath": "kiver_face_shield"
+  },
+  {
+    "name": "ZSh-1-2M face shield",
+    "image": "Zshfaceshieldicon.png",
+    "title": "ZSh-1-2M face shield",
+    "pageId": 9571,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/03/Zshfaceshieldicon.png?version=d0238d4d0b881bd4884de2bcb4aa30a5",
+    "filePath": "zsh_1_2m_face_shield"
+  },
+  {
+    "name": "LSHZ-2DTM face shield",
+    "image": "LSHZ Face Shield.PNG",
+    "title": "LSHZ-2DTM face shield",
+    "pageId": 15603,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/LSHZ_Face_Shield.PNG?version=1a442f127b751828686c56bc7e23d2d2",
+    "filePath": "lshz_2dtm_face_shield"
+  },
+  {
+    "name": "Vulkan-5 face shield",
+    "image": "Vulkan-5 face shield icon.png",
+    "title": "Vulkan-5 face shield",
+    "pageId": 13948,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/Vulkan-5_face_shield_icon.png",
+    "filePath": "vulkan_5_face_shield"
+  },
+  {
+    "name": "Altyn face shield",
+    "image": "Altynfshieldicon.png",
+    "title": "Altyn face shield",
+    "pageId": 9570,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/96/Altynfshieldicon.png?version=369ecee6d20e452a8dce69928e9b5f90",
+    "filePath": "altyn_face_shield"
+  },
+  {
+    "name": "Maska 1Sch face shield",
+    "image": "Maska 1Sh face shield icon.gif",
+    "title": "Maska 1Sch face shield",
+    "pageId": 12503,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/Maska_1Sh_face_shield_icon.gif?version=9915b356074360fadb9c663a0939529e",
+    "filePath": "maska_1sch_face_shield"
+  }
+]

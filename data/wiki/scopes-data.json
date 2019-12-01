@@ -1,0 +1,182 @@
+[
+  {
+    "name": "PU 3.5x riflescope",
+    "image": "PU_35x_Icon.png",
+    "title": "PU 3.5x riflescope",
+    "pageId": 11056,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/PU_35x_Icon.png?version=e1fd2e855ab226073aaa2ac7ad5316f1",
+    "filePath": "pu_3_5x_riflescope"
+  },
+  {
+    "name": "Nightforce ATACR 7-35x56 riflescope",
+    "image": "Nightforce ATACR 7-35x56Icon.png",
+    "title": "Nightforce ATACR 7-35x56 riflescope",
+    "pageId": 9754,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/Nightforce_ATACR_7-35x56Icon.png",
+    "filePath": "nightforce_atacr_7_35x56_riflescope"
+  },
+  {
+    "name": "Leupold Mark 4 LR 6.5-20x50 riflescope",
+    "image": "6.5-20x50icon.png",
+    "title": "Leupold Mark 4 LR 6.5-20x50 riflescope",
+    "pageId": 8401,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/6.5-20x50icon.png",
+    "filePath": "leupold_mark_4_lr_6_5_20x50_riflescope"
+  },
+  {
+    "name": "Optical scope March Tactical 3-24x42 FFP",
+    "image": "3-24x42icon.png",
+    "title": "Optical scope March Tactical 3-24x42 FFP",
+    "pageId": 3062,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/3-24x42icon.png",
+    "filePath": "optical_scope_march_tactical_3_24x42_ffp"
+  },
+  {
+    "name": "Hensoldt FF 4-16x56 scope",
+    "image": "Ff3-12icon.png",
+    "title": "Hensoldt FF 4-16x56 scope",
+    "pageId": 3431,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/Ff3-12icon.png",
+    "filePath": "hensoldt_ff_4_16x56_scope"
+  },
+  {
+    "name": "Nightforce NXS 2.5-10x24 scope",
+    "image": "NXS 2.5-10.png",
+    "title": "Nightforce NXS 2.5-10x24 scope",
+    "pageId": 3429,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/NXS_2.5-10.png",
+    "filePath": "nightforce_nxs_2_5_10x24_scope"
+  },
+  {
+    "name": "Zenit-Belomo PSO 1 4x24 scope",
+    "image": "Zenit-Belomo PSO 1 4x24 scope icon.png",
+    "title": "Zenit-Belomo PSO 1 4x24 scope",
+    "pageId": 13902,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/96/Zenit-Belomo_PSO_1_4x24_scope_icon.png",
+    "filePath": "zenit_belomo_pso_1_4x24_scope"
+  },
+  {
+    "name": "Zenit-Belomo PSO 1M2 4x24 scope",
+    "image": "PSO 1M2 Icon.png",
+    "title": "Zenit-Belomo PSO 1M2 4x24 scope",
+    "pageId": 13903,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/PSO_1M2_Icon.png?version=6000e62de134f3b5ee5cb82982edaffe",
+    "filePath": "zenit_belomo_pso_1m2_4x24_scope"
+  },
+  {
+    "name": "Zenit-Belomo PSO 1M2-1 4x24 scope",
+    "image": "Psoicon.png",
+    "title": "Zenit-Belomo PSO 1M2-1 4x24 scope",
+    "pageId": 3061,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/Psoicon.png?version=e6c191754af244844926fe9ece34224f",
+    "filePath": "zenit_belomo_pso_1m2_1_4x24_scope"
+  },
+  {
+    "name": "EOtech Vudu 1-6 riflescope",
+    "image": "1_6_vudu_icon.png",
+    "title": "EOtech Vudu 1-6 riflescope",
+    "pageId": 10911,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/90/1_6_vudu_icon.png?version=4b33d41f06dd606a870f6c6e5c889040",
+    "filePath": "eotech_vudu_1_6_riflescope"
+  },
+  {
+    "name": "Burris FullField TAC 30 1-4x24 riflescope",
+    "image": "TAC30_Icon.png",
+    "title": "Burris FullField TAC 30 1-4x24 riflescope",
+    "pageId": 11006,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/TAC30_Icon.png?version=0df761f5938601d412f604cd03c5fcc7",
+    "filePath": "burris_fullfield_tac_30_1_4x24_riflescope"
+  },
+  {
+    "name": "NPZ USP-1 4x scope",
+    "image": "NPZ USP-1 4x scope icon v2.png",
+    "title": "NPZ USP-1 4x scope",
+    "pageId": 15343,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/NPZ_USP-1_4x_scope_icon_v2.png",
+    "filePath": "npz_usp_1_4x_scope"
+  },
+  {
+    "name": "KMZ 1P59 3-10x riflescope",
+    "image": "1P59_Icon.png",
+    "title": "KMZ 1P59 3-10x riflescope",
+    "pageId": 15496,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/1P59_Icon.png?version=ebc8e604a6c9e2db69f3983678a70a84",
+    "filePath": "kmz_1p59_3_10x_riflescope"
+  },
+  {
+    "name": "KMZ 1P69 3-10x riflescope",
+    "image": "KMZ 1P69 3-10x riflescope icon.png",
+    "title": "KMZ 1P69 3-10x riflescope",
+    "pageId": 15497,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/KMZ_1P69_3-10x_riflescope_icon.png",
+    "filePath": "kmz_1p69_3_10x_riflescope"
+  },
+  {
+    "name": "PAG-17 scope",
+    "image": "wiki.png",
+    "title": "PAG-17 scope",
+    "pageId": 15586,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "pag_17_scope"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Scav Vest",
+    "image": "Scav_Vest_icon.png",
+    "title": "Scav Vest",
+    "pageId": 4156,
+    "size": {
+      "width": "2",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/Scav_Vest_icon.png?version=20c2858653b433cdfaca2d864ec2ffa4",
+    "filePath": "scav_vest"
+  },
+  {
+    "name": "SOE Micro Rig",
+    "image": "SOEicon.png",
+    "title": "SOE Micro Rig",
+    "pageId": 15337,
+    "size": {
+      "width": "2",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/SOEicon.png?version=889a1a3adb865dc78d32bdf957ae141b",
+    "filePath": "soe_micro_rig"
+  },
+  {
+    "name": "Wartech gear rig (TV-109, TV-106)",
+    "image": "Wartech_gear_rig_icon.png",
+    "title": "Wartech gear rig (TV-109, TV-106)",
+    "pageId": 6120,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/Wartech_gear_rig_icon.png?version=26ab005c0a33efaad8a5d04c6ccb6931",
+    "filePath": "wartech_gear_rig__tv_109__tv_106_"
+  },
+  {
+    "name": "UMTBS 6sh112 Scout-Sniper",
+    "image": "Scout Sniper rig icon.png",
+    "title": "UMTBS 6sh112 Scout-Sniper",
+    "pageId": 5244,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a6/Scout_Sniper_rig_icon.png?version=350a7143101c3f30de9701a538091525",
+    "filePath": "umtbs_6sh112_scout_sniper"
+  },
+  {
+    "name": "Haley Strategic D3CRX Chest Harness",
+    "image": "D3CRX Icon.PNG",
+    "title": "Haley Strategic D3CRX Chest Harness",
+    "pageId": 15588,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/D3CRX_Icon.PNG?version=dc85b08fee7a6e80b8cbe5735fb743ef",
+    "filePath": "haley_strategic_d3crx_chest_harness"
+  },
+  {
+    "name": "Triton M43-A Chest Harness",
+    "image": "Triton M43-A Chest Harness icon.png",
+    "title": "Triton M43-A Chest Harness",
+    "pageId": 13917,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Triton_M43-A_Chest_Harness_icon.png",
+    "filePath": "triton_m43_a_chest_harness"
+  },
+  {
+    "name": "Blackhawk! Commando Chest Harness",
+    "image": "Blackhawk! commando icon.gif",
+    "title": "Blackhawk! Commando Chest Harness",
+    "pageId": 10776,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Blackhawk%21_commando_icon.gif",
+    "filePath": "blackhawk__commando_chest_harness"
+  },
+  {
+    "name": "BlackRock chest rig",
+    "image": "Blackrock_Icon.png",
+    "title": "BlackRock chest rig",
+    "pageId": 4155,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ac/Blackrock_Icon.png?version=d99c347c63eec67fe30da55256a8e27b",
+    "filePath": "blackrock_chest_rig"
+  },
+  {
+    "name": "Wartech MK3 chest rig (TV-104)",
+    "image": "Mk3.PNG",
+    "title": "Wartech MK3 chest rig (TV-104)",
+    "pageId": 9564,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Mk3.PNG?version=75249027bb92df3281ca7601afc524e5",
+    "filePath": "wartech_mk3_chest_rig__tv_104_"
+  },
+  {
+    "name": "ANA Tactical Alpha chest rig",
+    "image": "Alpha Rig icon.png",
+    "title": "ANA Tactical Alpha chest rig",
+    "pageId": 6215,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/Alpha_Rig_icon.png?version=dbe943b21fe0eff9177a8d168ad2274b",
+    "filePath": "ana_tactical_alpha_chest_rig"
+  },
+  {
+    "name": "Belt-A + Belt-B gear rig",
+    "image": "Belt-A Belt-B gear rig icon.png",
+    "title": "Belt-A + Belt-B gear rig",
+    "pageId": 12665,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/db/Belt-A_Belt-B_gear_rig_icon.png",
+    "filePath": "belt_a___belt_b_gear_rig"
+  }
+]

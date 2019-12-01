@@ -1,0 +1,426 @@
+{
+    "weapons": {
+        "name": "weapons",
+        "usePages": [1, 9, 14, 15],
+        "nameIndex": 0,
+        "imgFileIndex": 1,
+        "ignore": [],
+        "useRegex": 1
+    },
+    "headwear": {
+        "name": "headwear",
+        "usePages": [1, 2, 3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [3, 32, 33],
+        "useRegex": 0
+    },
+    "face_cover": {
+        "name": "face_cover",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [4, 5, 6, 16],
+        "useRegex": 0
+    },
+    "eyewear": {
+        "name": "eyewear",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "headsets": {
+        "name": "headsets",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "chest_rigs": {
+        "name": "chest_rigs",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "bipods": {
+        "name": "weapon_mods",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Bipods(.|\n)+Foregrips"
+    },
+    "foregrips": {
+        "name": "weapon_mods",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Foregrips(.|\n)+Flashlights"
+    },
+    "flashlights": {
+        "name": "weapon_mods",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Flashlights(.|\n)+Laser target pointers"
+    },
+    "laser_target_pointers": {
+        "name": "weapon_mods",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Laser target pointers(.|\n)+Tactical combo devices"
+    },
+    "tactical_combo_devices": {
+        "name": "weapon_mods",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Tactical combo devices(.|\n)+Auxiliary parts"
+    },
+    "auxiliary_parts": {
+        "name": "weapon_mods",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Auxiliary parts(.|\n)+"
+    },
+    "muzzle_adapters": {
+        "name": "weapon_mods",
+        "usePages": [2],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Muzzle adapters(.|\n)+Flash hiders & muzzle brakes"
+    },
+    "flash_hiders_muzzle_brakes": {
+        "name": "weapon_mods",
+        "usePages": [2],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Flash hiders & muzzle brakes(.|\n)+Suppressors"
+    },
+    "suppressors": {
+        "name": "weapon_mods",
+        "usePages": [2],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Suppressors(.|\n)+"
+    },
+    "assault_scopes": {
+        "name": "weapon_mods",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Assault scopes(.|\n)+Reflex sights"
+    },
+    "reflex_sights": {
+        "name": "weapon_mods",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Reflex sights(.|\n)+Compact reflex sights"
+    },
+    "compact_reflex_sights": {
+        "name": "weapon_mods",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Compact reflex sights(.|\n)+Iron sights"
+    },
+    "iron_sights": {
+        "name": "weapon_mods",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Iron sights(.|\n)+Scopes"
+    },
+    "scopes": {
+        "name": "weapon_mods",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Scopes(.|\n)+Special scopes"
+    },
+    "special_scopes": {
+        "name": "weapon_mods",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Special scopes(.|\n)+"
+    },
+    "charging_handles": {
+        "name": "weapon_mods",
+        "usePages": [4],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Charging handles(.|\n)+Grenade launchers"
+    },
+    "magazines": {
+        "name": "weapon_mods",
+        "usePages": [4],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Magazines(.|\n)+Mounts"
+    },
+    "mounts": {
+        "name": "weapon_mods",
+        "usePages": [4],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Mounts(.|\n)+Stocks & chassis"
+    },
+    "stocks_chassis": {
+        "name": "weapon_mods",
+        "usePages": [4],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Stocks & chassis(.|\n)+"
+    },
+    "barrels": {
+        "name": "weapon_mods",
+        "usePages": [5],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Barrels(.|\n)+Gas blocks"
+    },
+    "gas_blocks": {
+        "name": "weapon_mods",
+        "usePages": [5],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Gas blocks(.|\n)+Handguards"
+    },
+    "handguards": {
+        "name": "weapon_mods",
+        "usePages": [5],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Handguards(.|\n)+Pistol grips"
+    },
+    "pistol_grips": {
+        "name": "weapon_mods",
+        "usePages": [5],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Pistol grips(.|\n)+Receivers & slides "
+    },
+    "receivers_slides": {
+        "name": "weapon_mods",
+        "usePages": [5],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Receivers & slides(.|\n)+</tabber>"
+    },
+    "night_vision_devices": {
+        "name": "gear_components",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1
+    },
+    "thermal_vision_devices": {
+        "name": "gear_components",
+        "usePages": [2],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1
+    },
+    "helmet_headsets": {
+        "name": "gear_components",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1
+    },
+    "visors": {
+        "name": "gear_components",
+        "usePages": [4],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1
+    },
+    "additional_armor": {
+        "name": "gear_components",
+        "usePages": [5],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1
+    },
+    "helmet_mounts": {
+        "name": "gear_components",
+        "usePages": [6],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1
+    },
+    "helmet_vanity": {
+        "name": "gear_components",
+        "usePages": [7],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 1,
+        "additionalRegex": "Vanity(.|\n)+\\|}"
+    },
+    "medical": {
+        "name": "medical",
+        "usePages": [2],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "injectors": {
+        "name": "medical",
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "provisions": {
+        "name": "provisions",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "loot": {
+        "name": "loot",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [2],
+        "useRegex": 0
+    },
+    "keys_factory": {
+        "name": "Keys_%26_Intel",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 2,
+        "additionalRegex": "Factory(.|\n)+Customs="
+    },
+    "keys_customs": {
+        "name": "Keys_%26_Intel",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [30],
+        "useRegex": 2,
+        "additionalRegex": "Customs=(.|\n)+Woods="
+    },
+    "keys_woods": {
+        "name": "Keys_%26_Intel",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 2,
+        "additionalRegex": "Woods(.|\n)+Shoreline="
+    },
+    "keys_shoreline": {
+        "name": "Keys_%26_Intel",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [1],
+        "useRegex": 2,
+        "additionalRegex": "Shoreline(.|\n)+Interchange="
+    },
+    "keys_interchange": {
+        "name": "Keys_%26_Intel",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 2,
+        "additionalRegex": "Interchange(.|\n)+The Lab="
+    },
+    "keys_labs": {
+        "name": "Keys_%26_Intel",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 2,
+        "additionalRegex": "The Lab(.|\n)+Reserve="
+    },
+    "keys_reserve": {
+        "name": "Keys_%26_Intel",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 2,
+        "additionalRegex": "Reserve(.|\n)+N/A="
+    },
+    "containers": {
+        "name": "containers",
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    }
+}
