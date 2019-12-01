@@ -196,7 +196,7 @@
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [107],
         "useRegex": 1,
         "additionalRegex": "Magazines(.|\n)+Mounts"
     },
@@ -205,7 +205,7 @@
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [96],
         "useRegex": 1,
         "additionalRegex": "Mounts(.|\n)+Stocks & chassis"
     },
@@ -241,7 +241,7 @@
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [72],
         "useRegex": 1,
         "additionalRegex": "Handguards(.|\n)+Pistol grips"
     },

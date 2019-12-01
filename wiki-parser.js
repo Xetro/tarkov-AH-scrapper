@@ -6,7 +6,7 @@ const OPTIONS = {
   method: "get"
 };
 
-const REQ_DELAY = 400;
+const REQ_DELAY = 200;
 
 const wikitextRegex = {
   0: /\!\s?\[\[(.*?)\]\]/g,
@@ -133,7 +133,7 @@ const getItemNames = (category, section, index) => {
 
         resolve(response);
       } catch (error) {
-        console.log("ERROR getItemNames() request at item: ", item);
+        console.log("ERROR getItemNames() request at item: ", category.name);
         reject(error);
       }
     }, REQ_DELAY * index);
@@ -145,12 +145,17 @@ const getItemSize = (item, pageId, index) => {
     setTimeout(async () => {
       try {
 
+        console.log(pageId, item);
         const path = `/api.php?action=query&prop=revisions&rvprop=content&format=json&pageids=${pageId}`; //&rvsection=0 removed because errors sometimes
         const data = await wikiAPIRequest(path);
         const keys = Object.keys(data.query.pages);
 
         const infoboxText = data.query.pages[keys[0]].revisions[0]["*"];
-        const regexp = infoboxText.match(/grid\s+=(\dx\d)/);
+        let regexp = infoboxText.match(/grid\s+=(\dx\d)/);
+
+        if (!regexp) {
+          regexp = infoboxText.match(/slot\s+=(\dx\d)/);
+        }
 
         const size = {
           width: regexp[1].split("x")[0],

@@ -1,9 +1,0 @@
-handguards
-barrels
-stocks_chassis
-mounts
-magazines
-iron_sights
-muzzle_adapters
-foregrips
-weapons

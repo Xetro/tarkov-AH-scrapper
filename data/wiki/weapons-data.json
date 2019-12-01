@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "ADAR 2-15",
+    "image": "ADAR2-15Image.png",
+    "title": "ADAR 2-15 .223 Carbine",
+    "pageId": 12558,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3c/ADAR2-15Image.png",
+    "filePath": "adar_2_15"
+  },
+  {
+    "name": "AK-101",
+    "image": "AK101 Image.png",
+    "title": "AK-101 5.56x45 assault rifle",
+    "pageId": 9518,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/AK101_Image.png?version=5731781da246316b5d1777667b9fc744",
+    "filePath": "ak_101"
+  },
+  {
+    "name": "AK-102",
+    "image": "Ak102image.png",
+    "title": "AK-102 5.56x45 assault rifle",
+    "pageId": 9520,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ca/Ak102image.png?version=4e804a6fa3b9009fefbe1cc6ed72401f",
+    "filePath": "ak_102"
+  },
+  {
+    "name": "AK-103",
+    "image": "AK-103 7.62x39.png",
+    "title": "AK-103 7.62x39 assault rifle",
+    "pageId": 9535,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/AK-103_7.62x39.png",
+    "filePath": "ak_103"
+  },
+  {
+    "name": "AK-104",
+    "image": "AK-104Image.png",
+    "title": "AK-104 7.62x39 assault rifle",
+    "pageId": 9540,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/AK-104Image.png",
+    "filePath": "ak_104"
+  },
+  {
+    "name": "AK-105",
+    "image": "AK-105 5.45x39.png",
+    "title": "AK-105 5.45x39 assault rifle",
+    "pageId": 9545,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/AK-105_5.45x39.png",
+    "filePath": "ak_105"
+  },
+  {
+    "name": "AK-74",
+    "image": "AK-74Image.png",
+    "title": "AK-74 5.45x39 assault rifle",
+    "pageId": 12552,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/AK-74Image.png",
+    "filePath": "ak_74"
+  },
+  {
+    "name": "AK-74M",
+    "image": "AK-74M.png",
+    "title": "AK-74M 5.45x39 assault rifle",
+    "pageId": 9579,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/AK-74M.png",
+    "filePath": "ak_74m"
+  },
+  {
+    "name": "AK-74N",
+    "image": "Akn.png",
+    "title": "AK-74N 5.45x39 assault rifle",
+    "pageId": 3449,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/Akn.png?version=30e240c3afb3545237d93be4bebaa07a",
+    "filePath": "ak_74n"
+  },
+  {
+    "name": "AKM",
+    "image": "Akm.png",
+    "title": "AKM 7.62x39 assault rifle",
+    "pageId": 6102,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/Akm.png?version=e13f2a9eb56dc0c96a4bb32c0e9c84cb",
+    "filePath": "akm"
+  },
+  {
+    "name": "AKMN",
+    "image": "Akmn.png",
+    "title": "AKMN 7.62x39 assault rifle",
+    "pageId": 7393,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/Akmn.png?version=cfd73b1f41cbd5c57a7f2419bf18545b",
+    "filePath": "akmn"
+  },
+  {
+    "name": "AKMS",
+    "image": "Akms.png",
+    "title": "AKMS 7.62x39 assault rifle",
+    "pageId": 7395,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Akms.png?version=0686f240f14029bba0a35e9de12ac18f",
+    "filePath": "akms"
+  },
+  {
+    "name": "AKMSN",
+    "image": "Akmsn.png",
+    "title": "AKMSN 7.62x39 assault rifle",
+    "pageId": 9589,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/Akmsn.png?version=de932408aed0d2c1923f639624ede746",
+    "filePath": "akmsn"
+  },
+  {
+    "name": "AKS-74",
+    "image": "AKS-74.png",
+    "title": "AKS-74 5.45x39 assault rifle",
+    "pageId": 12555,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/AKS-74.png",
+    "filePath": "aks_74"
+  },
+  {
+    "name": "AKS-74N",
+    "image": "AKS-74N.png",
+    "title": "AKS-74N 5.45x39 assault rifle",
+    "pageId": 9588,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/AKS-74N.png",
+    "filePath": "aks_74n"
+  },
+  {
+    "name": "AKS-74U",
+    "image": "Aks74u.png",
+    "title": "Kalashnikov AKS-74U 5.45x39",
+    "pageId": 7059,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/Aks74u.png?version=4d3730ae3e9013662092a9b758b789fa",
+    "filePath": "aks_74u"
+  },
+  {
+    "name": "AKS-74UB",
+    "image": "Aks74ub.png",
+    "title": "Kalashnikov AKS-74UB 5.45x39",
+    "pageId": 2513,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/Aks74ub.png?version=68f210e1dce8770f3b427ba575014e12",
+    "filePath": "aks_74ub"
+  },
+  {
+    "name": "AKS-74UN",
+    "image": "Aks74un.png",
+    "title": "Kalashnikov AKS-74UN 5.45x39",
+    "pageId": 2511,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Aks74un.png?version=1469bbab961125e69645cd4bd7b701ec",
+    "filePath": "aks_74un"
+  },
+  {
+    "name": "ASh-12",
+    "image": "ASh 12.png",
+    "title": "ASh-12 12.7x55 assault rifle",
+    "pageId": 14715,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/ASh_12.png?version=579a5692d6fdd841534dc8a92b3df7ce",
+    "filePath": "ash_12"
+  },
+  {
+    "name": "DT MDR",
+    "image": "DT_MDR_5.56x45_Assault_Rifle.png",
+    "title": "DT MDR 5.56x45 Assault Rifle",
+    "pageId": 13603,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/DT_MDR_5.56x45_Assault_Rifle.png",
+    "filePath": "dt_mdr"
+  },
+  {
+    "name": "HK 416A5",
+    "image": "HK416Image.png",
+    "title": "HK 416A5 5.56x45 Assault Rifle",
+    "pageId": 11882,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5f/HK416Image.png?version=fea3f8e3be44efe0421df9d3fb4fd731",
+    "filePath": "hk_416a5"
+  },
+  {
+    "name": "M4A1",
+    "image": "M4a1.png",
+    "title": "Colt M4A1 5.56x45 Assault Rifle",
+    "pageId": 7060,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/29/M4a1.png?version=b256443e563c0ef64f6e4c044822dcc0",
+    "filePath": "m4a1"
+  },
+  {
+    "name": "SA-58",
+    "image": "DS Arms SA-58 OSW Para 7.62x51.png",
+    "title": "DS Arms SA-58 7.62x51",
+    "pageId": 10694,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/DS_Arms_SA-58_OSW_Para_7.62x51.png",
+    "filePath": "sa_58"
+  },
+  {
+    "name": "TX-15 DML",
+    "image": "TX-15_View.PNG",
+    "title": "Lone Star TX-15 DML Rifle",
+    "pageId": 15325,
+    "size": {
+      "width": "6",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/TX-15_View.PNG",
+    "filePath": "tx_15_dml"
+  },
+  {
+    "name": "Vepr AKM/VPO-209",
+    "image": "Vpo209.png",
+    "title": "Vepr AKM / VPO-209 366TKM carbine",
+    "pageId": 7112,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Vpo209.png?version=18f8ccad3da779543a265c7dbc2a1058",
+    "filePath": "vepr_akm_vpo_209"
+  },
+  {
+    "name": "Vepr KM/VPO-136",
+    "image": "Vpo136.png",
+    "title": "Vepr KM / VPO-136 7.62x39 carbine",
+    "pageId": 7110,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/Vpo136.png?version=df11a82b205962556ebe11f4f201a451",
+    "filePath": "vepr_km_vpo_136"
+  },
+  {
+    "name": "AS VAL",
+    "image": "Asval.png",
+    "title": "AS VAL",
+    "pageId": 5619,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Asval.png?version=af99b541f83f4f8600ef3e4dba5eb417",
+    "filePath": "as_val"
+  },
+  {
+    "name": "OP-SKS",
+    "image": "Opsks.png",
+    "title": "Simonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version",
+    "pageId": 2500,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/Opsks.png?version=9f2a77df36a6595dcc7bc920e3f069d1",
+    "filePath": "op_sks"
+  },
+  {
+    "name": "SKS",
+    "image": "Sks.png",
+    "title": "Simonov Semi-Automatic Carbine SKS 7.62x39",
+    "pageId": 7061,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/Sks.png?version=d27535b3ba5d6bb0f6a0406d5128097c",
+    "filePath": "sks"
+  },
+  {
+    "name": "Vepr Hunter/VPO-101",
+    "image": "VeprHunterImage.png",
+    "title": "Vepr Hunter/VPO-101 7.62x51 carbine",
+    "pageId": 13615,
+    "size": {
+      "width": "5",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f0/VeprHunterImage.png?version=31089b43bd3f8566dc223a9c1a756b89",
+    "filePath": "vepr_hunter_vpo_101"
+  },
+  {
+    "name": "RPK-16",
+    "image": "RPK-16.png",
+    "title": "RPK-16 5.45x39 light machine gun",
+    "pageId": 12506,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/RPK-16.png",
+    "filePath": "rpk_16"
+  },
+  {
+    "name": "MP5",
+    "image": "Mp5.png",
+    "title": "HK MP5 9x19 submachinegun (Navy 3 Round Burst)",
+    "pageId": 7076,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Mp5.png?version=ae89dcbe3beb79cf47f44ac7d111a6f0",
+    "filePath": "mp5"
+  },
+  {
+    "name": "MP5K-N",
+    "image": "HK_MP5K-N.png",
+    "title": "HK MP5 Kurz 9x19 submachinegun",
+    "pageId": 15328,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/45/HK_MP5K-N.png",
+    "filePath": "mp5k_n"
+  },
+  {
+    "name": "MP7A1",
+    "image": "HKMP7A1Image.png",
+    "title": "HK MP7A1 4.6x30 submachinegun",
+    "pageId": 11744,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/HKMP7A1Image.png?version=458abc4b898d9c154d62468ce1c608f4",
+    "filePath": "mp7a1"
+  },
+  {
+    "name": "MP7A2",
+    "image": "HKMP7A2Image.png",
+    "title": "HK MP7A2 4.6x30 submachinegun",
+    "pageId": 11792,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/52/HKMP7A2Image.png?version=2274e82f60ee44df249efddda8a078a0",
+    "filePath": "mp7a2"
+  },
+  {
+    "name": "MPX",
+    "image": "Mpx.png",
+    "title": "SIG MPX 9x19 Submachine gun",
+    "pageId": 7086,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f7/Mpx.png?version=cc393dd9cd51301b6a6ffa3ca5c9f05f",
+    "filePath": "mpx"
+  },
+  {
+    "name": "P90",
+    "image": "P90Image.png",
+    "title": "FN P90 5.7x28 submachinegun",
+    "pageId": 14717,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6c/P90Image.png?version=d18b8d3f3c976e9584038604a62fa509",
+    "filePath": "p90"
+  },
+  {
+    "name": "PP-19-01 Vityaz-SN",
+    "image": "Pp19.png",
+    "title": "Submachinegun 19-01 Vityaz-SN 9x19",
+    "pageId": 7065,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/Pp19.png?version=fc92ee5b90cddda2812fb1babd16ab7b",
+    "filePath": "pp_19_01_vityaz_sn"
+  },
+  {
+    "name": "PP-9 \"Klin\"",
+    "image": "Klin.png",
+    "title": "PP-9 Klin 9x18PMM SMG",
+    "pageId": 2482,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/48/Klin.png?version=1393f92534507740384295fd55cef15d",
+    "filePath": "pp_9__klin_"
+  },
+  {
+    "name": "PP-91 \"Kedr\"",
+    "image": "Kedr.png",
+    "title": "PP-91 Kedr 9x18PM SMG",
+    "pageId": 5630,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/Kedr.png?version=6945fe888348b12080aa55b681e86a02",
+    "filePath": "pp_91__kedr_"
+  },
+  {
+    "name": "PP-91-01 \"Kedr-B\"",
+    "image": "Kedrb.png",
+    "title": "PP-91-01 Kedr-B 9x18PM SMG",
+    "pageId": 2478,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/Kedrb.png?version=127fa03b00d7a1beedcdc05f26391deb",
+    "filePath": "pp_91_01__kedr_b_"
+  },
+  {
+    "name": "Saiga-9",
+    "image": "Saiga9.png",
+    "title": "Saiga-9 9x19 Carbine",
+    "pageId": 7128,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/70/Saiga9.png?version=6c352adfa882c4b608a61dae00c93db2",
+    "filePath": "saiga_9"
+  },
+  {
+    "name": "M870",
+    "image": "M870.png",
+    "title": "Remington Model 870 12ga shotgun",
+    "pageId": 8124,
+    "size": {
+      "width": "5",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/M870.png?version=ad37563a9762415a25d7b2fabfcbabd9",
+    "filePath": "m870"
+  },
+  {
+    "name": "MP-133",
+    "image": "Mr133.png",
+    "title": "MP-133 12ga shotgun",
+    "pageId": 5642,
+    "size": {
+      "width": "5",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/Mr133.png?version=c6e44366496ff7d57632df6d3f329061",
+    "filePath": "mp_133"
+  },
+  {
+    "name": "MP-153",
+    "image": "Mp153.png",
+    "title": "MP-153 12ga semi-automatic shotgun",
+    "pageId": 5645,
+    "size": {
+      "width": "7",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/Mp153.png?version=e48de6c843fdea5db2cf5a51d38d44bb",
+    "filePath": "mp_153"
+  },
+  {
+    "name": "Saiga-12",
+    "image": "Saiga12.png",
+    "title": "Saiga 12ga ver. 10 12/76 shotgun",
+    "pageId": 7088,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cd/Saiga12.png?version=27c5502b413c5a4f05273eda93dada89",
+    "filePath": "saiga_12"
+  },
+  {
+    "name": "TOZ-106",
+    "image": "Toz.png",
+    "title": "TOZ-106 bolt-action shotgun",
+    "pageId": 7365,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5b/Toz.png?version=1ff1488689f786427bad57be1d0dd91c",
+    "filePath": "toz_106"
+  },
+  {
+    "name": "M1A",
+    "image": "M1A Icon.png",
+    "title": "Springfield Armory M1A 7.62x51",
+    "pageId": 9590,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5f/M1A_Icon.png?version=7272ceafdffa663a2c095a68e291ef3f",
+    "filePath": "m1a"
+  },
+  {
+    "name": "RSASS",
+    "image": "Rsass.png",
+    "title": "Remington R11 RSASS 7.62x51",
+    "pageId": 7623,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/Rsass.png?version=9f5cd7c59b822f8a4255f72eb7adf84b",
+    "filePath": "rsass"
+  },
+  {
+    "name": "SVDS",
+    "image": "SVD-S.png",
+    "title": "SVDS 7.62x54 Sniper rifle",
+    "pageId": 13616,
+    "size": {
+      "width": "6",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/SVD-S.png",
+    "filePath": "svds"
+  },
+  {
+    "name": "VSS Vintorez",
+    "image": "Vss.png",
+    "title": "Special Sniper Rifle VSS Vintorez",
+    "pageId": 5656,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Vss.png?version=f57adc8d7fa975010a88885972f162fb",
+    "filePath": "vss_vintorez"
+  },
+  {
+    "name": "DVL-10",
+    "image": "Dvl10.png",
+    "title": "DVL-10 Saboteur sniper rifle",
+    "pageId": 5660,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6c/Dvl10.png?version=9b87a06274374de2a2ba6034d611c015",
+    "filePath": "dvl_10"
+  },
+  {
+    "name": "M700",
+    "image": "M700Image.png",
+    "title": "Remington Model 700 Sniper rifle",
+    "pageId": 12571,
+    "size": {
+      "width": "5",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/M700Image.png?version=73af2920ddc6534efbe9d925d4056f79",
+    "filePath": "m700"
+  },
+  {
+    "name": "Mosin",
+    "image": "MosinInspect.png",
+    "title": "Mosin bolt-action sniper rifle",
+    "pageId": 10356,
+    "size": {
+      "width": "6",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/MosinInspect.png?version=902782bc3ec7e676b29e26dcff10fe16",
+    "filePath": "mosin"
+  },
+  {
+    "name": "Mosin Inf.",
+    "image": "MosinInfantryImage.png",
+    "title": "Mosin bolt-action infantry rifle",
+    "pageId": 12568,
+    "size": {
+      "width": "6",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/MosinInfantryImage.png?version=71626d51faab5ba51d55a3f7629e76a6",
+    "filePath": "mosin_inf_"
+  },
+  {
+    "name": "SV-98",
+    "image": "Sv98.png",
+    "title": "SV-98 bolt-action sniper rifle",
+    "pageId": 5659,
+    "size": {
+      "width": "5",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7d/Sv98.png?version=2bd8b8f52ac5312d03ee4f911ac2715f",
+    "filePath": "sv_98"
+  },
+  {
+    "name": "APB",
+    "image": "APBImage.png",
+    "title": "Silenced Stechkin Automatic Pistol 9x18PM",
+    "pageId": 9591,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/APBImage.png?version=526f0c6d187d4a1b8e9336efffb41e2a",
+    "filePath": "apb"
+  },
+  {
+    "name": "APS",
+    "image": "Stechkin Automatic Pistol 9x18PM.png",
+    "title": "Stechkin Automatic Pistol 9x18PM",
+    "pageId": 7476,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Stechkin_Automatic_Pistol_9x18PM.png?version=4b1f6a6fb2d59cf830ec2e9ffff6c691",
+    "filePath": "aps"
+  },
+  {
+    "name": "FN 5-7",
+    "image": "Five-seveN.gif",
+    "title": "FN Five-seveN MK2 5.7x28 pistol",
+    "pageId": 14924,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/de/Five-seveN.gif",
+    "filePath": "fn_5_7"
+  },
+  {
+    "name": "GLOCK17",
+    "image": "Glock17.png",
+    "title": "GLOCK 17 9x19 pistol",
+    "pageId": 7867,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Glock17.png?version=d30bd85a45d4f00d67999a669a1a5137",
+    "filePath": "glock17"
+  },
+  {
+    "name": "GLOCK18C",
+    "image": "Glock18CImage.png",
+    "title": "GLOCK 18C 9x19 pistol",
+    "pageId": 10720,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Glock18CImage.png?version=a92968bcfe44a86c22366e73648f22ff",
+    "filePath": "glock18c"
+  },
+  {
+    "name": "M9A3",
+    "image": "EFT UpcomingM9A3.png",
+    "title": "Beretta M9A3 9x19 pistol",
+    "pageId": 14723,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/EFT_UpcomingM9A3.png?version=5584bc2c1e9742701b6924b04b6d8055",
+    "filePath": "m9a3"
+  },
+  {
+    "name": "MP-443 \"Grach\"",
+    "image": "Grach.png",
+    "title": "Yarygin MP-443 Grach 9x19 pistol",
+    "pageId": 2529,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/Grach.png?version=adc1184731a852a1d18a1abe1af214e7",
+    "filePath": "mp_443__grach_"
+  },
+  {
+    "name": "P226R",
+    "image": "P226.png",
+    "title": "P226R 9x19 pistol",
+    "pageId": 2521,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c6/P226.png?version=ce5c9476fbf7563cb7c123ed93afc0cc",
+    "filePath": "p226r"
+  },
+  {
+    "name": "PB pistol",
+    "image": "Pb.png",
+    "title": "PB 9x18PM silenced pistol",
+    "pageId": 2526,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c4/Pb.png?version=67a89adfc9a0414dc4f880132946852e",
+    "filePath": "pb_pistol"
+  },
+  {
+    "name": "PM (t) pistol",
+    "image": "Makarovt.png",
+    "title": "PM (t) 9x18PM pistol",
+    "pageId": 2533,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/Makarovt.png?version=71a2ea2cf200905c473ee566e6e7508a",
+    "filePath": "pm__t__pistol"
+  },
+  {
+    "name": "PM pistol",
+    "image": "Makarov.png",
+    "title": "PM 9x18PM pistol",
+    "pageId": 5664,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4c/Makarov.png?version=409e6b3176c87362229eaef27430823f",
+    "filePath": "pm_pistol"
+  },
+  {
+    "name": "SR-1MP Gyurza",
+    "image": "Sr1mp.png",
+    "title": "9x21 Serdyukov automatic pistol SR1MP Gyurza",
+    "pageId": 7363,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cc/Sr1mp.png?version=f419df3ebd8a44599126d03d343f2508",
+    "filePath": "sr_1mp_gyurza"
+  },
+  {
+    "name": "TT pistol",
+    "image": "Tt.png",
+    "title": "TT pistol 7.62x25 TT",
+    "pageId": 3795,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/Tt.png?version=69092e4b45a1056148e065c93c96504d",
+    "filePath": "tt_pistol"
+  },
+  {
+    "name": "TT pistol (gold)",
+    "image": "TT Pistol 7.62x25 TT gold 2.png",
+    "title": "TT pistol 7.62x25 TT Gold",
+    "pageId": 10763,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/TT_Pistol_7.62x25_TT_gold_2.png",
+    "filePath": "tt_pistol__gold_"
+  },
+  {
+    "name": "6h5 Bayonet",
+    "image": "6h5_Bayonet.PNG",
+    "title": "6h5 Bayonet",
+    "pageId": 12721,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/6h5_Bayonet.PNG?version=53b98998b7b535511228be093a635548",
+    "filePath": "6h5_bayonet"
+  },
+  {
+    "name": "Antique axe",
+    "image": "Antique_Axe.png",
+    "title": "Antique axe",
+    "pageId": 11905,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8a/Antique_Axe.png?version=78a157bcc24e43b4a35864245128ecf5",
+    "filePath": "antique_axe"
+  },
+  {
+    "name": "Bars A-2607- 95x18",
+    "image": "Bars_A-2607-_95x18.png",
+    "title": "Bars A-2607- 95x18",
+    "pageId": 2564,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ac/Bars_A-2607-_95x18.png",
+    "filePath": "bars_a_2607__95x18"
+  },
+  {
+    "name": "Bars A-2607- Damascus",
+    "image": "Bars_A-2607-_Damascus.png",
+    "title": "Bars A-2607- Damascus",
+    "pageId": 2559,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/Bars_A-2607-_Damascus.png",
+    "filePath": "bars_a_2607__damascus"
+  },
+  {
+    "name": "Crash Axe",
+    "image": "Crash_axe.png",
+    "title": "Crash Axe",
+    "pageId": 12724,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a6/Crash_axe.png?version=14f28fe97766fd283773a95e4306f9d3",
+    "filePath": "crash_axe"
+  },
+  {
+    "name": "Kiba Arms Tactical Tomahawk",
+    "image": "Gerber_Downrange_Tomahawk.png",
+    "title": "Kiba Arms Tactical Tomahawk",
+    "pageId": 2558,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/Gerber_Downrange_Tomahawk.png?version=3e4d11ba5decf722dc8d46422ba383e0",
+    "filePath": "kiba_arms_tactical_tomahawk"
+  },
+  {
+    "name": "ER Fulcrum Bayonet",
+    "image": "ER_Fulcrum_Bayonet.png",
+    "title": "ER Fulcrum Bayonet",
+    "pageId": 2555,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/69/ER_Fulcrum_Bayonet.png?version=0ac9390b996412fd188643cb5856e908",
+    "filePath": "er_fulcrum_bayonet"
+  },
+  {
+    "name": "Freeman crowbar",
+    "image": "Freeman-Crowbar-Ins.png",
+    "title": "Freeman crowbar",
+    "pageId": 12806,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8a/Freeman-Crowbar-Ins.png",
+    "filePath": "freeman_crowbar"
+  },
+  {
+    "name": "M-2 Tactical Sword",
+    "image": "M-2_Tactical_Sword.PNG",
+    "title": "M-2 Tactical Sword",
+    "pageId": 12722,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/74/M-2_Tactical_Sword.PNG",
+    "filePath": "m_2_tactical_sword"
+  },
+  {
+    "name": "MPL-50 entrenching tool",
+    "image": "MPL-50_entrenching_tool.PNG",
+    "title": "MPL-50 entrenching tool",
+    "pageId": 12580,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/MPL-50_entrenching_tool.PNG",
+    "filePath": "mpl_50_entrenching_tool"
+  },
+  {
+    "name": "Red Rebel Ice pick",
+    "image": "Rebel_Adze_Axe.png",
+    "title": "Red Rebel Ice pick",
+    "pageId": 12845,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/Rebel_Adze_Axe.png?version=99ad2ca242391675da04b18bb91a7348",
+    "filePath": "red_rebel_ice_pick"
+  },
+  {
+    "name": "SP-8 Survival Machete",
+    "image": "SP-8_Survival_Machete.PNG",
+    "title": "SP-8 Survival Machete",
+    "pageId": 12811,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/56/SP-8_Survival_Machete.PNG",
+    "filePath": "sp_8_survival_machete"
+  },
+  {
+    "name": "Camper axe",
+    "image": "X7 axe.png",
+    "title": "Camper axe",
+    "pageId": 12812,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9f/X7_axe.png?version=e1c2f3ce92910afa9558fe791d8000ef",
+    "filePath": "camper_axe"
+  },
+  {
+    "name": "F-1",
+    "image": "F1.png",
+    "title": "F-1 Hand grenade",
+    "pageId": 5068,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/F1.png?version=d6a4aed13ec773a85101ef6305fcf79d",
+    "filePath": "f_1"
+  },
+  {
+    "name": "M67",
+    "image": "M67.png",
+    "title": "M67 Hand grenade",
+    "pageId": 5680,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e2/M67.png?version=4adc0f1b19bb0465da9d57b77cf623eb",
+    "filePath": "m67"
+  },
+  {
+    "name": "RGD-5",
+    "image": "Rgd5.png",
+    "title": "RGD-5 hand grenade",
+    "pageId": 5676,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Rgd5.png?version=f2b84db6938a5d8aa1ca479983b35564",
+    "filePath": "rgd_5"
+  },
+  {
+    "name": "RDG-2B",
+    "image": "RDG-2B Smoke grenade.png",
+    "title": "RDG-2B Smoke grenade",
+    "pageId": 9584,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/RDG-2B_Smoke_grenade.png",
+    "filePath": "rdg_2b"
+  },
+  {
+    "name": "Zarya",
+    "image": "Zarya stun grenade.png",
+    "title": "Zarya stun grenade",
+    "pageId": 9698,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8d/Zarya_stun_grenade.png?version=c6eb06ebec061841e4cb379e8ea12ca8",
+    "filePath": "zarya"
+  }
+]

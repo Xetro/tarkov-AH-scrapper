@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "SI Advanced receiver extension buffer tube",
+    "image": "AnodisedIcon.gif",
+    "title": "SI Advanced receiver extension buffer tube",
+    "pageId": 13889,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/93/AnodisedIcon.gif?version=c76411fbf002820ea99943531b8d888f",
+    "filePath": "si_advanced_receiver_extension_buffer_tube"
+  },
+  {
+    "name": "SI Viper Mod.1 Stock",
+    "image": "Viperstockicon.png",
+    "title": "SI Viper Mod.1 Stock",
+    "pageId": 13891,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/Viperstockicon.png?version=4610dfbc7f3c5bd8ff1585a765d3c4ac",
+    "filePath": "si_viper_mod_1_stock"
+  },
+  {
+    "name": "Polymer stock for SVDS",
+    "image": "Polymer stock for SVDS icon.png",
+    "title": "Polymer stock for SVDS",
+    "pageId": 13831,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Polymer_stock_for_SVDS_icon.png?version=976e2478a3fe9978ae364b18ae3e80c5",
+    "filePath": "polymer_stock_for_svds"
+  },
+  {
+    "name": "Regular VPO-101 \"Vepr Hunter\" stock",
+    "image": "VPO-101SIcon.png",
+    "title": "Regular VPO-101 \"Vepr Hunter\" stock",
+    "pageId": 13613,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/VPO-101SIcon.png",
+    "filePath": "regular_vpo_101__vepr_hunter__stock"
+  },
+  {
+    "name": "HK E1 Stock for AR-15 and compatable",
+    "image": "HK E1 Icon.png",
+    "title": "HK E1 Stock for AR-15 and compatable",
+    "pageId": 13907,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c6/HK_E1_Icon.png?version=539a99d28218c47b5c520b410897591f",
+    "filePath": "hk_e1_stock_for_ar_15_and_compatable"
+  },
+  {
+    "name": "PMM \"ULSS\" foldable MCX/MPX stock",
+    "image": "PMM ULSS foldable MCXMPX stock icon.png",
+    "title": "PMM \"ULSS\" foldable MCX/MPX stock",
+    "pageId": 13860,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/03/PMM_ULSS_foldable_MCXMPX_stock_icon.png?version=bbb4985991ea87ac7de65026ce148adb",
+    "filePath": "pmm__ulss__foldable_mcx_mpx_stock"
+  },
+  {
+    "name": "Maxim Defence CQB collapsing/telescoping MCX/MPX stock",
+    "image": "MD CQB Icon.png",
+    "title": "Maxim Defence CQB collapsing/telescoping MCX/MPX stock",
+    "pageId": 13859,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/MD_CQB_Icon.png?version=75ccb2bc3f47547c6b2750ecdc81ca98",
+    "filePath": "maxim_defence_cqb_collapsing_telescoping_mcx_mpx_stock"
+  },
+  {
+    "name": "Custom cut mosin stock for TOZ-106",
+    "image": "TOZ Mosin Icon.png",
+    "title": "Custom cut mosin stock for TOZ-106",
+    "pageId": 13912,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/TOZ_Mosin_Icon.png?version=7246acc1df1d21f0d4449d6218007a9b",
+    "filePath": "custom_cut_mosin_stock_for_toz_106"
+  },
+  {
+    "name": "ADAR 2-15 wooden stock",
+    "image": "Adarstockicon.png",
+    "title": "ADAR 2-15 wooden stock",
+    "pageId": 12771,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/Adarstockicon.png?version=75dced3f67324b890d34530073d39824",
+    "filePath": "adar_2_15_wooden_stock"
+  },
+  {
+    "name": "HK End Cap Stock for MP5",
+    "image": "Mp5capicon.png",
+    "title": "HK End Cap Stock for MP5",
+    "pageId": 12796,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/Mp5capicon.png?version=a4dba42dae77602913c6f5e8e20e227e",
+    "filePath": "hk_end_cap_stock_for_mp5"
+  },
+  {
+    "name": "Hogue \"Overmolded ghillie\" stock for Remington Model 700",
+    "image": "Ghilliem700stockicon.png",
+    "title": "Hogue \"Overmolded ghillie\" stock for Remington Model 700",
+    "pageId": 12713,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Ghilliem700stockicon.png?version=62c357b8b57c777c5f1d23a0ffcd3c0f",
+    "filePath": "hogue__overmolded_ghillie__stock_for_remington_model_700"
+  },
+  {
+    "name": "Fab Defence buffer tube for AGR-870",
+    "image": "Agr870stockicon.png",
+    "title": "Fab Defence buffer tube for AGR-870",
+    "pageId": 12710,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/Agr870stockicon.png?version=cd0c214496c8c0845bfbe60c7da5ae1e",
+    "filePath": "fab_defence_buffer_tube_for_agr_870"
+  },
+  {
+    "name": "Fab Defence GLR-16-S Stock",
+    "image": "Glr16icon.png",
+    "title": "Fab Defence GLR-16-S Stock",
+    "pageId": 12708,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Glr16icon.png?version=2aeb45d0915d85330ff83599d28cc9b9",
+    "filePath": "fab_defence_glr_16_s_stock"
+  },
+  {
+    "name": "Mosin carbine stock",
+    "image": "Mosincarabinestockicon.png",
+    "title": "Mosin carbine stock",
+    "pageId": 12621,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/Mosincarabinestockicon.png?version=bd885eb2cfc479615641b85c1c435362",
+    "filePath": "mosin_carbine_stock"
+  },
+  {
+    "name": "Mosin rifle sniper carbine stock",
+    "image": "MosinRifleCarabineStock Icon.png",
+    "title": "Mosin rifle sniper carbine stock",
+    "pageId": 12619,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/MosinRifleCarabineStock_Icon.png?version=20e813767cc5f1b27d95962af519b5f0",
+    "filePath": "mosin_rifle_sniper_carbine_stock"
+  },
+  {
+    "name": "Sawn off regular Mosin rifle stock",
+    "image": "Sawnoffregularstockicon.png",
+    "title": "Sawn off regular Mosin rifle stock",
+    "pageId": 12618,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/Sawnoffregularstockicon.png?version=36fb207343b9eebdc417017c1658727b",
+    "filePath": "sawn_off_regular_mosin_rifle_stock"
+  },
+  {
+    "name": "Sawn off Mosin rifle sniper stock",
+    "image": "Sawnoffsniperstockicon.png",
+    "title": "Sawn off Mosin rifle sniper stock",
+    "pageId": 12704,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/Sawnoffsniperstockicon.png?version=90d7de792618847b714697eb0062590e",
+    "filePath": "sawn_off_mosin_rifle_sniper_stock"
+  },
+  {
+    "name": "Infantry Mosin rifle stock",
+    "image": "Infantrymosinstockicon.png",
+    "title": "Infantry Mosin rifle stock",
+    "pageId": 12622,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ac/Infantrymosinstockicon.png?version=d18a46e73835a58684882b2d954d156d",
+    "filePath": "infantry_mosin_rifle_stock"
+  },
+  {
+    "name": "Izhmash AK-12 regular stock",
+    "image": "Ak12stockicon.png",
+    "title": "Izhmash AK-12 regular stock",
+    "pageId": 12598,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/Ak12stockicon.png?version=3ac300c8a9fe477143c162c8b0543fc8",
+    "filePath": "izhmash_ak_12_regular_stock"
+  },
+  {
+    "name": "Izhmash RPK-16 buffer tube",
+    "image": "Izhmash RPK-16 buffer tube icon.png",
+    "title": "Izhmash RPK-16 buffer tube",
+    "pageId": 12597,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Izhmash_RPK-16_buffer_tube_icon.png",
+    "filePath": "izhmash_rpk_16_buffer_tube"
+  },
+  {
+    "name": "ProMag Archangel OPFOR PRS Mosin rifle stock",
+    "image": "MosinArchangelcon.png",
+    "title": "ProMag Archangel OPFOR PRS Mosin rifle stock",
+    "pageId": 11941,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4a/MosinArchangelcon.png?version=96b265cb3a69f372e9ce1883250b7758",
+    "filePath": "promag_archangel_opfor_prs_mosin_rifle_stock"
+  },
+  {
+    "name": "ATI Monte Carlo Mosin rifle stock",
+    "image": "MonteCarloStockIcon.png",
+    "title": "ATI Monte Carlo Mosin rifle stock",
+    "pageId": 11934,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4a/MonteCarloStockIcon.png?version=abf3c9c6f1834accde3b0847d74901c8",
+    "filePath": "ati_monte_carlo_mosin_rifle_stock"
+  },
+  {
+    "name": "Recoil pad from Aim Sports for Mosin rifle",
+    "image": "MosinPadIcon.png",
+    "title": "Recoil pad from Aim Sports for Mosin rifle",
+    "pageId": 11935,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dc/MosinPadIcon.png?version=66baa4ed6d909f59186c06ccbe13bada",
+    "filePath": "recoil_pad_from_aim_sports_for_mosin_rifle"
+  },
+  {
+    "name": "HK \"Enhanced Tube\" buffer tube",
+    "image": "Hkenhancedbuffertubeicon.png",
+    "title": "HK \"Enhanced Tube\" buffer tube",
+    "pageId": 11937,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/Hkenhancedbuffertubeicon.png?version=84ea7ace505b53a08166790b90b42241",
+    "filePath": "hk__enhanced_tube__buffer_tube"
+  },
+  {
+    "name": "HK Slim Line Stock",
+    "image": "HKSlimLineStockIcon.png",
+    "title": "HK Slim Line Stock",
+    "pageId": 11936,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/HKSlimLineStockIcon.png?version=0f2d33bab347a8ab1ba88bf1113eeb29",
+    "filePath": "hk_slim_line_stock"
+  },
+  {
+    "name": "Regular stock for HK MP7A1",
+    "image": "A1StockIcon.png",
+    "title": "Regular stock for HK MP7A1",
+    "pageId": 11885,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/A1StockIcon.png?version=e179ebaafa491b08b589608037640a95",
+    "filePath": "regular_stock_for_hk_mp7a1"
+  },
+  {
+    "name": "Regular stock for HK MP7A2",
+    "image": "MP7A2StockIcon.png",
+    "title": "Regular stock for HK MP7A2",
+    "pageId": 11886,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/05/MP7A2StockIcon.png?version=3b7ee828c019b6be57812844e97eb9bc",
+    "filePath": "regular_stock_for_hk_mp7a2"
+  },
+  {
+    "name": "Polymer stock DSA humpback for SA-58",
+    "image": "FAL Humpback Icon.png",
+    "title": "Polymer stock DSA humpback for SA-58",
+    "pageId": 11529,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/ff/FAL_Humpback_Icon.png?version=7db477aafac84c1b68d618545e5caf4d",
+    "filePath": "polymer_stock_dsa_humpback_for_sa_58"
+  },
+  {
+    "name": "DSA SPR stock for SA-58",
+    "image": "FAL SPR Stock Icon.png",
+    "title": "DSA SPR stock for SA-58",
+    "pageId": 11528,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/FAL_SPR_Stock_Icon.png?version=e9fb622f084dbb37c671b62a688383fd",
+    "filePath": "dsa_spr_stock_for_sa_58"
+  },
+  {
+    "name": "DSA Folding stock for SA-58",
+    "image": "FAL Folding SA58 Icon.png",
+    "title": "DSA Folding stock for SA-58",
+    "pageId": 11527,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/FAL_Folding_SA58_Icon.png?version=5ce2e72227bb0670d5396a794f5db84e",
+    "filePath": "dsa_folding_stock_for_sa_58"
+  },
+  {
+    "name": "DSA BRS stock for SA-58",
+    "image": "FAL BRS Icon.png",
+    "title": "DSA BRS stock for SA-58",
+    "pageId": 11526,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/FAL_BRS_Icon.png?version=744833ecf21208cc41dc4880bfa4fc3f",
+    "filePath": "dsa_brs_stock_for_sa_58"
+  },
+  {
+    "name": "Magpul PRS 2polymer stock for FAL",
+    "image": "PRS2 FAL Icon.png",
+    "title": "Magpul PRS 2polymer stock for FAL",
+    "pageId": 11423,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/42/PRS2_FAL_Icon.png?version=160474cb00162f59982d49f0f5afe6ac",
+    "filePath": "magpul_prs_2polymer_stock_for_fal"
+  },
+  {
+    "name": "Buffer Tube adapter for SA-58",
+    "image": "SA58_Buffer_Icon.png",
+    "title": "Buffer Tube adapter for SA-58",
+    "pageId": 11051,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/22/SA58_Buffer_Icon.png?version=912d508eb4c68f9ccc815fa1088ba907",
+    "filePath": "buffer_tube_adapter_for_sa_58"
+  },
+  {
+    "name": "Zhukov-S for AK",
+    "image": "ZhukovS Icon.png",
+    "title": "Zhukov-S for AK",
+    "pageId": 11047,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/ZhukovS_Icon.png?version=db9636af41039975880724c36bd532e4",
+    "filePath": "zhukov_s_for_ak"
+  },
+  {
+    "name": "F93 Pro Stock",
+    "image": "F93_Icon.png",
+    "title": "F93 Pro Stock",
+    "pageId": 11046,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/F93_Icon.png?version=a29cecdac0f7dec3521beafb4c7fc21f",
+    "filePath": "f93_pro_stock"
+  },
+  {
+    "name": "EMOD Stock",
+    "image": "emodstockicon.png",
+    "title": "EMOD Stock",
+    "pageId": 10915,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6f/Emodstockicon.png?version=87aa6c069dcb28cf42dc01ee89bf65ca",
+    "filePath": "emod_stock"
+  },
+  {
+    "name": "Tapco buffer tube",
+    "image": "TAPCO_Tube_Icon.png",
+    "title": "Tapco buffer tube",
+    "pageId": 10878,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/87/TAPCO_Tube_Icon.png?version=200f38711d8d2d96fe0eacb727b9b20d",
+    "filePath": "tapco_buffer_tube"
+  },
+  {
+    "name": "ADAR buffer tube",
+    "image": "ADARBufferTubeIcon.png",
+    "title": "ADAR buffer tube",
+    "pageId": 14952,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/ADARBufferTubeIcon.png?version=5be214ece4d3a2366460ad5fa2393b4f",
+    "filePath": "adar_buffer_tube"
+  },
+  {
+    "name": "M1A Archangel stock",
+    "image": "Archangelstockicon.png",
+    "title": "M1A Archangel stock",
+    "pageId": 10400,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/Archangelstockicon.png?version=80b8c7785449e473bb2dd128b8daf4bc",
+    "filePath": "m1a_archangel_stock"
+  },
+  {
+    "name": "M14 M14ALCS(MOD. 0) stock",
+    "image": "M14alcsstockicon.png",
+    "title": "M14 M14ALCS(MOD. 0) stock",
+    "pageId": 10402,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/M14alcsstockicon.png?version=6d5d7cf930b1dad3dafcc86adee8d518",
+    "filePath": "m14_m14alcs_mod__0__stock"
+  },
+  {
+    "name": "M14 M14ALCS(MOD. 0) stock (buttstock)",
+    "image": "M14alcsbuttstockicon.png",
+    "title": "M14 M14ALCS(MOD. 0) stock (buttstock)",
+    "pageId": 10403,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/M14alcsbuttstockicon.png?version=1e36c7af9244687e85db3dcd4d0876eb",
+    "filePath": "m14_m14alcs_mod__0__stock__buttstock_"
+  },
+  {
+    "name": "LEO stock adapter for M870",
+    "image": "Leom870icon.png",
+    "title": "LEO stock adapter for M870",
+    "pageId": 10385,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/Leom870icon.png?version=0107d8226997c06f2a64ec2bd0ccbb7a",
+    "filePath": "leo_stock_adapter_for_m870"
+  },
+  {
+    "name": "MC 20-01 stock",
+    "image": "Tozfullsizestockicon.png",
+    "title": "MC 20-01 stock",
+    "pageId": 10384,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7e/Tozfullsizestockicon.png?version=8bd4fd1322a9fd58bc7c1b23754156a3",
+    "filePath": "mc_20_01_stock"
+  },
+  {
+    "name": "Regular Mosin rifle stock",
+    "image": "Mosin Stock Icon.png",
+    "title": "Regular Mosin rifle stock",
+    "pageId": 10357,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Mosin_Stock_Icon.png?version=9cca33e6831727f2d73d13ae6677a811",
+    "filePath": "regular_mosin_rifle_stock"
+  },
+  {
+    "name": "LMT Sopmod stock",
+    "image": "LMTSopmodStockIcon.png",
+    "title": "LMT Sopmod stock",
+    "pageId": 10241,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/LMTSopmodStockIcon.png?version=01502efcbeba755a6b23b55e43ac6d17",
+    "filePath": "lmt_sopmod_stock"
+  },
+  {
+    "name": "Troy S.A.S.S. Chassis stock for M14",
+    "image": "S.a.s.sm14icon.png",
+    "title": "Troy S.A.S.S. Chassis stock for M14",
+    "pageId": 9767,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/S.a.s.sm14icon.png",
+    "filePath": "troy_s_a_s_s__chassis_stock_for_m14"
+  },
+  {
+    "name": "AKM/AK-74 PT Lock",
+    "image": "AKM AK-74N PT Lock icon.png",
+    "title": "AKM/AK-74 PT Lock",
+    "pageId": 10855,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/AKM_AK-74N_PT_Lock_icon.png",
+    "filePath": "akm_ak_74_pt_lock"
+  },
+  {
+    "name": "AK74/AK100 PT Lock",
+    "image": "Ptlockicon.png",
+    "title": "AK74/AK100 PT Lock",
+    "pageId": 9745,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/Ptlockicon.png?version=2030a0f5eceb0891d834bfc7dc712a57",
+    "filePath": "ak74_ak100_pt_lock"
+  },
+  {
+    "name": "Polymer stock for AK-74M (6P34 Sb.15)",
+    "image": "6p45sb15icon.png",
+    "title": "Polymer stock for AK-74M (6P34 Sb.15)",
+    "pageId": 9744,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/6p45sb15icon.png?version=7009e768e44fa46df38abc75299c4e20",
+    "filePath": "polymer_stock_for_ak_74m__6p34_sb_15_"
+  },
+  {
+    "name": "Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)",
+    "image": "6p4nsb.1-19icon.png",
+    "title": "Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)",
+    "pageId": 9742,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/6p4nsb.1-19icon.png",
+    "filePath": "izhmash_shoulder_piece_for_akmsn__6p4_sb_1_19_"
+  },
+  {
+    "name": "IzhMash metal stock for AKS-74 (6P21 Sb.5)",
+    "image": "6p21sb.5.png",
+    "title": "IzhMash metal stock for AKS-74 (6P21 Sb.5)",
+    "pageId": 9741,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/07/6p21sb.5.png",
+    "filePath": "izhmash_metal_stock_for_aks_74__6p21_sb_5_"
+  },
+  {
+    "name": "M1A Socom 16 stock",
+    "image": "Socom16stockicon.png",
+    "title": "M1A Socom 16 stock",
+    "pageId": 9752,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f4/Socom16stockicon.png?version=3423e1be11212e334fd96590e6232a04",
+    "filePath": "m1a_socom_16_stock"
+  },
+  {
+    "name": "Fab Defence GL Shock Stock",
+    "image": "Glshockstockicon.png",
+    "title": "Fab Defence GL Shock Stock",
+    "pageId": 9751,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/Glshockstockicon.png?version=8c95304ba36e47543b270f30e7ed2767",
+    "filePath": "fab_defence_gl_shock_stock"
+  },
+  {
+    "name": "MOE Carbine stock",
+    "image": "MOE_Stock_Icon.gif",
+    "title": "MOE Carbine stock",
+    "pageId": 3007,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/87/MOE_Stock_Icon.gif?version=0fdefde228761ec01bfe5a5e8f8e0090",
+    "filePath": "moe_carbine_stock"
+  },
+  {
+    "name": "HK A2 Stock",
+    "image": "Hka2stockicon.png",
+    "title": "HK A2 Stock",
+    "pageId": 7246,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/65/Hka2stockicon.png?version=c34c5071c4ffbd35db565df822f42405",
+    "filePath": "hk_a2_stock"
+  },
+  {
+    "name": "Magpul Rubber Butt-Pad for Carbine stock series",
+    "image": "M4buttpadicon.png",
+    "title": "Magpul Rubber Butt-Pad for Carbine stock series",
+    "pageId": 7248,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7d/M4buttpadicon.png?version=01266a6e64a44d9310cdef4a6aa0ea43",
+    "filePath": "magpul_rubber_butt_pad_for_carbine_stock_series"
+  },
+  {
+    "name": "TOZ stock for TOZ-106",
+    "image": "Tozstockicon.png",
+    "title": "TOZ stock for TOZ-106",
+    "pageId": 8429,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Tozstockicon.png?version=507525b8a77fb9d7c26c90e8fe7bd928",
+    "filePath": "toz_stock_for_toz_106"
+  },
+  {
+    "name": "HK A3 old stock model",
+    "image": "Hka3stock.png",
+    "title": "HK A3 old stock model",
+    "pageId": 7245,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/Hka3stock.png?version=5140454ca9b258f564fb8ea58cee7381",
+    "filePath": "hk_a3_old_stock_model"
+  },
+  {
+    "name": "Magpul PRS GEN2 FDE stock",
+    "image": "Prsgen2icon.png",
+    "title": "Magpul PRS GEN2 FDE stock",
+    "pageId": 8404,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Prsgen2icon.png?version=3dbfa5b43c8880f5deb852d6390911cc",
+    "filePath": "magpul_prs_gen2_fde_stock"
+  },
+  {
+    "name": "High Standard M4SS Stock",
+    "image": "Standardm4ssstockicon.png",
+    "title": "High Standard M4SS Stock",
+    "pageId": 3115,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/Standardm4ssstockicon.png?version=691166b11f4fc9b3cd64738a07c70244",
+    "filePath": "high_standard_m4ss_stock"
+  },
+  {
+    "name": "ME adapter for AK",
+    "image": "Me4icon.png",
+    "title": "ME adapter for AK",
+    "pageId": 2983,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/Me4icon.png?version=03c21cd37a395fa5e700690039e11e0f",
+    "filePath": "me_adapter_for_ak"
+  },
+  {
+    "name": "Izhmash shoulder piece for AKMS (6P4 Sb.1-19)",
+    "image": "Akmsstock.png",
+    "title": "Izhmash shoulder piece for AKMS (6P4 Sb.1-19)",
+    "pageId": 8421,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/Akmsstock.png?version=291a1aa75c8af20f66cdcf3c51526fd0",
+    "filePath": "izhmash_shoulder_piece_for_akms__6p4_sb_1_19_"
+  },
+  {
+    "name": "UBR GEN2 stock",
+    "image": "UBR_GEN2_Icon.gif",
+    "title": "UBR GEN2 stock",
+    "pageId": 7224,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7b/UBR_GEN2_Icon.gif?version=e6f747a573adb5ea3b0f94f52ce79d16",
+    "filePath": "ubr_gen2_stock"
+  },
+  {
+    "name": "AKS-74/AKS-74U PT Lock",
+    "image": "PT74SIcon.png",
+    "title": "AKS-74/AKS-74U PT Lock",
+    "pageId": 7205,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/PT74SIcon.png?version=6e85f8661a3d3ebbf3f9389a2f446504",
+    "filePath": "aks_74_aks_74u_pt_lock"
+  },
+  {
+    "name": "Izhmash SOK-12 AK type stock",
+    "image": "Saiga12stockicon.png",
+    "title": "Izhmash SOK-12 AK type stock",
+    "pageId": 3251,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e7/Saiga12stockicon.png?version=b6f26439eb621e17c49ca7769e21f83a",
+    "filePath": "izhmash_sok_12_ak_type_stock"
+  },
+  {
+    "name": "MFT BUS Stock",
+    "image": "Busstockicon.png",
+    "title": "MFT BUS Stock",
+    "pageId": 7252,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/Busstockicon.png?version=d93694899f6e125375e93942e399e9ef",
+    "filePath": "mft_bus_stock"
+  },
+  {
+    "name": "Zenit PT-3 \"Klassika\" stock",
+    "image": "Pt3stockicon.png",
+    "title": "Zenit PT-3 \"Klassika\" stock",
+    "pageId": 7083,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Pt3stockicon.png?version=6e0a6f9b513a1cd63e3e70959f44d9e5",
+    "filePath": "zenit_pt_3__klassika__stock"
+  },
+  {
+    "name": "Zenit PT-1 \"Klassika\" stock",
+    "image": "Zenit PT-1 Klassika stock icon.png",
+    "title": "Zenit PT-1 \"Klassika\" stock",
+    "pageId": 10848,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3d/Zenit_PT-1_Klassika_stock_icon.png",
+    "filePath": "zenit_pt_1__klassika__stock"
+  },
+  {
+    "name": "Molot wooden VPO-136 stock",
+    "image": "Vpo136sstockicon.png",
+    "title": "Molot wooden VPO-136 stock",
+    "pageId": 7152,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/Vpo136sstockicon.png?version=6ea548ee5319782fcc2f56357840e97a",
+    "filePath": "molot_wooden_vpo_136_stock"
+  },
+  {
+    "name": "Izhmash metal stock for AKS-74U (6P26 Sb.5)",
+    "image": "Aksustockicon.png",
+    "title": "Izhmash metal stock for AKS-74U (6P26 Sb.5)",
+    "pageId": 3255,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Aksustockicon.png?version=8468dab1e1ec1a123ab05c2cf751e37d",
+    "filePath": "izhmash_metal_stock_for_aks_74u__6p26_sb_5_"
+  },
+  {
+    "name": "Wooden stock for Molot OP-SKS",
+    "image": "Sksstocklightwood.png",
+    "title": "Wooden stock for Molot OP-SKS",
+    "pageId": 3258,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6c/Sksstocklightwood.png?version=e1207ff77ba664323729aaef7d3305a4",
+    "filePath": "wooden_stock_for_molot_op_sks"
+  },
+  {
+    "name": "Izhmash wooden AKM stock (6P1 Sb.5)",
+    "image": "6p1sb5icon.png",
+    "title": "Izhmash wooden AKM stock (6P1 Sb.5)",
+    "pageId": 7078,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/6p1sb5icon.png?version=1808f264d22040e400f798124ebcccd0",
+    "filePath": "izhmash_wooden_akm_stock__6p1_sb_5_"
+  },
+  {
+    "name": "Wooden stock 56-A-231 Sb.5",
+    "image": "Sksstockdarkwood.png",
+    "title": "Wooden stock 56-A-231 Sb.5",
+    "pageId": 3250,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/Sksstockdarkwood.png?version=a08ff9f61f0fb630af5c32888f1e321c",
+    "filePath": "wooden_stock_56_a_231_sb_5"
+  },
+  {
+    "name": "Izhmash polymer AK-74 stock (6P20 Sb.7)",
+    "image": "6p20sb7.png",
+    "title": "Izhmash polymer AK-74 stock (6P20 Sb.7)",
+    "pageId": 3247,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/6p20sb7.png?version=7a816c7b90e600061293d1db5596002f",
+    "filePath": "izhmash_polymer_ak_74_stock__6p20_sb_7_"
+  },
+  {
+    "name": "TSNIITochMash VSS Vintorez stock",
+    "image": "Vssstockicon.png",
+    "title": "TSNIITochMash VSS Vintorez stock",
+    "pageId": 3254,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/Vssstockicon.png?version=959d37e9d40efe13ac2fea50472db04e",
+    "filePath": "tsniitochmash_vss_vintorez_stock"
+  },
+  {
+    "name": "Plastic pistol grip for MP-133/153",
+    "image": "Shottypistolgripstockicon.png",
+    "title": "Plastic pistol grip for MP-133/153",
+    "pageId": 3010,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/Shottypistolgripstockicon.png?version=660f19d8105f3f627b88f7b0d1005238",
+    "filePath": "plastic_pistol_grip_for_mp_133_153"
+  },
+  {
+    "name": "TSNIITochMash AS VAL stock",
+    "image": "Valstockicon.png",
+    "title": "TSNIITochMash AS VAL stock",
+    "pageId": 3032,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/Valstockicon.png?version=4043b48ef48277748f3b76fd128bf8da",
+    "filePath": "tsniitochmash_as_val_stock"
+  },
+  {
+    "name": "APB detachable wire stock",
+    "image": "Apbstockicon.png",
+    "title": "APB detachable wire stock",
+    "pageId": 9704,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/Apbstockicon.png?version=7b0ea5161eada6614cbdb1d0a6d890d7",
+    "filePath": "apb_detachable_wire_stock"
+  },
+  {
+    "name": "SIG retractable stock pipe adapter",
+    "image": "Mpxadaptericon.png",
+    "title": "SIG retractable stock pipe adapter",
+    "pageId": 6902,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Mpxadaptericon.png?version=5910193cfa45bd9b842364ccf075a82b",
+    "filePath": "sig_retractable_stock_pipe_adapter"
+  },
+  {
+    "name": "Troy M7A1 PDW stock",
+    "image": "M7A1 Icon.gif",
+    "title": "Troy M7A1 PDW stock",
+    "pageId": 7227,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/M7A1_Icon.gif?version=0df3dde9ff5cc28acae7be46307fc599",
+    "filePath": "troy_m7a1_pdw_stock"
+  },
+  {
+    "name": "Armacon Baskak stock",
+    "image": "Baskakstockicon.png",
+    "title": "Armacon Baskak stock",
+    "pageId": 3050,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/51/Baskakstockicon.png?version=33e66e00b3195478355d92d99017cdec",
+    "filePath": "armacon_baskak_stock"
+  },
+  {
+    "name": "Wooden stock for MP-133/153",
+    "image": "Shottywoodenstockicon.png",
+    "title": "Wooden stock for MP-133/153",
+    "pageId": 3244,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dd/Shottywoodenstockicon.png?version=db7b45f9d4422b30648d75bfec571fc8",
+    "filePath": "wooden_stock_for_mp_133_153"
+  },
+  {
+    "name": "Early produced SIG collapsing/telescoping MCX/MPX stock",
+    "image": "Mpxstockicon.png",
+    "title": "Early produced SIG collapsing/telescoping MCX/MPX stock",
+    "pageId": 3264,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/Mpxstockicon.png?version=3305abdb673da25ee381021b69854190",
+    "filePath": "early_produced_sig_collapsing_telescoping_mcx_mpx_stock"
+  },
+  {
+    "name": "Plastic stock for MP-133/153",
+    "image": "Shottyplasticstock.png",
+    "title": "Plastic stock for MP-133/153",
+    "pageId": 3243,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ce/Shottyplasticstock.png?version=f5c27bbe524c6cea639794ea33b3e922",
+    "filePath": "plastic_stock_for_mp_133_153"
+  },
+  {
+    "name": "Recoil pad from GP-25 for AK Accessory Kit",
+    "image": "Akbuttpadicon.png",
+    "title": "Recoil pad from GP-25 for AK Accessory Kit",
+    "pageId": 8393,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/eb/Akbuttpadicon.png?version=26ed0c007051146610e7c235f2febf0b",
+    "filePath": "recoil_pad_from_gp_25_for_ak_accessory_kit"
+  },
+  {
+    "name": "COLT \"A2\" buffer tube",
+    "image": "Ca2buffertubeicon.png",
+    "title": "COLT \"A2\" buffer tube",
+    "pageId": 8403,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/Ca2buffertubeicon.png?version=d93694899f6e125375e93942e399e9ef",
+    "filePath": "colt__a2__buffer_tube"
+  },
+  {
+    "name": "LOBAEV Arms Stock",
+    "image": "Dvlstockicon.png",
+    "title": "LOBAEV Arms Stock",
+    "pageId": 3263,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/29/Dvlstockicon.png?version=a274800ba615ada1c73113b841a6e085",
+    "filePath": "lobaev_arms_stock"
+  },
+  {
+    "name": "Molot wooden VPO-209 stock",
+    "image": "Vpo209stockicon.png",
+    "title": "Molot wooden VPO-209 stock",
+    "pageId": 7158,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Vpo209stockicon.png?version=e6826af94f67b3cfd73d329dffc14a16",
+    "filePath": "molot_wooden_vpo_209_stock"
+  },
+  {
+    "name": "Colt buffer tube",
+    "image": "Cstbuffertubeicon.png",
+    "title": "Colt buffer tube",
+    "pageId": 2997,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Cstbuffertubeicon.png?version=b68a3f879d19f426bc616a8889021357",
+    "filePath": "colt_buffer_tube"
+  },
+  {
+    "name": "Izhmash wooden AK-74 stock (6P20 Sb.5)",
+    "image": "6p20sb5icon.png",
+    "title": "Izhmash wooden AK-74 stock (6P20 Sb.5)",
+    "pageId": 3104,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/6p20sb5icon.png?version=918df6281fd90b260d2df9a468c45f2a",
+    "filePath": "izhmash_wooden_ak_74_stock__6p20_sb_5_"
+  },
+  {
+    "name": "Metal Izhmash stock for PP-19-01",
+    "image": "Pp19stockicon.png",
+    "title": "Metal Izhmash stock for PP-19-01",
+    "pageId": 7066,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a1/Pp19stockicon.png?version=e42f5c80057a4e873a1a733cb4fbffea",
+    "filePath": "metal_izhmash_stock_for_pp_19_01"
+  },
+  {
+    "name": "SGA stock for M870",
+    "image": "M870stockmagpulicon.png",
+    "title": "SGA stock for M870",
+    "pageId": 9721,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/12/M870stockmagpulicon.png?version=9f76321e80b27699d1317e09d62d2172",
+    "filePath": "sga_stock_for_m870"
+  },
+  {
+    "name": "Remington SPS Polymer stock for M870",
+    "image": "Remingtom SPS polymer stock for M870 icon.png",
+    "title": "Remington SPS Polymer stock for M870",
+    "pageId": 9720,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/Remingtom_SPS_polymer_stock_for_M870_icon.png?version=802729483a090037d56cb7744fd3fcc8",
+    "filePath": "remington_sps_polymer_stock_for_m870"
+  },
+  {
+    "name": "Raptor grip for M870",
+    "image": "Raptoricon.png",
+    "title": "Raptor grip for M870",
+    "pageId": 9719,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/Raptoricon.png?version=e85091d0be4c03cd896d8874e210a27a",
+    "filePath": "raptor_grip_for_m870"
+  },
+  {
+    "name": "Tapco INTRAFUSE Stock for SKS",
+    "image": "Tapco_intrafuse_icon.png",
+    "title": "Tapco INTRAFUSE Stock for SKS",
+    "pageId": 10876,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/Tapco_intrafuse_icon.png?version=32c4c3e8bccd423b53f09cce9b1bab06",
+    "filePath": "tapco_intrafuse_stock_for_sks"
+  },
+  {
+    "name": "Fab Defense UAS for AK",
+    "image": "UASAK_Icon.png",
+    "title": "Fab Defense UAS for AK",
+    "pageId": 10996,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/UASAK_Icon.png?version=104b3d55875777db78ca6af1be4fd237",
+    "filePath": "fab_defense_uas_for_ak"
+  },
+  {
+    "name": "FN P90 stock",
+    "image": "wiki.png",
+    "title": "FN P90 stock",
+    "pageId": 15419,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "fn_p90_stock"
+  },
+  {
+    "name": "FN PS90 stock",
+    "image": "FN PS90 stock icon.jpg",
+    "title": "FN PS90 stock",
+    "pageId": 15450,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/05/FN_PS90_stock_icon.jpg?version=a3c1a87eab8e75e86cb8ef2974121237",
+    "filePath": "fn_ps90_stock"
+  },
+  {
+    "name": "FN Butt pad for P90",
+    "image": "wiki.png",
+    "title": "FN Butt pad for P90",
+    "pageId": 15420,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "fn_butt_pad_for_p90"
+  },
+  {
+    "name": "Damage Industries Butt-pad for P90",
+    "image": "wiki.png",
+    "title": "Damage Industries Butt-pad for P90",
+    "pageId": 15421,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "damage_industries_butt_pad_for_p90"
+  },
+  {
+    "name": "M700 MOD X Gen.3 stock",
+    "image": "M700_MOD_X_Gen3_stock_icon.png",
+    "title": "M700 MOD X Gen.3 stock",
+    "pageId": 15439,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/de/M700_MOD_X_Gen3_stock_icon.png?version=cbbdcc9136e11e2be232547cca73d4a1",
+    "filePath": "m700_mod_x_gen_3_stock"
+  },
+  {
+    "name": "Buffer tube side folder adapter for M700",
+    "image": "wiki.png",
+    "title": "Buffer tube side folder adapter for M700",
+    "pageId": 15440,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "buffer_tube_side_folder_adapter_for_m700"
+  },
+  {
+    "name": "Magpul PRO 700 chassis",
+    "image": "Pro700Chassis_icon.png",
+    "title": "Magpul PRO 700 chassis",
+    "pageId": 15443,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/Pro700Chassis_icon.png?version=2ad01f01bba0de7499d6428acab92de6",
+    "filePath": "magpul_pro_700_chassis"
+  },
+  {
+    "name": "PRO 700 folding stock",
+    "image": "Pro700Stock_icon.png",
+    "title": "PRO 700 folding stock",
+    "pageId": 15444,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/Pro700Stock_icon.png?version=ec04e71a423ef4ea9a5ebe7903737aa3",
+    "filePath": "pro_700_folding_stock"
+  },
+  {
+    "name": "Promag Archangel polymer stock for M700",
+    "image": "wiki.png",
+    "title": "Promag Archangel polymer stock for M700",
+    "pageId": 15453,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "promag_archangel_polymer_stock_for_m700"
+  },
+  {
+    "name": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
+    "image": "wiki.png",
+    "title": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
+    "pageId": 16052,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "caa_akts_ak_74_buffer_tube_for_ak_and_compatable"
+  },
+  {
+    "name": "CAA AKTS AK-74 Buffer Tube for AK and compatable (foldable)",
+    "image": "wiki.png",
+    "title": "CAA AKTS AK-74 Buffer Tube for AK and compatable (foldable)",
+    "pageId": 15458,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "caa_akts_ak_74_buffer_tube_for_ak_and_compatable__foldable_"
+  },
+  {
+    "name": "Fab Defence UAS Stock for SKS",
+    "image": "wiki.png",
+    "title": "Fab Defence UAS Stock for SKS",
+    "pageId": 15481,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "fab_defence_uas_stock_for_sks"
+  },
+  {
+    "name": "Double Star Ace Socom gen.4 stock for AR-15",
+    "image": "wiki.png",
+    "title": "Double Star Ace Socom gen.4 stock for AR-15",
+    "pageId": 15500,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "double_star_ace_socom_gen_4_stock_for_ar_15"
+  },
+  {
+    "name": "Double Star recoil pad 0.5 for ACE stock series",
+    "image": "wiki.png",
+    "title": "Double Star recoil pad 0.5 for ACE stock series",
+    "pageId": 15501,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "double_star_recoil_pad_0_5_for_ace_stock_series"
+  },
+  {
+    "name": "Magpul CTR Carbine stock",
+    "image": "wiki.png",
+    "title": "Magpul CTR Carbine stock",
+    "pageId": 15513,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "magpul_ctr_carbine_stock"
+  },
+  {
+    "name": "Fab Defence GLR-17 Stock for Glock and compatable",
+    "image": "wiki.png",
+    "title": "Fab Defence GLR-17 Stock for Glock and compatable",
+    "pageId": 15531,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "fab_defence_glr_17_stock_for_glock_and_compatable"
+  },
+  {
+    "name": "AT AICS polymer stock for M700",
+    "image": "wiki.png",
+    "title": "AT AICS polymer stock for M700",
+    "pageId": 15542,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "at_aics_polymer_stock_for_m700"
+  },
+  {
+    "name": "HK End Cap Stock for MP5 Kurz",
+    "image": "wiki.png",
+    "title": "HK End Cap Stock for MP5 Kurz",
+    "pageId": 15554,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "hk_end_cap_stock_for_mp5_kurz"
+  },
+  {
+    "name": "Magpul PRS GEN3 stock",
+    "image": "PRS Gen 3 Grey.PNG",
+    "title": "Magpul PRS GEN3 stock",
+    "pageId": 15575,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/PRS_Gen_3_Grey.PNG?version=2421da5bc2f6d49b6c1d04b7a5fe7bf6",
+    "filePath": "magpul_prs_gen3_stock"
+  }
+]
