@@ -3,6 +3,7 @@ const ocr = require('./ocr');
 const categories = require("./wiki-categories.json");
 const util = require('util');
 const fs = require('fs');
+const moment = require('moment');
 
 const writeFile = (fileName, data) => util.promisify(fs.writeFile)(fileName, data);
 
@@ -53,11 +54,12 @@ const runOCR = async (category) => {
     const JSONwithPrices = await ocr.processImage(category);
 
     try {
-        await writeFile(`./data/final/${category}-data.json`, JSON.stringify(JSONwithPrices, null, 2));
+        const timestamp = moment().format('YYYYMMDDHHmmss');
+        await writeFile(`./data/final/${category}-data-${timestamp}.json`, JSON.stringify(JSONwithPrices, null, 2));
         console.log('File writen');
     } catch (error) {
-        console.log(err);
-        throw err;
+        console.log(error);
+        throw error;
     }
 }
 

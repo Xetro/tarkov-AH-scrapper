@@ -1,0 +1,1171 @@
+[
+  {
+    "name": "Gemech ONE 7.62x51 Sound Suppressor",
+    "image": "Gemech ONE Icon.png",
+    "title": "Gemech ONE 7.62x51 Sound Suppressor",
+    "pageId": 13894,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/Gemech_ONE_Icon.png?version=a16d66bb0fd8b23c034786fec8d79986",
+    "filePath": "gemech_one_7_62x51_sound_suppressor",
+    "marketSearchName": "Gemech ONE 7.62x51 Sound Suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "54000",
+      "58000",
+      "59995",
+      "59999",
+      "60000",
+      "62998",
+      "62999"
+    ]
+  },
+  {
+    "name": "AAC Illusion 9 9x19mm silencer",
+    "image": "Illusion Icon.png",
+    "title": "AAC Illusion 9 9x19mm silencer",
+    "pageId": 13899,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Illusion_Icon.png?version=878e418ea15b5298f426082887d5f706",
+    "filePath": "aac_illusion_9_9x19mm_silencer",
+    "marketSearchName": "AAC Illusion 9 9x19mm silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "27000",
+      "29000",
+      "29000",
+      "29000",
+      "29000",
+      "29000",
+      "29750",
+      "29990",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000"
+    ]
+  },
+  {
+    "name": "Sig SRD 9 9x19mm sound suppressor",
+    "image": "SRD9Icon.png",
+    "title": "Sig SRD 9 9x19mm sound suppressor",
+    "pageId": 13864,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/SRD9Icon.png?version=8e86d031067e4784552e79451b445516",
+    "filePath": "sig_srd_9_9x19mm_sound_suppressor",
+    "marketSearchName": "Sig SRD 9 9x19mm sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "32499",
+      "32500",
+      "32500",
+      "32500",
+      "33900",
+      "33999",
+      "34500",
+      "34900",
+      "35000",
+      "36900"
+    ]
+  },
+  {
+    "name": "Regular SV-98 7.62x54 silencer",
+    "image": "SV98Sil.png",
+    "title": "Regular SV-98 7.62x54 silencer",
+    "pageId": 13612,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/SV98Sil.png?version=5974c157b8caa84a572a49b9ae540e29",
+    "filePath": "regular_sv_98_7_62x54_silencer",
+    "marketSearchName": "Regular SV-98 7.62x54 silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "25000",
+      "30999",
+      "31000",
+      "31111",
+      "32000",
+      "32500",
+      "32999",
+      "33000",
+      "33000",
+      "37500",
+      "38000",
+      "38212",
+      "40000",
+      "41000"
+    ]
+  },
+  {
+    "name": "Surefire SOCOM556-MONSTER 5.56x45 silencer",
+    "image": "Surfire Monster.png",
+    "title": "Surefire SOCOM556-MONSTER 5.56x45 silencer",
+    "pageId": 3004,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/Surfire_Monster.png?version=57d6e9e7aed0b6104d2afa5b6aa624f0",
+    "filePath": "surefire_socom556_monster_5_56x45_silencer",
+    "marketSearchName": "Surefire SOCOM556-MONSTER 5.56x45 silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "54490",
+      "54500",
+      "54999",
+      "60000",
+      "60000"
+    ]
+  },
+  {
+    "name": "Surefire SOCOM556-MINI MONSTER 5.56x45 Silencer",
+    "image": "Surefire Mini Monster.png",
+    "title": "Surefire SOCOM556-MINI MONSTER 5.56x45 Silencer",
+    "pageId": 3439,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/Surefire_Mini_Monster.png?version=7d88753ddb045b8f59cb81dcf6050e19",
+    "filePath": "surefire_socom556_mini_monster_5_56x45_silencer",
+    "marketSearchName": "Surefire SOCOM556-MINI MONSTER 5.56x45 Silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "37433",
+      "37440",
+      "40900",
+      "41000",
+      "41000",
+      "41573",
+      "42000",
+      "42568",
+      "45000",
+      "47999",
+      "52888",
+      "52999",
+      "55555",
+      "56788"
+    ]
+  },
+  {
+    "name": "B&T Rotex 2 4.6x30 silencer",
+    "image": "Rotex2Icon.png",
+    "title": "B&T Rotex 2 4.6x30 silencer",
+    "pageId": 11867,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Rotex2Icon.png?version=557676e4d954e0f840a084946d6ce12a",
+    "filePath": "b_t_rotex_2_4_6x30_silencer",
+    "marketSearchName": "B&T Rotex 2 4.6x30 silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "45000",
+      "50000"
+    ]
+  },
+  {
+    "name": "Bramit silencer for a Mosin rifle",
+    "image": "BramitIcon.png",
+    "title": "Bramit silencer for a Mosin rifle",
+    "pageId": 11482,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/BramitIcon.png?version=1cc3a4c4813f67e2f08b4f6f181e739c",
+    "filePath": "bramit_silencer_for_a_mosin_rifle",
+    "marketSearchName": "Bramit silencer for a Mosin rifle",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "39989",
+      "39999",
+      "40000",
+      "40000",
+      "43999",
+      "44443",
+      "44444",
+      "44444",
+      "44445",
+      "44500",
+      "44500",
+      "44800",
+      "44888",
+      "45000"
+    ]
+  },
+  {
+    "name": "Hexagon 12K sound suppressor",
+    "image": "Hexagon12kicon.png",
+    "title": "Hexagon 12K sound suppressor",
+    "pageId": 6884,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Hexagon12kicon.png?version=7ae9623ab832d129ab9a02e78da46e7a",
+    "filePath": "hexagon_12k_sound_suppressor",
+    "marketSearchName": "Hexagon 12K sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "20000",
+      "20000",
+      "23960",
+      "25000",
+      "25555",
+      "25999",
+      "26000",
+      "26000",
+      "26499",
+      "27000",
+      "27777",
+      "28000",
+      "28990",
+      "28999"
+    ]
+  },
+  {
+    "name": "PBS-4 5.45x39 Silencer",
+    "image": "Pbs-4icon.png",
+    "title": "PBS-4 5.45x39 Silencer",
+    "pageId": 3070,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/Pbs-4icon.png",
+    "filePath": "pbs_4_5_45x39_silencer",
+    "marketSearchName": "PBS-4 5.45x39 Silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "22000",
+      "22222",
+      "25555",
+      "25555",
+      "26000",
+      "26500",
+      "26900",
+      "26999",
+      "26999",
+      "26999",
+      "26999",
+      "27000",
+      "28000",
+      "28000"
+    ]
+  },
+  {
+    "name": "Hexagon AK-74 5.45x39 sound suppressor",
+    "image": "Hexagonak-47icon.png",
+    "title": "Hexagon AK-74 5.45x39 sound suppressor",
+    "pageId": 6893,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/82/Hexagonak-47icon.png",
+    "filePath": "hexagon_ak_74_5_45x39_sound_suppressor",
+    "marketSearchName": "Hexagon AK-74 5.45x39 sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "27000",
+      "27000",
+      "28500",
+      "30000",
+      "30000",
+      "31000",
+      "31000",
+      "31898",
+      "32500",
+      "33000",
+      "33000",
+      "33000",
+      "33000",
+      "35999"
+    ]
+  },
+  {
+    "name": "Hexagon SKS 7.62x39 sound suppressor",
+    "image": "Heaxagonsksicon.png",
+    "title": "Hexagon SKS 7.62x39 sound suppressor",
+    "pageId": 6889,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Heaxagonsksicon.png?version=13bca67a7c59f6233768acbc43a0f394",
+    "filePath": "hexagon_sks_7_62x39_sound_suppressor",
+    "marketSearchName": "Hexagon SKS 7.62x39 sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "36000",
+      "36666",
+      "36666",
+      "36999",
+      "37999",
+      "38000",
+      "38000",
+      "38000",
+      "38000",
+      "38000",
+      "38500",
+      "38500",
+      "38999",
+      "39998"
+    ]
+  },
+  {
+    "name": "Zenit DTK-4M muzzle brake",
+    "image": "Dtk-4micon.png",
+    "title": "Zenit DTK-4M muzzle brake",
+    "pageId": 8418,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/50/Dtk-4micon.png",
+    "filePath": "zenit_dtk_4m_muzzle_brake",
+    "marketSearchName": "Zenit DTK-4",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "32900",
+      "33000",
+      "33500",
+      "34000",
+      "34000",
+      "35000",
+      "35000",
+      "35000",
+      "39000",
+      "39000",
+      "39999",
+      "40000",
+      "40000",
+      "40000"
+    ]
+  },
+  {
+    "name": "Hexagon AKM 7.62x39 sound suppressor",
+    "image": "Hexagonakmicon.png",
+    "title": "Hexagon AKM 7.62x39 sound suppressor",
+    "pageId": 6887,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/Hexagonakmicon.png?version=b4ce6b1bb39e8eb0120e29c1a1599b49",
+    "filePath": "hexagon_akm_7_62x39_sound_suppressor",
+    "marketSearchName": "Hexagon AKM 7.62x39 sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "39999",
+      "40998",
+      "42000",
+      "42000",
+      "42500",
+      "42999",
+      "43000",
+      "43000",
+      "43000",
+      "43555",
+      "44749",
+      "44758",
+      "45000",
+      "45000"
+    ]
+  },
+  {
+    "name": "Rotor 43 9x19 muzzle brake",
+    "image": "Icon Rotor43 9.19.png",
+    "title": "Rotor 43 9x19 muzzle brake",
+    "pageId": 9880,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/Icon_Rotor43_9.19.png",
+    "filePath": "rotor_43_9x19_muzzle_brake",
+    "marketSearchName": "Rotor 43 9x19 muzzle brake",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "15000",
+      "15000",
+      "15999",
+      "16000",
+      "16900",
+      "17000",
+      "17500",
+      "17999",
+      "18000",
+      "19000",
+      "21000",
+      "25900",
+      "28331",
+      "29899"
+    ]
+  },
+  {
+    "name": "Rotor 43 7.62x39 muzzle brake",
+    "image": "Icon Rotor43 7.62.png",
+    "title": "Rotor 43 7.62x39 muzzle brake",
+    "pageId": 9879,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/Icon_Rotor43_7.62.png",
+    "filePath": "rotor_43_7_62x39_muzzle_brake",
+    "marketSearchName": "Rotor 43 7.62x39 muzzle brake",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "34999",
+      "35000",
+      "39999",
+      "40000",
+      "40000",
+      "40000",
+      "40199",
+      "40999",
+      "41000",
+      "41000",
+      "41000",
+      "41000",
+      "41498",
+      "41900"
+    ]
+  },
+  {
+    "name": "Rotor 43 .366TKM muzzle brake",
+    "image": "Icon Rotor43 366TKM.png",
+    "title": "Rotor 43 .366TKM muzzle brake",
+    "pageId": 9877,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/Icon_Rotor43_366TKM.png?version=56016efb1ee77d7388c16d4dd4de0184",
+    "filePath": "rotor_43__366tkm_muzzle_brake",
+    "marketSearchName": "Rotor 43 .366TKM muzzle brake",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "15999",
+      "16000",
+      "16555",
+      "16900",
+      "17000",
+      "17990",
+      "18000",
+      "18000",
+      "18000",
+      "18000",
+      "18500",
+      "18500",
+      "19500",
+      "20000"
+    ]
+  },
+  {
+    "name": "Rotor 43 5.56x45 muzzle brake",
+    "image": "Icon Rotor43 5.56x45.png",
+    "title": "Rotor 43 5.56x45 muzzle brake",
+    "pageId": 9878,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a1/Icon_Rotor43_5.56x45.png",
+    "filePath": "rotor_43_5_56x45_muzzle_brake",
+    "marketSearchName": "Rotor 43 5.56x45 muzzle brake",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "47999",
+      "62000",
+      "63900",
+      "64000",
+      "64000",
+      "65000",
+      "66000",
+      "66000",
+      "68000",
+      "69998",
+      "69999",
+      "70000",
+      "70000",
+      "70000"
+    ]
+  },
+  {
+    "name": "Silencer APB 9x18PM",
+    "image": "Apbsilencericon.png",
+    "title": "Silencer APB 9x18PM",
+    "pageId": 9883,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/Apbsilencericon.png?version=8a399eb590abcede030cb4b2a5b7e115",
+    "filePath": "silencer_apb_9x18pm",
+    "marketSearchName": "Silencer APB 9x18PM",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "6666",
+      "6680",
+      "7000",
+      "8700",
+      "8800",
+      "9000",
+      "9000",
+      "9500",
+      "9900",
+      "9998",
+      "9999",
+      "10000",
+      "10000",
+      "10000"
+    ]
+  },
+  {
+    "name": "SilencerCo Salvo 12 sound suppressor",
+    "image": "SilencerCo Salvo 12 sound suppressor Icon.png",
+    "title": "SilencerCo Salvo 12 sound suppressor",
+    "pageId": 11057,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/SilencerCo_Salvo_12_sound_suppressor_Icon.png?version=59c634710077d56ea917c908084c5afd",
+    "filePath": "silencerco_salvo_12_sound_suppressor",
+    "marketSearchName": "SilencerCo Salvo 12 sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "39888",
+      "39999",
+      "40000",
+      "40500"
+    ]
+  },
+  {
+    "name": "MP5SD 9x19 silencer",
+    "image": "MP5SDsuppressoricon.png",
+    "title": "MP5SD 9x19 silencer",
+    "pageId": 6898,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/MP5SDsuppressoricon.png?version=f98b815216645cd0a074c223070c380e",
+    "filePath": "mp5sd_9x19_silencer",
+    "marketSearchName": "MP5SD 9x19 silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "31199",
+      "31200",
+      "31420",
+      "31982",
+      "31983",
+      "31985",
+      "31990",
+      "31995"
+    ]
+  },
+  {
+    "name": "AAC 762 SDN-6 7.62x51 Sound Suppressor",
+    "image": "762sdn-6icon.png",
+    "title": "AAC 762 SDN-6 7.62x51 Sound Suppressor",
+    "pageId": 8426,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/762sdn-6icon.png",
+    "filePath": "aac_762_sdn_6_7_62x51_sound_suppressor",
+    "marketSearchName": "AAC 762 SDN-6 7.62x51 Sound Suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "64000",
+      "70000",
+      "71000",
+      "72000",
+      "72000",
+      "72222",
+      "72400",
+      "72499",
+      "72500",
+      "72500",
+      "72798",
+      "72999",
+      "73000",
+      "73000"
+    ]
+  },
+  {
+    "name": "SilencerCo Osprey 9 9x19mm sound suppressor",
+    "image": "Osprey9icon.png",
+    "title": "SilencerCo Osprey 9 9x19mm sound suppressor",
+    "pageId": 8423,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/Osprey9icon.png?version=96c587e83a2e913049e8ba27350bbd3c",
+    "filePath": "silencerco_osprey_9_9x19mm_sound_suppressor",
+    "marketSearchName": "SilencerCo Osprey 9 9x19mm sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "25000",
+      "25000",
+      "26500",
+      "26990",
+      "27500",
+      "27500",
+      "28000",
+      "28000",
+      "28500",
+      "28899",
+      "28933",
+      "29000",
+      "29000",
+      "29000"
+    ]
+  },
+  {
+    "name": "SR1MP silencer 9x21",
+    "image": "Sr1mpicon.png",
+    "title": "SR1MP silencer 9x21",
+    "pageId": 8439,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/Sr1mpicon.png?version=8906af13ba75425877097625fb65a0ec",
+    "filePath": "sr1mp_silencer_9x21",
+    "marketSearchName": "SR1MP silencer 9x21",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "23999",
+      "24500",
+      "250001",
+      "25000",
+      "258881",
+      "27000",
+      "27000",
+      "27999",
+      "28000",
+      "28999",
+      "30000",
+      "31000",
+      "31900",
+      "31900"
+    ]
+  },
+  {
+    "name": "Silencerco Hybrid 46 multi-caliber silencer",
+    "image": "Hybrid46icon.png",
+    "title": "Silencerco Hybrid 46 multi-caliber silencer",
+    "pageId": 6881,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/Hybrid46icon.png?version=0e3c721616ff97c0484c4c9fef689bb8",
+    "filePath": "silencerco_hybrid_46_multi_caliber_silencer",
+    "marketSearchName": "Silencerco Hybrid 46 multi-caliber silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "90000",
+      "940001",
+      "94498",
+      "94800",
+      "94999",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000"
+    ]
+  },
+  {
+    "name": "Vityaz 9x19 sound suppressing device",
+    "image": "Vityazsilicon.png",
+    "title": "Vityaz 9x19 sound suppressing device",
+    "pageId": 6901,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/Vityazsilicon.png?version=6ca717d3149ada5092dfef3bfcec5686",
+    "filePath": "vityaz_9x19_sound_suppressing_device",
+    "marketSearchName": "Vityaz 9x19 sound suppressing device",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "14000",
+      "14998",
+      "14999",
+      "14999",
+      "15000",
+      "16750",
+      "18000",
+      "18000",
+      "18000",
+      "18700",
+      "19999",
+      "20000",
+      "20000",
+      "20000"
+    ]
+  },
+  {
+    "name": "Makeshift 7.62x25 TT silencer",
+    "image": "Ttsilencericon.png",
+    "title": "Makeshift 7.62x25 TT silencer",
+    "pageId": 3002,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/Ttsilencericon.png?version=b6f261674b8861226e58bba18cc62101",
+    "filePath": "makeshift_7_62x25_tt_silencer",
+    "marketSearchName": "Makeshift 7.62x25",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9000",
+      "9000",
+      "9000",
+      "9500",
+      "9500",
+      "9999",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10500"
+    ]
+  },
+  {
+    "name": "Fischer Development FD917 suppressor",
+    "image": "Fd917icon.png",
+    "title": "Fischer Development FD917 suppressor",
+    "pageId": 8458,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Fd917icon.png?version=2795632e7fe9b93ce8e875847346c23c",
+    "filePath": "fischer_development_fd917_suppressor",
+    "marketSearchName": "Fischer Development FD917 suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "30123",
+      "30500",
+      "31000",
+      "31000",
+      "31000",
+      "31000",
+      "31500",
+      "31999",
+      "31999",
+      "32000",
+      "32999",
+      "33000",
+      "34999",
+      "35888"
+    ]
+  },
+  {
+    "name": "Alpha Dog Alpha 9 9x19 sound suppressor",
+    "image": "Alpha9icon.png",
+    "title": "Alpha Dog Alpha 9 9x19 sound suppressor",
+    "pageId": 8434,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Alpha9icon.png?version=386093edf9f9321ca451907f3e0552bc",
+    "filePath": "alpha_dog_alpha_9_9x19_sound_suppressor",
+    "marketSearchName": "Alpha Dog Alpha 9 9x19 sound suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "28999",
+      "29999",
+      "30000",
+      "30000",
+      "35000",
+      "39990",
+      "39999",
+      "39999",
+      "40000",
+      "41000"
+    ]
+  },
+  {
+    "name": "KAC QDSS NT-4 5.56x45 silencer",
+    "image": "NT4_Icon.gif",
+    "title": "KAC QDSS NT-4 5.56x45 silencer",
+    "pageId": 6687,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/NT4_Icon.gif?version=f727dff496f9a20e6aeeb12694378669",
+    "filePath": "kac_qdss_nt_4_5_56x45_silencer",
+    "marketSearchName": "KAC QDSS NT-4",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "29998",
+      "33000",
+      "33500",
+      "33750",
+      "33999",
+      "34000",
+      "34000",
+      "34000",
+      "34000",
+      "34000",
+      "34000",
+      "34000",
+      "34500",
+      "34500"
+    ]
+  },
+  {
+    "name": "MPX-SD 9x19 Integrated silencer",
+    "image": "Mpx-sdicon.png",
+    "title": "MPX-SD 9x19 Integrated silencer",
+    "pageId": 6866,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/Mpx-sdicon.png",
+    "filePath": "mpx_sd_9x19_integrated_silencer",
+    "marketSearchName": "MPX-SD 9x19 Integrated silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "16000",
+      "16999",
+      "17500",
+      "17500",
+      "18000",
+      "18999",
+      "19000",
+      "19000",
+      "19150",
+      "19999",
+      "22364",
+      "32000"
+    ]
+  },
+  {
+    "name": "VSS 9x39 integral barrel-suppressor",
+    "image": "Vsssuppressoricon.png",
+    "title": "VSS 9x39 integral barrel-suppressor",
+    "pageId": 3444,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/Vsssuppressoricon.png?version=cda2d55e9bc68f3c094373fda027f261",
+    "filePath": "vss_9x39_integral_barrel_suppressor",
+    "marketSearchName": "VSS 9x39 integral barrel-suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "22469",
+      "23408",
+      "29260"
+    ]
+  },
+  {
+    "name": "PBS-1 7.62x39 silencer",
+    "image": "Pbs-1icon.png",
+    "title": "PBS-1 7.62x39 silencer",
+    "pageId": 8420,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/Pbs-1icon.png",
+    "filePath": "pbs_1_7_62x39_silencer",
+    "marketSearchName": "PBS-1 7.62x39 silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "50104",
+      "52600",
+      "54998",
+      "54999",
+      "55000",
+      "59999",
+      "60000",
+      "65999"
+    ]
+  },
+  {
+    "name": "Stock silencer for PB 9x18 PM",
+    "image": "Pbs-sicon.png",
+    "title": "Stock silencer for PB 9x18 PM",
+    "pageId": 3442,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/Pbs-sicon.png",
+    "filePath": "stock_silencer_for_pb_9x18_pm",
+    "marketSearchName": "Stock silencer for PB 9x18 PM",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "50104",
+      "52600",
+      "54998",
+      "54999",
+      "55000",
+      "59999",
+      "60000",
+      "65999"
+    ]
+  },
+  {
+    "name": "TGP-A 5.45x39 muzzle device/suppressor",
+    "image": "Tgp-aicon.png",
+    "title": "TGP-A 5.45x39 muzzle device/suppressor",
+    "pageId": 3440,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/Tgp-aicon.png",
+    "filePath": "tgp_a_5_45x39_muzzle_device_suppressor",
+    "marketSearchName": "TGP-A 5.45x39 muzzle device/suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "26000",
+      "27333",
+      "27499",
+      "28000",
+      "28000",
+      "28000",
+      "28500",
+      "28500",
+      "28888",
+      "29000",
+      "29950",
+      "30000",
+      "30000",
+      "31000"
+    ]
+  },
+  {
+    "name": "AS VAL 9x39 integral barrel-suppressor",
+    "image": "Valsuppressoricon.png",
+    "title": "AS VAL 9x39 integral barrel-suppressor",
+    "pageId": 3064,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/Valsuppressoricon.png?version=f513247c5f635c96d0c28420bde9147e",
+    "filePath": "as_val_9x39_integral_barrel_suppressor",
+    "marketSearchName": "AS VAL 9x39 integral barrel-suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "23000",
+      "23000",
+      "23999",
+      "24280",
+      "30000",
+      "33997"
+    ]
+  },
+  {
+    "name": "PP-91-01 Kedr-B 9x18PM suppressor",
+    "image": "PP-91-01 Suppressor icon.png",
+    "title": "PP-91-01 Kedr-B 9x18PM suppressor",
+    "pageId": 3446,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/PP-91-01_Suppressor_icon.png",
+    "filePath": "pp_91_01_kedr_b_9x18pm_suppressor",
+    "marketSearchName": "PP-91-01 Kedr-B 9x18PM suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "12000",
+      "12999",
+      "129991",
+      "13998",
+      "13999",
+      "14000",
+      "14000",
+      "14500",
+      "14750",
+      "14750",
+      "14999",
+      "15500",
+      "17999",
+      "18500"
+    ]
+  },
+  {
+    "name": "ASh-12 12.7x55 tactical suppressor",
+    "image": "wiki.png",
+    "title": "ASh-12 12.7x55 tactical suppressor",
+    "pageId": 15410,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "ash_12_12_7x55_tactical_suppressor",
+    "marketSearchName": "ASh-12 12.7x55 tactical suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "28000",
+      "28500",
+      "28500",
+      "28500",
+      "28500",
+      "28770",
+      "28775",
+      "28776",
+      "28777",
+      "28899",
+      "28998",
+      "28999",
+      "29000",
+      "29000"
+    ]
+  },
+  {
+    "name": "FN Attenuator 5.7x28 silencer",
+    "image": "FN Attenuator 5.7x28 silencer icon.jpg",
+    "title": "FN Attenuator 5.7x28 silencer",
+    "pageId": 15449,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/FN_Attenuator_5.7x28_silencer_icon.jpg",
+    "filePath": "fn_attenuator_5_7x28_silencer",
+    "marketSearchName": "FN Attenuator 5.7x28 silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "44999",
+      "45000",
+      "45000",
+      "46500",
+      "47000",
+      "48900",
+      "49000",
+      "49000",
+      "49999",
+      "50000",
+      "50000",
+      "50000",
+      "50000",
+      "50000"
+    ]
+  },
+  {
+    "name": "Daniel Defence Wave QD Sound Suppressor",
+    "image": "wiki.png",
+    "title": "Daniel Defence Wave QD Sound Suppressor",
+    "pageId": 15473,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "daniel_defence_wave_qd_sound_suppressor",
+    "marketSearchName": "Daniel Defence Wave QD Sound Suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "31000",
+      "32000",
+      "34000",
+      "34900",
+      "34999",
+      "35000",
+      "35000",
+      "35000",
+      "35500",
+      "35900",
+      "35904",
+      "36000",
+      "37000",
+      "37990"
+    ]
+  },
+  {
+    "name": "Gemtech SFN-57 5.7x28mm silencer",
+    "image": "wiki.png",
+    "title": "Gemtech SFN-57 5.7x28mm silencer",
+    "pageId": 15565,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "gemtech_sfn_57_5_7x28mm_silencer",
+    "marketSearchName": "Gemtech SFN-57 5.7x28mm silencer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "47998",
+      "47999",
+      "48000",
+      "57000",
+      "57887",
+      "57888",
+      "57900",
+      "58000",
+      "70000"
+    ]
+  },
+  {
+    "name": "Thunder Beast Ultra 5 Sound Suppressor",
+    "image": "Ultra 5 Icon.PNG",
+    "title": "Thunder Beast Ultra 5 Sound Suppressor",
+    "pageId": 15574,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/Ultra_5_Icon.PNG?version=86d070db5e6821e7c7784eb681d17b34",
+    "filePath": "thunder_beast_ultra_5_sound_suppressor",
+    "marketSearchName": "Thunder Beast Ultra 5 Sound Suppressor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "30000",
+      "32666",
+      "32700",
+      "33333",
+      "33999",
+      "34000",
+      "35555",
+      "35999",
+      "36000",
+      "39000",
+      "39900",
+      "40000",
+      "41000",
+      "44000"
+    ]
+  }
+]

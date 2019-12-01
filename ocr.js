@@ -7,6 +7,8 @@ const readFile = (fileName) => util.promisify(fs.readFile)(fileName, 'utf-8');
 
 const processImage = async (category) => {
 
+  console.log('Starting image processing...');
+
   const worker = await OCR({
     tessdata: './',
     languages: ['bender']
@@ -21,6 +23,9 @@ const processImage = async (category) => {
       const processedImgPath = `./data/images/processed/${item.filePath}.png`;
       if (fs.existsSync(rawImagePath)) {
         await prepareImage(item.filePath);
+
+        console.log(`Reading image characters...`);
+
         const text = worker.recognize(processedImgPath, 'bender');
         let price_array = text.replace(/[^\S\r\n]/g, '').split('\n');
         price_array.pop();
@@ -35,6 +40,7 @@ const processImage = async (category) => {
 };
 
 const prepareImage = async (filePath) => {
+  console.log(`Preparing image for OCR: ${filePath}`);
   try {
     const execString = `convert` + ' ' +
     `./data/images/raw/${filePath}.png` + ' ' +

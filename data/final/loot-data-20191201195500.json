@@ -1,0 +1,3702 @@
+[
+  {
+    "name": "Folder with intelligence",
+    "image": "FolderWithIntelligence Icon.png",
+    "title": "Folder with intelligence",
+    "pageId": 12550,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/FolderWithIntelligence_Icon.png?version=7b43a98bf2810d4cd41b353e954fca33",
+    "filePath": "folder_with_intelligence",
+    "marketSearchName": "Folder with intelligence",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "59900",
+      "62000",
+      "63888",
+      "64000",
+      "65000",
+      "65000",
+      "67900",
+      "67999",
+      "68000",
+      "69000"
+    ]
+  },
+  {
+    "name": "Matches",
+    "image": "Matches Icon.png",
+    "title": "Matches",
+    "pageId": 4072,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/Matches_Icon.png?version=bbe060b7aee007542ef7cf137213c0c0",
+    "filePath": "matches",
+    "marketSearchName": "Matches",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "2800",
+      "2900",
+      "2998",
+      "3000",
+      "3800",
+      "4369",
+      "4400",
+      "4500",
+      "4500",
+      "4999",
+      "5000",
+      "5000"
+    ]
+  },
+  {
+    "name": "Paracord",
+    "image": "ParacordIcon.png",
+    "title": "Paracord",
+    "pageId": 12757,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/ParacordIcon.png?version=c0af6f07fc9df7f57a54d0540635e2b3",
+    "filePath": "paracord",
+    "marketSearchName": "Paracord",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "79000",
+      "79000",
+      "79900",
+      "79999",
+      "80000",
+      "80000",
+      "80000",
+      "80000",
+      "80000"
+    ]
+  },
+  {
+    "name": "Corrugated hose",
+    "image": "Hoseicon.png",
+    "title": "Corrugated hose",
+    "pageId": 7446,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Hoseicon.png?version=94b37287061dc0535164d35dbdcf3a33",
+    "filePath": "corrugated_hose",
+    "marketSearchName": "Corrugated hose",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "55000",
+      "57000",
+      "59000",
+      "59000",
+      "59999",
+      "59999"
+    ]
+  },
+  {
+    "name": "Crickent lighter",
+    "image": "Cricket lighter Icon.png",
+    "title": "Crickent lighter",
+    "pageId": 4109,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/Cricket_lighter_Icon.png?version=312f8170e9dd1f2a519af126a07907da",
+    "filePath": "crickent_lighter",
+    "marketSearchName": "Crickent lighter",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7000",
+      "7998",
+      "7999",
+      "8000",
+      "8000",
+      "8000",
+      "8300",
+      "8400",
+      "8499",
+      "8500",
+      "8500"
+    ]
+  },
+  {
+    "name": "A pack of nails",
+    "image": "Nailsicon.png",
+    "title": "A pack of nails",
+    "pageId": 7186,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/Nailsicon.png?version=5a41f0b87eda0a1a7d5636b4d0ac0dd6",
+    "filePath": "a_pack_of_nails",
+    "marketSearchName": "A pack of nails",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "59998",
+      "59999",
+      "59999",
+      "60000",
+      "61111",
+      "63000"
+    ]
+  },
+  {
+    "name": "A pack of screws",
+    "image": "Screwsicon.png",
+    "title": "A pack of screws",
+    "pageId": 7203,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Screwsicon.png?version=6c80dfd98b28df772fe78516bff7f2d7",
+    "filePath": "a_pack_of_screws",
+    "marketSearchName": "A pack of screws",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "8888",
+      "10000",
+      "10000",
+      "14000",
+      "15000",
+      "15000",
+      "16900",
+      "17000",
+      "17000",
+      "17000"
+    ]
+  },
+  {
+    "name": "Screw nut",
+    "image": "Screwnuticon.png",
+    "title": "Screw nut",
+    "pageId": 7185,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cd/Screwnuticon.png?version=e091e71bcae7cbae1da4945188b1bcb4",
+    "filePath": "screw_nut",
+    "marketSearchName": "Screw nut",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "11900",
+      "11999"
+    ]
+  },
+  {
+    "name": "Bolts",
+    "image": "Boltsicon.png",
+    "title": "Bolts",
+    "pageId": 6442,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/70/Boltsicon.png?version=9f37dc35d6c452a4bc7b9dc25ea3e457",
+    "filePath": "bolts",
+    "marketSearchName": "Bolts",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "14000",
+      "16999",
+      "17800"
+    ]
+  },
+  {
+    "name": "Piece of plexiglas",
+    "image": "Plexicon.png",
+    "title": "Piece of plexiglas",
+    "pageId": 7187,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Plexicon.png?version=06406c18539c6a9625661bf833bfc1a9",
+    "filePath": "piece_of_plexiglas",
+    "marketSearchName": "Piece of plexiglas",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "10999",
+      "11000",
+      "11000",
+      "11111",
+      "11256",
+      "12000",
+      "12000",
+      "12000",
+      "12000",
+      "12000",
+      "12400",
+      "12500",
+      "12999"
+    ]
+  },
+  {
+    "name": "Zibbo lighter",
+    "image": "Zibbo lighter Icon.png",
+    "title": "Zibbo lighter",
+    "pageId": 4112,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/Zibbo_lighter_Icon.png?version=3799a956a8977bc27c6f161046a786fc",
+    "filePath": "zibbo_lighter",
+    "marketSearchName": "Zibbo lighter",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9500",
+      "9500",
+      "9900",
+      "9900",
+      "9900",
+      "10000",
+      "10000",
+      "10000",
+      "11000",
+      "11000",
+      "11500"
+    ]
+  },
+  {
+    "name": "Apollon Soyuz cigarettes",
+    "image": "Apollon Soyuz cigarettes Icon.png",
+    "title": "Apollon Soyuz cigarettes",
+    "pageId": 4114,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cc/Apollon_Soyuz_cigarettes_Icon.png?version=344b4db9e2297f9cb150576bbcfb7532",
+    "filePath": "apollon_soyuz_cigarettes",
+    "marketSearchName": "Apollon Soyuz cigarettes",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "4000",
+      "4000",
+      "5500",
+      "5500",
+      "5540",
+      "5600",
+      "5750",
+      "5999",
+      "6000",
+      "6299",
+      "6500"
+    ]
+  },
+  {
+    "name": "Malboro Cigarettes",
+    "image": "Malboro Cigarettes Icon.png",
+    "title": "Malboro Cigarettes",
+    "pageId": 4115,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Malboro_Cigarettes_Icon.png?version=7db88dd37e411b7b946b7e37e2ef7256",
+    "filePath": "malboro_cigarettes",
+    "marketSearchName": "Malboro Cigarettes",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "2999",
+      "3000",
+      "3500",
+      "3600",
+      "3666",
+      "3990",
+      "3995",
+      "4000",
+      "4000",
+      "4000",
+      "4150",
+      "4200",
+      "4300"
+    ]
+  },
+  {
+    "name": "Wilston cigarettes",
+    "image": "Wilstonicon.png",
+    "title": "Wilston cigarettes",
+    "pageId": 4118,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Wilstonicon.png?version=c4f628ca5dfc292840e55c6ef1c12fd5",
+    "filePath": "wilston_cigarettes",
+    "marketSearchName": "Wilston cigarettes",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7000",
+      "7000",
+      "7400",
+      "7498",
+      "7499",
+      "7499",
+      "7500",
+      "8000",
+      "8000",
+      "8499",
+      "8500"
+    ]
+  },
+  {
+    "name": "Strike Cigarettes",
+    "image": "Cigred.png",
+    "title": "Strike Cigarettes",
+    "pageId": 4120,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/Cigred.png?version=4353ae2c44f0d1cf389f81c376d43069",
+    "filePath": "strike_cigarettes",
+    "marketSearchName": "Strike Cigarettes",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "5250",
+      "5400",
+      "5555",
+      "5600",
+      "5999",
+      "6000",
+      "6000",
+      "6000",
+      "6000",
+      "6500",
+      "6900",
+      "6997",
+      "6998"
+    ]
+  },
+  {
+    "name": "Horse figurine",
+    "image": "Horse figurine Icon.png",
+    "title": "Horse figurine",
+    "pageId": 4123,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/Horse_figurine_Icon.png?version=f2b99d209c78cc6a410a28358637599a",
+    "filePath": "horse_figurine",
+    "marketSearchName": "Horse figurine",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "8399",
+      "8400",
+      "8409",
+      "8500",
+      "8700",
+      "8999",
+      "9000",
+      "9000",
+      "9000",
+      "9000"
+    ]
+  },
+  {
+    "name": "Cat figurine",
+    "image": "Caticon.png",
+    "title": "Cat figurine",
+    "pageId": 6126,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/36/Caticon.png?version=5fb5dd7c8c0105389667a73d38ec2ed5",
+    "filePath": "cat_figurine",
+    "marketSearchName": "Cat figurine",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "34999",
+      "36000",
+      "37000",
+      "37500",
+      "38000",
+      "38000",
+      "38000",
+      "38999",
+      "39000"
+    ]
+  },
+  {
+    "name": "Bronze lion",
+    "image": "Bronze Lion Icon.png",
+    "title": "Bronze lion",
+    "pageId": 6074,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/Bronze_Lion_Icon.png?version=378db4b59ed0baa796da3c4e638200aa",
+    "filePath": "bronze_lion",
+    "marketSearchName": "Bronze lion",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "200000",
+      "200000",
+      "200000",
+      "200000",
+      "200000",
+      "200000"
+    ]
+  },
+  {
+    "name": "Wooden clock",
+    "image": "Wooden clock icon.png",
+    "title": "Wooden clock",
+    "pageId": 6155,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/Wooden_clock_icon.png?version=397c0b2306d156f11a83b1c3a2900014",
+    "filePath": "wooden_clock",
+    "marketSearchName": "Wooden clock",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "47899",
+      "47900",
+      "47998",
+      "47998",
+      "47999",
+      "47999",
+      "47999",
+      "48000",
+      "48000",
+      "48000",
+      "48000",
+      "48000",
+      "48000"
+    ]
+  },
+  {
+    "name": "Gas analyzer",
+    "image": "Gas Analyzer Icon.png",
+    "title": "Gas analyzer",
+    "pageId": 5828,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Gas_Analyzer_Icon.png?version=cc127b699676c872aa27cb181ec43929",
+    "filePath": "gas_analyzer",
+    "marketSearchName": "Gas analyzer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "23999",
+      "24000",
+      "24000",
+      "24500",
+      "25000",
+      "25000",
+      "25000",
+      "25000",
+      "25555"
+    ]
+  },
+  {
+    "name": "SSD drive",
+    "image": "Ssd icon.png",
+    "title": "SSD drive",
+    "pageId": 8045,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Ssd_icon.png?version=7a84d2b19179bef331b941a3e89d1fbf",
+    "filePath": "ssd_drive",
+    "marketSearchName": "SSD drive",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "70000",
+      "70000",
+      "70000",
+      "70000",
+      "70123",
+      "71888",
+      "71999",
+      "74999",
+      "76999",
+      "77777",
+      "77777",
+      "78000",
+      "78000"
+    ]
+  },
+  {
+    "name": "SAS drive",
+    "image": "Sas icon.png",
+    "title": "SAS drive",
+    "pageId": 8055,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/Sas_icon.png?version=8185f5b89e48ab5b84ce79c3acd10930",
+    "filePath": "sas_drive",
+    "marketSearchName": "SAS drive",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "26500",
+      "26999",
+      "27000",
+      "28000",
+      "28500",
+      "29000",
+      "30000",
+      "30000",
+      "34999",
+      "34999",
+      "34999",
+      "35000",
+      "35000",
+      "38000"
+    ]
+  },
+  {
+    "name": "Military COFDM wireless Signal Transmitter",
+    "image": "COFDM Icon.png",
+    "title": "Military COFDM wireless Signal Transmitter",
+    "pageId": 12544,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3a/COFDM_Icon.png?version=4f93668ac368d4835b6fb0c4f1721f4c",
+    "filePath": "military_cofdm_wireless_signal_transmitter",
+    "marketSearchName": "Military COFDM wireless Signal Transmitter",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "120000",
+      "120000",
+      "122000",
+      "123999",
+      "123999",
+      "124000",
+      "125000",
+      "125000",
+      "125999",
+      "126000",
+      "126999",
+      "127000"
+    ]
+  },
+  {
+    "name": "UHF RFID Reader",
+    "image": "UHFRFIDIcon.png",
+    "title": "UHF RFID Reader",
+    "pageId": 12575,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/UHFRFIDIcon.png?version=b15c4d589a1e8201e21d992e30cd9ffb",
+    "filePath": "uhf_rfid_reader",
+    "marketSearchName": "UHF RFID Reader",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "109000",
+      "114000",
+      "115000",
+      "117420",
+      "121000",
+      "125000",
+      "125000",
+      "132991",
+      "134999",
+      "135000",
+      "136000",
+      "140000",
+      "199999",
+      "199999"
+    ]
+  },
+  {
+    "name": "VPX Flash Storage Module",
+    "image": "VPXFlashIcon.png",
+    "title": "VPX Flash Storage Module",
+    "pageId": 12579,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/VPXFlashIcon.png?version=38a5c6f058527019cea178c7411a4d39",
+    "filePath": "vpx_flash_storage_module",
+    "marketSearchName": "VPX Flash Storage Module",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "530000",
+      "530000",
+      "540000",
+      "544999",
+      "545000",
+      "549000",
+      "550000",
+      "600000",
+      "600000",
+      "600000"
+    ]
+  },
+  {
+    "name": "Virtex programmable processor",
+    "image": "Virtex programmable processor Icon.png",
+    "title": "Virtex programmable processor",
+    "pageId": 12541,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0d/Virtex_programmable_processor_Icon.png?version=d25fe6f2fe80d0b3030386c715681f54",
+    "filePath": "virtex_programmable_processor",
+    "marketSearchName": "Virtex programmable processor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "609999",
+      "610000",
+      "614000",
+      "615000",
+      "620000",
+      "628000",
+      "628888",
+      "630000",
+      "630000",
+      "630000",
+      "639111",
+      "640000"
+    ]
+  },
+  {
+    "name": "Capacitors",
+    "image": "Capacitorsicon.png",
+    "title": "Capacitors",
+    "pageId": 12648,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Capacitorsicon.png?version=5c8bf117e8edb35dd6c3708ce95f85ee",
+    "filePath": "capacitors",
+    "marketSearchName": "Capacitors",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "4500",
+      "4500",
+      "4999",
+      "4999",
+      "5000",
+      "5000",
+      "5000",
+      "5400",
+      "5499",
+      "6000"
+    ]
+  },
+  {
+    "name": "Wires",
+    "image": "Wiresicon.png",
+    "title": "Wires",
+    "pageId": 12645,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/Wiresicon.png?version=da8dce2d56a6a912fa940f7647b4efe3",
+    "filePath": "wires",
+    "marketSearchName": "Wires",
+    "marketPositionOffset": 0,
+    "price_array": []
+  },
+  {
+    "name": "Broken GPhone X",
+    "image": "Broken GPhone x Icon.png",
+    "title": "Broken GPhone X",
+    "pageId": 12815,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/80/Broken_GPhone_x_Icon.png?version=1d5cd4a29cfe6dfcc05888245e6033a4",
+    "filePath": "broken_gphone_x",
+    "marketSearchName": "Broken GPhone X",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "24700",
+      "24969",
+      "24999",
+      "24999",
+      "25000",
+      "25000",
+      "25000",
+      "25000",
+      "25999",
+      "26000",
+      "26000",
+      "26000",
+      "26000",
+      "27000"
+    ]
+  },
+  {
+    "name": "WD-40 400ml",
+    "image": "Wd-40400icon.png",
+    "title": "WD-40 400ml",
+    "pageId": 5755,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/Wd-40400icon.png",
+    "filePath": "wd_40_400ml",
+    "marketSearchName": "WD-40 400ml",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "15999",
+      "16000",
+      "16000",
+      "16000",
+      "16000",
+      "16000",
+      "16000",
+      "16000",
+      "16999",
+      "16999",
+      "17000",
+      "17000"
+    ]
+  },
+  {
+    "name": "WD-40 100ml.|WD-40 100ml",
+    "image": "WD40 100ml Icon.png",
+    "title": "WD-40 100ml.",
+    "pageId": 5825,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/WD40_100ml_Icon.png?version=c6c29b553dd9bb88d9a9dabc40dfea3e",
+    "filePath": "wd_40_100ml__wd_40_100ml",
+    "marketSearchName": "WD-40 100ml",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "8000",
+      "10000",
+      "10000",
+      "10499",
+      "10500",
+      "10500",
+      "10980",
+      "11000",
+      "11420",
+      "12000",
+      "12000",
+      "13800"
+    ]
+  },
+  {
+    "name": "AA Battery",
+    "image": "AA Battery Icon 2.png",
+    "title": "AA Battery",
+    "pageId": 4105,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/AA_Battery_Icon_2.png?version=b738650f843db83aca17bc5d32f8b591",
+    "filePath": "aa_battery",
+    "marketSearchName": "AA Battery",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "6000",
+      "6000",
+      "7000",
+      "7000",
+      "7000",
+      "7100",
+      "7200",
+      "7200",
+      "7200",
+      "7300",
+      "7400",
+      "7400"
+    ]
+  },
+  {
+    "name": "D Size Battery",
+    "image": "D Size Battery Icon.png",
+    "title": "D Size Battery",
+    "pageId": 4106,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/D_Size_Battery_Icon.png?version=1ab6f71e5f75b741d8023b183ccabbcf",
+    "filePath": "d_size_battery",
+    "marketSearchName": "D Size Battery",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "5400",
+      "6498",
+      "6899",
+      "6998",
+      "6999",
+      "6999",
+      "7000",
+      "7000",
+      "7420",
+      "7666",
+      "7700",
+      "8000"
+    ]
+  },
+  {
+    "name": "Car battery",
+    "image": "Car Battery Icon.png",
+    "title": "Car battery",
+    "pageId": 4108,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Car_Battery_Icon.png?version=4f8f32d61755639496e1608ad985f618",
+    "filePath": "car_battery",
+    "marketSearchName": "Car battery",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "98000",
+      "99000",
+      "99000",
+      "99900",
+      "99999",
+      "99999",
+      "99999",
+      "100000",
+      "100000",
+      "100000",
+      "100000"
+    ]
+  },
+  {
+    "name": "Spark plug",
+    "image": "Spark Plug Icon .png",
+    "title": "Spark plug",
+    "pageId": 5842,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/Spark_Plug_Icon_.png?version=33184ffd196f3580d4c0378ac82766ad",
+    "filePath": "spark_plug",
+    "marketSearchName": "Spark plug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "12000",
+      "12999",
+      "12999",
+      "13000",
+      "13000",
+      "13000",
+      "13000",
+      "13000",
+      "13500",
+      "13900"
+    ]
+  },
+  {
+    "name": "Energy-saving lamp",
+    "image": "Energy-Saving Lamp Icon.png",
+    "title": "Energy-saving lamp",
+    "pageId": 5850,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/Energy-Saving_Lamp_Icon.png",
+    "filePath": "energy_saving_lamp",
+    "marketSearchName": "Energy-saving lamp",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "8000",
+      "8700",
+      "9000",
+      "9000",
+      "9500",
+      "10500",
+      "10500",
+      "11000",
+      "11000",
+      "11000",
+      "11000",
+      "11000",
+      "11111",
+      "11200"
+    ]
+  },
+  {
+    "name": "Ultraviolet lamp",
+    "image": "UV lamp Icon.png",
+    "title": "Ultraviolet lamp",
+    "pageId": 5862,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/UV_lamp_Icon.png?version=be2ceb59e4ea020b1c7d662607c73e9e",
+    "filePath": "ultraviolet_lamp",
+    "marketSearchName": "Ultraviolet lamp",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7997",
+      "8500",
+      "8700",
+      "8890",
+      "9150",
+      "9200",
+      "9300",
+      "9400",
+      "9449",
+      "9450",
+      "9498"
+    ]
+  },
+  {
+    "name": "Geiger-Muller counter",
+    "image": "Geiger-Mueller counter Icon.png",
+    "title": "Geiger-Muller counter",
+    "pageId": 4081,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/Geiger-Mueller_counter_Icon.png",
+    "filePath": "geiger_muller_counter",
+    "marketSearchName": "Geiger-Muller counter",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "12400",
+      "12500",
+      "13000",
+      "13000",
+      "13000",
+      "13000",
+      "13000",
+      "13000",
+      "13000",
+      "13000",
+      "13000"
+    ]
+  },
+  {
+    "name": "Broken GPhone",
+    "image": "Broken GPhone Icon.png",
+    "title": "Broken GPhone",
+    "pageId": 4083,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/be/Broken_GPhone_Icon.png?version=ae0f1be8781a022ab9c590edfb387b98",
+    "filePath": "broken_gphone",
+    "marketSearchName": "Broken GPhone",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "15000",
+      "15500",
+      "15555",
+      "15700",
+      "15800",
+      "15900",
+      "15900",
+      "15999",
+      "16000",
+      "16000",
+      "16000",
+      "16000"
+    ]
+  },
+  {
+    "name": "CPU Fan",
+    "image": "CPU Fan Icon.png",
+    "title": "CPU Fan",
+    "pageId": 4086,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/CPU_Fan_Icon.png?version=e5688d2861d9ad290856c2150547ed76",
+    "filePath": "cpu_fan",
+    "marketSearchName": "CPU Fan",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "12200",
+      "12298",
+      "12299",
+      "12500",
+      "12500",
+      "12500",
+      "12500"
+    ]
+  },
+  {
+    "name": "PC CPU",
+    "image": "PC CPU Icon.png",
+    "title": "PC CPU",
+    "pageId": 4087,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9e/PC_CPU_Icon.png?version=3e40bc8a3898c3ac36b42c9776bd38c2",
+    "filePath": "pc_cpu",
+    "marketSearchName": "PC CPU",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "10490",
+      "10499",
+      "10500",
+      "10500",
+      "10888",
+      "10921",
+      "10989",
+      "10990",
+      "10998",
+      "11000",
+      "11000",
+      "11000",
+      "11000"
+    ]
+  },
+  {
+    "name": "DVD drive",
+    "image": "DVD drive Icon.png",
+    "title": "DVD drive",
+    "pageId": 4089,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/de/DVD_drive_Icon.png?version=1f010ddf9684fe05e344df41baabceb3",
+    "filePath": "dvd_drive",
+    "marketSearchName": "DVD drive",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "6500",
+      "6500",
+      "6500",
+      "6500",
+      "6600",
+      "6899",
+      "6999",
+      "6999",
+      "7000"
+    ]
+  },
+  {
+    "name": "RAM",
+    "image": "ramicon.png",
+    "title": "RAM",
+    "pageId": 4091,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/Ramicon.png?version=344c358f046142205fe4424073d37bfd",
+    "filePath": "ram",
+    "marketSearchName": "RAM",
+    "marketPositionOffset": 7,
+    "price_array": [
+      "18900",
+      "19999",
+      "20000",
+      "20000",
+      "20000",
+      "20000",
+      "21000",
+      "21000"
+    ]
+  },
+  {
+    "name": "Power supply unit",
+    "image": "Psuicon.png",
+    "title": "Power supply unit",
+    "pageId": 4092,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Psuicon.png?version=8ce87d51bb9761e3914a2924f1421212",
+    "filePath": "power_supply_unit",
+    "marketSearchName": "Power supply unit",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "46999",
+      "47000",
+      "47494",
+      "47775"
+    ]
+  },
+  {
+    "name": "Printed circuit board",
+    "image": "Circuit_Icon.png",
+    "title": "Printed circuit board",
+    "pageId": 7738,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/Circuit_Icon.png?version=1b0ca841c5cb1dec5e63faba0ef96bdd",
+    "filePath": "printed_circuit_board",
+    "marketSearchName": "Printed circuit board",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "18989",
+      "19000",
+      "19000",
+      "19500",
+      "19500",
+      "19999",
+      "19999"
+    ]
+  },
+  {
+    "name": "Graphics card",
+    "image": "Graphics_Card_icon.png",
+    "title": "Graphics card",
+    "pageId": 4094,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Graphics_Card_icon.png?version=450ed885fdf2c8a3f9e2d0f4a3d96ce1",
+    "filePath": "graphics_card",
+    "marketSearchName": "Graphics card",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "247000",
+      "248997",
+      "248999",
+      "248999",
+      "248999",
+      "249000",
+      "249000"
+    ]
+  },
+  {
+    "name": "Powercord",
+    "image": "Powercord icon.png",
+    "title": "Powercord",
+    "pageId": 7180,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Powercord_icon.png?version=343fd806a2ae1db2638fc354542077b7",
+    "filePath": "powercord",
+    "marketSearchName": "Powercord",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "25000",
+      "27998",
+      "27999"
+    ]
+  },
+  {
+    "name": "Insulating tape",
+    "image": "Insulating tape Icon.png",
+    "title": "Insulating tape",
+    "pageId": 4096,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/Insulating_tape_Icon.png?version=b720a4ef81d409c724abfde15dfedff2",
+    "filePath": "insulating_tape",
+    "marketSearchName": "Insulating tape",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "12000",
+      "12998",
+      "12998",
+      "13900",
+      "14000"
+    ]
+  },
+  {
+    "name": "Duct tape",
+    "image": "Duct tape Icon.png",
+    "title": "Duct tape",
+    "pageId": 4098,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/38/Duct_tape_Icon.png?version=9a91daef3571322766ec2b121faad04e",
+    "filePath": "duct_tape",
+    "marketSearchName": "Duct tape",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7000",
+      "7300",
+      "7450",
+      "7900",
+      "8000",
+      "8500",
+      "9000",
+      "9400",
+      "9499",
+      "9499",
+      "9500"
+    ]
+  },
+  {
+    "name": "Construction measuring tape",
+    "image": "Construction Measuring Tape Icon.png",
+    "title": "Construction measuring tape",
+    "pageId": 5853,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0e/Construction_Measuring_Tape_Icon.png?version=c4e1f38c35d0c142c3be62a781428829",
+    "filePath": "construction_measuring_tape",
+    "marketSearchName": "Construction measuring tape",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "4000",
+      "4900",
+      "5000",
+      "5000",
+      "5555",
+      "6350",
+      "6398",
+      "6399",
+      "6400",
+      "6500",
+      "6500",
+      "6500",
+      "6500",
+      "6500"
+    ]
+  },
+  {
+    "name": "Toothpaste",
+    "image": "toothpasteicon.png",
+    "title": "Toothpaste",
+    "pageId": 4100,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d0/Toothpasteicon.png?version=b0ae0d117c119fecc9f927a00a41ee33",
+    "filePath": "toothpaste",
+    "marketSearchName": "Toothpaste",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "8000",
+      "8888",
+      "8900",
+      "8999",
+      "9000",
+      "9999",
+      "11000",
+      "11993",
+      "12889",
+      "14999"
+    ]
+  },
+  {
+    "name": "USB Adapter",
+    "image": "USB Adapter Icon.png",
+    "title": "USB Adapter",
+    "pageId": 5863,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/USB_Adapter_Icon.png?version=4fbb19c7bbb94661c066fcfcd3c06fa1",
+    "filePath": "usb_adapter",
+    "marketSearchName": "USB Adapter",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "5999",
+      "6000",
+      "6000",
+      "6000",
+      "6000",
+      "6500",
+      "6800",
+      "6999",
+      "7000",
+      "7000",
+      "7200",
+      "7400"
+    ]
+  },
+  {
+    "name": "T-Shaped Plug",
+    "image": "T-Shaped Plug Icon.png",
+    "title": "T-Shaped Plug",
+    "pageId": 4101,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/T-Shaped_Plug_Icon.png",
+    "filePath": "t_shaped_plug",
+    "marketSearchName": "T-Shaped Plug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "6990",
+      "6999",
+      "7200",
+      "7300",
+      "7890",
+      "7900",
+      "7900",
+      "7995",
+      "8000",
+      "9000",
+      "9000"
+    ]
+  },
+  {
+    "name": "Printer paper",
+    "image": "Printer Paper icon.png",
+    "title": "Printer paper",
+    "pageId": 4104,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Printer_Paper_icon.png?version=161224d7c0f0bdd1bcb8259f92c3f61b",
+    "filePath": "printer_paper",
+    "marketSearchName": "Printer paper",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9800",
+      "9999",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10995",
+      "11499",
+      "11998",
+      "14999",
+      "15000"
+    ]
+  },
+  {
+    "name": "Screwdriver",
+    "image": "Screwdriver Icon.png",
+    "title": "Screwdriver",
+    "pageId": 5773,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/Screwdriver_Icon.png?version=0f869aa12ba63e6161020d78aef4c6ac",
+    "filePath": "screwdriver",
+    "marketSearchName": "Screwdriver",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7000",
+      "7000",
+      "7000",
+      "7000",
+      "7000",
+      "7000",
+      "7222",
+      "7448",
+      "7499",
+      "7500",
+      "7500",
+      "7500",
+      "7998"
+    ]
+  },
+  {
+    "name": "Wrench",
+    "image": "Wrench Icon.png",
+    "title": "Wrench",
+    "pageId": 5736,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/Wrench_Icon.png?version=c7cd8992eb6f8ce08bec82222a9322c4",
+    "filePath": "wrench",
+    "marketSearchName": "Wrench",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "16999",
+      "17999",
+      "18000",
+      "18000",
+      "19869",
+      "19989",
+      "19989",
+      "19998",
+      "19999",
+      "20000",
+      "20000"
+    ]
+  },
+  {
+    "name": "Pliers",
+    "image": "Plier Icon.png",
+    "title": "Pliers",
+    "pageId": 5767,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Plier_Icon.png?version=2f7adc80dcc53bf002d0bf3c8e5060ce",
+    "filePath": "pliers",
+    "marketSearchName": "Pliers",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "5999",
+      "6000",
+      "6200",
+      "6500",
+      "6666",
+      "6899",
+      "6900",
+      "6900",
+      "6999",
+      "7000",
+      "7000",
+      "7000",
+      "7500"
+    ]
+  },
+  {
+    "name": "Electric drill",
+    "image": "Electric Drill icon.png",
+    "title": "Electric drill",
+    "pageId": 6007,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Electric_Drill_icon.png?version=3f4d1442891bedf6d6ccd4de2c0064af",
+    "filePath": "electric_drill",
+    "marketSearchName": "Electric drill",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "30000",
+      "30000",
+      "31000",
+      "32000",
+      "33222",
+      "33333"
+    ]
+  },
+  {
+    "name": "Antique vase",
+    "image": "Vaseicon.png",
+    "title": "Antique vase",
+    "pageId": 7942,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4c/Vaseicon.png?version=b0abc80da7cf1ac654f726c705dddaa2",
+    "filePath": "antique_vase",
+    "marketSearchName": "Antique vase",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "59000",
+      "60000",
+      "64997",
+      "64998",
+      "65000",
+      "65000",
+      "65000",
+      "65000"
+    ]
+  },
+  {
+    "name": "Antique teapot",
+    "image": "Teapot icon.png",
+    "title": "Antique teapot",
+    "pageId": 7941,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Teapot_icon.png?version=bcb0433a307aec2dbcbca9187f7c100e",
+    "filePath": "antique_teapot",
+    "marketSearchName": "Antique teapot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "35400",
+      "35420",
+      "35420",
+      "35500",
+      "35500",
+      "35500",
+      "35500",
+      "35600",
+      "35690",
+      "35999"
+    ]
+  },
+  {
+    "name": "Silver Badge",
+    "image": "Silver_Badge_icon.png",
+    "title": "Silver Badge",
+    "pageId": 11923,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/41/Silver_Badge_icon.png?version=5f8066cc70358ff0aaed58d5ad88387c",
+    "filePath": "silver_badge",
+    "marketSearchName": "Silver Badge",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "45200",
+      "45300",
+      "45300",
+      "45498",
+      "45499",
+      "45499",
+      "45500",
+      "45500",
+      "45500",
+      "45888",
+      "45995",
+      "45998",
+      "45999"
+    ]
+  },
+  {
+    "name": "Chainlet",
+    "image": "Chainlet icon.png",
+    "title": "Chainlet",
+    "pageId": 4076,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/Chainlet_icon.png?version=210d1870f2907044d1192237137c073f",
+    "filePath": "chainlet",
+    "marketSearchName": "Chainlet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7999",
+      "7999",
+      "8000",
+      "8000",
+      "8000",
+      "8997",
+      "8998",
+      "8999",
+      "9000",
+      "9000",
+      "9500"
+    ]
+  },
+  {
+    "name": "Golden neck chain",
+    "image": "Golden neck chain Icon.png",
+    "title": "Golden neck chain",
+    "pageId": 4079,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/Golden_neck_chain_Icon.png?version=585a192e850f1ed02c6f2a3b074f3cbb",
+    "filePath": "golden_neck_chain",
+    "marketSearchName": "Golden neck chain",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "35701",
+      "35999",
+      "36000"
+    ]
+  },
+  {
+    "name": "Physical bitcoin",
+    "image": "Bitcoin icon.png",
+    "title": "Physical bitcoin",
+    "pageId": 6715,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/Bitcoin_icon.png?version=5a00a487dcbf31f765eb2bf65f67592d",
+    "filePath": "physical_bitcoin",
+    "marketSearchName": "Physical bitcoin",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "117000",
+      "118998",
+      "118999",
+      "119800",
+      "119996",
+      "119998"
+    ]
+  },
+  {
+    "name": "Damaged hard drive",
+    "image": "Damaged Hard Drive Icon.png",
+    "title": "Damaged hard drive",
+    "pageId": 5722,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Damaged_Hard_Drive_Icon.png?version=d2e5a704fb96bcc41d2e6c2104d9ddc1",
+    "filePath": "damaged_hard_drive",
+    "marketSearchName": "Damaged hard drive",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "13000",
+      "16499",
+      "17000",
+      "17000",
+      "17000"
+    ]
+  },
+  {
+    "name": "Magnet",
+    "image": "Magnet_Icon.png",
+    "title": "Magnet",
+    "pageId": 5762,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/Magnet_Icon.png?version=ecbff2cece8480f998d305895cb85041",
+    "filePath": "magnet",
+    "marketSearchName": "Magnet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "13000",
+      "15000",
+      "17500",
+      "17999",
+      "18000",
+      "18000",
+      "19900",
+      "20000",
+      "20000",
+      "20000",
+      "20000",
+      "20000",
+      "21000",
+      "21000"
+    ]
+  },
+  {
+    "name": "Paid AntiRoach",
+    "image": "Paidicon.png",
+    "title": "Paid AntiRoach",
+    "pageId": 5989,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/Paidicon.png?version=1ff271838af12448c68367576cd827bd",
+    "filePath": "paid_antiroach",
+    "marketSearchName": "Paid AntiRoach",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9200",
+      "9299",
+      "9300",
+      "9500",
+      "9700",
+      "9900",
+      "9999",
+      "10000",
+      "11000",
+      "11500",
+      "12999",
+      "13200",
+      "13333"
+    ]
+  },
+  {
+    "name": "Clin wiper",
+    "image": "Clin Wiper icon.png",
+    "title": "Clin wiper",
+    "pageId": 7178,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Clin_Wiper_icon.png?version=2ebf443aae479ff9d44e0280de45f791",
+    "filePath": "clin_wiper",
+    "marketSearchName": "Clin wiper",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "5500",
+      "6000",
+      "6000",
+      "6500",
+      "6800",
+      "6900",
+      "6988",
+      "7000",
+      "7000",
+      "7000",
+      "7000",
+      "8000",
+      "8000",
+      "8000"
+    ]
+  },
+  {
+    "name": "Portable defibrillator",
+    "image": "Defibrillatoricon.png",
+    "title": "Portable defibrillator",
+    "pageId": 12829,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Defibrillatoricon.png?version=1b83c6ddc09a0ebf10b8325952fde865",
+    "filePath": "portable_defibrillator",
+    "marketSearchName": "Portable defibrillator",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "98000",
+      "99000",
+      "99499",
+      "99500",
+      "99900",
+      "99900",
+      "99998",
+      "99999",
+      "99999",
+      "100000",
+      "100000",
+      "103000",
+      "105000",
+      "107000"
+    ]
+  },
+  {
+    "name": "LEDX Skin Transilluminator",
+    "image": "TransilluminatorIcon.png",
+    "title": "LEDX Skin Transilluminator",
+    "pageId": 12603,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/TransilluminatorIcon.png?version=308910ea350ac982b031008419879a8e",
+    "filePath": "ledx_skin_transilluminator",
+    "marketSearchName": "LEDX Skin Transilluminator",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "1248900",
+      "1250000",
+      "1259999",
+      "1289000",
+      "1500000",
+      "1700000",
+      "1800000",
+      "1900000",
+      "1968980",
+      "1980000",
+      "1990000"
+    ]
+  },
+  {
+    "name": "Saline solution",
+    "image": "Saline Solution icon.png",
+    "title": "Saline solution",
+    "pageId": 6090,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/Saline_Solution_icon.png?version=5f47d70c970ee13a29045715803053e1",
+    "filePath": "saline_solution",
+    "marketSearchName": "Saline solution",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "48000",
+      "49989",
+      "50000",
+      "51000",
+      "51000",
+      "51000",
+      "53000",
+      "54699"
+    ]
+  },
+  {
+    "name": "Medical bloodset",
+    "image": "Medical Bloodset Icon.png",
+    "title": "Medical bloodset",
+    "pageId": 10779,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/56/Medical_Bloodset_Icon.png?version=042dbe8931b48168d9517775810db377",
+    "filePath": "medical_bloodset",
+    "marketSearchName": "Medical bloodset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "22500",
+      "24799",
+      "24999",
+      "25000",
+      "25000",
+      "25000",
+      "25000",
+      "25000"
+    ]
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "image": "Hydrogen Peroxide icon.png",
+    "title": "Hydrogen peroxide",
+    "pageId": 7181,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/Hydrogen_Peroxide_icon.png?version=ed4334bfe2637d82a7575b8f6bf83bbe",
+    "filePath": "hydrogen_peroxide",
+    "marketSearchName": "Hydrogen peroxide",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9000",
+      "9100",
+      "9399",
+      "9444",
+      "9444",
+      "9450",
+      "9500",
+      "9500",
+      "9500",
+      "9500",
+      "9500",
+      "9777",
+      "9798"
+    ]
+  },
+  {
+    "name": "Ox bleach",
+    "image": "Bleachicon.png",
+    "title": "Ox bleach",
+    "pageId": 6099,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Bleachicon.png?version=201be9643769e60b05a5390ad54c7406",
+    "filePath": "ox_bleach",
+    "marketSearchName": "Ox bleach",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "13500",
+      "13900",
+      "13999",
+      "14000",
+      "14000",
+      "14000",
+      "14500",
+      "14500",
+      "14888",
+      "14997",
+      "15000",
+      "15000"
+    ]
+  },
+  {
+    "name": "Shustrilo sealing foam",
+    "image": "Shusicon.png",
+    "title": "Shustrilo sealing foam",
+    "pageId": 7184,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Shusicon.png?version=b00a8c14727268318ea2d40550d72bed",
+    "filePath": "shustrilo_sealing_foam",
+    "marketSearchName": "Shustrilo sealing foam",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "99995",
+      "105000",
+      "109998",
+      "110000",
+      "123889",
+      "125000",
+      "127000",
+      "127000",
+      "127333",
+      "128900"
+    ]
+  },
+  {
+    "name": "Xenomorph sealing foam",
+    "image": "Xenoicon.png",
+    "title": "Xenomorph sealing foam",
+    "pageId": 7179,
+    "size": {
+      "width": "1",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ce/Xenoicon.png?version=4ec1847afd3d381d066e781654994a9f",
+    "filePath": "xenomorph_sealing_foam",
+    "marketSearchName": "Xenomorph sealing foam",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "10000",
+      "12000",
+      "13500",
+      "14000",
+      "14255",
+      "14500",
+      "14500",
+      "17990",
+      "18800",
+      "18900",
+      "18999"
+    ]
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "image": "Sodium Bicarbonate icon.png",
+    "title": "Sodium bicarbonate",
+    "pageId": 7182,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/Sodium_Bicarbonate_icon.png?version=5e4497e14248c2152ac75b1e0cf7430c",
+    "filePath": "sodium_bicarbonate",
+    "marketSearchName": "Sodium bicarbonate",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "24000",
+      "24000",
+      "24500",
+      "25000",
+      "25000",
+      "25000",
+      "25999",
+      "26000",
+      "26000",
+      "27000"
+    ]
+  },
+  {
+    "name": "Soap",
+    "image": "Soap icon.png",
+    "title": "Soap",
+    "pageId": 12635,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/Soap_icon.png?version=c39cda63168f00f59c3c227735e2ff66",
+    "filePath": "soap",
+    "marketSearchName": "Soap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9990",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10500",
+      "10500",
+      "11000",
+      "11000",
+      "11999",
+      "12500",
+      "12500"
+    ]
+  },
+  {
+    "name": "Toilet paper",
+    "image": "Toilet paper icon.png",
+    "title": "Toilet paper",
+    "pageId": 12818,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Toilet_paper_icon.png?version=85e0316e9d990f11fe288fa305b5f48f",
+    "filePath": "toilet_paper",
+    "marketSearchName": "Toilet paper",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7000",
+      "7999",
+      "8000",
+      "8000",
+      "8000",
+      "8000",
+      "8990",
+      "9000",
+      "9000",
+      "9001",
+      "9300",
+      "9899",
+      "9900",
+      "9989"
+    ]
+  },
+  {
+    "name": "5L propane tank",
+    "image": "5L propane tank icon.png",
+    "title": "5L propane tank",
+    "pageId": 7175,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/5L_propane_tank_icon.png?version=c7f1bd0c8719174de57a14a168f4728d",
+    "filePath": "5l_propane_tank",
+    "marketSearchName": "5L propane tank",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "45000",
+      "45000",
+      "49998",
+      "49999",
+      "50000",
+      "50000",
+      "50000",
+      "50000"
+    ]
+  },
+  {
+    "name": "Fuel conditioner",
+    "image": "fuelcondicon.png",
+    "title": "Fuel conditioner",
+    "pageId": 10780,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/Fuelcondicon.png?version=c13e47a3d78799207f69793581c903b2",
+    "filePath": "fuel_conditioner",
+    "marketSearchName": "Fuel conditioner",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "91899",
+      "92000",
+      "93000",
+      "93000",
+      "93000",
+      "94999",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000",
+      "95000"
+    ]
+  },
+  {
+    "name": "Heat-exchange alkali surface washer",
+    "image": "Heat-exchange alkali surface washer icon.png",
+    "title": "Heat-exchange alkali surface washer",
+    "pageId": 7177,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Heat-exchange_alkali_surface_washer_icon.png",
+    "filePath": "heat_exchange_alkali_surface_washer",
+    "marketSearchName": "Heat-exchange alkali surface washer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9000",
+      "9999",
+      "9999",
+      "10000",
+      "11000",
+      "11111",
+      "12000",
+      "12000",
+      "12490",
+      "12500",
+      "12500",
+      "12900",
+      "12998"
+    ]
+  },
+  {
+    "name": "Dry fuel",
+    "image": "Dryfuelicon.png",
+    "title": "Dry fuel",
+    "pageId": 7081,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Dryfuelicon.png?version=59f8f62bbe41377f64457126ca2d567f",
+    "filePath": "dry_fuel",
+    "marketSearchName": "Dry fuel",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "40000",
+      "48000",
+      "48000",
+      "49000",
+      "49950",
+      "65000",
+      "66000",
+      "67000"
+    ]
+  },
+  {
+    "name": "A set of tools",
+    "image": "Toolsicon.png",
+    "title": "A set of tools",
+    "pageId": 7030,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3a/Toolsicon.png?version=e8993b9d03afc74ea01a5fc7b8104ec9",
+    "filePath": "a_set_of_tools",
+    "marketSearchName": "A set of tools",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "40000",
+      "42000",
+      "42000",
+      "42900",
+      "43999",
+      "44999"
+    ]
+  },
+  {
+    "name": "Rechargeable battery",
+    "image": "Recicon.png",
+    "title": "Rechargeable battery",
+    "pageId": 7183,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Recicon.png?version=15a3b3b561def68cb5e229e8a7026a9f",
+    "filePath": "rechargeable_battery",
+    "marketSearchName": "Rechargeable battery",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "14500",
+      "14900",
+      "14999",
+      "14999",
+      "15000",
+      "16485",
+      "16950",
+      "17480",
+      "17700",
+      "17790",
+      "17799",
+      "17850"
+    ]
+  },
+  {
+    "name": "Air filter for gas mask",
+    "image": "Airfiltericon.png",
+    "title": "Air filter for gas mask",
+    "pageId": 7940,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Airfiltericon.png?version=2f46d8912a55bc455f011fca27d2c898",
+    "filePath": "air_filter_for_gas_mask",
+    "marketSearchName": "Air filter for gas mask",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "36000",
+      "37500",
+      "37800",
+      "37800",
+      "37900",
+      "37999",
+      "38000",
+      "38000",
+      "38000",
+      "38900"
+    ]
+  },
+  {
+    "name": "Secure Flash drive",
+    "image": "Secure Flash drive Icon.png",
+    "title": "Secure Flash drive",
+    "pageId": 8051,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Secure_Flash_drive_Icon.png?version=753b982a57bcd47e96b0ca140d913980",
+    "filePath": "secure_flash_drive",
+    "marketSearchName": "Secure Flash drive",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "87500",
+      "87500",
+      "87999",
+      "88000",
+      "88000",
+      "88000",
+      "89000"
+    ]
+  },
+  {
+    "name": "Coffee Majaica",
+    "image": "Coffeicon.png",
+    "title": "Coffee Majaica",
+    "pageId": 10334,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/Coffeicon.png?version=cf8a588c106c23b065721eaa5f3064fc",
+    "filePath": "coffee_majaica",
+    "marketSearchName": "Coffee Majaica",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "42999",
+      "49999",
+      "50000",
+      "50000",
+      "50000",
+      "50000",
+      "51000",
+      "52000",
+      "52000"
+    ]
+  },
+  {
+    "name": "Ophthalmoscope",
+    "image": "Ophthalmoscopeicon.png",
+    "title": "Ophthalmoscope",
+    "pageId": 10345,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/Ophthalmoscopeicon.png?version=b6fd171ea79ee9b6bbd446ba45b8a472",
+    "filePath": "ophthalmoscope",
+    "marketSearchName": "Ophthalmoscope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "84999",
+      "85000",
+      "85000",
+      "85000",
+      "88500",
+      "88777",
+      "88888",
+      "89000",
+      "94000",
+      "94500",
+      "94500",
+      "94999"
+    ]
+  },
+  {
+    "name": "Pliers Elite",
+    "image": "PliersElite.png",
+    "title": "Pliers Elite",
+    "pageId": 10347,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/PliersElite.png?version=008aeb7c79ef9f500be2c5457642305d",
+    "filePath": "pliers_elite",
+    "marketSearchName": "Pliers Elite",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "20100",
+      "20950",
+      "20970",
+      "20980",
+      "21000",
+      "21980",
+      "21989",
+      "22000",
+      "23000",
+      "25000",
+      "30000"
+    ]
+  },
+  {
+    "name": "Powerbank",
+    "image": "PowerbankIcon.png",
+    "title": "Powerbank",
+    "pageId": 10276,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/PowerbankIcon.png?version=3eb69fa869721648a5cb84e33d41c9a7",
+    "filePath": "powerbank",
+    "marketSearchName": "Powerbank",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "24998",
+      "24999",
+      "25000",
+      "25000",
+      "25000",
+      "26000",
+      "26000",
+      "26500",
+      "26800",
+      "26969",
+      "26998",
+      "26999",
+      "27000",
+      "27000"
+    ]
+  },
+  {
+    "name": "42nd Signature Blend English Tea",
+    "image": "EnglishTeaIcon.png",
+    "title": "42nd Signature Blend English Tea",
+    "pageId": 11930,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/EnglishTeaIcon.png?version=c121fd04746f80b0554eb12d6e49f112",
+    "filePath": "42nd_signature_blend_english_tea",
+    "marketSearchName": "42nd Signature Blend English Tea",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "21000",
+      "21750",
+      "22000",
+      "22000",
+      "22222",
+      "24444",
+      "25000",
+      "27999",
+      "28999",
+      "29000",
+      "29000",
+      "29000"
+    ]
+  },
+  {
+    "name": "Golden rooster",
+    "image": "GoldenRoosterIcon.png",
+    "title": "Golden rooster",
+    "pageId": 11932,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/GoldenRoosterIcon.png?version=8375d800e6eb2c58f940779046b320e7",
+    "filePath": "golden_rooster",
+    "marketSearchName": "Golden rooster",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "50000",
+      "67199",
+      "67399",
+      "67400",
+      "67500",
+      "67500",
+      "67990",
+      "67997",
+      "67998",
+      "67999",
+      "67999",
+      "67999",
+      "67999",
+      "67999"
+    ]
+  },
+  {
+    "name": "Roler submariner gold wrist watch",
+    "image": "Roler icon.png",
+    "title": "Roler submariner gold wrist watch",
+    "pageId": 6709,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e7/Roler_icon.png?version=6c14c56bb00a58e88e07e53af0877db9",
+    "filePath": "roler_submariner_gold_wrist_watch",
+    "marketSearchName": "Roler submariner gold wrist watch",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "100000",
+      "100000",
+      "107500",
+      "118888",
+      "118999",
+      "119999"
+    ]
+  },
+  {
+    "name": "Battered antique Book",
+    "image": "BatteredBookIcon.png",
+    "title": "Battered antique Book",
+    "pageId": 11897,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/BatteredBookIcon.png?version=5f9511fd46f6821bed0db21d04f8aaf9",
+    "filePath": "battered_antique_book",
+    "marketSearchName": "Battered antique Book",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "54799",
+      "54800",
+      "54800",
+      "54800",
+      "54800",
+      "54887",
+      "54888",
+      "54899"
+    ]
+  },
+  {
+    "name": "FireKlean gun lube",
+    "image": "FireKlean_icon.png",
+    "title": "FireKlean gun lube",
+    "pageId": 11911,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/FireKlean_icon.png?version=e1bcd1594bfef0da0ebc65832d1a9f5f",
+    "filePath": "fireklean_gun_lube",
+    "marketSearchName": "FireKlean gun lube",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "40000",
+      "40000",
+      "40000",
+      "40000",
+      "40000",
+      "41000",
+      "41979",
+      "44000",
+      "45000",
+      "46000",
+      "51500",
+      "52999"
+    ]
+  },
+  {
+    "name": "Old firesteel",
+    "image": "FireSteelIcon.png",
+    "title": "Old firesteel",
+    "pageId": 11929,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/87/FireSteelIcon.png?version=5aefe619f0d510860c898032b9e4bccb",
+    "filePath": "old_firesteel",
+    "marketSearchName": "Old firesteel",
+    "marketPositionOffset": 0,
+    "price_array": []
+  },
+  {
+    "name": "Deadlyslob's beard oil",
+    "image": "Deadlyslobs beard oil icon.png",
+    "title": "Deadlyslob's beard oil",
+    "pageId": 11920,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Deadlyslobs_beard_oil_icon.png?version=e0e1da2fb393507a4c77e74a39d23e5f",
+    "filePath": "deadlyslob_s_beard_oil",
+    "marketSearchName": "Deadlyslob's beard oil",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "56500",
+      "56500",
+      "56664",
+      "56664",
+      "56665",
+      "56666",
+      "56749",
+      "56750",
+      "56880",
+      "56888",
+      "56999",
+      "57000",
+      "57999"
+    ]
+  },
+  {
+    "name": "Golden 1GPhone",
+    "image": "1gphone icon.png",
+    "title": "Golden 1GPhone",
+    "pageId": 11908,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/1gphone_icon.png?version=16ffdf148c42ad7882c80dc3c83b83bd",
+    "filePath": "golden_1gphone",
+    "marketSearchName": "Golden 1GPhone",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "40500",
+      "40900",
+      "40980",
+      "40985",
+      "40986",
+      "40987",
+      "40988",
+      "40989",
+      "40999",
+      "41000",
+      "41000",
+      "41000",
+      "41000",
+      "41000"
+    ]
+  },
+  {
+    "name": "Tetriz portable game",
+    "image": "Tetriz icon.png",
+    "title": "Tetriz portable game",
+    "pageId": 12258,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Tetriz_icon.png?version=5b7137d1d3438a1938caba8ca4211dff",
+    "filePath": "tetriz_portable_game",
+    "marketSearchName": "Tetriz portable game",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "113998",
+      "114000",
+      "114999",
+      "115000",
+      "115000",
+      "115000",
+      "115000",
+      "115000",
+      "115000",
+      "115000",
+      "115000"
+    ]
+  },
+  {
+    "name": "Chain with Prokill medallion",
+    "image": "Prokill medallion Icon.png",
+    "title": "Chain with Prokill medallion",
+    "pageId": 12865,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Prokill_medallion_Icon.png?version=c199b99284a9af59afc85b380b0cd444",
+    "filePath": "chain_with_prokill_medallion",
+    "marketSearchName": "Chain with Prokill medallion",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "129000",
+      "130000",
+      "135000",
+      "139000",
+      "139000",
+      "139900",
+      "140000",
+      "140000"
+    ]
+  },
+  {
+    "name": "Nippers",
+    "image": "Nippers small.jpg",
+    "title": "Nippers",
+    "pageId": 15000,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Nippers_small.jpg?version=22f72e359e9c6aff1368bf87ef8a3ca8",
+    "filePath": "nippers",
+    "marketSearchName": "Nippers",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10000",
+      "10850",
+      "12300",
+      "12500",
+      "12500",
+      "12500",
+      "12999",
+      "13200"
+    ]
+  },
+  {
+    "name": "Metal cutting scissors",
+    "image": "Metal_cutting_scissors_icon.png",
+    "title": "Metal cutting scissors",
+    "pageId": 15008,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Metal_cutting_scissors_icon.png?version=f3fa6e7f985babf3c79c44e6d3557311",
+    "filePath": "metal_cutting_scissors",
+    "marketSearchName": "Metal cutting scissors",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "39500",
+      "39500",
+      "39900",
+      "40000",
+      "40000",
+      "40000",
+      "40000",
+      "40000",
+      "40000",
+      "40000",
+      "40000",
+      "40000"
+    ]
+  },
+  {
+    "name": "Handdrill",
+    "image": "Handdrill_icon.png",
+    "title": "Handdrill",
+    "pageId": 15006,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/Handdrill_icon.png?version=27dac6222dc65cb6d142052e4b41d3a4",
+    "filePath": "handdrill",
+    "marketSearchName": "Handdrill",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "45000",
+      "45000",
+      "45000",
+      "45000",
+      "45000",
+      "45000",
+      "45000",
+      "45000",
+      "45000"
+    ]
+  },
+  {
+    "name": "6-STEN-140-M military battery",
+    "image": "Mil Batt icon.png",
+    "title": "6-STEN-140-M military battery",
+    "pageId": 15011,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Mil_Batt_icon.png?version=e157ce82be8681e010127adc53a19bad",
+    "filePath": "6_sten_140_m_military_battery",
+    "marketSearchName": "6-STEN-140-M military battery",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "239000",
+      "239988",
+      "240000",
+      "244000",
+      "245000",
+      "247000",
+      "247499",
+      "247500",
+      "247900",
+      "247990",
+      "247999"
+    ]
+  },
+  {
+    "name": "NIXXOR lens",
+    "image": "NIXXOR_lens_icon.png",
+    "title": "NIXXOR lens",
+    "pageId": 15521,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/NIXXOR_lens_icon.png?version=cc60b2b07ee5dd281fcbf5cd199cf188",
+    "filePath": "nixxor_lens",
+    "marketSearchName": "NIXXOR lens",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "37000",
+      "39999",
+      "39999",
+      "40000",
+      "40000",
+      "40000",
+      "40000"
+    ]
+  },
+  {
+    "name": "Expeditionary fuel tank",
+    "image": "expeditionary-fuel-tank-icon.png",
+    "title": "Expeditionary fuel tank",
+    "pageId": 14996,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Expeditionary-fuel-tank-icon.png",
+    "filePath": "expeditionary_fuel_tank",
+    "marketSearchName": "Expeditionary fuel tank",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "69000",
+      "69999",
+      "72420"
+    ]
+  },
+  {
+    "name": "Metal fuel tank",
+    "image": "Metal-fuel-tank-icon.png",
+    "title": "Metal fuel tank",
+    "pageId": 15525,
+    "size": {
+      "width": "2",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/Metal-fuel-tank-icon.png",
+    "filePath": "metal_fuel_tank",
+    "marketSearchName": "Metal fuel tank",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7800",
+      "14998",
+      "15000",
+      "15000",
+      "18000",
+      "18000",
+      "18765",
+      "20000",
+      "20000",
+      "20000",
+      "20000",
+      "20000"
+    ]
+  },
+  {
+    "name": "FP-100 filter absorber",
+    "image": "FP-100 filter absorber icon.png",
+    "title": "FP-100 filter absorber",
+    "pageId": 15519,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/FP-100_filter_absorber_icon.png",
+    "filePath": "fp_100_filter_absorber",
+    "marketSearchName": "FP-100 filter absorber",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "180000",
+      "180000",
+      "184499",
+      "184798",
+      "184799",
+      "185000",
+      "185000",
+      "185000",
+      "187000",
+      "188888",
+      "189999"
+    ]
+  },
+  {
+    "name": "Electric motor",
+    "image": "Electric motor icon.png",
+    "title": "Electric motor",
+    "pageId": 15520,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9f/Electric_motor_icon.png?version=940ae203664cf7cca1a7b5e9677e4cee",
+    "filePath": "electric_motor",
+    "marketSearchName": "Electric motor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "47599"
+    ]
+  },
+  {
+    "name": "Broken LCD",
+    "image": "lcd-icon.PNG",
+    "title": "Broken LCD",
+    "pageId": 15005,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/be/Lcd-icon.PNG",
+    "filePath": "broken_lcd",
+    "marketSearchName": "Broken LCD",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "18999",
+      "19000",
+      "19999",
+      "20000",
+      "20000",
+      "20000",
+      "21000"
+    ]
+  },
+  {
+    "name": "Working LCD",
+    "image": "Working LCD Icon.png",
+    "title": "Working LCD",
+    "pageId": 15058,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ca/Working_LCD_Icon.png?version=794cb298e903df15e0dfc314abb13eeb",
+    "filePath": "working_lcd",
+    "marketSearchName": "Working LCD",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "27777",
+      "29000",
+      "29999",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000"
+    ]
+  },
+  {
+    "name": "GP coin",
+    "image": "gp_coin_icon.png",
+    "title": "GP coin",
+    "pageId": 15127,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/Gp_coin_icon.png?version=196a2fe6b1f472402584099d94ca0041",
+    "filePath": "gp_coin",
+    "marketSearchName": "GP coin",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "27000",
+      "27777",
+      "28000",
+      "31000",
+      "31999",
+      "32000",
+      "32000",
+      "32999",
+      "35000",
+      "35000",
+      "36999",
+      "37000",
+      "39000"
+    ]
+  },
+  {
+    "name": "Water filter",
+    "image": "water_filter_icon.png",
+    "title": "Water filter",
+    "pageId": 15527,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Water_filter_icon.png?version=c770e2d8ff54e417e1559f22db40a1b7",
+    "filePath": "water_filter",
+    "marketSearchName": "Water filter",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "44998",
+      "45000",
+      "45000",
+      "45000",
+      "45000",
+      "45500",
+      "48000"
+    ]
+  },
+  {
+    "name": "Gunpowder \"Kite\"",
+    "image": "Gunpowder Icon.png",
+    "title": "Gunpowder \"Kite\"",
+    "pageId": 5840,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Gunpowder_Icon.png?version=416b2bc9667be2c64994f7eb649b52ff",
+    "filePath": "gunpowder__kite_",
+    "marketSearchName": "Gunpowder \"Kite\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "13000",
+      "13000",
+      "13000",
+      "13499",
+      "13500",
+      "13500",
+      "13700",
+      "13999",
+      "14000",
+      "14000"
+    ]
+  },
+  {
+    "name": "Gunpowder \"Eagle\"",
+    "image": "gunpowder_eagle_icon.png",
+    "title": "Gunpowder \"Eagle\"",
+    "pageId": 15266,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/Gunpowder_eagle_icon.png?version=368777625e2cadda82b9d0a508146d33",
+    "filePath": "gunpowder__eagle_",
+    "marketSearchName": "Gunpowder \"Eagle\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "37000",
+      "43000",
+      "44000"
+    ]
+  },
+  {
+    "name": "Gunpowder \"Hawk\"",
+    "image": "GunpowderHawkIcon.png",
+    "title": "Gunpowder \"Hawk\"",
+    "pageId": 15606,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/GunpowderHawkIcon.png?version=6b0729a365bcda2c332eae818088403a",
+    "filePath": "gunpowder__hawk_",
+    "marketSearchName": "Gunpowder \"Hawk\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "18999",
+      "19000",
+      "19000",
+      "20000",
+      "20000",
+      "20000",
+      "20000",
+      "20000",
+      "21000",
+      "21000"
+    ]
+  },
+  {
+    "name": "Pile of meds",
+    "image": "Pile of meds icon.png",
+    "title": "Pile of meds",
+    "pageId": 15294,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b6/Pile_of_meds_icon.png?version=ccdc450eb21acbc2ec1ec87497148ef2",
+    "filePath": "pile_of_meds",
+    "marketSearchName": "Pile of meds",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "9000",
+      "12999",
+      "15000",
+      "16777",
+      "16888",
+      "16900",
+      "16998",
+      "16999",
+      "17000",
+      "17000",
+      "17000"
+    ]
+  },
+  {
+    "name": "Disposable syringe",
+    "image": "DisposableSyringeIcon.png",
+    "title": "Disposable syringe",
+    "pageId": 15332,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/DisposableSyringeIcon.png?version=159aecd34e714210de2e9b07389a31fe",
+    "filePath": "disposable_syringe",
+    "marketSearchName": "Disposable syringe",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "32000",
+      "33950",
+      "35000",
+      "36000",
+      "36000",
+      "36666",
+      "36888",
+      "36969"
+    ]
+  },
+  {
+    "name": "Phased array element",
+    "image": "Phased-Array-Element-icon.png",
+    "title": "Phased array element",
+    "pageId": 15357,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Phased-Array-Element-icon.png",
+    "filePath": "phased_array_element",
+    "marketSearchName": "Phased array element",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "123000",
+      "123999",
+      "124500",
+      "124500",
+      "124900",
+      "124996",
+      "124997",
+      "124998",
+      "124999",
+      "125000",
+      "125000",
+      "125000",
+      "125000",
+      "125000"
+    ]
+  },
+  {
+    "name": "Military circuit board",
+    "image": "MilitaryCircuitBoardIcon.png",
+    "title": "Military circuit board",
+    "pageId": 15360,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/MilitaryCircuitBoardIcon.png?version=2e2f8a0441d46edf1a04ac10e796a747",
+    "filePath": "military_circuit_board",
+    "marketSearchName": "Military circuit board",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "29999",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000",
+      "30000"
+    ]
+  },
+  {
+    "name": "Military thermal vision module Iridium",
+    "image": "mil thervis.png",
+    "title": "Military thermal vision module Iridium",
+    "pageId": 15362,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/Mil_thervis.png?version=d30891ec3efd2b7041297734cebcab95",
+    "filePath": "military_thermal_vision_module_iridium",
+    "marketSearchName": "Military thermal vision module Iridium",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "60000",
+      "60000",
+      "60000",
+      "60000",
+      "60500",
+      "60600",
+      "61000",
+      "62000",
+      "62999",
+      "63000",
+      "63000",
+      "64000",
+      "64500"
+    ]
+  },
+  {
+    "name": "Military gyrotachometer",
+    "image": "MGT_Icon.png",
+    "title": "Military gyrotachometer",
+    "pageId": 15364,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f2/MGT_Icon.png?version=c200d910abbb539afe292f885b622a29",
+    "filePath": "military_gyrotachometer",
+    "marketSearchName": "Military gyrotachometer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "45990",
+      "45990",
+      "46000",
+      "46499",
+      "46500",
+      "46500",
+      "46500",
+      "46500",
+      "46500",
+      "46500",
+      "46554"
+    ]
+  },
+  {
+    "name": "Weapon parts",
+    "image": "WeaponPartsIcon.png",
+    "title": "Weapon parts",
+    "pageId": 15375,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/WeaponPartsIcon.png?version=eeff1447e7d944f476d77fca851b931a",
+    "filePath": "weapon_parts",
+    "marketSearchName": "Weapon parts",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "17000",
+      "17000",
+      "17400",
+      "17444",
+      "17500",
+      "17500",
+      "17500",
+      "17500",
+      "17999",
+      "18000",
+      "18000",
+      "18000",
+      "18000"
+    ]
+  },
+  {
+    "name": "Round pliers",
+    "image": "RoundPliersIcon.png",
+    "title": "Round pliers",
+    "pageId": 15378,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dd/RoundPliersIcon.png?version=6d95f7c815a1e791ac6bb1baf9499d85",
+    "filePath": "round_pliers",
+    "marketSearchName": "Round pliers",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "8000",
+      "8999",
+      "9000",
+      "9000",
+      "9000",
+      "9000",
+      "9789",
+      "9900",
+      "9999",
+      "10000",
+      "10000"
+    ]
+  },
+  {
+    "name": "OFZ 30x160mm shell",
+    "image": "30x160mmShellicon.png",
+    "title": "OFZ 30x160mm shell",
+    "pageId": 15389,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/30x160mmShellicon.png?version=8b4479cb0b2b520741dfd2d9c13ff04f",
+    "filePath": "ofz_30x160mm_shell",
+    "marketSearchName": "OFZ 30",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "30000",
+      "31999",
+      "33000",
+      "34000",
+      "34999",
+      "35000",
+      "37000",
+      "37000",
+      "38000",
+      "39000",
+      "39995",
+      "39996",
+      "39997"
+    ]
+  },
+  {
+    "name": "Military cable",
+    "image": "MilitaryCableIcon.png",
+    "title": "Military cable",
+    "pageId": 15490,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/MilitaryCableIcon.png?version=d5611454d5867791b037f43a1bd358fa",
+    "filePath": "military_cable",
+    "marketSearchName": "Military cable",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "29000",
+      "29999",
+      "30000",
+      "30000",
+      "32000",
+      "32000",
+      "32969",
+      "32999",
+      "32999"
+    ]
+  },
+  {
+    "name": "Military power filter",
+    "image": "Mil Filter Icon.png",
+    "title": "Military power filter",
+    "pageId": 15491,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/47/Mil_Filter_Icon.png?version=d90a35e5524017dba0edd1e74b54bad2",
+    "filePath": "military_power_filter",
+    "marketSearchName": "Military power filter",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "41666",
+      "41888",
+      "41990",
+      "41999",
+      "42000",
+      "42000",
+      "42000",
+      "42000",
+      "42000",
+      "42000",
+      "42000",
+      "42000"
+    ]
+  },
+  {
+    "name": "Pressure gauge",
+    "image": "Pressure gauge icon.png",
+    "title": "Pressure gauge",
+    "pageId": 15522,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/Pressure_gauge_icon.png?version=b29e8469458df973693f0abd6e6c31ce",
+    "filePath": "pressure_gauge",
+    "marketSearchName": "Pressure gauge",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "370000",
+      "388000",
+      "389000",
+      "389995",
+      "390000",
+      "390000",
+      "390000",
+      "395420",
+      "398999",
+      "399000"
+    ]
+  },
+  {
+    "name": "Analog thermometer",
+    "image": "Anal Thermometer Icon.png",
+    "title": "Analog thermometer",
+    "pageId": 15523,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/Anal_Thermometer_Icon.png?version=7dc84f13cab0f85185c95fa1b02d3546",
+    "filePath": "analog_thermometer",
+    "marketSearchName": "Analog thermometer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "55999",
+      "56000",
+      "56600",
+      "56666",
+      "56997",
+      "56998",
+      "57000",
+      "57000",
+      "57000"
+    ]
+  },
+  {
+    "name": "Light bulb",
+    "image": "Bulb icon.png",
+    "title": "Light bulb",
+    "pageId": 15528,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/Bulb_icon.png?version=aa00f8e0427743fc291d0c496d73739a",
+    "filePath": "light_bulb",
+    "marketSearchName": "Light bulb",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "10000",
+      "11999",
+      "12000",
+      "12999"
+    ]
+  },
+  {
+    "name": "Radiator helix",
+    "image": "RadiatorHelixIcon.png",
+    "title": "Radiator helix",
+    "pageId": 15532,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/RadiatorHelixIcon.png?version=4926ab9902029f2bb7977f10baad092a",
+    "filePath": "radiator_helix",
+    "marketSearchName": "Radiator helix",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "13000",
+      "14000",
+      "14999",
+      "16000",
+      "16000",
+      "19000",
+      "19000",
+      "19399",
+      "19400",
+      "19444"
+    ]
+  },
+  {
+    "name": "Gold skull ring",
+    "image": "SkullRing Icon.png",
+    "title": "Gold skull ring",
+    "pageId": 15534,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/SkullRing_Icon.png?version=0777254227b5457af940c790b8de8331",
+    "filePath": "gold_skull_ring",
+    "marketSearchName": "Gold skull ring",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "72000",
+      "75000",
+      "76000",
+      "76000",
+      "78990",
+      "79000",
+      "79000",
+      "79000",
+      "79000",
+      "80000",
+      "80000"
+    ]
+  },
+  {
+    "name": "Technical documentation",
+    "image": "lada_manual_icon.png",
+    "title": "Technical documentation",
+    "pageId": 8053,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7b/Lada_manual_icon.png?version=f22872f2f9e9abb22f2648dd6f6fa4ff",
+    "filePath": "technical_documentation",
+    "marketSearchName": "Technical documentation",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "5000",
+      "5070",
+      "6000",
+      "6000",
+      "7777",
+      "8000",
+      "10999",
+      "11000",
+      "13499",
+      "14444",
+      "16900",
+      "16999",
+      "17000"
+    ]
+  },
+  {
+    "name": "Schaman shampoo",
+    "image": "Shampoo_icon.png",
+    "title": "Schaman shampoo",
+    "pageId": 15568,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/Shampoo_icon.png?version=5441ac9a83a3d6c0cd5dfa826fe9d86f",
+    "filePath": "schaman_shampoo",
+    "marketSearchName": "Schaman shampoo",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "7000",
+      "7499",
+      "7600",
+      "8000",
+      "8000",
+      "8000",
+      "8000",
+      "8400",
+      "8500",
+      "8900",
+      "8999",
+      "9000",
+      "9999",
+      "10000"
+    ]
+  },
+  {
+    "name": "Ortodontox toothpaste",
+    "image": "OrtodontoxToothpasteIcon.png",
+    "title": "Ortodontox toothpaste",
+    "pageId": 15569,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/OrtodontoxToothpasteIcon.png?version=a078b54e23647e5fb55198d08ad9c314",
+    "filePath": "ortodontox_toothpaste",
+    "marketSearchName": "Ortodontox toothpaste",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "4200",
+      "4200",
+      "4800",
+      "4800",
+      "4900",
+      "4900",
+      "5000",
+      "6000"
+    ]
+  },
+  {
+    "name": "Long flat screwdriver",
+    "image": "Long_screwdriver_icon.png",
+    "title": "Long flat screwdriver",
+    "pageId": 15570,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/51/Long_screwdriver_icon.png?version=a48e3bf153a8616eaa36c210061dd466",
+    "filePath": "long_flat_screwdriver",
+    "marketSearchName": "Long flat screwdriver",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "8000",
+      "8888",
+      "8999",
+      "9000",
+      "9400",
+      "9400",
+      "9499",
+      "9500",
+      "9500",
+      "9500",
+      "9996",
+      "9997",
+      "9998",
+      "9999"
+    ]
+  },
+  {
+    "name": "Flat screwdriver",
+    "image": "Flat Screwdriver Icon.PNG",
+    "title": "Flat screwdriver",
+    "pageId": 15594,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/Flat_Screwdriver_Icon.PNG?version=32952818c2266861ec4c5bbce5bf4593",
+    "filePath": "flat_screwdriver",
+    "marketSearchName": "Flat screwdriver",
+    "marketPositionOffset": 1,
+    "price_array": [
+      "1200",
+      "1500",
+      "1900",
+      "1950",
+      "2198",
+      "2199",
+      "2498",
+      "2499",
+      "2999",
+      "2999",
+      "3499",
+      "3500",
+      "3500",
+      "4999"
+    ]
+  },
+  {
+    "name": "Phase control relay",
+    "image": "Relay Icon.png",
+    "title": "Phase control relay",
+    "pageId": 14967,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2c/Relay_Icon.png?version=4b7f4b9e8e1779e58bdab83882f92bdb",
+    "filePath": "phase_control_relay",
+    "marketSearchName": "Phase control relay",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "19500",
+      "19500",
+      "19800",
+      "19900",
+      "19999"
+    ]
+  },
+  {
+    "name": "Silicone tube",
+    "image": "SiliconeTubeIcon.png",
+    "title": "Silicone tube",
+    "pageId": 15015,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2e/SiliconeTubeIcon.png?version=a304c0dc1da3f655bd13efba50010cbe",
+    "filePath": "silicone_tube",
+    "marketSearchName": "Silicone tube",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "14500",
+      "15000",
+      "15000",
+      "15000",
+      "15250",
+      "15999",
+      "16000",
+      "16000",
+      "16996",
+      "16997",
+      "16997",
+      "16998",
+      "16999"
+    ]
+  },
+  {
+    "name": "Diary",
+    "image": "Diary Icon1.png",
+    "title": "Diary",
+    "pageId": 5931,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/Diary_Icon1.png?version=128423312c8e90c2339d2996c2997345",
+    "filePath": "diary",
+    "marketSearchName": "Diary",
+    "marketPositionOffset": 1,
+    "price_array": [
+      "149999",
+      "150000",
+      "150000",
+      "199999",
+      "230000",
+      "250000",
+      "255000",
+      "258000",
+      "259000",
+      "259789",
+      "270000"
+    ]
+  },
+  {
+    "name": "Slim diary",
+    "image": "SlimDiaryIcon.png",
+    "title": "Slim diary",
+    "pageId": 8054,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/SlimDiaryIcon.png?version=63f02b39a57bee953723b0cbcd8bd91c",
+    "filePath": "slim_diary",
+    "marketSearchName": "Slim diary",
+    "marketPositionOffset": 0,
+    "price_array": [
+      "750000"
+    ]
+  }
+]
