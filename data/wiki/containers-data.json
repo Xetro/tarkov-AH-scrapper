@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Lucky Scav Junkbox",
+    "image": "Junkbox.png",
+    "title": "Lucky Scav Junkbox",
+    "pageId": 11283,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/Junkbox.png?version=be4ee03c96065616a9bc0d2af60b674d",
+    "filePath": "lucky_scav_junkbox"
+  },
+  {
+    "name": "T H I C C Items case",
+    "image": "THICCItems case icon.png",
+    "title": "T H I C C Items case",
+    "pageId": 12623,
+    "size": {
+      "width": "5",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/THICCItems_case_icon.png?version=089a836943c2aa05e6eb012591d1ac03",
+    "filePath": "t_h_i_c_c_items_case"
+  },
+  {
+    "name": "Items case",
+    "image": "Items_case_icon.png",
+    "title": "Items case",
+    "pageId": 6921,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Items_case_icon.png?version=1d4b84706bb447ae9cb572f01f38e0b9",
+    "filePath": "items_case"
+  },
+  {
+    "name": "T H I C C Weapon case",
+    "image": "WCasev2.png",
+    "title": "T H I C C Weapon case",
+    "pageId": 11274,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5b/WCasev2.png?version=3f08081d86b24269c5971c110c2a022b",
+    "filePath": "t_h_i_c_c_weapon_case"
+  },
+  {
+    "name": "Weapon case",
+    "image": "Weapon case icon.png",
+    "title": "Weapon case",
+    "pageId": 6795,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/Weapon_case_icon.png?version=25be4cef18a008b7d96aae6f245029b8",
+    "filePath": "weapon_case"
+  },
+  {
+    "name": "Meds case",
+    "image": "medscaseicon.png",
+    "title": "Meds case",
+    "pageId": 9568,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ca/Medscaseicon.png?version=e46f69e8fe35ca3eff0218a39f02755c",
+    "filePath": "meds_case"
+  },
+  {
+    "name": "Mr. Holodilnick thermobag",
+    "image": "Mr. Holodilnick thermobag icon.png",
+    "title": "Mr. Holodilnick thermobag",
+    "pageId": 12839,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/Mr._Holodilnick_thermobag_icon.png",
+    "filePath": "mr__holodilnick_thermobag"
+  },
+  {
+    "name": "Magazine case",
+    "image": "Magbox_icon.png",
+    "title": "Magazine case",
+    "pageId": 12631,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/Magbox_icon.png?version=0a608165b58bf589f1f55511151744b2",
+    "filePath": "magazine_case"
+  },
+  {
+    "name": "Ammo case",
+    "image": "ammocaseicon.png",
+    "title": "Ammo case",
+    "pageId": 9569,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Ammocaseicon.png?version=640be2f62f038a854182e523002b1928",
+    "filePath": "ammo_case"
+  },
+  {
+    "name": "Money case",
+    "image": "Money_case_icon.png",
+    "title": "Money case",
+    "pageId": 6912,
+    "size": {
+      "width": "3",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Money_case_icon.png?version=159eb0c96856d5e87175e9d535d2be82",
+    "filePath": "money_case"
+  },
+  {
+    "name": "Pistol case",
+    "image": "Pistol-Case.png",
+    "title": "Pistol case",
+    "pageId": 5153,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/22/Pistol-Case.png",
+    "filePath": "pistol_case"
+  },
+  {
+    "name": "Documents case",
+    "image": "Document-Case.png",
+    "title": "Documents case",
+    "pageId": 5470,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/eb/Document-Case.png",
+    "filePath": "documents_case"
+  },
+  {
+    "name": "Small S I C C case",
+    "image": "SmallSICCIcon.png",
+    "title": "Small S I C C case",
+    "pageId": 15535,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/SmallSICCIcon.png?version=c9d9563ff60b845afb0165277d45c58b",
+    "filePath": "small_s_i_c_c_case"
+  },
+  {
+    "name": "Keytool",
+    "image": "Keybar_icon.png",
+    "title": "Keytool",
+    "pageId": 7971,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/Keybar_icon.png?version=a85a269d2193d0778263b4e15d050ccf",
+    "filePath": "keytool"
+  },
+  {
+    "name": "Wallet",
+    "image": "Wallet icon.png",
+    "title": "Empty Wallet",
+    "pageId": 7969,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a9/Wallet_icon.png?version=18768dd4a9df3b9f14eb61039e0948ce",
+    "filePath": "wallet"
+  },
+  {
+    "name": "Dogtag case",
+    "image": "DogtagCaseIcon.png",
+    "title": "Dogtag case",
+    "pageId": 12840,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/DogtagCaseIcon.png?version=18dcc5c362f1d7dc92071e6c456651e6",
+    "filePath": "dogtag_case"
+  }
+]

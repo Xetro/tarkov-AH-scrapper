@@ -1,8 +1,3 @@
-containers
-keys_customs
-provisions
-injectors
-additional_armor
 handguards
 barrels
 stocks_chassis

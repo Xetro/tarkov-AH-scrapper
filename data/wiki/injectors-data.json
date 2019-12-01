@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Combat stimulant injector SJ1 TGLabs",
+    "image": "Combat_stimulant_SJ1_icon.png",
+    "title": "Combat stimulant injector SJ1 TGLabs",
+    "pageId": 12763,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/Combat_stimulant_SJ1_icon.png?version=d9312a4d7036aee3de9bf3876db4038a",
+    "filePath": "combat_stimulant_injector_sj1_tglabs"
+  },
+  {
+    "name": "Regenerative stimulant injector eTG-change",
+    "image": "ETG_change_icon.png",
+    "title": "Regenerative stimulant injector eTG-change",
+    "pageId": 12692,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/ETG_change_icon.png?version=ff9866e9a5eb445a7c7e14f9f6605436",
+    "filePath": "regenerative_stimulant_injector_etg_change"
+  },
+  {
+    "name": "Combat stimulant injector SJ6 TGLabs",
+    "image": "Combat_stimulant_SJ6_icon.png",
+    "title": "Combat stimulant injector SJ6 TGLabs",
+    "pageId": 12697,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/Combat_stimulant_SJ6_icon.png?version=d836ddf8693768665df11c231088f692",
+    "filePath": "combat_stimulant_injector_sj6_tglabs"
+  },
+  {
+    "name": "Propital",
+    "image": "PropitalIcon.png",
+    "title": "Propital",
+    "pageId": 12709,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/PropitalIcon.png?version=e3182eac7dcff8cacfc508d0d97aaf10",
+    "filePath": "propital"
+  },
+  {
+    "name": "Hemostatic drug Zagustin",
+    "image": "Hemostatic_drug_Zagustin_icon.png",
+    "title": "Hemostatic drug Zagustin",
+    "pageId": 12615,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Hemostatic_drug_Zagustin_icon.png?version=ca0606853b17fdf349e97b61f0fadf2a",
+    "filePath": "hemostatic_drug_zagustin"
+  },
+  {
+    "name": "Adrenaline injector",
+    "image": "Adrenaline_Icon.png",
+    "title": "Adrenaline injector",
+    "pageId": 12609,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/Adrenaline_Icon.png?version=21916293ce0bd93938b2cba26a228a71",
+    "filePath": "adrenaline_injector"
+  }
+]

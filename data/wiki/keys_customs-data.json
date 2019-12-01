@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Factory exit key",
+    "image": "Factory key icon.png",
+    "title": "Factory exit key",
+    "pageId": 4029,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Factory_key_icon.png?version=459982fbc47d60275ae9b1280070a510",
+    "filePath": "factory_exit_key"
+  },
+  {
+    "name": "Dorm guard desk key",
+    "image": "GDesk-Key-Icon.png",
+    "title": "Dorm guard desk key",
+    "pageId": 7012,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/GDesk-Key-Icon.png",
+    "filePath": "dorm_guard_desk_key"
+  },
+  {
+    "name": "Dorm room 104 Key",
+    "image": "Key-104-Icon.png",
+    "title": "Dorm room 104 Key",
+    "pageId": 5455,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8c/Key-104-Icon.png",
+    "filePath": "dorm_room_104_key"
+  },
+  {
+    "name": "Dorm room 105 Key",
+    "image": "Key-105-Icon.png",
+    "title": "Dorm room 105 Key",
+    "pageId": 5456,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/56/Key-105-Icon.png",
+    "filePath": "dorm_room_105_key"
+  },
+  {
+    "name": "Dorm room 110 Key",
+    "image": "Key-110-Icon.png",
+    "title": "Dorm room 110 Key",
+    "pageId": 5461,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/01/Key-110-Icon.png",
+    "filePath": "dorm_room_110_key"
+  },
+  {
+    "name": "Dorm room 114 Key",
+    "image": "Key-114-Icon.png",
+    "title": "Dorm room 114 Key",
+    "pageId": 5463,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/Key-114-Icon.png",
+    "filePath": "dorm_room_114_key"
+  },
+  {
+    "name": "Dorm room 206 Key",
+    "image": "Key-206-Icon.png",
+    "title": "Dorm room 206 Key",
+    "pageId": 6195,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/Key-206-Icon.png",
+    "filePath": "dorm_room_206_key"
+  },
+  {
+    "name": "Dorm room 103 Key",
+    "image": "Dorm 103 icon.png",
+    "title": "Dorm room 103 Key",
+    "pageId": 6202,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7e/Dorm_103_icon.png?version=391709558a4ea73aac40b73ce14e75c3",
+    "filePath": "dorm_room_103_key"
+  },
+  {
+    "name": "Dorm room 108 Key",
+    "image": "Key-108-Icon.png",
+    "title": "Dorm room 108 Key",
+    "pageId": 5458,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/Key-108-Icon.png",
+    "filePath": "dorm_room_108_key"
+  },
+  {
+    "name": "Dorm room 118 Key",
+    "image": "Dorm 118 icon.png",
+    "title": "Dorm room 118 Key",
+    "pageId": 4031,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Dorm_118_icon.png?version=2b20545a80caf02802849e1ff6f19b6d",
+    "filePath": "dorm_room_118_key"
+  },
+  {
+    "name": "Dorm room 203 Key",
+    "image": "Key-203-Icon.png",
+    "title": "Dorm room 203 Key",
+    "pageId": 5466,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/Key-203-Icon.png",
+    "filePath": "dorm_room_203_key"
+  },
+  {
+    "name": "Dorm room 204 Key",
+    "image": "Key-204-Icon.png",
+    "title": "Dorm room 204 Key",
+    "pageId": 5400,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/Key-204-Icon.png",
+    "filePath": "dorm_room_204_key"
+  },
+  {
+    "name": "Dorm room 214 Key",
+    "image": "Key-214-Icon.png",
+    "title": "Dorm room 214 Key",
+    "pageId": 4055,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/36/Key-214-Icon.png",
+    "filePath": "dorm_room_214_key"
+  },
+  {
+    "name": "Dorm room 218 Key",
+    "image": "Key-218-Icon.png",
+    "title": "Dorm room 218 Key",
+    "pageId": 4056,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/Key-218-Icon.png",
+    "filePath": "dorm_room_218_key"
+  },
+  {
+    "name": "Dorm room 220 Key",
+    "image": "Key-220-Icon.png",
+    "title": "Dorm room 220 Key",
+    "pageId": 4058,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/Key-220-Icon.png",
+    "filePath": "dorm_room_220_key"
+  },
+  {
+    "name": "Dorm room 303 Key",
+    "image": "Key-303-Icon.png",
+    "title": "Dorm room 303 Key",
+    "pageId": 5390,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/52/Key-303-Icon.png",
+    "filePath": "dorm_room_303_key"
+  },
+  {
+    "name": "Dorm room 306 Key",
+    "image": "Key-306.png",
+    "title": "Dorm room 306 Key",
+    "pageId": 4045,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/18/Key-306.png",
+    "filePath": "dorm_room_306_key"
+  },
+  {
+    "name": "Dorm room 308 Key",
+    "image": "Key-308-Icon.png",
+    "title": "Dorm room 308 Key",
+    "pageId": 4051,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/Key-308-Icon.png",
+    "filePath": "dorm_room_308_key"
+  },
+  {
+    "name": "Dorm room 315 Key",
+    "image": "Key-315-Icon.png",
+    "title": "Dorm room 315 Key",
+    "pageId": 4048,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/Key-315-Icon.png",
+    "filePath": "dorm_room_315_key"
+  },
+  {
+    "name": "Marked key",
+    "image": "Marked-key-Icon.png",
+    "title": "Marked key",
+    "pageId": 4053,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/Marked-key-Icon.png",
+    "filePath": "marked_key"
+  },
+  {
+    "name": "Machinery key",
+    "image": "Machinery-key-Icon.png",
+    "title": "Machinery key",
+    "pageId": 5484,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/Machinery-key-Icon.png",
+    "filePath": "machinery_key"
+  },
+  {
+    "name": "Car key",
+    "image": "Car-key-Icon.png",
+    "title": "Car key",
+    "pageId": 5971,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Car-key-Icon.png",
+    "filePath": "car_key"
+  },
+  {
+    "name": "Military base checkpoint key",
+    "image": "Checkpoint Key icon.png",
+    "title": "Military base checkpoint key",
+    "pageId": 6984,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/Checkpoint_Key_icon.png?version=9401607b2c3c527d78546aeacf41da06",
+    "filePath": "military_base_checkpoint_key"
+  },
+  {
+    "name": "Customs office key",
+    "image": "Customs-office-key-Icon.png",
+    "title": "Customs office key",
+    "pageId": 4060,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/Customs-office-key-Icon.png",
+    "filePath": "customs_office_key"
+  },
+  {
+    "name": "Portable cabin key",
+    "image": "Portable-cabin-key-Icon.png",
+    "title": "Portable cabin key",
+    "pageId": 4061,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Portable-cabin-key-Icon.png",
+    "filePath": "portable_cabin_key"
+  },
+  {
+    "name": "Portable cabin key of customs Factory zone",
+    "image": "Cabinet-key-Icon.png",
+    "title": "Portable cabin key of customs Factory zone",
+    "pageId": 6344,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/00/Cabinet-key-Icon.png",
+    "filePath": "portable_cabin_key_of_customs_factory_zone"
+  },
+  {
+    "name": "Trailer park cabin key",
+    "image": "Portable-cabin-key-Icon.png",
+    "title": "Trailer park cabin key",
+    "pageId": 6347,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Portable-cabin-key-Icon.png",
+    "filePath": "trailer_park_cabin_key"
+  },
+  {
+    "name": "Cabinet key",
+    "image": "Cabinet key Gas Station Icon.png",
+    "title": "Cabinet key",
+    "pageId": 5447,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Cabinet_key_Gas_Station_Icon.png?version=b7effdeeeb9c02faf8bd9a37ad96b914",
+    "filePath": "cabinet_key"
+  },
+  {
+    "name": "The key to the gas station storage room",
+    "image": "Storage-Key-Icon.png",
+    "title": "The key to the gas station storage room",
+    "pageId": 6663,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Storage-Key-Icon.png",
+    "filePath": "the_key_to_the_gas_station_storage_room"
+  },
+  {
+    "name": "Unknown key",
+    "image": "Unknown-key-Icon.png",
+    "title": "Unknown key",
+    "pageId": 5491,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/Unknown-key-Icon.png",
+    "filePath": "unknown_key"
+  }
+]

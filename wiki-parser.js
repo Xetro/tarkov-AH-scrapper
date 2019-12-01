@@ -17,7 +17,8 @@ const wikitextRegex = {
 const getItemsFromCategory = async (categoryName, categoryData) => {
   let promiseArray = [];
   for (let [index, section] of categoryData.usePages.entries()) {
-    const nameRequest = getItemNames(categoryData, section, index);
+    const boundFunction = getItemNames.bind(null, categoryData, section, index);
+    const nameRequest = withRetries(boundFunction);
     promiseArray.push(nameRequest);
   }
 
@@ -32,7 +33,8 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
 
   promiseArray = [];
   for (let [index, item] of results.entries()) {
-    const pageRequest = getItemPage(item[categoryData.nameIndex], index);
+    const boundFunction = getItemPage.bind(null, item[categoryData.nameIndex], index)
+    const pageRequest = withRetries(boundFunction);
     promiseArray.push(pageRequest);
   }
 
@@ -55,7 +57,8 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
 
   promiseArray = [];
   for (let [index, item] of results.entries()) {
-    const sizeRequest = getItemSize(item.title, item.pageId, index);
+    const boundFunction = getItemSize.bind(null, item.title, item.pageId, index);
+    const sizeRequest = withRetries(boundFunction);
     promiseArray.push(sizeRequest);
   }
 
@@ -69,11 +72,14 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
 
   promiseArray = [];
   for (let [index, item] of results.entries()) {
-    promiseArray.push(getImageUrl(item, index));
+    const boundFunction = getImageUrl.bind(null, item, index);
+    const imageRequest = withRetries(boundFunction);
+    promiseArray.push(imageRequest);
   }
 
   console.log(`Getting item images for: ${categoryName}`);
   const urls = await Promise.all(promiseArray);
+
   results = results.map((item, index) => {
     item.imagePath = urls[index];
     return item;
@@ -138,8 +144,8 @@ const getItemSize = (item, pageId, index) => {
   return new Promise((resolve, reject) => {
     setTimeout(async () => {
       try {
-        const path = `/api.php?action=query&prop=revisions&rvprop=content&format=json&pageids=${pageId}`; //&rvsection=0 removed because errors sometimes
 
+        const path = `/api.php?action=query&prop=revisions&rvprop=content&format=json&pageids=${pageId}`; //&rvsection=0 removed because errors sometimes
         const data = await wikiAPIRequest(path);
         const keys = Object.keys(data.query.pages);
 
@@ -224,6 +230,17 @@ const wikiAPIRequest = path => {
     req.end();
   });
 };
+
+const withRetries = (request, retries=4, err=null) => {
+  if (!retries) {
+    return Promise.reject(err);
+  }
+
+  return request().catch(err => {
+    console.log('retrying...', request);
+    return withRetries(request, --retries, err);
+  });
+}
 
 module.exports = {
   getItemsFromCategory

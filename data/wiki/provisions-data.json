@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Army Crackers",
+    "image": "Army_Crackers_icon.png",
+    "title": "Army Crackers",
+    "pageId": 4000,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2f/Army_Crackers_icon.png?version=166eeebbf70729fbb393fbef1e7c68d7",
+    "filePath": "army_crackers"
+  },
+  {
+    "name": "Condensed milk",
+    "image": "Condmilkicon.png",
+    "title": "Condensed milk",
+    "pageId": 4121,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c0/Condmilkicon.png?version=a0714920856dec4bf2dfad162cdefd1c",
+    "filePath": "condensed_milk"
+  },
+  {
+    "name": "Slickers bar",
+    "image": "Slickers_bar_icon.png",
+    "title": "Slickers bar",
+    "pageId": 6940,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/93/Slickers_bar_icon.png?version=708442a25aaed3164e13608cdf68c360",
+    "filePath": "slickers_bar"
+  },
+  {
+    "name": "Pack of sugar",
+    "image": "Sugar_icon.png",
+    "title": "Pack of sugar",
+    "pageId": 6767,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/Sugar_icon.png?version=6b9a4032e74808dfd4f74e82802ee84c",
+    "filePath": "pack_of_sugar"
+  },
+  {
+    "name": "Can of pacific saury",
+    "image": "Saury icon.png",
+    "title": "Can of pacific saury",
+    "pageId": 4003,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/Saury_icon.png?version=485eb2d1cd3157206ffc12b94ef1b3b6",
+    "filePath": "can_of_pacific_saury"
+  },
+  {
+    "name": "Rye croutons",
+    "image": "Rye_Croutons.png",
+    "title": "Rye croutons",
+    "pageId": 4004,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/Rye_Croutons.png?version=a321a7e136e3a6f457c831c0f7d2b55d",
+    "filePath": "rye_croutons"
+  },
+  {
+    "name": "Emelya rye croutons",
+    "image": "Emeyla_Croutons.png",
+    "title": "Emelya rye croutons",
+    "pageId": 4020,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Emeyla_Croutons.png?version=e124ab4d1fefd24317da9ef5aaa41d03",
+    "filePath": "emelya_rye_croutons"
+  },
+  {
+    "name": "Humpback salmon",
+    "image": "Humpback_icon.png",
+    "title": "Humpback salmon",
+    "pageId": 4006,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/Humpback_icon.png?version=6824f744dbecf64666fd601fa80e6144",
+    "filePath": "humpback_salmon"
+  },
+  {
+    "name": "Can of green peas",
+    "image": "Peas_icon.png",
+    "title": "Can of green peas",
+    "pageId": 4009,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/Peas_icon.png?version=f7c843af6804d150af4b0f3228764205",
+    "filePath": "can_of_green_peas"
+  },
+  {
+    "name": "Can of delicious beef stew",
+    "image": "Can_of_beef_stew_alt_Icon.png",
+    "title": "Can of delicious beef stew",
+    "pageId": 4011,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/Can_of_beef_stew_alt_Icon.png?version=aa86c9f5972e6be6fb004c0ca584dc32",
+    "filePath": "can_of_delicious_beef_stew"
+  },
+  {
+    "name": "Can of beef stew",
+    "image": "Can of beef stew Icon.png",
+    "title": "Can of beef stew",
+    "pageId": 4017,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/Can_of_beef_stew_Icon.png?version=434ed860d70bbccf46040853abe7e653",
+    "filePath": "can_of_beef_stew"
+  },
+  {
+    "name": "Pack of oat flakes",
+    "image": "Oatflakes_icon.png",
+    "title": "Pack of oat flakes",
+    "pageId": 4015,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5f/Oatflakes_icon.png?version=a011870dc9788bcec02920d0c5febeee",
+    "filePath": "pack_of_oat_flakes"
+  },
+  {
+    "name": "Can of herring",
+    "image": "Herring_icon.png",
+    "title": "Can of herring",
+    "pageId": 4016,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/Herring_icon.png?version=b8e40979148fba247e7505fb5d08599a",
+    "filePath": "can_of_herring"
+  },
+  {
+    "name": "Squash spread",
+    "image": "Squash_Spread_icon.png",
+    "title": "Squash spread",
+    "pageId": 4012,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Squash_Spread_icon.png?version=dddf4500d8adf01f46d15b5b6e5c36b8",
+    "filePath": "squash_spread"
+  },
+  {
+    "name": "Alyonka chocolate bar",
+    "image": "Alyonka_Chocolate_Bar_icon.png",
+    "title": "Alyonka chocolate bar",
+    "pageId": 4018,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Alyonka_Chocolate_Bar_icon.png?version=b50b56422967c00652416b7210de01ae",
+    "filePath": "alyonka_chocolate_bar"
+  },
+  {
+    "name": "Iskra lunch box",
+    "image": "Lunchbox_icon.png",
+    "title": "Iskra lunch box",
+    "pageId": 6569,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Lunchbox_icon.png?version=5009bbf515f5603081943882966d3b79",
+    "filePath": "iskra_lunch_box"
+  },
+  {
+    "name": "MRE lunch box",
+    "image": "MRE_icon.png",
+    "title": "MRE lunch box",
+    "pageId": 6570,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/MRE_icon.png?version=6bca98cbf4090751d52c1f37e1c34f83",
+    "filePath": "mre_lunch_box"
+  },
+  {
+    "name": "0.6L water bottle",
+    "image": "Water icon.png",
+    "title": "0.6L water bottle",
+    "pageId": 3986,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7f/Water_icon.png?version=d59f49f5988d63093d7f8503d9ba6a73",
+    "filePath": "0_6l_water_bottle"
+  },
+  {
+    "name": "Water bottle with a filter Aquamari",
+    "image": "Aquamari icon.png",
+    "title": "Water bottle with a filter Aquamari",
+    "pageId": 12640,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/Aquamari_icon.png?version=56527609e3a31d856e2e60f46c6d830d",
+    "filePath": "water_bottle_with_a_filter_aquamari"
+  },
+  {
+    "name": "Russian Army pineapple juice",
+    "image": "Pineapple Juice icon.png",
+    "title": "Russian Army pineapple juice",
+    "pageId": 3989,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/15/Pineapple_Juice_icon.png?version=19cedf4130fbefde9c0d359a3d86eaba",
+    "filePath": "russian_army_pineapple_juice"
+  },
+  {
+    "name": "Green Ice",
+    "image": "Green_Tea_icon.png",
+    "title": "Green Ice",
+    "pageId": 3990,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Green_Tea_icon.png?version=16f020e770b147aac606ab90661b0248",
+    "filePath": "green_ice"
+  },
+  {
+    "name": "Apple juice",
+    "image": "Apple Juice icon.png",
+    "title": "Apple juice",
+    "pageId": 3991,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Apple_Juice_icon.png?version=cd7d96e902b9425f75a4d1f6e333ff0a",
+    "filePath": "apple_juice"
+  },
+  {
+    "name": "Grand juice",
+    "image": "Grand Juice icon.png",
+    "title": "Grand juice",
+    "pageId": 3992,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/Grand_Juice_icon.png?version=c7bddc04757f46c2a222f5e8fceab958",
+    "filePath": "grand_juice"
+  },
+  {
+    "name": "Vita juice",
+    "image": "Vita_Juice_icon.png",
+    "title": "Vita juice",
+    "pageId": 3994,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Vita_Juice_icon.png?version=12e8b2bc4d210ffd554806eb391da100",
+    "filePath": "vita_juice"
+  },
+  {
+    "name": "Max energy",
+    "image": "NRG_Drink_icon.png",
+    "title": "Max energy",
+    "pageId": 3995,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/NRG_Drink_icon.png?version=3b4420c40590335ff1a271e43f932e5a",
+    "filePath": "max_energy"
+  },
+  {
+    "name": "TarCola",
+    "image": "Tar_Cola_icon.png",
+    "title": "TarCola",
+    "pageId": 3996,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/Tar_Cola_icon.png?version=9a74baad9be7c80db3011415c62de29c",
+    "filePath": "tarcola"
+  },
+  {
+    "name": "Pack of milk",
+    "image": "Pack ofMilk icon.png",
+    "title": "Pack of milk",
+    "pageId": 3997,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d3/Pack_ofMilk_icon.png?version=317f9ad8dd9a6b9b3aa9436a5f78a3ad",
+    "filePath": "pack_of_milk"
+  },
+  {
+    "name": "Hot Rod",
+    "image": "Hor_Rod_icon.png",
+    "title": "Hot Rod",
+    "pageId": 3999,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/Hor_Rod_icon.png?version=c9365eb00d538c749f0f60bfa24c12fe",
+    "filePath": "hot_rod"
+  },
+  {
+    "name": "Jar of DevilDog mayo",
+    "image": "DDGMayoIcon.png",
+    "title": "Jar of DevilDog mayo",
+    "pageId": 11928,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/DDGMayoIcon.png?version=2ed58e8be7153b8e5813fe460c0ad376",
+    "filePath": "jar_of_devildog_mayo"
+  },
+  {
+    "name": "Can of sprats",
+    "image": "Can of sprats Icon.png",
+    "title": "Can of sprats",
+    "pageId": 11931,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/Can_of_sprats_Icon.png?version=c23c5f44179457a5a1c77c1fa8ca1fce",
+    "filePath": "can_of_sprats"
+  },
+  {
+    "name": "Purified water",
+    "image": "Purified water icon.png",
+    "title": "Purified water",
+    "pageId": 15524,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Purified_water_icon.png?version=24cdb5466044b8ccac27a8413aa0a285",
+    "filePath": "purified_water"
+  },
+  {
+    "name": "\"Fierce Hatchling\" moonshine",
+    "image": "Fiece hatchling moonshine icon.png",
+    "title": "\"Fierce Hatchling\" moonshine",
+    "pageId": 15526,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/Fiece_hatchling_moonshine_icon.png?version=1f726f2aa182cedaa0685333a0fa2c6a",
+    "filePath": "_fierce_hatchling__moonshine"
+  },
+  {
+    "name": "Bottle of vodka Tarkovskaya",
+    "image": "VodkaIcon.png",
+    "title": "Bottle of vodka Tarkovskaya",
+    "pageId": 15567,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/VodkaIcon.png?version=7db12fa5191ed23c363655cd331f5cdd",
+    "filePath": "bottle_of_vodka_tarkovskaya"
+  },
+  {
+    "name": "Bottle of Dan Jackiel Whiskey",
+    "image": "Whiskey_icon.png",
+    "title": "Bottle of Dan Jackiel Whiskey",
+    "pageId": 15566,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/Whiskey_icon.png?version=5fb877a7a218cea3f990924109cf7020",
+    "filePath": "bottle_of_dan_jackiel_whiskey"
+  }
+]
