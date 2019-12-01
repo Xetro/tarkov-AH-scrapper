@@ -89,6 +89,23 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
     item.filePath = item.name.split('\n').map(name => name.replace(/[^a-z0-9]/gi, '_').toLowerCase());
     item.filePath = item.filePath[0];
     return item;
+  });
+
+  const positionExceptions = Object.keys(categoryData.positionExceptions);
+  const searchExceptions = Object.keys(categoryData.searchExceptions);
+
+  results = results.map(item => {
+    item.marketSearchName = item.name;
+    if (searchExceptions.includes(item.name)) {
+      item.marketSearchName = categoryData.searchExceptions[item.name];
+    }
+
+    item.marketPositionOffset = 0;
+    if (positionExceptions.includes(item.name)) {
+      item.marketPositionOffset = categoryData.positionExceptions[item.name];
+    }
+
+    return item;
   })
 
   return results;
@@ -145,7 +162,6 @@ const getItemSize = (item, pageId, index) => {
     setTimeout(async () => {
       try {
 
-        console.log(pageId, item);
         const path = `/api.php?action=query&prop=revisions&rvprop=content&format=json&pageids=${pageId}`; //&rvsection=0 removed because errors sometimes
         const data = await wikiAPIRequest(path);
         const keys = Object.keys(data.query.pages);

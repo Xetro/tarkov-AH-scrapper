@@ -9,7 +9,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/Gemech_ONE_Icon.png?version=a16d66bb0fd8b23c034786fec8d79986",
-    "filePath": "gemech_one_7_62x51_sound_suppressor"
+    "filePath": "gemech_one_7_62x51_sound_suppressor",
+    "marketSearchName": "Gemech ONE 7.62x51 Sound Suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "AAC Illusion 9 9x19mm silencer",
@@ -21,7 +23,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Illusion_Icon.png?version=878e418ea15b5298f426082887d5f706",
-    "filePath": "aac_illusion_9_9x19mm_silencer"
+    "filePath": "aac_illusion_9_9x19mm_silencer",
+    "marketSearchName": "AAC Illusion 9 9x19mm silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Sig SRD 9 9x19mm sound suppressor",
@@ -33,7 +37,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/SRD9Icon.png?version=8e86d031067e4784552e79451b445516",
-    "filePath": "sig_srd_9_9x19mm_sound_suppressor"
+    "filePath": "sig_srd_9_9x19mm_sound_suppressor",
+    "marketSearchName": "Sig SRD 9 9x19mm sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "Regular SV-98 7.62x54 silencer",
@@ -45,7 +51,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/SV98Sil.png?version=5974c157b8caa84a572a49b9ae540e29",
-    "filePath": "regular_sv_98_7_62x54_silencer"
+    "filePath": "regular_sv_98_7_62x54_silencer",
+    "marketSearchName": "Regular SV-98 7.62x54 silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Surefire SOCOM556-MONSTER 5.56x45 silencer",
@@ -57,7 +65,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/Surfire_Monster.png?version=57d6e9e7aed0b6104d2afa5b6aa624f0",
-    "filePath": "surefire_socom556_monster_5_56x45_silencer"
+    "filePath": "surefire_socom556_monster_5_56x45_silencer",
+    "marketSearchName": "Surefire SOCOM556-MONSTER 5.56x45 silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Surefire SOCOM556-MINI MONSTER 5.56x45 Silencer",
@@ -69,7 +79,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/Surefire_Mini_Monster.png?version=7d88753ddb045b8f59cb81dcf6050e19",
-    "filePath": "surefire_socom556_mini_monster_5_56x45_silencer"
+    "filePath": "surefire_socom556_mini_monster_5_56x45_silencer",
+    "marketSearchName": "Surefire SOCOM556-MINI MONSTER 5.56x45 Silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "B&T Rotex 2 4.6x30 silencer",
@@ -81,7 +93,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Rotex2Icon.png?version=557676e4d954e0f840a084946d6ce12a",
-    "filePath": "b_t_rotex_2_4_6x30_silencer"
+    "filePath": "b_t_rotex_2_4_6x30_silencer",
+    "marketSearchName": "B&T Rotex 2 4.6x30 silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Bramit silencer for a Mosin rifle",
@@ -93,7 +107,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/BramitIcon.png?version=1cc3a4c4813f67e2f08b4f6f181e739c",
-    "filePath": "bramit_silencer_for_a_mosin_rifle"
+    "filePath": "bramit_silencer_for_a_mosin_rifle",
+    "marketSearchName": "Bramit silencer for a Mosin rifle",
+    "marketPositionOffset": 0
   },
   {
     "name": "Hexagon 12K sound suppressor",
@@ -105,7 +121,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Hexagon12kicon.png?version=7ae9623ab832d129ab9a02e78da46e7a",
-    "filePath": "hexagon_12k_sound_suppressor"
+    "filePath": "hexagon_12k_sound_suppressor",
+    "marketSearchName": "Hexagon 12K sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "PBS-4 5.45x39 Silencer",
@@ -117,7 +135,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/Pbs-4icon.png",
-    "filePath": "pbs_4_5_45x39_silencer"
+    "filePath": "pbs_4_5_45x39_silencer",
+    "marketSearchName": "PBS-4 5.45x39 Silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Hexagon AK-74 5.45x39 sound suppressor",
@@ -129,7 +149,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/82/Hexagonak-47icon.png",
-    "filePath": "hexagon_ak_74_5_45x39_sound_suppressor"
+    "filePath": "hexagon_ak_74_5_45x39_sound_suppressor",
+    "marketSearchName": "Hexagon AK-74 5.45x39 sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "Hexagon SKS 7.62x39 sound suppressor",
@@ -141,7 +163,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Heaxagonsksicon.png?version=13bca67a7c59f6233768acbc43a0f394",
-    "filePath": "hexagon_sks_7_62x39_sound_suppressor"
+    "filePath": "hexagon_sks_7_62x39_sound_suppressor",
+    "marketSearchName": "Hexagon SKS 7.62x39 sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "Zenit DTK-4M muzzle brake",
@@ -153,7 +177,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/50/Dtk-4micon.png",
-    "filePath": "zenit_dtk_4m_muzzle_brake"
+    "filePath": "zenit_dtk_4m_muzzle_brake",
+    "marketSearchName": "Zenit DTK-4",
+    "marketPositionOffset": 0
   },
   {
     "name": "Hexagon AKM 7.62x39 sound suppressor",
@@ -165,7 +191,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/Hexagonakmicon.png?version=b4ce6b1bb39e8eb0120e29c1a1599b49",
-    "filePath": "hexagon_akm_7_62x39_sound_suppressor"
+    "filePath": "hexagon_akm_7_62x39_sound_suppressor",
+    "marketSearchName": "Hexagon AKM 7.62x39 sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "Rotor 43 9x19 muzzle brake",
@@ -177,7 +205,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/Icon_Rotor43_9.19.png",
-    "filePath": "rotor_43_9x19_muzzle_brake"
+    "filePath": "rotor_43_9x19_muzzle_brake",
+    "marketSearchName": "Rotor 43 9x19 muzzle brake",
+    "marketPositionOffset": 0
   },
   {
     "name": "Rotor 43 7.62x39 muzzle brake",
@@ -189,7 +219,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/Icon_Rotor43_7.62.png",
-    "filePath": "rotor_43_7_62x39_muzzle_brake"
+    "filePath": "rotor_43_7_62x39_muzzle_brake",
+    "marketSearchName": "Rotor 43 7.62x39 muzzle brake",
+    "marketPositionOffset": 0
   },
   {
     "name": "Rotor 43 .366TKM muzzle brake",
@@ -201,7 +233,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/Icon_Rotor43_366TKM.png?version=56016efb1ee77d7388c16d4dd4de0184",
-    "filePath": "rotor_43__366tkm_muzzle_brake"
+    "filePath": "rotor_43__366tkm_muzzle_brake",
+    "marketSearchName": "Rotor 43 .366TKM muzzle brake",
+    "marketPositionOffset": 0
   },
   {
     "name": "Rotor 43 5.56x45 muzzle brake",
@@ -213,7 +247,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a1/Icon_Rotor43_5.56x45.png",
-    "filePath": "rotor_43_5_56x45_muzzle_brake"
+    "filePath": "rotor_43_5_56x45_muzzle_brake",
+    "marketSearchName": "Rotor 43 5.56x45 muzzle brake",
+    "marketPositionOffset": 0
   },
   {
     "name": "Silencer APB 9x18PM",
@@ -225,7 +261,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/Apbsilencericon.png?version=8a399eb590abcede030cb4b2a5b7e115",
-    "filePath": "silencer_apb_9x18pm"
+    "filePath": "silencer_apb_9x18pm",
+    "marketSearchName": "Silencer APB 9x18PM",
+    "marketPositionOffset": 0
   },
   {
     "name": "SilencerCo Salvo 12 sound suppressor",
@@ -237,7 +275,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/SilencerCo_Salvo_12_sound_suppressor_Icon.png?version=59c634710077d56ea917c908084c5afd",
-    "filePath": "silencerco_salvo_12_sound_suppressor"
+    "filePath": "silencerco_salvo_12_sound_suppressor",
+    "marketSearchName": "SilencerCo Salvo 12 sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP5SD 9x19 silencer",
@@ -249,7 +289,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/MP5SDsuppressoricon.png?version=f98b815216645cd0a074c223070c380e",
-    "filePath": "mp5sd_9x19_silencer"
+    "filePath": "mp5sd_9x19_silencer",
+    "marketSearchName": "MP5SD 9x19 silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "AAC 762 SDN-6 7.62x51 Sound Suppressor",
@@ -261,7 +303,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/762sdn-6icon.png",
-    "filePath": "aac_762_sdn_6_7_62x51_sound_suppressor"
+    "filePath": "aac_762_sdn_6_7_62x51_sound_suppressor",
+    "marketSearchName": "AAC 762 SDN-6 7.62x51 Sound Suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "SilencerCo Osprey 9 9x19mm sound suppressor",
@@ -273,7 +317,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/Osprey9icon.png?version=96c587e83a2e913049e8ba27350bbd3c",
-    "filePath": "silencerco_osprey_9_9x19mm_sound_suppressor"
+    "filePath": "silencerco_osprey_9_9x19mm_sound_suppressor",
+    "marketSearchName": "SilencerCo Osprey 9 9x19mm sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "SR1MP silencer 9x21",
@@ -285,7 +331,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/Sr1mpicon.png?version=8906af13ba75425877097625fb65a0ec",
-    "filePath": "sr1mp_silencer_9x21"
+    "filePath": "sr1mp_silencer_9x21",
+    "marketSearchName": "SR1MP silencer 9x21",
+    "marketPositionOffset": 0
   },
   {
     "name": "Silencerco Hybrid 46 multi-caliber silencer",
@@ -297,7 +345,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/Hybrid46icon.png?version=0e3c721616ff97c0484c4c9fef689bb8",
-    "filePath": "silencerco_hybrid_46_multi_caliber_silencer"
+    "filePath": "silencerco_hybrid_46_multi_caliber_silencer",
+    "marketSearchName": "Silencerco Hybrid 46 multi-caliber silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vityaz 9x19 sound suppressing device",
@@ -309,7 +359,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/Vityazsilicon.png?version=6ca717d3149ada5092dfef3bfcec5686",
-    "filePath": "vityaz_9x19_sound_suppressing_device"
+    "filePath": "vityaz_9x19_sound_suppressing_device",
+    "marketSearchName": "Vityaz 9x19 sound suppressing device",
+    "marketPositionOffset": 0
   },
   {
     "name": "Makeshift 7.62x25 TT silencer",
@@ -321,7 +373,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/Ttsilencericon.png?version=b6f261674b8861226e58bba18cc62101",
-    "filePath": "makeshift_7_62x25_tt_silencer"
+    "filePath": "makeshift_7_62x25_tt_silencer",
+    "marketSearchName": "Makeshift 7.62x25",
+    "marketPositionOffset": 0
   },
   {
     "name": "Fischer Development FD917 suppressor",
@@ -333,7 +387,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Fd917icon.png?version=2795632e7fe9b93ce8e875847346c23c",
-    "filePath": "fischer_development_fd917_suppressor"
+    "filePath": "fischer_development_fd917_suppressor",
+    "marketSearchName": "Fischer Development FD917 suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "Alpha Dog Alpha 9 9x19 sound suppressor",
@@ -345,7 +401,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Alpha9icon.png?version=386093edf9f9321ca451907f3e0552bc",
-    "filePath": "alpha_dog_alpha_9_9x19_sound_suppressor"
+    "filePath": "alpha_dog_alpha_9_9x19_sound_suppressor",
+    "marketSearchName": "Alpha Dog Alpha 9 9x19 sound suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "KAC QDSS NT-4 5.56x45 silencer",
@@ -357,7 +415,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/NT4_Icon.gif?version=f727dff496f9a20e6aeeb12694378669",
-    "filePath": "kac_qdss_nt_4_5_56x45_silencer"
+    "filePath": "kac_qdss_nt_4_5_56x45_silencer",
+    "marketSearchName": "KAC QDSS NT-4",
+    "marketPositionOffset": 0
   },
   {
     "name": "MPX-SD 9x19 Integrated silencer",
@@ -369,7 +429,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/Mpx-sdicon.png",
-    "filePath": "mpx_sd_9x19_integrated_silencer"
+    "filePath": "mpx_sd_9x19_integrated_silencer",
+    "marketSearchName": "MPX-SD 9x19 Integrated silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "VSS 9x39 integral barrel-suppressor",
@@ -381,7 +443,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/Vsssuppressoricon.png?version=cda2d55e9bc68f3c094373fda027f261",
-    "filePath": "vss_9x39_integral_barrel_suppressor"
+    "filePath": "vss_9x39_integral_barrel_suppressor",
+    "marketSearchName": "VSS 9x39 integral barrel-suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "PBS-1 7.62x39 silencer",
@@ -393,7 +457,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/Pbs-1icon.png",
-    "filePath": "pbs_1_7_62x39_silencer"
+    "filePath": "pbs_1_7_62x39_silencer",
+    "marketSearchName": "PBS-1 7.62x39 silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Stock silencer for PB 9x18 PM",
@@ -405,7 +471,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/Pbs-sicon.png",
-    "filePath": "stock_silencer_for_pb_9x18_pm"
+    "filePath": "stock_silencer_for_pb_9x18_pm",
+    "marketSearchName": "Stock silencer for PB 9x18 PM",
+    "marketPositionOffset": 0
   },
   {
     "name": "TGP-A 5.45x39 muzzle device/suppressor",
@@ -417,7 +485,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/Tgp-aicon.png",
-    "filePath": "tgp_a_5_45x39_muzzle_device_suppressor"
+    "filePath": "tgp_a_5_45x39_muzzle_device_suppressor",
+    "marketSearchName": "TGP-A 5.45x39 muzzle device/suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "AS VAL 9x39 integral barrel-suppressor",
@@ -429,7 +499,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/Valsuppressoricon.png?version=f513247c5f635c96d0c28420bde9147e",
-    "filePath": "as_val_9x39_integral_barrel_suppressor"
+    "filePath": "as_val_9x39_integral_barrel_suppressor",
+    "marketSearchName": "AS VAL 9x39 integral barrel-suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "PP-91-01 Kedr-B 9x18PM suppressor",
@@ -441,7 +513,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/PP-91-01_Suppressor_icon.png",
-    "filePath": "pp_91_01_kedr_b_9x18pm_suppressor"
+    "filePath": "pp_91_01_kedr_b_9x18pm_suppressor",
+    "marketSearchName": "PP-91-01 Kedr-B 9x18PM suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "ASh-12 12.7x55 tactical suppressor",
@@ -453,7 +527,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "ash_12_12_7x55_tactical_suppressor"
+    "filePath": "ash_12_12_7x55_tactical_suppressor",
+    "marketSearchName": "ASh-12 12.7x55 tactical suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN Attenuator 5.7x28 silencer",
@@ -465,7 +541,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/FN_Attenuator_5.7x28_silencer_icon.jpg",
-    "filePath": "fn_attenuator_5_7x28_silencer"
+    "filePath": "fn_attenuator_5_7x28_silencer",
+    "marketSearchName": "FN Attenuator 5.7x28 silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Daniel Defence Wave QD Sound Suppressor",
@@ -477,7 +555,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "daniel_defence_wave_qd_sound_suppressor"
+    "filePath": "daniel_defence_wave_qd_sound_suppressor",
+    "marketSearchName": "Daniel Defence Wave QD Sound Suppressor",
+    "marketPositionOffset": 0
   },
   {
     "name": "Gemtech SFN-57 5.7x28mm silencer",
@@ -489,7 +569,9 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "gemtech_sfn_57_5_7x28mm_silencer"
+    "filePath": "gemtech_sfn_57_5_7x28mm_silencer",
+    "marketSearchName": "Gemtech SFN-57 5.7x28mm silencer",
+    "marketPositionOffset": 0
   },
   {
     "name": "Thunder Beast Ultra 5 Sound Suppressor",
@@ -501,6 +583,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/Ultra_5_Icon.PNG?version=86d070db5e6821e7c7784eb681d17b34",
-    "filePath": "thunder_beast_ultra_5_sound_suppressor"
+    "filePath": "thunder_beast_ultra_5_sound_suppressor",
+    "marketSearchName": "Thunder Beast Ultra 5 Sound Suppressor",
+    "marketPositionOffset": 0
   }
 ]

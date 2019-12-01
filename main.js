@@ -63,7 +63,7 @@ const runOCR = async (category) => {
 
 (async () => {
     if (args.length && args[0] === 'wiki') {
-        args = args.slice[1];
+        args = args.slice(1);
         if (args.length && args[0] === 'all') {
             allCatergories().catch(err => console.log('Error: ', err));
         } else if (args.length) {

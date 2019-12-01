@@ -14,23 +14,25 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #ifWinActive, ahk_exe EscapeFromTarkov.exe
 
 *~F2::
-JSONpath := "../data/wiki/injectors-data.json"
+JSONpath := "../data/wiki/suppressors-data.json"
 FileRead, JSONString, %JSONpath%
 
 parsedJSON := JSON.Load(JSONString)
 
 for k, v in parsedJSON
 {
+	offset := (33*v.marketPositionOffset)
+	y := (170+offset)
 	MouseMove, 150, 120
 	sleep 200
 	Click 
 	sleep 500
-	Send, % v.name
-	sleep 400
-	MouseMove, 150, 170
+	Send, % v.marketSearchName
+	sleep 600
+	MouseMove, 150, %y%
 	Click 
 	filename := v.filePath
-	prePath := "../data/images/"
+	prePath := "../data/images/raw/"
 	extension := ".png"
 	fullPath = %prePath%%filename%%extension%
 	sleep 900
@@ -38,32 +40,6 @@ for k, v in parsedJSON
 	sleep 400
 
 }
-; file := "../data/mods/mods-searchnames.txt"
-; FileRead, LoadedText, %file%
-; oSearchNames := StrSplit(LoadedText, "`n")
-
-; file2 := "../data/mods/mods-filenames.txt"
-; FileRead, LoadedText2, %file2%
-; oFileNames := StrSplit(LoadedText2, "`n")
-
-; Loop, % oSearchNames.MaxIndex()
-; {
-; 	MouseMove, 150, 120
-; 	sleep 200
-; 	Click 
-; 	sleep 500
-; 	Send, % oSearchNames[A_Index]
-; 	sleep 400
-; 	MouseMove, 150, 170
-; 	Click 
-; 	filename := oFileNames[A_index]
-; 	prePath := "../images/mods/"
-; 	extension := ".png"
-; 	fullPath = %prePath%%filename%%extension%
-; 	sleep 900
-; 	CaptureScreen(0,"true", fullPath)
-; 	sleep 400
-; }
 
 return
 

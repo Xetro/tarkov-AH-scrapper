@@ -1,6 +1,8 @@
 {
     "weapons": {
         "name": "weapons",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1, 9, 14, 15],
         "nameIndex": 0,
         "imgFileIndex": 1,
@@ -9,6 +11,8 @@
     },
     "headwear": {
         "name": "headwear",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1, 2, 3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -17,6 +21,8 @@
     },
     "face_cover": {
         "name": "face_cover",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -25,6 +31,8 @@
     },
     "eyewear": {
         "name": "eyewear",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -33,6 +41,8 @@
     },
     "headsets": {
         "name": "headsets",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -41,6 +51,8 @@
     },
     "chest_rigs": {
         "name": "chest_rigs",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -49,6 +61,8 @@
     },
     "bipods": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -58,6 +72,8 @@
     },
     "foregrips": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -67,6 +83,8 @@
     },
     "flashlights": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -76,6 +94,8 @@
     },
     "laser_target_pointers": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -85,6 +105,8 @@
     },
     "tactical_combo_devices": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -94,6 +116,8 @@
     },
     "auxiliary_parts": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -103,6 +127,8 @@
     },
     "muzzle_adapters": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -112,6 +138,8 @@
     },
     "flash_hiders_muzzle_brakes": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -121,6 +149,12 @@
     },
     "suppressors": {
         "name": "weapon_mods",
+        "searchExceptions" : {
+            "Zenit DTK-4M muzzle brake": "Zenit DTK-4",
+            "Makeshift 7.62x25 TT silencer": "Makeshift 7.62x25",
+            "KAC QDSS NT-4 5.56x45 silencer": "KAC QDSS NT-4"
+        },
+        "positionExceptions": {},
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -130,6 +164,8 @@
     },
     "assault_scopes": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -139,6 +175,8 @@
     },
     "reflex_sights": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -148,6 +186,8 @@
     },
     "compact_reflex_sights": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -157,6 +197,8 @@
     },
     "iron_sights": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -166,6 +208,8 @@
     },
     "scopes": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -175,6 +219,8 @@
     },
     "special_scopes": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -184,6 +230,8 @@
     },
     "charging_handles": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -193,6 +241,8 @@
     },
     "magazines": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -202,6 +252,8 @@
     },
     "mounts": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -211,6 +263,8 @@
     },
     "stocks_chassis": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -220,6 +274,8 @@
     },
     "barrels": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -229,6 +285,8 @@
     },
     "gas_blocks": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -238,6 +296,8 @@
     },
     "handguards": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -247,6 +307,8 @@
     },
     "pistol_grips": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -256,6 +318,8 @@
     },
     "receivers_slides": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -265,6 +329,8 @@
     },
     "night_vision_devices": {
         "name": "gear_components",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -273,6 +339,8 @@
     },
     "thermal_vision_devices": {
         "name": "gear_components",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -281,6 +349,8 @@
     },
     "helmet_headsets": {
         "name": "gear_components",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -289,6 +359,8 @@
     },
     "visors": {
         "name": "gear_components",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -297,6 +369,8 @@
     },
     "additional_armor": {
         "name": "gear_components",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -305,6 +379,8 @@
     },
     "helmet_mounts": {
         "name": "gear_components",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [6],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -313,6 +389,8 @@
     },
     "helmet_vanity": {
         "name": "gear_components",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [7],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -322,6 +400,8 @@
     },
     "medical": {
         "name": "medical",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -330,6 +410,8 @@
     },
     "injectors": {
         "name": "medical",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -338,6 +420,8 @@
     },
     "provisions": {
         "name": "provisions",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -346,6 +430,15 @@
     },
     "loot": {
         "name": "loot",
+        "searchExceptions" : {
+            "WD-40 100ml.|WD-40 100ml": "WD-40 100ml",
+            "OFZ 30x160mm shell": "OFZ 30"
+        },
+        "positionExceptions": {
+            "RAM": 7,
+            "Flat screwdriver": 1,
+            "Diary": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -354,6 +447,8 @@
     },
     "keys_factory": {
         "name": "Keys_%26_Intel",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -363,6 +458,8 @@
     },
     "keys_customs": {
         "name": "Keys_%26_Intel",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -372,6 +469,8 @@
     },
     "keys_woods": {
         "name": "Keys_%26_Intel",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -381,6 +480,8 @@
     },
     "keys_shoreline": {
         "name": "Keys_%26_Intel",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -390,6 +491,8 @@
     },
     "keys_interchange": {
         "name": "Keys_%26_Intel",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -399,6 +502,8 @@
     },
     "keys_labs": {
         "name": "Keys_%26_Intel",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -408,6 +513,8 @@
     },
     "keys_reserve": {
         "name": "Keys_%26_Intel",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -417,6 +524,8 @@
     },
     "containers": {
         "name": "containers",
+        "searchExceptions" : {},
+        "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,

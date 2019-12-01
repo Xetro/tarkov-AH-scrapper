@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Xetro/tarkov-AH-scrapper#readme",
   "dependencies": {
+    "moment": "^2.24.0",
     "tesseract.js-node": "^0.1.0"
   }
 }
