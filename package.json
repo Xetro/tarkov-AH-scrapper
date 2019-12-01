@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Xetro/tarkov-AH-scrapper/issues"
   },
-  "homepage": "https://github.com/Xetro/tarkov-AH-scrapper#readme"
+  "homepage": "https://github.com/Xetro/tarkov-AH-scrapper#readme",
+  "dependencies": {
+    "tesseract.js-node": "^0.1.0"
+  }
 }
