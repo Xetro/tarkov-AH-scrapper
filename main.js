@@ -53,6 +53,35 @@ const runOCR = async (category) => {
     }
     const JSONwithPrices = await ocr.processImage(category);
 
+    JSONwithPrices.map(item => {
+        item.price_array.map((price, index) => {
+            if (price[index + 1] && (price[index + 1].length < price.length )) {
+                price = price.slice(0, -1);
+            }
+            return parseInt(price);
+        })
+
+        let price_avg;
+        if (item.price_array.length > 3) {
+            const sliced = item.price_array.slice(0, 3);
+            const sum = sliced.reduce((acc, val) => acc + val, 0);
+            price_avg = Math.floor(sum / sliced.length);
+        } else {
+            const sum = item.price_array.reduce((acc, val) => acc + val, 0);
+            price_avg = Math.floor(sum / item.price_array.length);
+        }
+
+        const slots = item.size.width * item.size.height;
+        const price_per_slot = Math.floor(price_avg / slots);
+
+        return {
+            ...item,
+            slots,
+            price_per_slot,
+            price_avg,
+        }
+    })
+
     try {
         const timestamp = moment().format('YYYYMMDDHHmmss');
         await writeFile(`./data/final/${category}-data-${timestamp}.json`, JSON.stringify(JSONwithPrices, null, 2));
