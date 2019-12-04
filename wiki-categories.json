@@ -164,12 +164,11 @@
     },
     "assault_scopes": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
         "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [5, 14],
         "useRegex": 1,
         "additionalRegex": "Assault scopes(.|\n)+Reflex sights"
     },

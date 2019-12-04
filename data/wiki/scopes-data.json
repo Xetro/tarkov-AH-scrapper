@@ -75,21 +75,6 @@
     "marketPositionOffset": 0
   },
   {
-    "name": "Nightforce NXS 2.5-10x24 scope",
-    "category": "scopes",
-    "image": "NXS 2.5-10.png",
-    "title": "Nightforce NXS 2.5-10x24 scope",
-    "pageId": 3429,
-    "size": {
-      "width": "2",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/NXS_2.5-10.png",
-    "filePath": "nightforce_nxs_2_5_10x24_scope",
-    "marketSearchName": "Nightforce NXS 2.5-10x24 scope",
-    "marketPositionOffset": 0
-  },
-  {
     "name": "Zenit-Belomo PSO 1 4x24 scope",
     "category": "scopes",
     "image": "Zenit-Belomo PSO 1 4x24 scope icon.png",
@@ -207,21 +192,6 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/KMZ_1P69_3-10x_riflescope_icon.png",
     "filePath": "kmz_1p69_3_10x_riflescope",
     "marketSearchName": "KMZ 1P69 3-10x riflescope",
-    "marketPositionOffset": 0
-  },
-  {
-    "name": "PAG-17 scope",
-    "category": "scopes",
-    "image": "wiki.png",
-    "title": "PAG-17 scope",
-    "pageId": 15586,
-    "size": {
-      "width": "2",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "pag_17_scope",
-    "marketSearchName": "PAG-17 scope",
     "marketPositionOffset": 0
   }
 ]
