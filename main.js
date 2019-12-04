@@ -51,12 +51,18 @@ const runOCR = async (category) => {
         console.log('Category not found: ', category);
         return;
     }
-    const JSONwithPrices = await ocr.processImage(category);
+    let JSONwithPrices = await ocr.processImage(category);
+    const timestamp = moment().format('YYYYMMDDHHmmss');
 
-    JSONwithPrices.map(item => {
-        item.price_array.map((price, index) => {
-            if (price[index + 1] && (price[index + 1].length < price.length )) {
-                price = price.slice(0, -1);
+    JSONwithPrices = JSONwithPrices.map(item => {
+        item.price_array = item.price_array.map((price, index) => {
+            if (item.price_array[index + 1]) {
+                let currentPriceLength = price.length;
+                let nextPriceLength = item.price_array[index + 1].length;
+                if (nextPriceLength < currentPriceLength ) {
+                    const difference = nextPriceLength - currentPriceLength;
+                    price = price.slice(0, difference);
+                }
             }
             return parseInt(price);
         })
@@ -77,6 +83,7 @@ const runOCR = async (category) => {
         return {
             ...item,
             slots,
+            timestamp,
             price_per_slot,
             price_avg,
         }
