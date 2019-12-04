@@ -191,8 +191,8 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/AluSplintIcon.png?version=8eb642b726250a6b8cc09401a8a3a9be",
     "filePath": "immobilizing_splint__alu_",
-    "marketSearchName": "Immobilizing splint (alu)",
-    "marketPositionOffset": 0
+    "marketSearchName": "Immobilizing splint",
+    "marketPositionOffset": 1
   },
   {
     "name": "Vaseline",

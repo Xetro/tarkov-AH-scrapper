@@ -14,7 +14,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #ifWinActive, ahk_exe EscapeFromTarkov.exe
 
 *~F2::
-JSONpath := "../data/wiki/scopes-data.json"
+JSONpath := "../data/wiki/keys_woods-data.json"
 FileRead, JSONString, %JSONpath%
 
 parsedJSON := JSON.Load(JSONString)

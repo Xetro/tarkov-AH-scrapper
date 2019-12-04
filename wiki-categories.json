@@ -399,8 +399,12 @@
     },
     "medical": {
         "name": "medical",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Immobilizing splint (alu)": "Immobilizing splint"
+        },
+        "positionExceptions": {
+            "Immobilizing splint (alu)": 1
+        },
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -446,8 +450,12 @@
     },
     "keys_factory": {
         "name": "Keys_%26_Intel",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Door key (alternative)": "Door key"
+        },
+        "positionExceptions": {
+            "Door key (alternative)": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -458,11 +466,14 @@
     "keys_customs": {
         "name": "Keys_%26_Intel",
         "searchExceptions" : {},
-        "positionExceptions": {},
+        "positionExceptions": {
+            "Car key": 1,
+            "Portable cabin key": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [30],
+        "ignore": [0, 30],
         "useRegex": 2,
         "additionalRegex": "Customs=(.|\n)+Woods="
     },

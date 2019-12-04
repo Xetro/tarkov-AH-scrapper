@@ -1,20 +1,5 @@
 [
   {
-    "name": "Factory exit key",
-    "category": "keys_customs",
-    "image": "Factory key icon.png",
-    "title": "Factory exit key",
-    "pageId": 4029,
-    "size": {
-      "width": "1",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Factory_key_icon.png?version=459982fbc47d60275ae9b1280070a510",
-    "filePath": "factory_exit_key",
-    "marketSearchName": "Factory exit key",
-    "marketPositionOffset": 0
-  },
-  {
     "name": "Dorm guard desk key",
     "category": "keys_customs",
     "image": "GDesk-Key-Icon.png",
@@ -327,7 +312,7 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Car-key-Icon.png",
     "filePath": "car_key",
     "marketSearchName": "Car key",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 1
   },
   {
     "name": "Military base checkpoint key",
@@ -372,7 +357,7 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Portable-cabin-key-Icon.png",
     "filePath": "portable_cabin_key",
     "marketSearchName": "Portable cabin key",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 1
   },
   {
     "name": "Portable cabin key of customs Factory zone",
