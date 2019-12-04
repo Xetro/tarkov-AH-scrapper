@@ -1,6 +1,7 @@
 [
   {
     "name": "Army Crackers",
+    "category": "provisions",
     "image": "Army_Crackers_icon.png",
     "title": "Army Crackers",
     "pageId": 4000,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2f/Army_Crackers_icon.png?version=166eeebbf70729fbb393fbef1e7c68d7",
-    "filePath": "army_crackers"
+    "filePath": "army_crackers",
+    "marketSearchName": "Army Crackers",
+    "marketPositionOffset": 0
   },
   {
     "name": "Condensed milk",
+    "category": "provisions",
     "image": "Condmilkicon.png",
     "title": "Condensed milk",
     "pageId": 4121,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c0/Condmilkicon.png?version=a0714920856dec4bf2dfad162cdefd1c",
-    "filePath": "condensed_milk"
+    "filePath": "condensed_milk",
+    "marketSearchName": "Condensed milk",
+    "marketPositionOffset": 0
   },
   {
     "name": "Slickers bar",
+    "category": "provisions",
     "image": "Slickers_bar_icon.png",
     "title": "Slickers bar",
     "pageId": 6940,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/93/Slickers_bar_icon.png?version=708442a25aaed3164e13608cdf68c360",
-    "filePath": "slickers_bar"
+    "filePath": "slickers_bar",
+    "marketSearchName": "Slickers bar",
+    "marketPositionOffset": 0
   },
   {
     "name": "Pack of sugar",
+    "category": "provisions",
     "image": "Sugar_icon.png",
     "title": "Pack of sugar",
     "pageId": 6767,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/Sugar_icon.png?version=6b9a4032e74808dfd4f74e82802ee84c",
-    "filePath": "pack_of_sugar"
+    "filePath": "pack_of_sugar",
+    "marketSearchName": "Pack of sugar",
+    "marketPositionOffset": 0
   },
   {
     "name": "Can of pacific saury",
+    "category": "provisions",
     "image": "Saury icon.png",
     "title": "Can of pacific saury",
     "pageId": 4003,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/Saury_icon.png?version=485eb2d1cd3157206ffc12b94ef1b3b6",
-    "filePath": "can_of_pacific_saury"
+    "filePath": "can_of_pacific_saury",
+    "marketSearchName": "Can of pacific saury",
+    "marketPositionOffset": 0
   },
   {
     "name": "Rye croutons",
+    "category": "provisions",
     "image": "Rye_Croutons.png",
     "title": "Rye croutons",
     "pageId": 4004,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/Rye_Croutons.png?version=a321a7e136e3a6f457c831c0f7d2b55d",
-    "filePath": "rye_croutons"
+    "filePath": "rye_croutons",
+    "marketSearchName": "Rye croutons",
+    "marketPositionOffset": 0
   },
   {
     "name": "Emelya rye croutons",
+    "category": "provisions",
     "image": "Emeyla_Croutons.png",
     "title": "Emelya rye croutons",
     "pageId": 4020,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/Emeyla_Croutons.png?version=e124ab4d1fefd24317da9ef5aaa41d03",
-    "filePath": "emelya_rye_croutons"
+    "filePath": "emelya_rye_croutons",
+    "marketSearchName": "Emelya rye croutons",
+    "marketPositionOffset": 0
   },
   {
     "name": "Humpback salmon",
+    "category": "provisions",
     "image": "Humpback_icon.png",
     "title": "Humpback salmon",
     "pageId": 4006,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/Humpback_icon.png?version=6824f744dbecf64666fd601fa80e6144",
-    "filePath": "humpback_salmon"
+    "filePath": "humpback_salmon",
+    "marketSearchName": "Humpback salmon",
+    "marketPositionOffset": 0
   },
   {
     "name": "Can of green peas",
+    "category": "provisions",
     "image": "Peas_icon.png",
     "title": "Can of green peas",
     "pageId": 4009,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/Peas_icon.png?version=f7c843af6804d150af4b0f3228764205",
-    "filePath": "can_of_green_peas"
+    "filePath": "can_of_green_peas",
+    "marketSearchName": "Can of green peas",
+    "marketPositionOffset": 0
   },
   {
     "name": "Can of delicious beef stew",
+    "category": "provisions",
     "image": "Can_of_beef_stew_alt_Icon.png",
     "title": "Can of delicious beef stew",
     "pageId": 4011,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/Can_of_beef_stew_alt_Icon.png?version=aa86c9f5972e6be6fb004c0ca584dc32",
-    "filePath": "can_of_delicious_beef_stew"
+    "filePath": "can_of_delicious_beef_stew",
+    "marketSearchName": "Can of delicious beef stew",
+    "marketPositionOffset": 0
   },
   {
     "name": "Can of beef stew",
+    "category": "provisions",
     "image": "Can of beef stew Icon.png",
     "title": "Can of beef stew",
     "pageId": 4017,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/Can_of_beef_stew_Icon.png?version=434ed860d70bbccf46040853abe7e653",
-    "filePath": "can_of_beef_stew"
+    "filePath": "can_of_beef_stew",
+    "marketSearchName": "Can of beef stew",
+    "marketPositionOffset": 0
   },
   {
     "name": "Pack of oat flakes",
+    "category": "provisions",
     "image": "Oatflakes_icon.png",
     "title": "Pack of oat flakes",
     "pageId": 4015,
@@ -141,10 +175,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5f/Oatflakes_icon.png?version=a011870dc9788bcec02920d0c5febeee",
-    "filePath": "pack_of_oat_flakes"
+    "filePath": "pack_of_oat_flakes",
+    "marketSearchName": "Pack of oat flakes",
+    "marketPositionOffset": 0
   },
   {
     "name": "Can of herring",
+    "category": "provisions",
     "image": "Herring_icon.png",
     "title": "Can of herring",
     "pageId": 4016,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/Herring_icon.png?version=b8e40979148fba247e7505fb5d08599a",
-    "filePath": "can_of_herring"
+    "filePath": "can_of_herring",
+    "marketSearchName": "Can of herring",
+    "marketPositionOffset": 0
   },
   {
     "name": "Squash spread",
+    "category": "provisions",
     "image": "Squash_Spread_icon.png",
     "title": "Squash spread",
     "pageId": 4012,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Squash_Spread_icon.png?version=dddf4500d8adf01f46d15b5b6e5c36b8",
-    "filePath": "squash_spread"
+    "filePath": "squash_spread",
+    "marketSearchName": "Squash spread",
+    "marketPositionOffset": 0
   },
   {
     "name": "Alyonka chocolate bar",
+    "category": "provisions",
     "image": "Alyonka_Chocolate_Bar_icon.png",
     "title": "Alyonka chocolate bar",
     "pageId": 4018,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Alyonka_Chocolate_Bar_icon.png?version=b50b56422967c00652416b7210de01ae",
-    "filePath": "alyonka_chocolate_bar"
+    "filePath": "alyonka_chocolate_bar",
+    "marketSearchName": "Alyonka chocolate bar",
+    "marketPositionOffset": 0
   },
   {
     "name": "Iskra lunch box",
+    "category": "provisions",
     "image": "Lunchbox_icon.png",
     "title": "Iskra lunch box",
     "pageId": 6569,
@@ -189,10 +235,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Lunchbox_icon.png?version=5009bbf515f5603081943882966d3b79",
-    "filePath": "iskra_lunch_box"
+    "filePath": "iskra_lunch_box",
+    "marketSearchName": "Iskra lunch box",
+    "marketPositionOffset": 0
   },
   {
     "name": "MRE lunch box",
+    "category": "provisions",
     "image": "MRE_icon.png",
     "title": "MRE lunch box",
     "pageId": 6570,
@@ -201,10 +250,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/MRE_icon.png?version=6bca98cbf4090751d52c1f37e1c34f83",
-    "filePath": "mre_lunch_box"
+    "filePath": "mre_lunch_box",
+    "marketSearchName": "MRE lunch box",
+    "marketPositionOffset": 0
   },
   {
     "name": "0.6L water bottle",
+    "category": "provisions",
     "image": "Water icon.png",
     "title": "0.6L water bottle",
     "pageId": 3986,
@@ -213,10 +265,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7f/Water_icon.png?version=d59f49f5988d63093d7f8503d9ba6a73",
-    "filePath": "0_6l_water_bottle"
+    "filePath": "0_6l_water_bottle",
+    "marketSearchName": "0.6L water bottle",
+    "marketPositionOffset": 0
   },
   {
     "name": "Water bottle with a filter Aquamari",
+    "category": "provisions",
     "image": "Aquamari icon.png",
     "title": "Water bottle with a filter Aquamari",
     "pageId": 12640,
@@ -225,10 +280,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/Aquamari_icon.png?version=56527609e3a31d856e2e60f46c6d830d",
-    "filePath": "water_bottle_with_a_filter_aquamari"
+    "filePath": "water_bottle_with_a_filter_aquamari",
+    "marketSearchName": "Water bottle with a filter Aquamari",
+    "marketPositionOffset": 0
   },
   {
     "name": "Russian Army pineapple juice",
+    "category": "provisions",
     "image": "Pineapple Juice icon.png",
     "title": "Russian Army pineapple juice",
     "pageId": 3989,
@@ -237,10 +295,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/15/Pineapple_Juice_icon.png?version=19cedf4130fbefde9c0d359a3d86eaba",
-    "filePath": "russian_army_pineapple_juice"
+    "filePath": "russian_army_pineapple_juice",
+    "marketSearchName": "Russian Army pineapple juice",
+    "marketPositionOffset": 0
   },
   {
     "name": "Green Ice",
+    "category": "provisions",
     "image": "Green_Tea_icon.png",
     "title": "Green Ice",
     "pageId": 3990,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Green_Tea_icon.png?version=16f020e770b147aac606ab90661b0248",
-    "filePath": "green_ice"
+    "filePath": "green_ice",
+    "marketSearchName": "Green Ice",
+    "marketPositionOffset": 0
   },
   {
     "name": "Apple juice",
+    "category": "provisions",
     "image": "Apple Juice icon.png",
     "title": "Apple juice",
     "pageId": 3991,
@@ -261,10 +325,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Apple_Juice_icon.png?version=cd7d96e902b9425f75a4d1f6e333ff0a",
-    "filePath": "apple_juice"
+    "filePath": "apple_juice",
+    "marketSearchName": "Apple juice",
+    "marketPositionOffset": 0
   },
   {
     "name": "Grand juice",
+    "category": "provisions",
     "image": "Grand Juice icon.png",
     "title": "Grand juice",
     "pageId": 3992,
@@ -273,10 +340,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/Grand_Juice_icon.png?version=c7bddc04757f46c2a222f5e8fceab958",
-    "filePath": "grand_juice"
+    "filePath": "grand_juice",
+    "marketSearchName": "Grand juice",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vita juice",
+    "category": "provisions",
     "image": "Vita_Juice_icon.png",
     "title": "Vita juice",
     "pageId": 3994,
@@ -285,10 +355,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Vita_Juice_icon.png?version=12e8b2bc4d210ffd554806eb391da100",
-    "filePath": "vita_juice"
+    "filePath": "vita_juice",
+    "marketSearchName": "Vita juice",
+    "marketPositionOffset": 0
   },
   {
     "name": "Max energy",
+    "category": "provisions",
     "image": "NRG_Drink_icon.png",
     "title": "Max energy",
     "pageId": 3995,
@@ -297,10 +370,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/NRG_Drink_icon.png?version=3b4420c40590335ff1a271e43f932e5a",
-    "filePath": "max_energy"
+    "filePath": "max_energy",
+    "marketSearchName": "Max energy",
+    "marketPositionOffset": 0
   },
   {
     "name": "TarCola",
+    "category": "provisions",
     "image": "Tar_Cola_icon.png",
     "title": "TarCola",
     "pageId": 3996,
@@ -309,10 +385,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/Tar_Cola_icon.png?version=9a74baad9be7c80db3011415c62de29c",
-    "filePath": "tarcola"
+    "filePath": "tarcola",
+    "marketSearchName": "TarCola",
+    "marketPositionOffset": 0
   },
   {
     "name": "Pack of milk",
+    "category": "provisions",
     "image": "Pack ofMilk icon.png",
     "title": "Pack of milk",
     "pageId": 3997,
@@ -321,10 +400,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d3/Pack_ofMilk_icon.png?version=317f9ad8dd9a6b9b3aa9436a5f78a3ad",
-    "filePath": "pack_of_milk"
+    "filePath": "pack_of_milk",
+    "marketSearchName": "Pack of milk",
+    "marketPositionOffset": 0
   },
   {
     "name": "Hot Rod",
+    "category": "provisions",
     "image": "Hor_Rod_icon.png",
     "title": "Hot Rod",
     "pageId": 3999,
@@ -333,10 +415,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/Hor_Rod_icon.png?version=c9365eb00d538c749f0f60bfa24c12fe",
-    "filePath": "hot_rod"
+    "filePath": "hot_rod",
+    "marketSearchName": "Hot Rod",
+    "marketPositionOffset": 0
   },
   {
     "name": "Jar of DevilDog mayo",
+    "category": "provisions",
     "image": "DDGMayoIcon.png",
     "title": "Jar of DevilDog mayo",
     "pageId": 11928,
@@ -345,10 +430,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/DDGMayoIcon.png?version=2ed58e8be7153b8e5813fe460c0ad376",
-    "filePath": "jar_of_devildog_mayo"
+    "filePath": "jar_of_devildog_mayo",
+    "marketSearchName": "Jar of DevilDog mayo",
+    "marketPositionOffset": 0
   },
   {
     "name": "Can of sprats",
+    "category": "provisions",
     "image": "Can of sprats Icon.png",
     "title": "Can of sprats",
     "pageId": 11931,
@@ -357,10 +445,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/Can_of_sprats_Icon.png?version=c23c5f44179457a5a1c77c1fa8ca1fce",
-    "filePath": "can_of_sprats"
+    "filePath": "can_of_sprats",
+    "marketSearchName": "Can of sprats",
+    "marketPositionOffset": 0
   },
   {
     "name": "Purified water",
+    "category": "provisions",
     "image": "Purified water icon.png",
     "title": "Purified water",
     "pageId": 15524,
@@ -369,10 +460,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Purified_water_icon.png?version=24cdb5466044b8ccac27a8413aa0a285",
-    "filePath": "purified_water"
+    "filePath": "purified_water",
+    "marketSearchName": "Purified water",
+    "marketPositionOffset": 0
   },
   {
     "name": "\"Fierce Hatchling\" moonshine",
+    "category": "provisions",
     "image": "Fiece hatchling moonshine icon.png",
     "title": "\"Fierce Hatchling\" moonshine",
     "pageId": 15526,
@@ -381,10 +475,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/Fiece_hatchling_moonshine_icon.png?version=1f726f2aa182cedaa0685333a0fa2c6a",
-    "filePath": "_fierce_hatchling__moonshine"
+    "filePath": "_fierce_hatchling__moonshine",
+    "marketSearchName": "\"Fierce Hatchling\" moonshine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Bottle of vodka Tarkovskaya",
+    "category": "provisions",
     "image": "VodkaIcon.png",
     "title": "Bottle of vodka Tarkovskaya",
     "pageId": 15567,
@@ -393,10 +490,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/VodkaIcon.png?version=7db12fa5191ed23c363655cd331f5cdd",
-    "filePath": "bottle_of_vodka_tarkovskaya"
+    "filePath": "bottle_of_vodka_tarkovskaya",
+    "marketSearchName": "Bottle of vodka Tarkovskaya",
+    "marketPositionOffset": 0
   },
   {
     "name": "Bottle of Dan Jackiel Whiskey",
+    "category": "provisions",
     "image": "Whiskey_icon.png",
     "title": "Bottle of Dan Jackiel Whiskey",
     "pageId": 15566,
@@ -405,6 +505,8 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/Whiskey_icon.png?version=5fb877a7a218cea3f990924109cf7020",
-    "filePath": "bottle_of_dan_jackiel_whiskey"
+    "filePath": "bottle_of_dan_jackiel_whiskey",
+    "marketSearchName": "Bottle of Dan Jackiel Whiskey",
+    "marketPositionOffset": 0
   }
 ]

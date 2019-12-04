@@ -1,6 +1,7 @@
 [
   {
     "name": "Geissele \"SCH\" charging handle for MPX",
+    "category": "charging_handles",
     "image": "SCH Icon.png",
     "title": "Geissele \"SCH\" charging handle for MPX",
     "pageId": 13858,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/35/SCH_Icon.png?version=75fce20a56163379720fd7cc87166c61",
-    "filePath": "geissele__sch__charging_handle_for_mpx"
+    "filePath": "geissele__sch__charging_handle_for_mpx",
+    "marketSearchName": "Geissele \"SCH\" charging handle for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "ADAR 2-15 charging handle for AR-15",
+    "category": "charging_handles",
     "image": "ADAR2-15ChargingHandleicon.png",
     "title": "ADAR 2-15 charging handle for AR-15",
     "pageId": 12780,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/70/ADAR2-15ChargingHandleicon.png",
-    "filePath": "adar_2_15_charging_handle_for_ar_15"
+    "filePath": "adar_2_15_charging_handle_for_ar_15",
+    "marketSearchName": "ADAR 2-15 charging handle for AR-15",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK Extended latch Charging Handle",
+    "category": "charging_handles",
     "image": "Hkchargehandleicon.png",
     "title": "HK Extended latch Charging Handle",
     "pageId": 12117,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/76/Hkchargehandleicon.png?version=687734589345f2b76da14bcf82fdc411",
-    "filePath": "hk_extended_latch_charging_handle"
+    "filePath": "hk_extended_latch_charging_handle",
+    "marketSearchName": "HK Extended latch Charging Handle",
+    "marketPositionOffset": 0
   },
   {
     "name": "Zenit RP-1 charge handle for AK",
+    "category": "charging_handles",
     "image": "Rp-1icon.png",
     "title": "Zenit RP-1 charge handle for AK",
     "pageId": 2991,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/Rp-1icon.png",
-    "filePath": "zenit_rp_1_charge_handle_for_ak"
+    "filePath": "zenit_rp_1_charge_handle_for_ak",
+    "marketSearchName": "Zenit RP-1 charge handle for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "Badger Ordnance Tactical Charging Handle Latch",
+    "category": "charging_handles",
     "image": "Botlicon.png",
     "title": "Badger Ordnance Tactical Charging Handle Latch",
     "pageId": 3200,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/21/Botlicon.png?version=11815cfb9e1a583deb41dea0ab2f83a4",
-    "filePath": "badger_ordnance_tactical_charging_handle_latch"
+    "filePath": "badger_ordnance_tactical_charging_handle_latch",
+    "marketSearchName": "Badger Ordnance Tactical Charging Handle Latch",
+    "marketPositionOffset": 0
   },
   {
     "name": "Raptor charging handle for AR-15",
+    "category": "charging_handles",
     "image": "Raptor_Icon.png",
     "title": "Raptor charging handle for AR-15",
     "pageId": 11019,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/64/Raptor_Icon.png?version=2b52d45d3508ca2b8cb693e9604b5320",
-    "filePath": "raptor_charging_handle_for_ar_15"
+    "filePath": "raptor_charging_handle_for_ar_15",
+    "marketSearchName": "Raptor charging handle for AR-15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Colt AR-15 charging handle for AR-15",
+    "category": "charging_handles",
     "image": "Ar15handleicon.png",
     "title": "Colt AR-15 charging handle for AR-15",
     "pageId": 3194,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/Ar15handleicon.png?version=0391675fa639393a5bc30e13b6e23465",
-    "filePath": "colt_ar_15_charging_handle_for_ar_15"
+    "filePath": "colt_ar_15_charging_handle_for_ar_15",
+    "marketSearchName": "Colt AR-15 charging handle for AR-15",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP5 Cocking Handle",
+    "category": "charging_handles",
     "image": "Mp5handleicon.png",
     "title": "MP5 Cocking Handle",
     "pageId": 6842,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/Mp5handleicon.png?version=8a2b786b972452e470150be06b164151",
-    "filePath": "mp5_cocking_handle"
+    "filePath": "mp5_cocking_handle",
+    "marketSearchName": "MP5 Cocking Handle",
+    "marketPositionOffset": 0
   },
   {
     "name": "SIG double latch charging handle for MPX",
+    "category": "charging_handles",
     "image": "mpxdoublelatchicon.png",
     "title": "SIG double latch charging handle for MPX",
     "pageId": 6843,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Mpxdoublelatchicon.png?version=7297e57c01458efa280422fe324d1b0c",
-    "filePath": "sig_double_latch_charging_handle_for_mpx"
+    "filePath": "sig_double_latch_charging_handle_for_mpx",
+    "marketSearchName": "SIG double latch charging handle for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "SIG single latch charging handle for MPX",
+    "category": "charging_handles",
     "image": "Mpxhandleicon.png",
     "title": "SIG single latch charging handle for MPX",
     "pageId": 6844,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Mpxhandleicon.png?version=4ac587a5e242f8845ddc5f5e06bc70d5",
-    "filePath": "sig_single_latch_charging_handle_for_mpx"
+    "filePath": "sig_single_latch_charging_handle_for_mpx",
+    "marketSearchName": "SIG single latch charging handle for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN charge handle for P90",
+    "category": "charging_handles",
     "image": "FN charge handle for P90 icon.jpg",
     "title": "FN charge handle for P90",
     "pageId": 15416,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/FN_charge_handle_for_P90_icon.jpg?version=dfb4f9053176850ab58cfc3cdd0d8494",
-    "filePath": "fn_charge_handle_for_p90"
+    "filePath": "fn_charge_handle_for_p90",
+    "marketSearchName": "FN charge handle for P90",
+    "marketPositionOffset": 0
   },
   {
     "name": "K&M The Handler charge handle for P90",
+    "category": "charging_handles",
     "image": "wiki.png",
     "title": "K&M The Handler charge handle for P90",
     "pageId": 15417,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "k_m_the_handler_charge_handle_for_p90"
+    "filePath": "k_m_the_handler_charge_handle_for_p90",
+    "marketSearchName": "K&M The Handler charge handle for P90",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP5 Kurz Cocking Handle",
+    "category": "charging_handles",
     "image": "MP5_Kurz_Cocking_Handle_icon.png",
     "title": "MP5 Kurz Cocking Handle",
     "pageId": 15556,
@@ -153,6 +190,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/MP5_Kurz_Cocking_Handle_icon.png?version=7efc7276b21706066eb7d9a55417cf09",
-    "filePath": "mp5_kurz_cocking_handle"
+    "filePath": "mp5_kurz_cocking_handle",
+    "marketSearchName": "MP5 Kurz Cocking Handle",
+    "marketPositionOffset": 0
   }
 ]

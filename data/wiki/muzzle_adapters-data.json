@@ -1,6 +1,7 @@
 [
   {
     "name": "Direct Thread Mount adapter for Gemtech ONE.",
+    "category": "muzzle_adapters",
     "image": "ONE Mount Icon.png",
     "title": "Direct Thread Mount adapter for Gemtech ONE.",
     "pageId": 13893,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9e/ONE_Mount_Icon.png?version=746d80bec8253e1a09b16af75e446685",
-    "filePath": "direct_thread_mount_adapter_for_gemtech_one_"
+    "filePath": "direct_thread_mount_adapter_for_gemtech_one_",
+    "marketSearchName": "Direct Thread Mount adapter for Gemtech ONE.",
+    "marketPositionOffset": 0
   },
   {
     "name": "ME Cylinder muzzle adapter 12 ga",
+    "category": "muzzle_adapters",
     "image": "Mecylindermuzzleadapter12gicon.png",
     "title": "ME Cylinder muzzle adapter 12 ga",
     "pageId": 12747,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8e/Mecylindermuzzleadapter12gicon.png?version=14d378e02cdb999d3b2810a26b3b99e5",
-    "filePath": "me_cylinder_muzzle_adapter_12_ga"
+    "filePath": "me_cylinder_muzzle_adapter_12_ga",
+    "marketSearchName": "ME Cylinder muzzle adapter 12 ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "3 Lug threaded protector",
+    "category": "muzzle_adapters",
     "image": "3LugThreadedProtectoricon.png",
     "title": "3 Lug threaded protector",
     "pageId": 12728,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/50/3LugThreadedProtectoricon.png?version=30bfd3640a8a27592e02d8e1c02c3187",
-    "filePath": "3_lug_threaded_protector"
+    "filePath": "3_lug_threaded_protector",
+    "marketSearchName": "3 Lug threaded protector",
+    "marketPositionOffset": 0
   },
   {
     "name": "SilencerCo choke adapter for 12ga shotguns",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "SilencerCo choke adapter for 12ga shotguns",
     "pageId": 11059,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "silencerco_choke_adapter_for_12ga_shotguns"
+    "filePath": "silencerco_choke_adapter_for_12ga_shotguns",
+    "marketSearchName": "SilencerCo choke adapter for 12ga shotguns",
+    "marketPositionOffset": 0
   },
   {
     "name": "SilencerCo Salvo 12 thread adapter",
+    "category": "muzzle_adapters",
     "image": "SilencerCo Salvo 12 thread adapter Icon.png",
     "title": "SilencerCo Salvo 12 thread adapter",
     "pageId": 11058,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/SilencerCo_Salvo_12_thread_adapter_Icon.png?version=15d0d8f0b08973c4b838b36408b47c74",
-    "filePath": "silencerco_salvo_12_thread_adapter"
+    "filePath": "silencerco_salvo_12_thread_adapter",
+    "marketSearchName": "SilencerCo Salvo 12 thread adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "Remington Tactical Choke 12ga",
+    "category": "muzzle_adapters",
     "image": "Choke12ga.png",
     "title": "Remington Tactical Choke 12ga",
     "pageId": 2986,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/Choke12ga.png?version=699aff23fe69951747db3eb61c446994",
-    "filePath": "remington_tactical_choke_12ga"
+    "filePath": "remington_tactical_choke_12ga",
+    "marketSearchName": "Remington Tactical Choke 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "Direct Thread Mount adapter for Silencerco Hybrid 46.",
+    "category": "muzzle_adapters",
     "image": "Hybridmount.png",
     "title": "Direct Thread Mount adapter for Silencerco Hybrid 46.",
     "pageId": 7250,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/Hybridmount.png?version=b2eeb0ae1b946e647e34fd02e6ab01a0",
-    "filePath": "direct_thread_mount_adapter_for_silencerco_hybrid_46_"
+    "filePath": "direct_thread_mount_adapter_for_silencerco_hybrid_46_",
+    "marketSearchName": "Direct Thread Mount adapter for Silencerco Hybrid 46.",
+    "marketPositionOffset": 0
   },
   {
     "name": "3 Lug thread protector",
+    "category": "muzzle_adapters",
     "image": "3lug.png",
     "title": "3 Lug thread protector",
     "pageId": 6985,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/3lug.png?version=c04542c45aacde3cc2fd6cf362ccb5c7",
-    "filePath": "3_lug_thread_protector"
+    "filePath": "3_lug_thread_protector",
+    "marketSearchName": "3 Lug thread protector",
+    "marketPositionOffset": 0
   },
   {
     "name": "P226 thread protection cap",
+    "category": "muzzle_adapters",
     "image": "P226threadicon.png",
     "title": "P226 thread protection cap",
     "pageId": 3207,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/80/P226threadicon.png?version=3e650668f6783b536aac1f10f71c23d8",
-    "filePath": "p226_thread_protection_cap"
+    "filePath": "p226_thread_protection_cap",
+    "marketSearchName": "P226 thread protection cap",
+    "marketPositionOffset": 0
   },
   {
     "name": "PP-91-01 Kedr-B muzzle thread piece",
+    "category": "muzzle_adapters",
     "image": "Pp19thread.png",
     "title": "PP-91-01 Kedr-B muzzle thread piece",
     "pageId": 3206,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/Pp19thread.png?version=019ddb163d7eac888146f675da01ac93",
-    "filePath": "pp_91_01_kedr_b_muzzle_thread_piece"
+    "filePath": "pp_91_01_kedr_b_muzzle_thread_piece",
+    "marketSearchName": "PP-91-01 Kedr-B muzzle thread piece",
+    "marketPositionOffset": 0
   },
   {
     "name": "SOK-12 Protection tube",
+    "category": "muzzle_adapters",
     "image": "Saigathread.png",
     "title": "SOK-12 Protection tube",
     "pageId": 3203,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Saigathread.png?version=3f4dafd3a7eb014756622732f4fc4a72",
-    "filePath": "sok_12_protection_tube"
+    "filePath": "sok_12_protection_tube",
+    "marketSearchName": "SOK-12 Protection tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "GK-02 Muzzle Brake",
+    "category": "muzzle_adapters",
     "image": "Gk02.png",
     "title": "GK-02 Muzzle Brake",
     "pageId": 3125,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f4/Gk02.png?version=25cdefbd3d770380f00cebd52b718936",
-    "filePath": "gk_02_muzzle_brake"
+    "filePath": "gk_02_muzzle_brake",
+    "marketSearchName": "GK-02 Muzzle Brake",
+    "marketPositionOffset": 0
   },
   {
     "name": "GK-01 compensator",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "GK-01 compensator",
     "pageId": 3201,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "gk_01_compensator"
+    "filePath": "gk_01_compensator",
+    "marketSearchName": "GK-01 compensator",
+    "marketPositionOffset": 0
   },
   {
     "name": "Thread protector for Alpha Wolf Glock barrels",
+    "category": "muzzle_adapters",
     "image": "Wolfthreadicon.png",
     "title": "Thread protector for Alpha Wolf Glock barrels",
     "pageId": 8477,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Wolfthreadicon.png?version=07951ed4aae739e8cebadb8be110e234",
-    "filePath": "thread_protector_for_alpha_wolf_glock_barrels"
+    "filePath": "thread_protector_for_alpha_wolf_glock_barrels",
+    "marketSearchName": "Thread protector for Alpha Wolf Glock barrels",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock thread protector produced by Double Diamond",
+    "category": "muzzle_adapters",
     "image": "Glockddthreadproticon.png",
     "title": "Glock thread protector produced by Double Diamond",
     "pageId": 8478,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/Glockddthreadproticon.png?version=3642c7efb4687d5a1aa5c95e496ad784",
-    "filePath": "glock_thread_protector_produced_by_double_diamond"
+    "filePath": "glock_thread_protector_produced_by_double_diamond",
+    "marketSearchName": "Glock thread protector produced by Double Diamond",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock thread protector produced by Salient Arms",
+    "category": "muzzle_adapters",
     "image": "Glockthread.png",
     "title": "Glock thread protector produced by Salient Arms",
     "pageId": 8479,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Glockthread.png?version=17e5408c674efb18cac1e09c6a4dfea0",
-    "filePath": "glock_thread_protector_produced_by_salient_arms"
+    "filePath": "glock_thread_protector_produced_by_salient_arms",
+    "marketSearchName": "Glock thread protector produced by Salient Arms",
+    "marketPositionOffset": 0
   },
   {
     "name": "M9A3 thread protection cap",
+    "category": "muzzle_adapters",
     "image": "M9A3ThreadCapIcon.png",
     "title": "M9A3 thread protection cap",
     "pageId": 15392,
@@ -201,10 +250,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7b/M9A3ThreadCapIcon.png?version=7c9a32a64e5337e3db3d61ee23f35848",
-    "filePath": "m9a3_thread_protection_cap"
+    "filePath": "m9a3_thread_protection_cap",
+    "marketSearchName": "M9A3 thread protection cap",
+    "marketPositionOffset": 0
   },
   {
     "name": "Weapon Tuning Mosin rifle tread adapter",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "Weapon Tuning Mosin rifle tread adapter",
     "pageId": 15462,
@@ -213,10 +265,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "weapon_tuning_mosin_rifle_tread_adapter"
+    "filePath": "weapon_tuning_mosin_rifle_tread_adapter",
+    "marketSearchName": "Weapon Tuning Mosin rifle tread adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "Weapon Tuning SKS tread adapter",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "Weapon Tuning SKS tread adapter",
     "pageId": 15463,
@@ -225,10 +280,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "weapon_tuning_sks_tread_adapter"
+    "filePath": "weapon_tuning_sks_tread_adapter",
+    "marketSearchName": "Weapon Tuning SKS tread adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "Direct Thread adapter for the Lantac Blast mitigation device.",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "Direct Thread adapter for the Lantac Blast mitigation device.",
     "pageId": 15466,
@@ -237,10 +295,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "direct_thread_adapter_for_the_lantac_blast_mitigation_device_"
+    "filePath": "direct_thread_adapter_for_the_lantac_blast_mitigation_device_",
+    "marketSearchName": "Direct Thread adapter for the Lantac Blast mitigation device.",
+    "marketPositionOffset": 0
   },
   {
     "name": "Custom Mosin rifle thread adapter",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "Custom Mosin rifle thread adapter",
     "pageId": 15468,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "custom_mosin_rifle_thread_adapter"
+    "filePath": "custom_mosin_rifle_thread_adapter",
+    "marketSearchName": "Custom Mosin rifle thread adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "Tiger Rock Mosin rifle tread adapter",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "Tiger Rock Mosin rifle tread adapter",
     "pageId": 15469,
@@ -261,10 +325,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "tiger_rock_mosin_rifle_tread_adapter"
+    "filePath": "tiger_rock_mosin_rifle_tread_adapter",
+    "marketSearchName": "Tiger Rock Mosin rifle tread adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "M700 thread protection cap",
+    "category": "muzzle_adapters",
     "image": "wiki.png",
     "title": "M700 thread protection cap",
     "pageId": 15545,
@@ -273,6 +340,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "m700_thread_protection_cap"
+    "filePath": "m700_thread_protection_cap",
+    "marketSearchName": "M700 thread protection cap",
+    "marketPositionOffset": 0
   }
 ]

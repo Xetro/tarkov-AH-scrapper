@@ -1,6 +1,7 @@
 [
   {
     "name": "VPO-101 Gas tube",
+    "category": "gas_blocks",
     "image": "VPO-101GTIcon.png",
     "title": "VPO-101 Gas tube",
     "pageId": 13606,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/VPO-101GTIcon.png",
-    "filePath": "vpo_101_gas_tube"
+    "filePath": "vpo_101_gas_tube",
+    "marketSearchName": "VPO-101 Gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "SVDS Gas tube",
+    "category": "gas_blocks",
     "image": "SVDS Gas tube icon.png",
     "title": "SVDS Gas tube",
     "pageId": 13840,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0e/SVDS_Gas_tube_icon.png?version=e1b059c66a6976d181206901821638b8",
-    "filePath": "svds_gas_tube"
+    "filePath": "svds_gas_tube",
+    "marketSearchName": "SVDS Gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK 416A5 Regular Low Profile Gas Block",
+    "category": "gas_blocks",
     "image": "Hk416gasicon.png",
     "title": "HK 416A5 Regular Low Profile Gas Block",
     "pageId": 12120,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/11/Hk416gasicon.png?version=74db099df62429f511a3816526ce70c3",
-    "filePath": "hk_416a5_regular_low_profile_gas_block"
+    "filePath": "hk_416a5_regular_low_profile_gas_block",
+    "marketSearchName": "HK 416A5 Regular Low Profile Gas Block",
+    "marketPositionOffset": 0
   },
   {
     "name": "AK-74 Gas tube",
+    "category": "gas_blocks",
     "image": "Ak74.png",
     "title": "AK-74 Gas tube",
     "pageId": 7062,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/Ak74.png?version=1ea5a70133ef8a98fc945db69b5d8d2c",
-    "filePath": "ak_74_gas_tube"
+    "filePath": "ak_74_gas_tube",
+    "marketSearchName": "AK-74 Gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "AKM (6P1 Sb.1-2) gas tube",
+    "category": "gas_blocks",
     "image": "6p1sb.png",
     "title": "AKM (6P1 Sb.1-2) gas tube",
     "pageId": 7549,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/6p1sb.png?version=a3c983435911c4d4b1727f4c25a3a69d",
-    "filePath": "akm__6p1_sb_1_2__gas_tube"
+    "filePath": "akm__6p1_sb_1_2__gas_tube",
+    "marketSearchName": "AKM (6P1 Sb.1-2) gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "Molot AKM type gas tube",
+    "category": "gas_blocks",
     "image": "Akmgas.png",
     "title": "Molot AKM type gas tube",
     "pageId": 7082,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/Akmgas.png?version=b7a9d8b770a4708cf81d84719a917f35",
-    "filePath": "molot_akm_type_gas_tube"
+    "filePath": "molot_akm_type_gas_tube",
+    "marketSearchName": "Molot AKM type gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "Kiba Arms VDM CS gas tube",
+    "category": "gas_blocks",
     "image": "Vdmcs.png",
     "title": "Kiba Arms VDM CS gas tube",
     "pageId": 7266,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/Vdmcs.png?version=d0688fe612949c1b2aaa663b33e153f5",
-    "filePath": "kiba_arms_vdm_cs_gas_tube"
+    "filePath": "kiba_arms_vdm_cs_gas_tube",
+    "marketSearchName": "Kiba Arms VDM CS gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "UltiMAK M1-B gas tube for AK",
+    "category": "gas_blocks",
     "image": "M1b.png",
     "title": "UltiMAK M1-B gas tube for AK",
     "pageId": 7551,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/M1b.png?version=bf06c9e9aea4b8777e5eb399e528e827",
-    "filePath": "ultimak_m1_b_gas_tube_for_ak"
+    "filePath": "ultimak_m1_b_gas_tube_for_ak",
+    "marketSearchName": "UltiMAK M1-B gas tube for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "Handguard with a gas block combo by TROY Industries for AK",
+    "category": "gas_blocks",
     "image": "troyhgicon.png",
     "title": "Handguard with a gas block combo by TROY Industries for AK",
     "pageId": 11023,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Troyhgicon.png?version=8d199c707f8d2ab1e9596998f5bf4112",
-    "filePath": "handguard_with_a_gas_block_combo_by_troy_industries_for_ak"
+    "filePath": "handguard_with_a_gas_block_combo_by_troy_industries_for_ak",
+    "marketSearchName": "Handguard with a gas block combo by TROY Industries for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "PP-19-01 gas tube",
+    "category": "gas_blocks",
     "image": "Pp19gas.png",
     "title": "PP-19-01 gas tube",
     "pageId": 7071,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4a/Pp19gas.png?version=103de0f3cc6f705329c0426fdb9c4842",
-    "filePath": "pp_19_01_gas_tube"
+    "filePath": "pp_19_01_gas_tube",
+    "marketSearchName": "PP-19-01 gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "AKS-74U Gas tube",
+    "category": "gas_blocks",
     "image": "Aksu.png",
     "title": "AKS-74U Gas tube",
     "pageId": 7064,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Aksu.png?version=eeea93f7a8484181e2bd836548d9f10c",
-    "filePath": "aks_74u_gas_tube"
+    "filePath": "aks_74u_gas_tube",
+    "marketSearchName": "AKS-74U Gas tube",
+    "marketPositionOffset": 0
   },
   {
     "name": "MK12 Low Profile Gas Block",
+    "category": "gas_blocks",
     "image": "Mk12.png",
     "title": "MK12 Low Profile Gas Block",
     "pageId": 3123,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cc/Mk12.png?version=0ba663adeb1f2eb028b258964b5ea442",
-    "filePath": "mk12_low_profile_gas_block"
+    "filePath": "mk12_low_profile_gas_block",
+    "marketSearchName": "MK12 Low Profile Gas Block",
+    "marketPositionOffset": 0
   },
   {
     "name": "Colt M4 Front sight",
+    "category": "gas_blocks",
     "image": "M4frontsighticon.png",
     "title": "Colt M4 Front sight",
     "pageId": 10239,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/M4frontsighticon.png?version=2b922eb2a113a09a4ba28ac766f55eac",
-    "filePath": "colt_m4_front_sight"
+    "filePath": "colt_m4_front_sight",
+    "marketSearchName": "Colt M4 Front sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Windham Weaponry Rail Gas Block",
+    "category": "gas_blocks",
     "image": "Picblock.png",
     "title": "Windham Weaponry Rail Gas Block",
     "pageId": 3129,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Picblock.png?version=13af2c5b659e83affb7c0e42887049e1",
-    "filePath": "windham_weaponry_rail_gas_block"
+    "filePath": "windham_weaponry_rail_gas_block",
+    "marketSearchName": "Windham Weaponry Rail Gas Block",
+    "marketPositionOffset": 0
   },
   {
     "name": "JP Enterprises Gas System-6",
+    "category": "gas_blocks",
     "image": "Jpgs6.png",
     "title": "JP Enterprises Gas System-6",
     "pageId": 7772,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/Jpgs6.png?version=957861065b56f0183679f791fd859a4b",
-    "filePath": "jp_enterprises_gas_system_6"
+    "filePath": "jp_enterprises_gas_system_6",
+    "marketSearchName": "JP Enterprises Gas System-6",
+    "marketPositionOffset": 0
   },
   {
     "name": "JP Enterprises Gas System-5b",
+    "category": "gas_blocks",
     "image": "wiki.png",
     "title": "JP Enterprises Gas System-5b",
     "pageId": 15476,
@@ -189,6 +235,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "jp_enterprises_gas_system_5b"
+    "filePath": "jp_enterprises_gas_system_5b",
+    "marketSearchName": "JP Enterprises Gas System-5b",
+    "marketPositionOffset": 0
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "name": "RB-BK key",
+    "category": "keys_reserve",
     "image": "RB-BK_Icon.png",
     "title": "RB-BK key",
     "pageId": 15335,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c9/RB-BK_Icon.png",
-    "filePath": "rb_bk_key"
+    "filePath": "rb_bk_key",
+    "marketSearchName": "RB-BK key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-VO key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-VO key",
     "pageId": 15612,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_vo_key"
+    "filePath": "rb_vo_key",
+    "marketSearchName": "RB-VO key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-AO key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-AO key",
     "pageId": 15613,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_ao_key"
+    "filePath": "rb_ao_key",
+    "marketSearchName": "RB-AO key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-OB key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-OB key",
     "pageId": 15614,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_ob_key"
+    "filePath": "rb_ob_key",
+    "marketSearchName": "RB-OB key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-TB key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-TB key",
     "pageId": 15615,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_tb_key"
+    "filePath": "rb_tb_key",
+    "marketSearchName": "RB-TB key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-AK key",
+    "category": "keys_reserve",
     "image": "rb-ak item.png",
     "title": "RB-AK key",
     "pageId": 15616,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/Rb-ak_item.png",
-    "filePath": "rb_ak_key"
+    "filePath": "rb_ak_key",
+    "marketSearchName": "RB-AK key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-AM key",
+    "category": "keys_reserve",
     "image": "RB-AM Key.png",
     "title": "RB-AM key",
     "pageId": 15617,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/RB-AM_Key.png",
-    "filePath": "rb_am_key"
+    "filePath": "rb_am_key",
+    "marketSearchName": "RB-AM key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-OP key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-OP key",
     "pageId": 15618,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_op_key"
+    "filePath": "rb_op_key",
+    "marketSearchName": "RB-OP key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-MP11 key",
+    "category": "keys_reserve",
     "image": "RB-MP11.png",
     "title": "RB-MP11 key",
     "pageId": 15619,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/RB-MP11.png",
-    "filePath": "rb_mp11_key"
+    "filePath": "rb_mp11_key",
+    "marketSearchName": "RB-MP11 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-MP12 key",
+    "category": "keys_reserve",
     "image": "RB-MP12.png",
     "title": "RB-MP12 key",
     "pageId": 15620,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/RB-MP12.png",
-    "filePath": "rb_mp12_key"
+    "filePath": "rb_mp12_key",
+    "marketSearchName": "RB-MP12 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-MP13 key",
+    "category": "keys_reserve",
     "image": "RB-MP13.png",
     "title": "RB-MP13 key",
     "pageId": 15625,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/RB-MP13.png",
-    "filePath": "rb_mp13_key"
+    "filePath": "rb_mp13_key",
+    "marketSearchName": "RB-MP13 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-MP21 key",
+    "category": "keys_reserve",
     "image": "RB-MP21.png",
     "title": "RB-MP21 key",
     "pageId": 15621,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/RB-MP21.png",
-    "filePath": "rb_mp21_key"
+    "filePath": "rb_mp21_key",
+    "marketSearchName": "RB-MP21 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-MP22 key",
+    "category": "keys_reserve",
     "image": "RB-MP22.png",
     "title": "RB-MP22 key",
     "pageId": 15622,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/RB-MP22.png",
-    "filePath": "rb_mp22_key"
+    "filePath": "rb_mp22_key",
+    "marketSearchName": "RB-MP22 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-PSP1 key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-PSP1 key",
     "pageId": 15623,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_psp1_key"
+    "filePath": "rb_psp1_key",
+    "marketSearchName": "RB-PSP1 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-PS81 key",
+    "category": "keys_reserve",
     "image": "RB-PS81.png",
     "title": "RB-PS81 key",
     "pageId": 15390,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/RB-PS81.png",
-    "filePath": "rb_ps81_key"
+    "filePath": "rb_ps81_key",
+    "marketSearchName": "RB-PS81 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-PP key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-PP key",
     "pageId": 15624,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_pp_key"
+    "filePath": "rb_pp_key",
+    "marketSearchName": "RB-PP key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-ORB1 key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-ORB1 key",
     "pageId": 15626,
@@ -201,10 +250,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_orb1_key"
+    "filePath": "rb_orb1_key",
+    "marketSearchName": "RB-ORB1 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-ORB2 key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-ORB2 key",
     "pageId": 15627,
@@ -213,10 +265,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_orb2_key"
+    "filePath": "rb_orb2_key",
+    "marketSearchName": "RB-ORB2 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-ORB3 key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-ORB3 key",
     "pageId": 15628,
@@ -225,10 +280,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_orb3_key"
+    "filePath": "rb_orb3_key",
+    "marketSearchName": "RB-ORB3 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-KORL key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-KORL key",
     "pageId": 15629,
@@ -237,10 +295,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_korl_key"
+    "filePath": "rb_korl_key",
+    "marketSearchName": "RB-KORL key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-KPRL key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-KPRL key",
     "pageId": 15630,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_kprl_key"
+    "filePath": "rb_kprl_key",
+    "marketSearchName": "RB-KPRL key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-GN key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-GN key",
     "pageId": 15632,
@@ -261,10 +325,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_gn_key"
+    "filePath": "rb_gn_key",
+    "marketSearchName": "RB-GN key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-SMP key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-SMP key",
     "pageId": 15633,
@@ -273,10 +340,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_smp_key"
+    "filePath": "rb_smp_key",
+    "marketSearchName": "RB-SMP key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-KSM key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-KSM key",
     "pageId": 15634,
@@ -285,10 +355,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_ksm_key"
+    "filePath": "rb_ksm_key",
+    "marketSearchName": "RB-KSM key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-PS82 key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-PS82 key",
     "pageId": 15635,
@@ -297,10 +370,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_ps82_key"
+    "filePath": "rb_ps82_key",
+    "marketSearchName": "RB-PS82 key",
+    "marketPositionOffset": 0
   },
   {
     "name": "Key RB-PSP2",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "Key RB-PSP2",
     "pageId": 15636,
@@ -309,10 +385,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "key_rb_psp2"
+    "filePath": "key_rb_psp2",
+    "marketSearchName": "Key RB-PSP2",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-ST key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-ST key",
     "pageId": 15637,
@@ -321,10 +400,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_st_key"
+    "filePath": "rb_st_key",
+    "marketSearchName": "RB-ST key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-RS key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-RS key",
     "pageId": 14993,
@@ -333,10 +415,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_rs_key"
+    "filePath": "rb_rs_key",
+    "marketSearchName": "RB-RS key",
+    "marketPositionOffset": 0
   },
   {
     "name": "RB-RH key",
+    "category": "keys_reserve",
     "image": "Wiki.png",
     "title": "RB-RH key",
     "pageId": 14995,
@@ -345,6 +430,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "rb_rh_key"
+    "filePath": "rb_rh_key",
+    "marketSearchName": "RB-RH key",
+    "marketPositionOffset": 0
   }
 ]

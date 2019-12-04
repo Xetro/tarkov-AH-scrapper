@@ -1,6 +1,7 @@
 [
   {
     "name": "10.6\" barrel for 416A5 and compatible 5.56x45",
+    "category": "barrels",
     "image": "10.6Inch416BarrelIcon.png",
     "title": "10.6\" barrel for 416A5 and compatible 5.56x45",
     "pageId": 13882,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/10.6Inch416BarrelIcon.png",
-    "filePath": "10_6__barrel_for_416a5_and_compatible_5_56x45"
+    "filePath": "10_6__barrel_for_416a5_and_compatible_5_56x45",
+    "marketSearchName": "10.6\" barrel for 416A5 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "10.5\" 9x19 barrel for MPX",
+    "category": "barrels",
     "image": "10.5BarrelMPXIcon.png",
     "title": "10.5\" 9x19 barrel for MPX",
     "pageId": 13850,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/89/10.5BarrelMPXIcon.png",
-    "filePath": "10_5__9x19_barrel_for_mpx"
+    "filePath": "10_5__9x19_barrel_for_mpx",
+    "marketSearchName": "10.5\" 9x19 barrel for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "6.5\" 9x19 barrel for MPX",
+    "category": "barrels",
     "image": "6.5MPXBarrelIcon.png",
     "title": "6.5\" 9x19 barrel for MPX",
     "pageId": 13849,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/6.5MPXBarrelIcon.png",
-    "filePath": "6_5__9x19_barrel_for_mpx"
+    "filePath": "6_5__9x19_barrel_for_mpx",
+    "marketSearchName": "6.5\" 9x19 barrel for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "406mm barrel for MDR and compatible 5.56x45",
+    "category": "barrels",
     "image": "406mm barrel for MDR and compatible 5.56x45 icon.png",
     "title": "406mm barrel for MDR and compatible 5.56x45",
     "pageId": 13604,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/406mm_barrel_for_MDR_and_compatible_5.56x45_icon.png",
-    "filePath": "406mm_barrel_for_mdr_and_compatible_5_56x45"
+    "filePath": "406mm_barrel_for_mdr_and_compatible_5_56x45",
+    "marketSearchName": "406mm barrel for MDR and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "22\" barrel for a SVDS 7.62x54",
+    "category": "barrels",
     "image": "22 barrel for a SVDS 7.62x54 icon.png",
     "title": "22\" barrel for a SVDS 7.62x54",
     "pageId": 13841,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/22_barrel_for_a_SVDS_7.62x54_icon.png",
-    "filePath": "22__barrel_for_a_svds_7_62x54"
+    "filePath": "22__barrel_for_a_svds_7_62x54",
+    "marketSearchName": "22\" barrel for a SVDS 7.62x54",
+    "marketPositionOffset": 0
   },
   {
     "name": "4.5\" 9x19 barrel for MPX",
+    "category": "barrels",
     "image": "4.5MPXBarrelIcon.png",
     "title": "4.5\" 9x19 barrel for MPX",
     "pageId": 13848,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c3/4.5MPXBarrelIcon.png",
-    "filePath": "4_5__9x19_barrel_for_mpx"
+    "filePath": "4_5__9x19_barrel_for_mpx",
+    "marketSearchName": "4.5\" 9x19 barrel for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "14\" 9x19 barrel for MPX",
+    "category": "barrels",
     "image": "14 MPX Icon.png",
     "title": "14\" 9x19 barrel for MPX",
     "pageId": 13851,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/36/14_MPX_Icon.png?version=629f90d84ae828ec2708ba7dccfc2f43",
-    "filePath": "14__9x19_barrel_for_mpx"
+    "filePath": "14__9x19_barrel_for_mpx",
+    "marketSearchName": "14\" 9x19 barrel for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "406mm Molot barrel for AR-15 and compatible 5.56x45",
+    "category": "barrels",
     "image": "406mmMolotBarrelicon.png",
     "title": "406mm Molot barrel for AR-15 and compatible 5.56x45",
     "pageId": 12770,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3a/406mmMolotBarrelicon.png?version=4b7e62aeada6e55da99fcbf5d4951fa4",
-    "filePath": "406mm_molot_barrel_for_ar_15_and_compatible_5_56x45"
+    "filePath": "406mm_molot_barrel_for_ar_15_and_compatible_5_56x45",
+    "marketSearchName": "406mm Molot barrel for AR-15 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "20\" barrel for a Remington M700 7.62x51 NATO",
+    "category": "barrels",
     "image": "20inM700Barrelicon.png",
     "title": "20\" barrel for a Remington M700 7.62x51 NATO",
     "pageId": 12716,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/20inM700Barrelicon.png?version=6850c19329616aa231e90adce71bfd6d",
-    "filePath": "20__barrel_for_a_remington_m700_7_62x51_nato"
+    "filePath": "20__barrel_for_a_remington_m700_7_62x51_nato",
+    "marketSearchName": "20\" barrel for a Remington M700 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "26\" barrel for a Remington M700 7.62x51 NATO",
+    "category": "barrels",
     "image": "26inM700Barrelicon.png",
     "title": "26\" barrel for a Remington M700 7.62x51 NATO",
     "pageId": 12715,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/26inM700Barrelicon.png?version=2b6996af270aa22f00bd0e2850badeab",
-    "filePath": "26__barrel_for_a_remington_m700_7_62x51_nato"
+    "filePath": "26__barrel_for_a_remington_m700_7_62x51_nato",
+    "marketSearchName": "26\" barrel for a Remington M700 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "Sawn off 200mm Mosin barrel",
+    "category": "barrels",
     "image": "SawnOff200mmMosinBarrelicon.png",
     "title": "Sawn off 200mm Mosin barrel",
     "pageId": 12614,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/SawnOff200mmMosinBarrelicon.png?version=299793ca804e530fbbb4ee56ec36c2b6",
-    "filePath": "sawn_off_200mm_mosin_barrel"
+    "filePath": "sawn_off_200mm_mosin_barrel",
+    "marketSearchName": "Sawn off 200mm Mosin barrel",
+    "marketPositionOffset": 0
   },
   {
     "name": "Sawn off 220mm Mosin barrel",
+    "category": "barrels",
     "image": "SawnOff220mmMosinBarrelCustomicon.png",
     "title": "Sawn off 220mm Mosin barrel",
     "pageId": 12617,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/SawnOff220mmMosinBarrelCustomicon.png?version=a086a2ddb652b38e15b928079cb88dea",
-    "filePath": "sawn_off_220mm_mosin_barrel"
+    "filePath": "sawn_off_220mm_mosin_barrel",
+    "marketSearchName": "Sawn off 220mm Mosin barrel",
+    "marketPositionOffset": 0
   },
   {
     "name": "Regular 514mm Mosin carabine barrel",
+    "category": "barrels",
     "image": "514mmMosinBarrelicon.png",
     "title": "Regular 514mm Mosin carabine barrel",
     "pageId": 12613,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/514mmMosinBarrelicon.png?version=67a10503201d629edeca4e8d6ab9ecdd",
-    "filePath": "regular_514mm_mosin_carabine_barrel"
+    "filePath": "regular_514mm_mosin_carabine_barrel",
+    "marketSearchName": "Regular 514mm Mosin carabine barrel",
+    "marketPositionOffset": 0
   },
   {
     "name": "15\" barrel for RPK-16 and compatible 5.45x39",
+    "category": "barrels",
     "image": "15 barrel for RPK-16 and compatible 5.45x39 icon.png",
     "title": "15\" barrel for RPK-16 and compatible 5.45x39",
     "pageId": 12521,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/15_barrel_for_RPK-16_and_compatible_5.45x39_icon.png",
-    "filePath": "15__barrel_for_rpk_16_and_compatible_5_45x39"
+    "filePath": "15__barrel_for_rpk_16_and_compatible_5_45x39",
+    "marketSearchName": "15\" barrel for RPK-16 and compatible 5.45x39",
+    "marketPositionOffset": 0
   },
   {
     "name": "22\" barrel for RPK-16 and compatible 5.45x39",
+    "category": "barrels",
     "image": "22 barrel for RPK-16 and compatible 5.45x39 icon.png",
     "title": "22\" barrel for RPK-16 and compatible 5.45x39",
     "pageId": 12523,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/69/22_barrel_for_RPK-16_and_compatible_5.45x39_icon.png",
-    "filePath": "22__barrel_for_rpk_16_and_compatible_5_45x39"
+    "filePath": "22__barrel_for_rpk_16_and_compatible_5_45x39",
+    "marketSearchName": "22\" barrel for RPK-16 and compatible 5.45x39",
+    "marketPositionOffset": 0
   },
   {
     "name": "11\" barrel for 416A5 and compatible 5.56x45",
+    "category": "barrels",
     "image": "11inchhk416icon.png",
     "title": "11\" barrel for 416A5 and compatible 5.56x45",
     "pageId": 12113,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/11inchhk416icon.png?version=6306ce4ef9ade810aea0d99074dbb5ea",
-    "filePath": "11__barrel_for_416a5_and_compatible_5_56x45"
+    "filePath": "11__barrel_for_416a5_and_compatible_5_56x45",
+    "marketSearchName": "11\" barrel for 416A5 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "14.5\" barrel for 416A5 and compatible 5.56x45",
+    "category": "barrels",
     "image": "14.5inchhk416barrelicon.png",
     "title": "14.5\" barrel for 416A5 and compatible 5.56x45",
     "pageId": 12114,
@@ -201,10 +250,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/14.5inchhk416barrelicon.png",
-    "filePath": "14_5__barrel_for_416a5_and_compatible_5_56x45"
+    "filePath": "14_5__barrel_for_416a5_and_compatible_5_56x45",
+    "marketSearchName": "14.5\" barrel for 416A5 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "16.5\" barrel for 416A5 and compatible 5.56x45",
+    "category": "barrels",
     "image": "16.5inchhk416barrelicon.png",
     "title": "16.5\" barrel for 416A5 and compatible 5.56x45",
     "pageId": 12115,
@@ -213,10 +265,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/16.5inchhk416barrelicon.png",
-    "filePath": "16_5__barrel_for_416a5_and_compatible_5_56x45"
+    "filePath": "16_5__barrel_for_416a5_and_compatible_5_56x45",
+    "marketSearchName": "16.5\" barrel for 416A5 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "20\" barrel for 416A5 and compatible 5.56x45",
+    "category": "barrels",
     "image": "20inchhk416barrelicon.png",
     "title": "20\" barrel for 416A5 and compatible 5.56x45",
     "pageId": 12116,
@@ -225,10 +280,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/20inchhk416barrelicon.png?version=34ac967750ac806ee6d6c36889bf1a4c",
-    "filePath": "20__barrel_for_416a5_and_compatible_5_56x45"
+    "filePath": "20__barrel_for_416a5_and_compatible_5_56x45",
+    "marketSearchName": "20\" barrel for 416A5 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "11\" barrel for SA-58 7.62x51",
+    "category": "barrels",
     "image": "SA58_11Inch_Icon.png",
     "title": "11\" barrel for SA-58 7.62x51",
     "pageId": 11018,
@@ -237,10 +295,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/SA58_11Inch_Icon.png?version=fcb52ce020f2aea85df3429310b8fa50",
-    "filePath": "11__barrel_for_sa_58_7_62x51"
+    "filePath": "11__barrel_for_sa_58_7_62x51",
+    "marketSearchName": "11\" barrel for SA-58 7.62x51",
+    "marketPositionOffset": 0
   },
   {
     "name": "16\" barrel for SA-58 7.62x51",
+    "category": "barrels",
     "image": "16 Fal Icon.png",
     "title": "16\" barrel for SA-58 7.62x51",
     "pageId": 11514,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/16_Fal_Icon.png?version=2da2d0c4a85e1719c4ebcdb527a98573",
-    "filePath": "16__barrel_for_sa_58_7_62x51"
+    "filePath": "16__barrel_for_sa_58_7_62x51",
+    "marketSearchName": "16\" barrel for SA-58 7.62x51",
+    "marketPositionOffset": 0
   },
   {
     "name": "21\" barrel for SA-58 7.62x51",
+    "category": "barrels",
     "image": "21in Fal Barrel icon.png",
     "title": "21\" barrel for SA-58 7.62x51",
     "pageId": 11516,
@@ -261,10 +325,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/21in_Fal_Barrel_icon.png?version=8c9beaa840280b3e1ece7bc1472e3aa9",
-    "filePath": "21__barrel_for_sa_58_7_62x51"
+    "filePath": "21__barrel_for_sa_58_7_62x51",
+    "marketSearchName": "21\" barrel for SA-58 7.62x51",
+    "marketPositionOffset": 0
   },
   {
     "name": "22\" barrel for a M1A 7.62x51 NATO",
+    "category": "barrels",
     "image": "22inchbarrelm1icon.png",
     "title": "22\" barrel for a M1A 7.62x51 NATO",
     "pageId": 10409,
@@ -273,10 +340,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/22inchbarrelm1icon.png?version=def075cf3d27efaef294ecc5e339b79e",
-    "filePath": "22__barrel_for_a_m1a_7_62x51_nato"
+    "filePath": "22__barrel_for_a_m1a_7_62x51_nato",
+    "marketSearchName": "22\" barrel for a M1A 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "Regular 730mm Mosin barrel",
+    "category": "barrels",
     "image": "730mm Mosin Icon.png",
     "title": "Regular 730mm Mosin barrel",
     "pageId": 10359,
@@ -285,10 +355,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/730mm_Mosin_Icon.png?version=d2a1e560d9cb83eb12173f8295551012",
-    "filePath": "regular_730mm_mosin_barrel"
+    "filePath": "regular_730mm_mosin_barrel",
+    "marketSearchName": "Regular 730mm Mosin barrel",
+    "marketPositionOffset": 0
   },
   {
     "name": "16\" barrel for a M1A 7.62x51 NATO",
+    "category": "barrels",
     "image": "16inchbarrelm1icon.png",
     "title": "16\" barrel for a M1A 7.62x51 NATO",
     "pageId": 9724,
@@ -297,10 +370,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/16inchbarrelm1icon.png?version=9162db401680a3579e12a80196426ecb",
-    "filePath": "16__barrel_for_a_m1a_7_62x51_nato"
+    "filePath": "16__barrel_for_a_m1a_7_62x51_nato",
+    "marketSearchName": "16\" barrel for a M1A 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "18\" barrel for a AR-10 and compatible 7.62x51 NATO",
+    "category": "barrels",
     "image": "18inchrsassicon.png",
     "title": "18\" barrel for a AR-10 and compatible 7.62x51 NATO",
     "pageId": 8430,
@@ -309,10 +385,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/18inchrsassicon.png?version=41befcca1128b58096a7c76ec43e0d5a",
-    "filePath": "18__barrel_for_a_ar_10_and_compatible_7_62x51_nato"
+    "filePath": "18__barrel_for_a_ar_10_and_compatible_7_62x51_nato",
+    "marketSearchName": "18\" barrel for a AR-10 and compatible 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "510mm barrel for MP-133 12ga",
+    "category": "barrels",
     "image": "510mmmp133normal.png",
     "title": "510mm barrel for MP-133 12ga",
     "pageId": 3144,
@@ -321,10 +400,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c0/510mmmp133normal.png?version=541a61a4c405d61e4fcf021c950f8b0c",
-    "filePath": "510mm_barrel_for_mp_133_12ga"
+    "filePath": "510mm_barrel_for_mp_133_12ga",
+    "marketSearchName": "510mm barrel for MP-133 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "500mm .308 barrel for DVL-10",
+    "category": "barrels",
     "image": "500mmdvl.png",
     "title": "500mm .308 barrel for DVL-10",
     "pageId": 3177,
@@ -333,10 +415,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/500mmdvl.png?version=2cb54d6d895c2fe0d96576dd87cd6962",
-    "filePath": "500mm__308_barrel_for_dvl_10"
+    "filePath": "500mm__308_barrel_for_dvl_10",
+    "marketSearchName": "500mm .308 barrel for DVL-10",
+    "marketPositionOffset": 0
   },
   {
     "name": "116mm 7.62x25 TT barrel",
+    "category": "barrels",
     "image": "Ttstandard.png",
     "title": "116mm 7.62x25 TT barrel",
     "pageId": 3167,
@@ -345,10 +430,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Ttstandard.png?version=9773a179c7e5c2496d9c3e52a838a5af",
-    "filePath": "116mm_7_62x25_tt_barrel"
+    "filePath": "116mm_7_62x25_tt_barrel",
+    "marketSearchName": "116mm 7.62x25 TT barrel",
+    "marketPositionOffset": 0
   },
   {
     "name": "116mm 7.62x25 TT gilded barrel",
+    "category": "barrels",
     "image": "116mmTTGold Icon.png",
     "title": "116mm 7.62x25 TT gilded barrel",
     "pageId": 11015,
@@ -357,10 +445,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/116mmTTGold_Icon.png?version=e915d158f73fb0f553c1af9a00b820d1",
-    "filePath": "116mm_7_62x25_tt_gilded_barrel"
+    "filePath": "116mm_7_62x25_tt_gilded_barrel",
+    "marketSearchName": "116mm 7.62x25 TT gilded barrel",
+    "marketPositionOffset": 0
   },
   {
     "name": "Homespun 121mm 7.62x25 TT barrel with threading",
+    "category": "barrels",
     "image": "Ttthreaded.png",
     "title": "Homespun 121mm 7.62x25 TT barrel with threading",
     "pageId": 3008,
@@ -369,10 +460,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/Ttthreaded.png?version=48e3b7ae6ecfa984bd50d2e70acc3109",
-    "filePath": "homespun_121mm_7_62x25_tt_barrel_with_threading"
+    "filePath": "homespun_121mm_7_62x25_tt_barrel_with_threading",
+    "marketSearchName": "Homespun 121mm 7.62x25 TT barrel with threading",
+    "marketPositionOffset": 0
   },
   {
     "name": "Threaded barrel for P226 9x19",
+    "category": "barrels",
     "image": "P226thread.png",
     "title": "Threaded barrel for P226 9x19",
     "pageId": 3170,
@@ -381,10 +475,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/P226thread.png?version=6d88702afe2a1b7f85451e49222545de",
-    "filePath": "threaded_barrel_for_p226_9x19"
+    "filePath": "threaded_barrel_for_p226_9x19",
+    "marketSearchName": "Threaded barrel for P226 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "260mm barrel for AR-15 and compatible 5.56x45",
+    "category": "barrels",
     "image": "260mmm4icon.png",
     "title": "260mm barrel for AR-15 and compatible 5.56x45",
     "pageId": 3137,
@@ -393,10 +490,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/22/260mmm4icon.png?version=6b6338fa3da3b393b02396c6c845392c",
-    "filePath": "260mm_barrel_for_ar_15_and_compatible_5_56x45"
+    "filePath": "260mm_barrel_for_ar_15_and_compatible_5_56x45",
+    "marketSearchName": "260mm barrel for AR-15 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "370mm barrel for AR-15 and compatible 5.56x45",
+    "category": "barrels",
     "image": "370mmm4icon.png",
     "title": "370mm barrel for AR-15 and compatible 5.56x45",
     "pageId": 3138,
@@ -405,10 +505,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/370mmm4icon.png?version=f0c15a7d26bae15db76ef68750042d9e",
-    "filePath": "370mm_barrel_for_ar_15_and_compatible_5_56x45"
+    "filePath": "370mm_barrel_for_ar_15_and_compatible_5_56x45",
+    "marketSearchName": "370mm barrel for AR-15 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "165 mm 9x19 barrel for MPX-SD",
+    "category": "barrels",
     "image": "165mmmpxicon.png",
     "title": "165 mm 9x19 barrel for MPX-SD",
     "pageId": 6864,
@@ -417,10 +520,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/165mmmpxicon.png?version=234fcef1afd61e0b4c2a5832da6cacc8",
-    "filePath": "165_mm_9x19_barrel_for_mpx_sd"
+    "filePath": "165_mm_9x19_barrel_for_mpx_sd",
+    "marketSearchName": "165 mm 9x19 barrel for MPX-SD",
+    "marketPositionOffset": 0
   },
   {
     "name": "203 mm 9x19 barrel for MPX",
+    "category": "barrels",
     "image": "203mmmpxicon.png",
     "title": "203 mm 9x19 barrel for MPX",
     "pageId": 6862,
@@ -429,10 +535,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/45/203mmmpxicon.png?version=5ce1506d58c3bb6edd0548d0c0bfd8d7",
-    "filePath": "203_mm_9x19_barrel_for_mpx"
+    "filePath": "203_mm_9x19_barrel_for_mpx",
+    "marketSearchName": "203 mm 9x19 barrel for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "510mm barrel for MP-133 12ga shotgun with rib",
+    "category": "barrels",
     "image": "510mmmp133RIB.png",
     "title": "510mm barrel for MP-133 12ga shotgun with rib",
     "pageId": 3006,
@@ -441,10 +550,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/510mmmp133RIB.png?version=e84202144d09cab148a7452396e328d4",
-    "filePath": "510mm_barrel_for_mp_133_12ga_shotgun_with_rib"
+    "filePath": "510mm_barrel_for_mp_133_12ga_shotgun_with_rib",
+    "marketSearchName": "510mm barrel for MP-133 12ga shotgun with rib",
+    "marketPositionOffset": 0
   },
   {
     "name": "540mm barrel for MP-133 12ga shotgun",
+    "category": "barrels",
     "image": "540mmIcon.png",
     "title": "540mm barrel for MP-133 12ga shotgun",
     "pageId": 6803,
@@ -453,10 +565,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a5/540mmIcon.png?version=df247f1961078b951e9022c6f2bf54b0",
-    "filePath": "540mm_barrel_for_mp_133_12ga_shotgun"
+    "filePath": "540mm_barrel_for_mp_133_12ga_shotgun",
+    "marketSearchName": "540mm barrel for MP-133 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "540mm barrel for MR-133 12ga shotgun with rib",
+    "category": "barrels",
     "image": "540mmRibIcon.png",
     "title": "540mm barrel for MR-133 12ga shotgun with rib",
     "pageId": 3150,
@@ -465,10 +580,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/07/540mmRibIcon.png?version=6c3b49a5b83530f87086d63135c7df27",
-    "filePath": "540mm_barrel_for_mr_133_12ga_shotgun_with_rib"
+    "filePath": "540mm_barrel_for_mr_133_12ga_shotgun_with_rib",
+    "marketSearchName": "540mm barrel for MR-133 12ga shotgun with rib",
+    "marketPositionOffset": 0
   },
   {
     "name": "610mm barrel for MP-133 12ga shotgun",
+    "category": "barrels",
     "image": "610mmmp133normal.png",
     "title": "610mm barrel for MP-133 12ga shotgun",
     "pageId": 3141,
@@ -477,10 +595,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/610mmmp133normal.png?version=8537a652fe3c7a26c49001eaeddf03a3",
-    "filePath": "610mm_barrel_for_mp_133_12ga_shotgun"
+    "filePath": "610mm_barrel_for_mp_133_12ga_shotgun",
+    "marketSearchName": "610mm barrel for MP-133 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "610mm barrel for MP-133 12ga shotgun with rib",
+    "category": "barrels",
     "image": "610mmmp133RIB.png",
     "title": "610mm barrel for MP-133 12ga shotgun with rib",
     "pageId": 3146,
@@ -489,10 +610,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/610mmmp133RIB.png?version=bab6306e9eb10669f93c3bc74a77805d",
-    "filePath": "610mm_barrel_for_mp_133_12ga_shotgun_with_rib"
+    "filePath": "610mm_barrel_for_mp_133_12ga_shotgun_with_rib",
+    "marketSearchName": "610mm barrel for MP-133 12ga shotgun with rib",
+    "marketPositionOffset": 0
   },
   {
     "name": "660mm barrel for MR-133 12ga shotgun",
+    "category": "barrels",
     "image": "660mmmp133normal.png",
     "title": "660mm barrel for MR-133 12ga shotgun",
     "pageId": 3152,
@@ -501,10 +625,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/660mmmp133normal.png?version=3409a6529a4d3a077382416e77da1872",
-    "filePath": "660mm_barrel_for_mr_133_12ga_shotgun"
+    "filePath": "660mm_barrel_for_mr_133_12ga_shotgun",
+    "marketSearchName": "660mm barrel for MR-133 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "660mm barrel for MP-133 12ga shotgun with rib",
+    "category": "barrels",
     "image": "660mmmp133RIB.png",
     "title": "660mm barrel for MP-133 12ga shotgun with rib",
     "pageId": 3154,
@@ -513,10 +640,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fc/660mmmp133RIB.png?version=6400aaa903dedb135d33f851d7b2dc49",
-    "filePath": "660mm_barrel_for_mp_133_12ga_shotgun_with_rib"
+    "filePath": "660mm_barrel_for_mp_133_12ga_shotgun_with_rib",
+    "marketSearchName": "660mm barrel for MP-133 12ga shotgun with rib",
+    "marketPositionOffset": 0
   },
   {
     "name": "710mm barrel for MP-133 12ga shotgun",
+    "category": "barrels",
     "image": "710mmmp133normal.png",
     "title": "710mm barrel for MP-133 12ga shotgun",
     "pageId": 3157,
@@ -525,10 +655,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/710mmmp133normal.png?version=8736107bac1f48f1073ce55d7a8923e2",
-    "filePath": "710mm_barrel_for_mp_133_12ga_shotgun"
+    "filePath": "710mm_barrel_for_mp_133_12ga_shotgun",
+    "marketSearchName": "710mm barrel for MP-133 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "710mm barrel for MR-133 12ga shotgun with rib",
+    "category": "barrels",
     "image": "710mmmp133RIB.png",
     "title": "710mm barrel for MR-133 12ga shotgun with rib",
     "pageId": 2994,
@@ -537,10 +670,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/710mmmp133RIB.png?version=f8418e885f9807049d18ddd7a5209cc9",
-    "filePath": "710mm_barrel_for_mr_133_12ga_shotgun_with_rib"
+    "filePath": "710mm_barrel_for_mr_133_12ga_shotgun_with_rib",
+    "marketSearchName": "710mm barrel for MR-133 12ga shotgun with rib",
+    "marketPositionOffset": 0
   },
   {
     "name": "750mm barrel for MP-133 12ga shotgun",
+    "category": "barrels",
     "image": "750mmmp133normal.png",
     "title": "750mm barrel for MP-133 12ga shotgun",
     "pageId": 3159,
@@ -549,10 +685,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/12/750mmmp133normal.png?version=1bd2870cb8c13b2747afb676332e5f3c",
-    "filePath": "750mm_barrel_for_mp_133_12ga_shotgun"
+    "filePath": "750mm_barrel_for_mp_133_12ga_shotgun",
+    "marketSearchName": "750mm barrel for MP-133 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "750mm barrel for MP-133 12ga shotgun with rib",
+    "category": "barrels",
     "image": "750mmmp133RIB.png",
     "title": "750mm barrel for MP-133 12ga shotgun with rib",
     "pageId": 3160,
@@ -561,10 +700,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/89/750mmmp133RIB.png?version=5a6498d921aec237db916108f01a6a9b",
-    "filePath": "750mm_barrel_for_mp_133_12ga_shotgun_with_rib"
+    "filePath": "750mm_barrel_for_mp_133_12ga_shotgun_with_rib",
+    "marketSearchName": "750mm barrel for MP-133 12ga shotgun with rib",
+    "marketPositionOffset": 0
   },
   {
     "name": "610 mm barrel for MP-153 12ga shotgun",
+    "category": "barrels",
     "image": "610mmmp153.png",
     "title": "610 mm barrel for MP-153 12ga shotgun",
     "pageId": 2998,
@@ -573,10 +715,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1f/610mmmp153.png?version=9ba8cdb9031e7b4d64a001ee89059123",
-    "filePath": "610_mm_barrel_for_mp_153_12ga_shotgun"
+    "filePath": "610_mm_barrel_for_mp_153_12ga_shotgun",
+    "marketSearchName": "610 mm barrel for MP-153 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "660 mm barrel for MP-153 12ga shotgun",
+    "category": "barrels",
     "image": "660mmmp153.png",
     "title": "660 mm barrel for MP-153 12ga shotgun",
     "pageId": 3173,
@@ -585,10 +730,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/660mmmp153.png?version=640dcec4df7428e265cd1799d2e543a7",
-    "filePath": "660_mm_barrel_for_mp_153_12ga_shotgun"
+    "filePath": "660_mm_barrel_for_mp_153_12ga_shotgun",
+    "marketSearchName": "660 mm barrel for MP-153 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "750 mm barrel for MP-153 12ga shotgun",
+    "category": "barrels",
     "image": "750mmmp153.png",
     "title": "750 mm barrel for MP-153 12ga shotgun",
     "pageId": 3165,
@@ -597,10 +745,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e2/750mmmp153.png?version=044880696ef7acc322361157bbe3d4b8",
-    "filePath": "750_mm_barrel_for_mp_153_12ga_shotgun"
+    "filePath": "750_mm_barrel_for_mp_153_12ga_shotgun",
+    "marketSearchName": "750 mm barrel for MP-153 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "112mm barrel for P226 9x19",
+    "category": "barrels",
     "image": "P226standard.png",
     "title": "112mm barrel for P226 9x19",
     "pageId": 3162,
@@ -609,10 +760,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/P226standard.png?version=7ad2c51aa158cfc8c53e35cf7bf6294c",
-    "filePath": "112mm_barrel_for_p226_9x19"
+    "filePath": "112mm_barrel_for_p226_9x19",
+    "marketSearchName": "112mm barrel for P226 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "660mm .308 barrel for DVL-10 M2",
+    "category": "barrels",
     "image": "660mmdvl.png",
     "title": "660mm .308 barrel for DVL-10 M2",
     "pageId": 3181,
@@ -621,10 +775,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/660mmdvl.png?version=7d7953811d5550c817299f7728417944",
-    "filePath": "660mm__308_barrel_for_dvl_10_m2"
+    "filePath": "660mm__308_barrel_for_dvl_10_m2",
+    "marketSearchName": "660mm .308 barrel for DVL-10 M2",
+    "marketPositionOffset": 0
   },
   {
     "name": "22\" barrel for a AR-10 and compatible 7.62x51 NATO",
+    "category": "barrels",
     "image": "22inchrsassicon.png",
     "title": "22\" barrel for a AR-10 and compatible 7.62x51 NATO",
     "pageId": 8431,
@@ -633,10 +790,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/22inchrsassicon.png?version=20641853f24563388f8c1a3433da9a14",
-    "filePath": "22__barrel_for_a_ar_10_and_compatible_7_62x51_nato"
+    "filePath": "22__barrel_for_a_ar_10_and_compatible_7_62x51_nato",
+    "marketSearchName": "22\" barrel for a AR-10 and compatible 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "710 mm barrel for MP-153 12ga shotgun",
+    "category": "barrels",
     "image": "710mmmp153.png",
     "title": "710 mm barrel for MP-153 12ga shotgun",
     "pageId": 3176,
@@ -645,10 +805,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/710mmmp153.png?version=d5e14dd5de11d567625bdb77ff059cf0",
-    "filePath": "710_mm_barrel_for_mp_153_12ga_shotgun"
+    "filePath": "710_mm_barrel_for_mp_153_12ga_shotgun",
+    "marketSearchName": "710 mm barrel for MP-153 12ga shotgun",
+    "marketPositionOffset": 0
   },
   {
     "name": "Threaded barrel for Glock 9x19 manufactured by Lone Wolf.",
+    "category": "barrels",
     "image": "Lonewolfbarrel.png",
     "title": "Threaded barrel for Glock 9x19 manufactured by Lone Wolf.",
     "pageId": 8461,
@@ -657,10 +820,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/Lonewolfbarrel.png?version=84ffae729a0b41a76ae0816a8d127ef9",
-    "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_lone_wolf_"
+    "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_lone_wolf_",
+    "marketSearchName": "Threaded barrel for Glock 9x19 manufactured by Lone Wolf.",
+    "marketPositionOffset": 0
   },
   {
     "name": "660mm vent rib barrel for M870 12ga",
+    "category": "barrels",
     "image": "660mmventicon.png",
     "title": "660mm vent rib barrel for M870 12ga",
     "pageId": 9711,
@@ -669,10 +835,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/660mmventicon.png?version=f04a7fa0d12e6ab9010120ade60e379c",
-    "filePath": "660mm_vent_rib_barrel_for_m870_12ga"
+    "filePath": "660mm_vent_rib_barrel_for_m870_12ga",
+    "marketSearchName": "660mm vent rib barrel for M870 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "508mm barrel for M870 12ga",
+    "category": "barrels",
     "image": "508mmm870barrelicon.png",
     "title": "508mm barrel for M870 12ga",
     "pageId": 9710,
@@ -681,10 +850,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/508mmm870barrelicon.png?version=f8dc56e84d474e2de151a94b789eb2c9",
-    "filePath": "508mm_barrel_for_m870_12ga"
+    "filePath": "508mm_barrel_for_m870_12ga",
+    "marketSearchName": "508mm barrel for M870 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "Basic barrel for Glock 17 9x19",
+    "category": "barrels",
     "image": "Glockbasic.png",
     "title": "Basic barrel for Glock 17 9x19",
     "pageId": 8464,
@@ -693,10 +865,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/Glockbasic.png?version=d76cfa502eac4abda175b67795064483",
-    "filePath": "basic_barrel_for_glock_17_9x19"
+    "filePath": "basic_barrel_for_glock_17_9x19",
+    "marketSearchName": "Basic barrel for Glock 17 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "Cut off 325mm barrel for M870 12ga",
+    "category": "barrels",
     "image": "325mmm870barrelicon.png",
     "title": "Cut off 325mm barrel for M870 12ga",
     "pageId": 9714,
@@ -705,10 +880,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/325mmm870barrelicon.png?version=f93b2a6a25eecb14087248a1ed262b78",
-    "filePath": "cut_off_325mm_barrel_for_m870_12ga"
+    "filePath": "cut_off_325mm_barrel_for_m870_12ga",
+    "marketSearchName": "Cut off 325mm barrel for M870 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "355mm barrel for M870 12ga",
+    "category": "barrels",
     "image": "355mmm870barrelicon.png",
     "title": "355mm barrel for M870 12ga",
     "pageId": 9708,
@@ -717,10 +895,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/355mmm870barrelicon.png?version=e75a27d639009de2081c2ad08d81e96f",
-    "filePath": "355mm_barrel_for_m870_12ga"
+    "filePath": "355mm_barrel_for_m870_12ga",
+    "marketSearchName": "355mm barrel for M870 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "508mm barrel for M870 12ga with a fixed sight",
+    "category": "barrels",
     "image": "508mm barrel for M870 12ga icon.png",
     "title": "508mm barrel for M870 12ga with a fixed sight",
     "pageId": 9576,
@@ -729,10 +910,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/508mm_barrel_for_M870_12ga_icon.png?version=04d8ae492584e32183e2963900f89e11",
-    "filePath": "508mm_barrel_for_m870_12ga_with_a_fixed_sight"
+    "filePath": "508mm_barrel_for_m870_12ga_with_a_fixed_sight",
+    "marketSearchName": "508mm barrel for M870 12ga with a fixed sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Threaded barrel for Glock 9x19 manufactured by Double Diamond",
+    "category": "barrels",
     "image": "Doublediamondbarrel.png",
     "title": "Threaded barrel for Glock 9x19 manufactured by Double Diamond",
     "pageId": 8462,
@@ -741,10 +925,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/Doublediamondbarrel.png?version=b67d853a13a8c0d4d55d575d820faab5",
-    "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_double_diamond"
+    "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_double_diamond",
+    "marketSearchName": "Threaded barrel for Glock 9x19 manufactured by Double Diamond",
+    "marketPositionOffset": 0
   },
   {
     "name": "Barrel with compensator for Glock 17 9x19",
+    "category": "barrels",
     "image": "Barrelwithcompensator.png",
     "title": "Barrel with compensator for Glock 17 9x19",
     "pageId": 8463,
@@ -753,10 +940,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/59/Barrelwithcompensator.png?version=b67d853a13a8c0d4d55d575d820faab5",
-    "filePath": "barrel_with_compensator_for_glock_17_9x19"
+    "filePath": "barrel_with_compensator_for_glock_17_9x19",
+    "marketSearchName": "Barrel with compensator for Glock 17 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "Threaded barrel for Glock 9x19 manufactured by Salient Arms",
+    "category": "barrels",
     "image": "Glockbarrerlsalientarms.png",
     "title": "Threaded barrel for Glock 9x19 manufactured by Salient Arms",
     "pageId": 8465,
@@ -765,10 +955,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/Glockbarrerlsalientarms.png?version=71636c509fee599743d87894c67fb978",
-    "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_salient_arms"
+    "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_salient_arms",
+    "marketSearchName": "Threaded barrel for Glock 9x19 manufactured by Salient Arms",
+    "marketPositionOffset": 0
   },
   {
     "name": "Barrel with compensator for Glock 18C 9x19",
+    "category": "barrels",
     "image": "Barrel with compensator for Glock 18C 9x19 Icon.png",
     "title": "Barrel with compensator for Glock 18C 9x19",
     "pageId": 10981,
@@ -777,10 +970,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Barrel_with_compensator_for_Glock_18C_9x19_Icon.png?version=40577696183eb1475a13d861be76a07c",
-    "filePath": "barrel_with_compensator_for_glock_18c_9x19"
+    "filePath": "barrel_with_compensator_for_glock_18c_9x19",
+    "marketSearchName": "Barrel with compensator for Glock 18C 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "510mm barrel for MP-43e-1c 12ga",
+    "category": "barrels",
     "image": "510mm MP-43e-1s 12ga Icon.png",
     "title": "510mm barrel for MP-43e-1c 12ga",
     "pageId": 9869,
@@ -789,10 +985,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/510mm_MP-43e-1s_12ga_Icon.png",
-    "filePath": "510mm_barrel_for_mp_43e_1c_12ga"
+    "filePath": "510mm_barrel_for_mp_43e_1c_12ga",
+    "marketSearchName": "510mm barrel for MP-43e-1c 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "725mm barrel for MP-43e-1s 12ga",
+    "category": "barrels",
     "image": "725mm_MP-43e-1s_12ga_Icon.png",
     "title": "725mm barrel for MP-43e-1s 12ga",
     "pageId": 3140,
@@ -801,10 +1000,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/725mm_MP-43e-1s_12ga_Icon.png",
-    "filePath": "725mm_barrel_for_mp_43e_1s_12ga"
+    "filePath": "725mm_barrel_for_mp_43e_1s_12ga",
+    "marketSearchName": "725mm barrel for MP-43e-1s 12ga",
+    "marketPositionOffset": 0
   },
   {
     "name": "Threaded barrel for M9A3 9x19",
+    "category": "barrels",
     "image": "M9A3ThreadedBarrelIcon.png",
     "title": "Threaded barrel for M9A3 9x19",
     "pageId": 14992,
@@ -813,10 +1015,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/M9A3ThreadedBarrelIcon.png?version=df668209819e138e9a36452a613b27b4",
-    "filePath": "threaded_barrel_for_m9a3_9x19"
+    "filePath": "threaded_barrel_for_m9a3_9x19",
+    "marketSearchName": "Threaded barrel for M9A3 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "10.5\" barrel for P90 5.7x28",
+    "category": "barrels",
     "image": "wiki.png",
     "title": "10.5\" barrel for P90 5.7x28",
     "pageId": 15427,
@@ -825,10 +1030,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "10_5__barrel_for_p90_5_7x28"
+    "filePath": "10_5__barrel_for_p90_5_7x28",
+    "marketSearchName": "10.5\" barrel for P90 5.7x28",
+    "marketPositionOffset": 0
   },
   {
     "name": "16\" barrel for P90 5.7x28",
+    "category": "barrels",
     "image": "wiki.png",
     "title": "16\" barrel for P90 5.7x28",
     "pageId": 15428,
@@ -837,10 +1045,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "16__barrel_for_p90_5_7x28"
+    "filePath": "16__barrel_for_p90_5_7x28",
+    "marketSearchName": "16\" barrel for P90 5.7x28",
+    "marketPositionOffset": 0
   },
   {
     "name": "26\" stainless steel barrel for a Remington M700 7.62x51 NATO",
+    "category": "barrels",
     "image": "wiki.png",
     "title": "26\" stainless steel barrel for a Remington M700 7.62x51 NATO",
     "pageId": 15543,
@@ -849,10 +1060,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "26__stainless_steel_barrel_for_a_remington_m700_7_62x51_nato"
+    "filePath": "26__stainless_steel_barrel_for_a_remington_m700_7_62x51_nato",
+    "marketSearchName": "26\" stainless steel barrel for a Remington M700 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "20\" stainless steel barrel for a Remington M700 7.62x51 NATO",
+    "category": "barrels",
     "image": "wiki.png",
     "title": "20\" stainless steel barrel for a Remington M700 7.62x51 NATO",
     "pageId": 15544,
@@ -861,10 +1075,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "20__stainless_steel_barrel_for_a_remington_m700_7_62x51_nato"
+    "filePath": "20__stainless_steel_barrel_for_a_remington_m700_7_62x51_nato",
+    "marketSearchName": "20\" stainless steel barrel for a Remington M700 7.62x51 NATO",
+    "marketPositionOffset": 0
   },
   {
     "name": "Barrel for Five-seveN 5.7x28",
+    "category": "barrels",
     "image": "Barrel_for_Five_seveN_5.7x28_icon.png",
     "title": "Barrel for Five-seveN 5.7x28",
     "pageId": 15562,
@@ -873,10 +1090,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/Barrel_for_Five_seveN_5.7x28_icon.png",
-    "filePath": "barrel_for_five_seven_5_7x28"
+    "filePath": "barrel_for_five_seven_5_7x28",
+    "marketSearchName": "Barrel for Five-seveN 5.7x28",
+    "marketPositionOffset": 0
   },
   {
     "name": "Threaded barrel for Five-seveN 5.7x28",
+    "category": "barrels",
     "image": "wiki.png",
     "title": "Threaded barrel for Five-seveN 5.7x28",
     "pageId": 15561,
@@ -885,10 +1105,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "threaded_barrel_for_five_seven_5_7x28"
+    "filePath": "threaded_barrel_for_five_seven_5_7x28",
+    "marketSearchName": "Threaded barrel for Five-seveN 5.7x28",
+    "marketPositionOffset": 0
   },
   {
     "name": "18\" barrel for AR-15 and compatible 5.56x45",
+    "category": "barrels",
     "image": "wiki.png",
     "title": "18\" barrel for AR-15 and compatible 5.56x45",
     "pageId": 15577,
@@ -897,10 +1120,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "18__barrel_for_ar_15_and_compatible_5_56x45"
+    "filePath": "18__barrel_for_ar_15_and_compatible_5_56x45",
+    "marketSearchName": "18\" barrel for AR-15 and compatible 5.56x45",
+    "marketPositionOffset": 0
   },
   {
     "name": "20\" barrel for AR-15 and compatible 5.56x45",
+    "category": "barrels",
     "image": "wiki.png",
     "title": "20\" barrel for AR-15 and compatible 5.56x45",
     "pageId": 15578,
@@ -909,6 +1135,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "20__barrel_for_ar_15_and_compatible_5_56x45"
+    "filePath": "20__barrel_for_ar_15_and_compatible_5_56x45",
+    "marketSearchName": "20\" barrel for AR-15 and compatible 5.56x45",
+    "marketPositionOffset": 0
   }
 ]

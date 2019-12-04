@@ -1,6 +1,7 @@
 [
   {
     "name": "Standart Spacer for Aimpont sight",
+    "category": "mounts",
     "image": "AMSS Icon.png",
     "title": "Standart Spacer for Aimpont sight",
     "pageId": 13897,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/AMSS_Icon.png?version=8e798b94f9956183452a74e99e0747ea",
-    "filePath": "standart_spacer_for_aimpont_sight"
+    "filePath": "standart_spacer_for_aimpont_sight",
+    "marketSearchName": "Standart Spacer for Aimpont sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "SVDS Upper Band",
+    "category": "mounts",
     "image": "SVDS Lower Band icon.png",
     "title": "SVDS Upper Band",
     "pageId": 13837,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/SVDS_Lower_Band_icon.png?version=5730721d62d4e69b58191c69fd893c20",
-    "filePath": "svds_upper_band"
+    "filePath": "svds_upper_band",
+    "marketSearchName": "SVDS Upper Band",
+    "marketPositionOffset": 0
   },
   {
     "name": "34mm one piece magmount made by I-E-A Mil Optics",
+    "category": "mounts",
     "image": "KH-F Icon.png",
     "title": "34mm one piece magmount made by I-E-A Mil Optics",
     "pageId": 13904,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/KH-F_Icon.png",
-    "filePath": "34mm_one_piece_magmount_made_by_i_e_a_mil_optics"
+    "filePath": "34mm_one_piece_magmount_made_by_i_e_a_mil_optics",
+    "marketSearchName": "34mm one piece magmount made by I-E-A Mil Optics",
+    "marketPositionOffset": 0
   },
   {
     "name": "Dovetail mount for TOZ-106",
+    "category": "mounts",
     "image": "TOZ106DTIcon.png",
     "title": "Dovetail mount for TOZ-106",
     "pageId": 13862,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a2/TOZ106DTIcon.png?version=e6a0fc1b903c06ba968547ed97f00676",
-    "filePath": "dovetail_mount_for_toz_106"
+    "filePath": "dovetail_mount_for_toz_106",
+    "marketSearchName": "Dovetail mount for TOZ-106",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-13V rail platform above reciever \"Classic\"",
+    "category": "mounts",
     "image": "B13VIcon.png",
     "title": "B-13V rail platform above reciever \"Classic\"",
     "pageId": 13910,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/B13VIcon.png?version=cb756a67989b939fd1deae1fb9725fbd",
-    "filePath": "b_13v_rail_platform_above_reciever__classic_"
+    "filePath": "b_13v_rail_platform_above_reciever__classic_",
+    "marketSearchName": "B-13V rail platform above reciever \"Classic\"",
+    "marketPositionOffset": 0
   },
   {
     "name": "TOZ-106 scope mount",
+    "category": "mounts",
     "image": "TOZ106ScopeMntIcon.png",
     "title": "TOZ-106 scope mount",
     "pageId": 13863,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0c/TOZ106ScopeMntIcon.png?version=eb0257c0a413ae4b0ada8b445418332a",
-    "filePath": "toz_106_scope_mount"
+    "filePath": "toz_106_scope_mount",
+    "marketSearchName": "TOZ-106 scope mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aimpoint LRP mount for COMP M4 sights.",
+    "category": "mounts",
     "image": "LRP Icon.png",
     "title": "Aimpoint LRP mount for COMP M4 sights.",
     "pageId": 13896,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8c/LRP_Icon.png?version=ed8f56a0a5d389862b902f5be33eb358",
-    "filePath": "aimpoint_lrp_mount_for_comp_m4_sights_"
+    "filePath": "aimpoint_lrp_mount_for_comp_m4_sights_",
+    "marketSearchName": "Aimpoint LRP mount for COMP M4 sights.",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-13 rail platform",
+    "category": "mounts",
     "image": "B13Icon.png",
     "title": "B-13 rail platform",
     "pageId": 13867,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/B13Icon.png?version=5e7af6f3fc85c6987760e04e1a1a6a3d",
-    "filePath": "b_13_rail_platform"
+    "filePath": "b_13_rail_platform",
+    "marketSearchName": "B-13 rail platform",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash RPK-16 rail",
+    "category": "mounts",
     "image": "Izhmash RPK-16 guide icon.png",
     "title": "Izhmash RPK-16 rail",
     "pageId": 12604,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/Izhmash_RPK-16_guide_icon.png",
-    "filePath": "izhmash_rpk_16_rail"
+    "filePath": "izhmash_rpk_16_rail",
+    "marketSearchName": "Izhmash RPK-16 rail",
+    "marketPositionOffset": 0
   },
   {
     "name": "Stock adapter Tactica Tula 12003 for MP-133/153",
+    "category": "mounts",
     "image": "TacticaTula12003icon.png",
     "title": "Stock adapter Tactica Tula 12003 for MP-133/153",
     "pageId": 12705,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5f/TacticaTula12003icon.png?version=67ad8241a93c79e342e6aa8995827bda",
-    "filePath": "stock_adapter_tactica_tula_12003_for_mp_133_153"
+    "filePath": "stock_adapter_tactica_tula_12003_for_mp_133_153",
+    "marketSearchName": "Stock adapter Tactica Tula 12003 for MP-133/153",
+    "marketPositionOffset": 0
   },
   {
     "name": "Weaver extended multi-slot base for Remington model 700",
+    "category": "mounts",
     "image": "WeaverBaseR700icon.png",
     "title": "Weaver extended multi-slot base for Remington model 700",
     "pageId": 12717,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/WeaverBaseR700icon.png?version=ba226976d1aaaa289afcececd4b100e6",
-    "filePath": "weaver_extended_multi_slot_base_for_remington_model_700"
+    "filePath": "weaver_extended_multi_slot_base_for_remington_model_700",
+    "marketSearchName": "Weaver extended multi-slot base for Remington model 700",
+    "marketPositionOffset": 0
   },
   {
     "name": "30mm ring-mount Remington integral for model 700 rifles",
+    "category": "mounts",
     "image": "30mmR700icon.png",
     "title": "30mm ring-mount Remington integral for model 700 rifles",
     "pageId": 12714,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/05/30mmR700icon.png?version=c3a2ae3b82125cc1f7c96b9584db036a",
-    "filePath": "30mm_ring_mount_remington_integral_for_model_700_rifles"
+    "filePath": "30mm_ring_mount_remington_integral_for_model_700_rifles",
+    "marketSearchName": "30mm ring-mount Remington integral for model 700 rifles",
+    "marketPositionOffset": 0
   },
   {
     "name": "Remington RAHG 2 inch guide",
+    "category": "mounts",
     "image": "RemingtonRAHG2inchicon.png",
     "title": "Remington RAHG 2 inch guide",
     "pageId": 12841,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/RemingtonRAHG2inchicon.png?version=3c77d42e589313904490b777cafdaf63",
-    "filePath": "remington_rahg_2_inch_guide"
+    "filePath": "remington_rahg_2_inch_guide",
+    "marketSearchName": "Remington RAHG 2 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Remington RAHG 4 inch guide",
+    "category": "mounts",
     "image": "RemingtonRAHG4inchicon.png",
     "title": "Remington RAHG 4 inch guide",
     "pageId": 12842,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/RemingtonRAHG4inchicon.png?version=cd198363aba71073e0732fe2701d37d5",
-    "filePath": "remington_rahg_4_inch_guide"
+    "filePath": "remington_rahg_4_inch_guide",
+    "marketSearchName": "Remington RAHG 4 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "La Rue Tactical picatinny riser QD LT-101 mount",
+    "category": "mounts",
     "image": "LaRuePicatinnyLT-101icon.png",
     "title": "La Rue Tactical picatinny riser QD LT-101 mount",
     "pageId": 12831,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/LaRuePicatinnyLT-101icon.png",
-    "filePath": "la_rue_tactical_picatinny_riser_qd_lt_101_mount"
+    "filePath": "la_rue_tactical_picatinny_riser_qd_lt_101_mount",
+    "marketSearchName": "La Rue Tactical picatinny riser QD LT-101 mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Compact mount Mount for sights",
+    "category": "mounts",
     "image": "Compact mount Mount for sights icon.png",
     "title": "Compact mount Mount for sights",
     "pageId": 12789,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/Compact_mount_Mount_for_sights_icon.png?version=f1ae9503933491e4354c4e5e4bacc8a1",
-    "filePath": "compact_mount_mount_for_sights"
+    "filePath": "compact_mount_mount_for_sights",
+    "marketSearchName": "Compact mount Mount for sights",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aim Sports \"Tri-Rail\" rail for Mosin rifle",
+    "category": "mounts",
     "image": "Mosin Tri icon.png",
     "title": "Aim Sports \"Tri-Rail\" rail for Mosin rifle",
     "pageId": 12084,
@@ -201,10 +250,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/Mosin_Tri_icon.png?version=12a7e8c1a13af84be55ed0a6887725e7",
-    "filePath": "aim_sports__tri_rail__rail_for_mosin_rifle"
+    "filePath": "aim_sports__tri_rail__rail_for_mosin_rifle",
+    "marketSearchName": "Aim Sports \"Tri-Rail\" rail for Mosin rifle",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aim Sports MNG rail for Mosin rifle",
+    "category": "mounts",
     "image": "MNG Icon.png",
     "title": "Aim Sports MNG rail for Mosin rifle",
     "pageId": 11954,
@@ -213,10 +265,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/MNG_Icon.png?version=a868ab84206a400ec7df3b77a0fbdf4b",
-    "filePath": "aim_sports_mng_rail_for_mosin_rifle"
+    "filePath": "aim_sports_mng_rail_for_mosin_rifle",
+    "marketSearchName": "Aim Sports MNG rail for Mosin rifle",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV 5 inch guide",
+    "category": "mounts",
     "image": "5in CASV Icon.png",
     "title": "Vltor CASV 5 inch guide",
     "pageId": 11538,
@@ -225,10 +280,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2c/5in_CASV_Icon.png?version=d0cfca67d64b1e5e4136451b67fd0a41",
-    "filePath": "vltor_casv_5_inch_guide"
+    "filePath": "vltor_casv_5_inch_guide",
+    "marketSearchName": "Vltor CASV 5 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV 4 inch guide",
+    "category": "mounts",
     "image": "4in CASV Icon.png",
     "title": "Vltor CASV 4 inch guide",
     "pageId": 11537,
@@ -237,10 +295,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1f/4in_CASV_Icon.png?version=ef2047d12dd177e235f7c992e1b73c56",
-    "filePath": "vltor_casv_4_inch_guide"
+    "filePath": "vltor_casv_4_inch_guide",
+    "marketSearchName": "Vltor CASV 4 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV 2 inch guide",
+    "category": "mounts",
     "image": "2in CASV Icon.png",
     "title": "Vltor CASV 2 inch guide",
     "pageId": 11536,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/be/2in_CASV_Icon.png?version=7f5cb6c7cfb528b553aeb2fc15143f49",
-    "filePath": "vltor_casv_2_inch_guide"
+    "filePath": "vltor_casv_2_inch_guide",
+    "marketSearchName": "Vltor CASV 2 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Short length rail for Hexagon",
+    "category": "mounts",
     "image": "Short Hex Icon.gif",
     "title": "Short length rail for Hexagon",
     "pageId": 11507,
@@ -261,10 +325,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/Short_Hex_Icon.gif?version=9c1936f801bd8e1a85db790983fde244",
-    "filePath": "short_length_rail_for_hexagon"
+    "filePath": "short_length_rail_for_hexagon",
+    "marketSearchName": "Short length rail for Hexagon",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul M-LOK 4.1 inch guide",
+    "category": "mounts",
     "image": "Magpul MLOK 4 1 inch rail Icon.png",
     "title": "Magpul M-LOK 4.1 inch guide",
     "pageId": 11535,
@@ -273,10 +340,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/Magpul_MLOK_4_1_inch_rail_Icon.png?version=5359eed0995ba1e93717cc8893f18aa1",
-    "filePath": "magpul_m_lok_4_1_inch_guide"
+    "filePath": "magpul_m_lok_4_1_inch_guide",
+    "marketSearchName": "Magpul M-LOK 4.1 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul M-LOK 2.5 inch guide",
+    "category": "mounts",
     "image": "Magpul MLOK 2 5 inch rail Icon.png",
     "title": "Magpul M-LOK 2.5 inch guide",
     "pageId": 11534,
@@ -285,10 +355,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7e/Magpul_MLOK_2_5_inch_rail_Icon.png?version=fbdb0f297eb71fa3b31c58f272c6978c",
-    "filePath": "magpul_m_lok_2_5_inch_guide"
+    "filePath": "magpul_m_lok_2_5_inch_guide",
+    "marketSearchName": "Magpul M-LOK 2.5 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Medium length rail for Hexagon",
+    "category": "mounts",
     "image": "Hex Med Icon.gif",
     "title": "Medium length rail for Hexagon",
     "pageId": 11428,
@@ -297,10 +370,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d3/Hex_Med_Icon.gif?version=82427f974a053ff9d61d4f2fbed41ba3",
-    "filePath": "medium_length_rail_for_hexagon"
+    "filePath": "medium_length_rail_for_hexagon",
+    "marketSearchName": "Medium length rail for Hexagon",
+    "marketPositionOffset": 0
   },
   {
     "name": "Troy QARS 4.2 inch guide",
+    "category": "mounts",
     "image": "troy42inchicon.png",
     "title": "Troy QARS 4.2 inch guide",
     "pageId": 11069,
@@ -309,10 +385,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Troy42inchicon.png?version=5af705d0cf13fcd13a2a743c8e735025",
-    "filePath": "troy_qars_4_2_inch_guide"
+    "filePath": "troy_qars_4_2_inch_guide",
+    "marketSearchName": "Troy QARS 4.2 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "PU 3.5x ring mount",
+    "category": "mounts",
     "image": "PU Ring Icon.png",
     "title": "PU 3.5x ring mount",
     "pageId": 11068,
@@ -321,10 +400,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/PU_Ring_Icon.png?version=f47f45e2f9093f8de59d2697042e5ce9",
-    "filePath": "pu_3_5x_ring_mount"
+    "filePath": "pu_3_5x_ring_mount",
+    "marketSearchName": "PU 3.5x ring mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Kochetov Mount for Mosin rifle",
+    "category": "mounts",
     "image": "Kochetov Icon.png",
     "title": "Kochetov Mount for Mosin rifle",
     "pageId": 11067,
@@ -333,10 +415,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/Kochetov_Icon.png?version=1d2330209ec42cd4cdd6e6324aa58192",
-    "filePath": "kochetov_mount_for_mosin_rifle"
+    "filePath": "kochetov_mount_for_mosin_rifle",
+    "marketSearchName": "Kochetov Mount for Mosin rifle",
+    "marketPositionOffset": 0
   },
   {
     "name": "30mm rings made by Nightforce",
+    "category": "mounts",
     "image": "NF_30mm_Icon.png",
     "title": "30mm rings made by Nightforce",
     "pageId": 11066,
@@ -345,10 +430,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/NF_30mm_Icon.png?version=1f85e752599fbbb6c186e72d2379e906",
-    "filePath": "30mm_rings_made_by_nightforce"
+    "filePath": "30mm_rings_made_by_nightforce",
+    "marketSearchName": "30mm rings made by Nightforce",
+    "marketPositionOffset": 0
   },
   {
     "name": "Armasight universal base",
+    "category": "mounts",
     "image": "Armasight universal base Icon.png",
     "title": "Armasight universal base",
     "pageId": 11065,
@@ -357,10 +445,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Armasight_universal_base_Icon.png?version=a11f78ca9c2e7df310e4225bf4fd47e1",
-    "filePath": "armasight_universal_base"
+    "filePath": "armasight_universal_base",
+    "marketSearchName": "Armasight universal base",
+    "marketPositionOffset": 0
   },
   {
     "name": "Alexander Arms 10 inch guide",
+    "category": "mounts",
     "image": "Alexander Arms 10 inch guide Icon.png",
     "title": "Alexander Arms 10 inch guide",
     "pageId": 11064,
@@ -369,10 +460,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/Alexander_Arms_10_inch_guide_Icon.png?version=63555020b9f29d738fb91e024e8aae01",
-    "filePath": "alexander_arms_10_inch_guide"
+    "filePath": "alexander_arms_10_inch_guide",
+    "marketSearchName": "Alexander Arms 10 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Alexander Arms 3 inch guide",
+    "category": "mounts",
     "image": "Alexander Arms 3 inch guide Icon.png",
     "title": "Alexander Arms 3 inch guide",
     "pageId": 11063,
@@ -381,10 +475,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/Alexander_Arms_3_inch_guide_Icon.png?version=0a8ae76aa2f0d5a167ebb4618cd816af",
-    "filePath": "alexander_arms_3_inch_guide"
+    "filePath": "alexander_arms_3_inch_guide",
+    "marketSearchName": "Alexander Arms 3 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "30mm ring-mount AR- P.E.P.R. made by Burris",
+    "category": "mounts",
     "image": "30mm ring-mount AR- P.E.P.R. made by Burris Image Icon.png",
     "title": "30mm ring-mount AR- P.E.P.R. made by Burris",
     "pageId": 11062,
@@ -393,10 +490,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/32/30mm_ring-mount_AR-_P.E.P.R._made_by_Burris_Image_Icon.png",
-    "filePath": "30mm_ring_mount_ar__p_e_p_r__made_by_burris"
+    "filePath": "30mm_ring_mount_ar__p_e_p_r__made_by_burris",
+    "marketSearchName": "30mm ring-mount AR- P.E.P.R. made by Burris",
+    "marketPositionOffset": 0
   },
   {
     "name": "Troy QARS 3.2 inch guide",
+    "category": "mounts",
     "image": "troy32inchicon.png",
     "title": "Troy QARS 3.2 inch guide",
     "pageId": 10979,
@@ -405,10 +505,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Troy32inchicon.png?version=8a1f725f712bc910bcf2f65707741704",
-    "filePath": "troy_qars_3_2_inch_guide"
+    "filePath": "troy_qars_3_2_inch_guide",
+    "marketSearchName": "Troy QARS 3.2 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Sig Sauer mount for the sights of Romeo series.",
+    "category": "mounts",
     "image": "Sig Sauer mount for the sights of Romeo series icon.png",
     "title": "Sig Sauer mount for the sights of Romeo series.",
     "pageId": 10861,
@@ -417,10 +520,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Sig_Sauer_mount_for_the_sights_of_Romeo_series_icon.png?version=56c5e048f2346d16b74005642a7fb167",
-    "filePath": "sig_sauer_mount_for_the_sights_of_romeo_series_"
+    "filePath": "sig_sauer_mount_for_the_sights_of_romeo_series_",
+    "marketSearchName": "Sig Sauer mount for the sights of Romeo series.",
+    "marketPositionOffset": 0
   },
   {
     "name": "M14 UTG 4 point locking deluxe mount",
+    "category": "mounts",
     "image": "UTG4Icon.png",
     "title": "M14 UTG 4 point locking deluxe mount",
     "pageId": 10411,
@@ -429,10 +535,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/22/UTG4Icon.png?version=8a70445aaadd5c2579d22b4134c30be1",
-    "filePath": "m14_utg_4_point_locking_deluxe_mount"
+    "filePath": "m14_utg_4_point_locking_deluxe_mount",
+    "marketSearchName": "M14 UTG 4 point locking deluxe mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Arms 18 mount for M14",
+    "category": "mounts",
     "image": "Arms18icon.png",
     "title": "Arms 18 mount for M14",
     "pageId": 10416,
@@ -441,10 +550,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Arms18icon.png?version=f78598c4ae97bdb07d981efa5386d609",
-    "filePath": "arms_18_mount_for_m14"
+    "filePath": "arms_18_mount_for_m14",
+    "marketSearchName": "Arms 18 mount for M14",
+    "marketPositionOffset": 0
   },
   {
     "name": "M14 Mini Scout mount",
+    "category": "mounts",
     "image": "Miniscouticon.png",
     "title": "M14 Mini Scout mount",
     "pageId": 10412,
@@ -453,10 +565,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f3/Miniscouticon.png?version=61436b01f82bb40491d076844781e1c6",
-    "filePath": "m14_mini_scout_mount"
+    "filePath": "m14_mini_scout_mount",
+    "marketSearchName": "M14 Mini Scout mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "M14 Ultimak M8 upper part",
+    "category": "mounts",
     "image": "M14 Ultimak M8 upper part.png",
     "title": "M14 Ultimak M8 upper part",
     "pageId": 10410,
@@ -465,10 +580,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4a/M14_Ultimak_M8_upper_part.png?version=6d0357d92b76af053bbb95c383e58b4b",
-    "filePath": "m14_ultimak_m8_upper_part"
+    "filePath": "m14_ultimak_m8_upper_part",
+    "marketSearchName": "M14 Ultimak M8 upper part",
+    "marketPositionOffset": 0
   },
   {
     "name": "M14 DCSB",
+    "category": "mounts",
     "image": "m14dcsbicon.png",
     "title": "M14 DCSB",
     "pageId": 10415,
@@ -477,10 +595,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/M14dcsbicon.png?version=6eeccc4e8d6bca7d4347f8bf0a53f2ee",
-    "filePath": "m14_dcsb"
+    "filePath": "m14_dcsb",
+    "marketSearchName": "M14 DCSB",
+    "marketPositionOffset": 0
   },
   {
     "name": "CASV 14 mount for M14",
+    "category": "mounts",
     "image": "Casv14mounticon.png",
     "title": "CASV 14 mount for M14",
     "pageId": 10413,
@@ -489,10 +610,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Casv14mounticon.png?version=34e4e884500f1d47459cc2d18a062a5e",
-    "filePath": "casv_14_mount_for_m14"
+    "filePath": "casv_14_mount_for_m14",
+    "marketSearchName": "CASV 14 mount for M14",
+    "marketPositionOffset": 0
   },
   {
     "name": "M1A Socom 16 upper part",
+    "category": "mounts",
     "image": "Socom16uppericon.png",
     "title": "M1A Socom 16 upper part",
     "pageId": 9756,
@@ -501,10 +625,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Socom16uppericon.png?version=c0e0c3e0650bd36181364e8f7d2a3b69",
-    "filePath": "m1a_socom_16_upper_part"
+    "filePath": "m1a_socom_16_upper_part",
+    "marketSearchName": "M1A Socom 16 upper part",
+    "marketPositionOffset": 0
   },
   {
     "name": "34mm one piece magmount made by Nightforce with a Multimount rail",
+    "category": "mounts",
     "image": "34mmrailmounticon.png",
     "title": "34mm one piece magmount made by Nightforce with a Multimount rail",
     "pageId": 9726,
@@ -513,10 +640,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/34mmrailmounticon.png?version=626e93f560d3864a587f801234d48a49",
-    "filePath": "34mm_one_piece_magmount_made_by_nightforce_with_a_multimount_rail"
+    "filePath": "34mm_one_piece_magmount_made_by_nightforce_with_a_multimount_rail",
+    "marketSearchName": "34mm one piece magmount made by Nightforce with a Multimount rail",
+    "marketPositionOffset": 0
   },
   {
     "name": "34mm one piece magmount made by Nightforce",
+    "category": "mounts",
     "image": "34mmmounticon.png",
     "title": "34mm one piece magmount made by Nightforce",
     "pageId": 9725,
@@ -525,10 +655,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/34mmmounticon.png?version=4db5fa5e7d47ffcb900786e3f3b5c5e8",
-    "filePath": "34mm_one_piece_magmount_made_by_nightforce"
+    "filePath": "34mm_one_piece_magmount_made_by_nightforce",
+    "marketSearchName": "34mm one piece magmount made by Nightforce",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-3 mount combo",
+    "category": "mounts",
     "image": "B3comboicon.png",
     "title": "B-3 mount combo",
     "pageId": 9750,
@@ -537,10 +670,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3a/B3comboicon.png?version=b1fdd29863b8aa48c1e96742e3f25844",
-    "filePath": "b_3_mount_combo"
+    "filePath": "b_3_mount_combo",
+    "marketSearchName": "B-3 mount combo",
+    "marketPositionOffset": 0
   },
   {
     "name": "Strike industries bridge guide",
+    "category": "mounts",
     "image": "Traxbridgeicon.png",
     "title": "Strike industries bridge guide",
     "pageId": 9764,
@@ -549,10 +685,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/Traxbridgeicon.png?version=ed818536f32d9766c726fbcb7796488e",
-    "filePath": "strike_industries_bridge_guide"
+    "filePath": "strike_industries_bridge_guide",
+    "marketSearchName": "Strike industries bridge guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Strike industries keymod 6 inch guide",
+    "category": "mounts",
     "image": "6inchrailicon.png",
     "title": "Strike industries keymod 6 inch guide",
     "pageId": 9766,
@@ -561,10 +700,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/6inchrailicon.png?version=6f5acbce0829148ccf94b2129c5b61a2",
-    "filePath": "strike_industries_keymod_6_inch_guide"
+    "filePath": "strike_industries_keymod_6_inch_guide",
+    "marketSearchName": "Strike industries keymod 6 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Strike industries keymod 4 inch guide",
+    "category": "mounts",
     "image": "4inchrailicon.png",
     "title": "Strike industries keymod 4 inch guide",
     "pageId": 9765,
@@ -573,10 +715,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/4inchrailicon.png?version=c38ba55a501572e08ee611a1bc8c7ee8",
-    "filePath": "strike_industries_keymod_4_inch_guide"
+    "filePath": "strike_industries_keymod_4_inch_guide",
+    "marketSearchName": "Strike industries keymod 4 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "B&T 3x rail mount for MP5",
+    "category": "mounts",
     "image": "B&t3xicon.png",
     "title": "B&T 3x rail mount for MP5",
     "pageId": 9749,
@@ -585,10 +730,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/71/B%26t3xicon.png",
-    "filePath": "b_t_3x_rail_mount_for_mp5"
+    "filePath": "b_t_3x_rail_mount_for_mp5",
+    "marketSearchName": "B&T 3x rail mount for MP5",
+    "marketPositionOffset": 0
   },
   {
     "name": "Trijicon RMR mount for ACOG scopes",
+    "category": "mounts",
     "image": "Rm35.png",
     "title": "Trijicon RMR mount for ACOG scopes",
     "pageId": 8402,
@@ -597,10 +745,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Rm35.png?version=6b31af0e1a577a8258585f66b5db08b9",
-    "filePath": "trijicon_rmr_mount_for_acog_scopes"
+    "filePath": "trijicon_rmr_mount_for_acog_scopes",
+    "marketSearchName": "Trijicon RMR mount for ACOG scopes",
+    "marketPositionOffset": 0
   },
   {
     "name": "Axion Cobra mount",
+    "category": "mounts",
     "image": "Cobra.png",
     "title": "Axion Cobra mount",
     "pageId": 6690,
@@ -609,10 +760,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0e/Cobra.png?version=9864dfa9a45cabb2ed774d64d8d86e7d",
-    "filePath": "axion_cobra_mount"
+    "filePath": "axion_cobra_mount",
+    "marketSearchName": "Axion Cobra mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "SR1MP single rail mount",
+    "category": "mounts",
     "image": "Sr1mp1x.png",
     "title": "SR1MP single rail mount",
     "pageId": 8436,
@@ -621,10 +775,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/42/Sr1mp1x.png?version=017adc3f336da710c7e06a83bd4e0e56",
-    "filePath": "sr1mp_single_rail_mount"
+    "filePath": "sr1mp_single_rail_mount",
+    "marketSearchName": "SR1MP single rail mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "B&T MP5 SD Tri Rail Ring Mount",
+    "category": "mounts",
     "image": "Sdtrr.png",
     "title": "B&T MP5 SD Tri Rail Ring Mount",
     "pageId": 8425,
@@ -633,10 +790,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Sdtrr.png?version=bb88673300daed036db813ccbbc825ef",
-    "filePath": "b_t_mp5_sd_tri_rail_ring_mount"
+    "filePath": "b_t_mp5_sd_tri_rail_ring_mount",
+    "marketSearchName": "B&T MP5 SD Tri Rail Ring Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Tactica Tula 10000 mount",
+    "category": "mounts",
     "image": "Tt10000.png",
     "title": "Tactica Tula 10000 mount",
     "pageId": 2989,
@@ -645,10 +805,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/Tt10000.png?version=46a2fc7fdf663b0acac23244da9b3315",
-    "filePath": "tactica_tula_10000_mount"
+    "filePath": "tactica_tula_10000_mount",
+    "marketSearchName": "Tactica Tula 10000 mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "SIG MPX Gen1 Handguard 2 inch rail adapter",
+    "category": "mounts",
     "image": "2ingen1.png",
     "title": "SIG MPX Gen1 Handguard 2 inch rail adapter",
     "pageId": 6986,
@@ -657,10 +820,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/2ingen1.png?version=af1fef119a85a9b72f1a59a35ca97957",
-    "filePath": "sig_mpx_gen1_handguard_2_inch_rail_adapter"
+    "filePath": "sig_mpx_gen1_handguard_2_inch_rail_adapter",
+    "marketSearchName": "SIG MPX Gen1 Handguard 2 inch rail adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "MFI HK Universal Low Profile Scope Mount",
+    "category": "mounts",
     "image": "Mfihkmou.png",
     "title": "MFI HK Universal Low Profile Scope Mount",
     "pageId": 7244,
@@ -669,10 +835,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6c/Mfihkmou.png?version=d482d58f882b0dbda9717d2e5c0861f3",
-    "filePath": "mfi_hk_universal_low_profile_scope_mount"
+    "filePath": "mfi_hk_universal_low_profile_scope_mount",
+    "marketSearchName": "MFI HK Universal Low Profile Scope Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-8 mount",
+    "category": "mounts",
     "image": "B8.png",
     "title": "B-8 mount",
     "pageId": 3357,
@@ -681,10 +850,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/B8.png?version=3611a4ac642787b76ea6c54df3d3aa17",
-    "filePath": "b_8_mount"
+    "filePath": "b_8_mount",
+    "marketSearchName": "B-8 mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aimpoint Micro Spacer High",
+    "category": "mounts",
     "image": "Amsh.png",
     "title": "Aimpoint Micro Spacer High",
     "pageId": 7243,
@@ -693,10 +865,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/Amsh.png?version=09bc7f76f7edaeb3367e8de8972cc1a8",
-    "filePath": "aimpoint_micro_spacer_high"
+    "filePath": "aimpoint_micro_spacer_high",
+    "marketSearchName": "Aimpoint Micro Spacer High",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-18 Mount",
+    "category": "mounts",
     "image": "B18.png",
     "title": "B-18 Mount",
     "pageId": 3371,
@@ -705,10 +880,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/B18.png?version=6ca0bfc9c2142e42b3b056ff2d4c2a9d",
-    "filePath": "b_18_mount"
+    "filePath": "b_18_mount",
+    "marketSearchName": "B-18 Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aimpoint mount for the sights of Micro series",
+    "category": "mounts",
     "image": "Amm.png",
     "title": "Aimpoint mount for the sights of Micro series",
     "pageId": 6873,
@@ -717,10 +895,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7d/Amm.png?version=9647feafad03a993162dc4c3eea15739",
-    "filePath": "aimpoint_mount_for_the_sights_of_micro_series"
+    "filePath": "aimpoint_mount_for_the_sights_of_micro_series",
+    "marketSearchName": "Aimpoint mount for the sights of Micro series",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-3 mount",
+    "category": "mounts",
     "image": "B3.png",
     "title": "B-3 mount",
     "pageId": 3363,
@@ -729,10 +910,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a2/B3.png?version=99d87dd7938553b9afe1fe2153656fb3",
-    "filePath": "b_3_mount"
+    "filePath": "b_3_mount",
+    "marketSearchName": "B-3 mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "NcStar MPR45 Backup mount",
+    "category": "mounts",
     "image": "Mpr45.png",
     "title": "NcStar MPR45 Backup mount",
     "pageId": 3112,
@@ -741,10 +925,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Mpr45.png?version=c28922d1695907d03fc44c0e6297d753",
-    "filePath": "ncstar_mpr45_backup_mount"
+    "filePath": "ncstar_mpr45_backup_mount",
+    "marketSearchName": "NcStar MPR45 Backup mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "High profile mount for Trijicon RMR",
+    "category": "mounts",
     "image": "Ac32062.png",
     "title": "High profile mount for Trijicon RMR",
     "pageId": 8396,
@@ -753,10 +940,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/Ac32062.png?version=3d014f08c53a36c6efec1f5267c4c140",
-    "filePath": "high_profile_mount_for_trijicon_rmr"
+    "filePath": "high_profile_mount_for_trijicon_rmr",
+    "marketSearchName": "High profile mount for Trijicon RMR",
+    "marketPositionOffset": 0
   },
   {
     "name": "Cross Slot Mount base for Deltapoint scopes",
+    "category": "mounts",
     "image": "Dpcsm.png",
     "title": "Cross Slot Mount base for Deltapoint scopes",
     "pageId": 7253,
@@ -765,10 +955,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/Dpcsm.png?version=2a23c2e34b4cc155d510840e8eeef434",
-    "filePath": "cross_slot_mount_base_for_deltapoint_scopes"
+    "filePath": "cross_slot_mount_base_for_deltapoint_scopes",
+    "marketSearchName": "Cross Slot Mount base for Deltapoint scopes",
+    "marketPositionOffset": 0
   },
   {
     "name": "SR1MP quad rail mount",
+    "category": "mounts",
     "image": "Sr1mp4x.png",
     "title": "SR1MP quad rail mount",
     "pageId": 8437,
@@ -777,10 +970,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/Sr1mp4x.png?version=d2a943ca61d608b6dd4fa7358f1b560e",
-    "filePath": "sr1mp_quad_rail_mount"
+    "filePath": "sr1mp_quad_rail_mount",
+    "marketSearchName": "SR1MP quad rail mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Low profile mount for Trijicon RMR",
+    "category": "mounts",
     "image": "Rm33.png",
     "title": "Low profile mount for Trijicon RMR",
     "pageId": 8395,
@@ -789,10 +985,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Rm33.png?version=8f7cbbc542bfd1aa1fe25ab52a16d832",
-    "filePath": "low_profile_mount_for_trijicon_rmr"
+    "filePath": "low_profile_mount_for_trijicon_rmr",
+    "marketSearchName": "Low profile mount for Trijicon RMR",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-12 Mount",
+    "category": "mounts",
     "image": "B12.png",
     "title": "B-12 Mount",
     "pageId": 3368,
@@ -801,10 +1000,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/90/B12.png?version=b8d215aa2fda948750a5951384d3b884",
-    "filePath": "b_12_mount"
+    "filePath": "b_12_mount",
+    "marketSearchName": "B-12 Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "25 mm mount ring",
+    "category": "mounts",
     "image": "25mm.png",
     "title": "25 mm mount ring",
     "pageId": 3023,
@@ -813,10 +1015,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/25/25mm.png?version=994a3a8477bfde832dc38eb3919830a4",
-    "filePath": "25_mm_mount_ring"
+    "filePath": "25_mm_mount_ring",
+    "marketSearchName": "25 mm mount ring",
+    "marketPositionOffset": 0
   },
   {
     "name": "TA51 Mount for sights",
+    "category": "mounts",
     "image": "Ta51.png",
     "title": "TA51 Mount for sights",
     "pageId": 7256,
@@ -825,10 +1030,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/Ta51.png?version=81e3de14aeb6418c9ae8dc0ce2a34214",
-    "filePath": "ta51_mount_for_sights"
+    "filePath": "ta51_mount_for_sights",
+    "marketSearchName": "TA51 Mount for sights",
+    "marketPositionOffset": 0
   },
   {
     "name": "UNV DLOC-IRD Mount for sights",
+    "category": "mounts",
     "image": "Dlocird.png",
     "title": "UNV DLOC-IRD Mount for sights",
     "pageId": 8398,
@@ -837,10 +1045,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/38/Dlocird.png?version=949eead721e1ccf4461ad0c8cb0d9775",
-    "filePath": "unv_dloc_ird_mount_for_sights"
+    "filePath": "unv_dloc_ird_mount_for_sights",
+    "marketSearchName": "UNV DLOC-IRD Mount for sights",
+    "marketPositionOffset": 0
   },
   {
     "name": "Trijicon RMR mount for a Sig-Sauer pistols",
+    "category": "mounts",
     "image": "Rm50.png",
     "title": "Trijicon RMR mount for a Sig-Sauer pistols",
     "pageId": 8435,
@@ -849,10 +1060,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Rm50.png?version=aa390736f22a9968d30a96b41e75532d",
-    "filePath": "trijicon_rmr_mount_for_a_sig_sauer_pistols"
+    "filePath": "trijicon_rmr_mount_for_a_sig_sauer_pistols",
+    "marketSearchName": "Trijicon RMR mount for a Sig-Sauer pistols",
+    "marketPositionOffset": 0
   },
   {
     "name": "Burris FastFire Weaver Base",
+    "category": "mounts",
     "image": "Ffwb.png",
     "title": "Burris FastFire Weaver Base",
     "pageId": 3360,
@@ -861,10 +1075,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/Ffwb.png?version=b579b466edbbf59e95220bceea85ac9f",
-    "filePath": "burris_fastfire_weaver_base"
+    "filePath": "burris_fastfire_weaver_base",
+    "marketSearchName": "Burris FastFire Weaver Base",
+    "marketPositionOffset": 0
   },
   {
     "name": "SIG MPX Gen1 Handguard 4 inch rail adapter",
+    "category": "mounts",
     "image": "4ingen1.png",
     "title": "SIG MPX Gen1 Handguard 4 inch rail adapter",
     "pageId": 6987,
@@ -873,10 +1090,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/50/4ingen1.png?version=1dbdf8e1ae63b8848cbaf9e3f526bdbf",
-    "filePath": "sig_mpx_gen1_handguard_4_inch_rail_adapter"
+    "filePath": "sig_mpx_gen1_handguard_4_inch_rail_adapter",
+    "marketSearchName": "SIG MPX Gen1 Handguard 4 inch rail adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "UTG SKS SOCOM Rail mount",
+    "category": "mounts",
     "image": "Skssocom.png",
     "title": "UTG SKS SOCOM Rail mount",
     "pageId": 7199,
@@ -885,10 +1105,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/Skssocom.png?version=c2469bb35c7dbe2658ed0d11eb95ec79",
-    "filePath": "utg_sks_socom_rail_mount"
+    "filePath": "utg_sks_socom_rail_mount",
+    "marketSearchName": "UTG SKS SOCOM Rail mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Pilad 043-02 Mount",
+    "category": "mounts",
     "image": "043-02.png",
     "title": "Pilad 043-02 Mount",
     "pageId": 3052,
@@ -897,10 +1120,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c1/043-02.png",
-    "filePath": "pilad_043_02_mount"
+    "filePath": "pilad_043_02_mount",
+    "marketSearchName": "Pilad 043-02 Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Dovetail OP-SKS mount.",
+    "category": "mounts",
     "image": "Opsksdt.png",
     "title": "Dovetail OP-SKS mount.",
     "pageId": 3373,
@@ -909,10 +1135,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/Opsksdt.png?version=42c82e43e7107b407aa6c1985669a933",
-    "filePath": "dovetail_op_sks_mount_"
+    "filePath": "dovetail_op_sks_mount_",
+    "marketSearchName": "Dovetail OP-SKS mount.",
+    "marketPositionOffset": 0
   },
   {
     "name": "TOZ 6P29M Mount",
+    "category": "mounts",
     "image": "6p29m.png",
     "title": "TOZ 6P29M Mount",
     "pageId": 7206,
@@ -921,10 +1150,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/35/6p29m.png?version=a8414a07d8a7307121024880102e0135",
-    "filePath": "toz_6p29m_mount"
+    "filePath": "toz_6p29m_mount",
+    "marketSearchName": "TOZ 6P29M Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "30mm Scope mount",
+    "category": "mounts",
     "image": "30mmmount.png",
     "title": "30mm Scope mount",
     "pageId": 3038,
@@ -933,10 +1165,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/01/30mmmount.png?version=82caaa3e5f5e32d2b3a725333f74fecf",
-    "filePath": "30mm_scope_mount"
+    "filePath": "30mm_scope_mount",
+    "marketSearchName": "30mm Scope mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Delta-tek Sprut mount for pump-action shotguns",
+    "category": "mounts",
     "image": "Sprout.png",
     "title": "Delta-tek Sprut mount for pump-action shotguns",
     "pageId": 3120,
@@ -945,10 +1180,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Sprout.png?version=3bf5382b65bc78dfbaff6f7753ac5374",
-    "filePath": "delta_tek_sprut_mount_for_pump_action_shotguns"
+    "filePath": "delta_tek_sprut_mount_for_pump_action_shotguns",
+    "marketSearchName": "Delta-tek Sprut mount for pump-action shotguns",
+    "marketPositionOffset": 0
   },
   {
     "name": "Rotor 43 RIS mount for PP Kedr",
+    "category": "mounts",
     "image": "Kedrris.png",
     "title": "Rotor 43 RIS mount for PP Kedr",
     "pageId": 3366,
@@ -957,10 +1195,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/Kedrris.png?version=b9d60f8d8fe7f7e8ebbddb8993b55091",
-    "filePath": "rotor_43_ris_mount_for_pp_kedr"
+    "filePath": "rotor_43_ris_mount_for_pp_kedr",
+    "marketSearchName": "Rotor 43 RIS mount for PP Kedr",
+    "marketPositionOffset": 0
   },
   {
     "name": "Kiba Arms International SPRM mount for pump-action shotguns",
+    "category": "mounts",
     "image": "Sprm.png",
     "title": "Kiba Arms International SPRM mount for pump-action shotguns",
     "pageId": 3353,
@@ -969,10 +1210,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/Sprm.png?version=eea99e1c566cc1f9acf25e7f7717e78b",
-    "filePath": "kiba_arms_international_sprm_mount_for_pump_action_shotguns"
+    "filePath": "kiba_arms_international_sprm_mount_for_pump_action_shotguns",
+    "marketSearchName": "Kiba Arms International SPRM mount for pump-action shotguns",
+    "marketPositionOffset": 0
   },
   {
     "name": "30mm ring-mount made by JP",
+    "category": "mounts",
     "image": "Jp30mm.png",
     "title": "30mm ring-mount made by JP",
     "pageId": 8400,
@@ -981,10 +1225,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/Jp30mm.png?version=f7abeb3c450eb45016b4c4175516c416",
-    "filePath": "30mm_ring_mount_made_by_jp"
+    "filePath": "30mm_ring_mount_made_by_jp",
+    "marketSearchName": "30mm ring-mount made by JP",
+    "marketPositionOffset": 0
   },
   {
     "name": "SR1MP silencer mount",
+    "category": "mounts",
     "image": "Sr1mpsilencermount.png",
     "title": "SR1MP silencer mount",
     "pageId": 8438,
@@ -993,10 +1240,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/Sr1mpsilencermount.png?version=20b976322d4f05b30dc9b86445dfd8e4",
-    "filePath": "sr1mp_silencer_mount"
+    "filePath": "sr1mp_silencer_mount",
+    "marketSearchName": "SR1MP silencer mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV keymod 2 inch guide",
+    "category": "mounts",
     "image": "2incasv.png",
     "title": "Vltor CASV keymod 2 inch guide",
     "pageId": 7261,
@@ -1005,10 +1255,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/2incasv.png?version=6e5478a226155f3ee5cb77c47e9573fe",
-    "filePath": "vltor_casv_keymod_2_inch_guide"
+    "filePath": "vltor_casv_keymod_2_inch_guide",
+    "marketSearchName": "Vltor CASV keymod 2 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV keymod 4 inch guide",
+    "category": "mounts",
     "image": "4incasv.png",
     "title": "Vltor CASV keymod 4 inch guide",
     "pageId": 7260,
@@ -1017,10 +1270,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/4incasv.png?version=d5299cc5042642231469861b4c761007",
-    "filePath": "vltor_casv_keymod_4_inch_guide"
+    "filePath": "vltor_casv_keymod_4_inch_guide",
+    "marketSearchName": "Vltor CASV keymod 4 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV keymod 6 inch guide",
+    "category": "mounts",
     "image": "6incasv.png",
     "title": "Vltor CASV keymod 6 inch guide",
     "pageId": 7259,
@@ -1029,10 +1285,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2f/6incasv.png?version=7d2906e338ebc18283baf2f13d183a8b",
-    "filePath": "vltor_casv_keymod_6_inch_guide"
+    "filePath": "vltor_casv_keymod_6_inch_guide",
+    "marketSearchName": "Vltor CASV keymod 6 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aimtech glock base",
+    "category": "mounts",
     "image": "Gbase.png",
     "title": "Aimtech glock base",
     "pageId": 8459,
@@ -1041,10 +1300,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/Gbase.png?version=814288617bcde27c6b9e712cf87da8a1",
-    "filePath": "aimtech_glock_base"
+    "filePath": "aimtech_glock_base",
+    "marketSearchName": "Aimtech glock base",
+    "marketPositionOffset": 0
   },
   {
     "name": "MTU-028SG rail for M870",
+    "category": "mounts",
     "image": "MTU-028SG rail for M870 icon.png",
     "title": "MTU-028SG rail for M870",
     "pageId": 9717,
@@ -1053,10 +1315,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/MTU-028SG_rail_for_M870_icon.png",
-    "filePath": "mtu_028sg_rail_for_m870"
+    "filePath": "mtu_028sg_rail_for_m870",
+    "marketSearchName": "MTU-028SG rail for M870",
+    "marketPositionOffset": 0
   },
   {
     "name": "Mesa Tactical magazine clamp for M870",
+    "category": "mounts",
     "image": "M870clampicon.png",
     "title": "Mesa Tactical magazine clamp for M870",
     "pageId": 9577,
@@ -1065,10 +1330,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/56/M870clampicon.png?version=f147e0c3b9b8034cf273c397a5be6087",
-    "filePath": "mesa_tactical_magazine_clamp_for_m870"
+    "filePath": "mesa_tactical_magazine_clamp_for_m870",
+    "marketSearchName": "Mesa Tactical magazine clamp for M870",
+    "marketPositionOffset": 0
   },
   {
     "name": "XS Short rail with Ghost ring for M870",
+    "category": "mounts",
     "image": "Xsshorticon.png",
     "title": "XS Short rail with Ghost ring for M870",
     "pageId": 9723,
@@ -1077,10 +1345,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6c/Xsshorticon.png?version=943c1572d18559d4f55895af08eb941d",
-    "filePath": "xs_short_rail_with_ghost_ring_for_m870"
+    "filePath": "xs_short_rail_with_ghost_ring_for_m870",
+    "marketSearchName": "XS Short rail with Ghost ring for M870",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aimtech Tiger Shark",
+    "category": "mounts",
     "image": "Tigershark.png",
     "title": "Aimtech Tiger Shark",
     "pageId": 8457,
@@ -1089,10 +1360,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/Tigershark.png?version=9b9ff75ed83b1b9a84024de5c1937519",
-    "filePath": "aimtech_tiger_shark"
+    "filePath": "aimtech_tiger_shark",
+    "marketSearchName": "Aimtech Tiger Shark",
+    "marketPositionOffset": 0
   },
   {
     "name": "UM Tactical UM3 Sight Mount",
+    "category": "mounts",
     "image": "Um3.png",
     "title": "UM Tactical UM3 Sight Mount",
     "pageId": 8460,
@@ -1101,10 +1375,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/Um3.png?version=3ad0badbb66191602dfcba20d3bc060e",
-    "filePath": "um_tactical_um3_sight_mount"
+    "filePath": "um_tactical_um3_sight_mount",
+    "marketSearchName": "UM Tactical UM3 Sight Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "Bridge Sight Mount for P226",
+    "category": "mounts",
     "image": "226Bridge_Icon.png",
     "title": "Bridge Sight Mount for P226",
     "pageId": 11009,
@@ -1113,10 +1390,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/20/226Bridge_Icon.png?version=1c952c3d43db3748dd2a2dab8c055821",
-    "filePath": "bridge_sight_mount_for_p226"
+    "filePath": "bridge_sight_mount_for_p226",
+    "marketSearchName": "Bridge Sight Mount for P226",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN EFFEN 90 rail",
+    "category": "mounts",
     "image": "wiki.png",
     "title": "FN EFFEN 90 rail",
     "pageId": 15424,
@@ -1125,10 +1405,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "fn_effen_90_rail"
+    "filePath": "fn_effen_90_rail",
+    "marketSearchName": "FN EFFEN 90 rail",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN side rail for regular P90 upper receiver",
+    "category": "mounts",
     "image": "FN_side_rail_for_regular_P90_upper_receiver_icon.png",
     "title": "FN side rail for regular P90 upper receiver",
     "pageId": 15425,
@@ -1137,10 +1420,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/FN_side_rail_for_regular_P90_upper_receiver_icon.png?version=2c37380dfd87bca9fa18d94103a2c3f6",
-    "filePath": "fn_side_rail_for_regular_p90_upper_receiver"
+    "filePath": "fn_side_rail_for_regular_p90_upper_receiver",
+    "marketSearchName": "FN side rail for regular P90 upper receiver",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN top rail for regular P90 upper receiver",
+    "category": "mounts",
     "image": "FN_top_rail_for_regular_P90_upper_receiver_icon.png",
     "title": "FN top rail for regular P90 upper receiver",
     "pageId": 15426,
@@ -1149,10 +1435,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/FN_top_rail_for_regular_P90_upper_receiver_icon.png?version=6d0347b70c47d804050aa49d7597b5ae",
-    "filePath": "fn_top_rail_for_regular_p90_upper_receiver"
+    "filePath": "fn_top_rail_for_regular_p90_upper_receiver",
+    "marketSearchName": "FN top rail for regular P90 upper receiver",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul inline mount for PRO 700 chassis",
+    "category": "mounts",
     "image": "wiki.png",
     "title": "Magpul inline mount for PRO 700 chassis",
     "pageId": 15446,
@@ -1161,10 +1450,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "magpul_inline_mount_for_pro_700_chassis"
+    "filePath": "magpul_inline_mount_for_pro_700_chassis",
+    "marketSearchName": "Magpul inline mount for PRO 700 chassis",
+    "marketPositionOffset": 0
   },
   {
     "name": "Arbalet Patriot K+W mount",
+    "category": "mounts",
     "image": "wiki.png",
     "title": "Arbalet Patriot K+W mount",
     "pageId": 15483,
@@ -1173,10 +1465,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "arbalet_patriot_k_w_mount"
+    "filePath": "arbalet_patriot_k_w_mount",
+    "marketSearchName": "Arbalet Patriot K+W mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "KMZ 1P59 Dovetail mount",
+    "category": "mounts",
     "image": "KMZ_1P59_Dovetail_Mount_icon.png",
     "title": "KMZ 1P59 Dovetail mount",
     "pageId": 15494,
@@ -1185,10 +1480,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/07/KMZ_1P59_Dovetail_Mount_icon.png?version=dc0f3f3aa2f1c0f049316603e654938e",
-    "filePath": "kmz_1p59_dovetail_mount"
+    "filePath": "kmz_1p59_dovetail_mount",
+    "marketSearchName": "KMZ 1P59 Dovetail mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "KMZ 1P69 Weaver mount",
+    "category": "mounts",
     "image": "KMZ_1P69_Weaver_mount_icon.png",
     "title": "KMZ 1P69 Weaver mount",
     "pageId": 15495,
@@ -1197,10 +1495,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/07/KMZ_1P69_Weaver_mount_icon.png?version=cde4454dc56885b95f3a1243092f5549",
-    "filePath": "kmz_1p69_weaver_mount"
+    "filePath": "kmz_1p69_weaver_mount",
+    "marketSearchName": "KMZ 1P69 Weaver mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "KAC URX 3 inch guide",
+    "category": "mounts",
     "image": "wiki.png",
     "title": "KAC URX 3 inch guide",
     "pageId": 15510,
@@ -1209,10 +1510,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "kac_urx_3_inch_guide"
+    "filePath": "kac_urx_3_inch_guide",
+    "marketSearchName": "KAC URX 3 inch guide",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN RMR Mount for 5-7 Mk.2",
+    "category": "mounts",
     "image": "wiki.png",
     "title": "FN RMR Mount for 5-7 Mk.2",
     "pageId": 15611,
@@ -1221,6 +1525,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "fn_rmr_mount_for_5_7_mk_2"
+    "filePath": "fn_rmr_mount_for_5_7_mk_2",
+    "marketSearchName": "FN RMR Mount for 5-7 Mk.2",
+    "marketPositionOffset": 0
   }
 ]

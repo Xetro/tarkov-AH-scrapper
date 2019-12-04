@@ -1,6 +1,7 @@
 [
   {
     "name": "Ops-Core FAST RAC Headset",
+    "category": "headsets",
     "image": "Rac.png",
     "title": "Ops-Core FAST RAC Headset",
     "pageId": 7983,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/Rac.png?version=ca97364b8e2361cd0d68738ae1c5e40c",
-    "filePath": "ops_core_fast_rac_headset"
+    "filePath": "ops_core_fast_rac_headset",
+    "marketSearchName": "Ops-Core FAST RAC Headset",
+    "marketPositionOffset": 0
   },
   {
     "name": "Peltor ComTac 2 headset",
+    "category": "headsets",
     "image": "Comtac icon.png",
     "title": "Peltor ComTac 2 headset",
     "pageId": 4180,
@@ -21,10 +25,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/65/Comtac_icon.png?version=f05c105dcecd7835c3512bf8c8b29e6a",
-    "filePath": "peltor_comtac_2_headset"
+    "filePath": "peltor_comtac_2_headset",
+    "marketSearchName": "Peltor ComTac 2 headset",
+    "marketPositionOffset": 0
   },
   {
     "name": "MSA Sordin Supreme PRO-X/L active headphones",
+    "category": "headsets",
     "image": "SordinIcon.png",
     "title": "MSA Sordin Supreme PRO-X/L active headphones",
     "pageId": 9555,
@@ -33,10 +40,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/82/SordinIcon.png?version=839ae557ca0068adc1e314ce7af2e8ad",
-    "filePath": "msa_sordin_supreme_pro_x_l_active_headphones"
+    "filePath": "msa_sordin_supreme_pro_x_l_active_headphones",
+    "marketSearchName": "MSA Sordin Supreme PRO-X/L active headphones",
+    "marketPositionOffset": 0
   },
   {
     "name": "GSSh-01 active headset",
+    "category": "headsets",
     "image": "gssh.png",
     "title": "GSSh-01 active headset",
     "pageId": 10781,
@@ -45,10 +55,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Gssh.png?version=33b9b961303955558112c7d6f0bd4385",
-    "filePath": "gssh_01_active_headset"
+    "filePath": "gssh_01_active_headset",
+    "marketSearchName": "GSSh-01 active headset",
+    "marketPositionOffset": 0
   },
   {
     "name": "Peltor Tactical Sport headset",
+    "category": "headsets",
     "image": "PeltorTacticalSporticon.png",
     "title": "Peltor Tactical Sport headset",
     "pageId": 12854,
@@ -57,6 +70,8 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0c/PeltorTacticalSporticon.png?version=f817878fcba5c7ee1a331e10a5d5dc0f",
-    "filePath": "peltor_tactical_sport_headset"
+    "filePath": "peltor_tactical_sport_headset",
+    "marketSearchName": "Peltor Tactical Sport headset",
+    "marketPositionOffset": 0
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "name": "Folder with intelligence",
+    "category": "loot",
     "image": "FolderWithIntelligence Icon.png",
     "title": "Folder with intelligence",
     "pageId": 12550,
@@ -15,6 +16,7 @@
   },
   {
     "name": "Matches",
+    "category": "loot",
     "image": "Matches Icon.png",
     "title": "Matches",
     "pageId": 4072,
@@ -29,6 +31,7 @@
   },
   {
     "name": "Paracord",
+    "category": "loot",
     "image": "ParacordIcon.png",
     "title": "Paracord",
     "pageId": 12757,
@@ -43,6 +46,7 @@
   },
   {
     "name": "Corrugated hose",
+    "category": "loot",
     "image": "Hoseicon.png",
     "title": "Corrugated hose",
     "pageId": 7446,
@@ -57,6 +61,7 @@
   },
   {
     "name": "Crickent lighter",
+    "category": "loot",
     "image": "Cricket lighter Icon.png",
     "title": "Crickent lighter",
     "pageId": 4109,
@@ -71,6 +76,7 @@
   },
   {
     "name": "A pack of nails",
+    "category": "loot",
     "image": "Nailsicon.png",
     "title": "A pack of nails",
     "pageId": 7186,
@@ -85,6 +91,7 @@
   },
   {
     "name": "A pack of screws",
+    "category": "loot",
     "image": "Screwsicon.png",
     "title": "A pack of screws",
     "pageId": 7203,
@@ -99,6 +106,7 @@
   },
   {
     "name": "Screw nut",
+    "category": "loot",
     "image": "Screwnuticon.png",
     "title": "Screw nut",
     "pageId": 7185,
@@ -113,6 +121,7 @@
   },
   {
     "name": "Bolts",
+    "category": "loot",
     "image": "Boltsicon.png",
     "title": "Bolts",
     "pageId": 6442,
@@ -127,6 +136,7 @@
   },
   {
     "name": "Piece of plexiglas",
+    "category": "loot",
     "image": "Plexicon.png",
     "title": "Piece of plexiglas",
     "pageId": 7187,
@@ -141,6 +151,7 @@
   },
   {
     "name": "Zibbo lighter",
+    "category": "loot",
     "image": "Zibbo lighter Icon.png",
     "title": "Zibbo lighter",
     "pageId": 4112,
@@ -155,6 +166,7 @@
   },
   {
     "name": "Apollon Soyuz cigarettes",
+    "category": "loot",
     "image": "Apollon Soyuz cigarettes Icon.png",
     "title": "Apollon Soyuz cigarettes",
     "pageId": 4114,
@@ -169,6 +181,7 @@
   },
   {
     "name": "Malboro Cigarettes",
+    "category": "loot",
     "image": "Malboro Cigarettes Icon.png",
     "title": "Malboro Cigarettes",
     "pageId": 4115,
@@ -183,6 +196,7 @@
   },
   {
     "name": "Wilston cigarettes",
+    "category": "loot",
     "image": "Wilstonicon.png",
     "title": "Wilston cigarettes",
     "pageId": 4118,
@@ -197,6 +211,7 @@
   },
   {
     "name": "Strike Cigarettes",
+    "category": "loot",
     "image": "Cigred.png",
     "title": "Strike Cigarettes",
     "pageId": 4120,
@@ -211,6 +226,7 @@
   },
   {
     "name": "Horse figurine",
+    "category": "loot",
     "image": "Horse figurine Icon.png",
     "title": "Horse figurine",
     "pageId": 4123,
@@ -225,6 +241,7 @@
   },
   {
     "name": "Cat figurine",
+    "category": "loot",
     "image": "Caticon.png",
     "title": "Cat figurine",
     "pageId": 6126,
@@ -239,6 +256,7 @@
   },
   {
     "name": "Bronze lion",
+    "category": "loot",
     "image": "Bronze Lion Icon.png",
     "title": "Bronze lion",
     "pageId": 6074,
@@ -253,6 +271,7 @@
   },
   {
     "name": "Wooden clock",
+    "category": "loot",
     "image": "Wooden clock icon.png",
     "title": "Wooden clock",
     "pageId": 6155,
@@ -267,6 +286,7 @@
   },
   {
     "name": "Gas analyzer",
+    "category": "loot",
     "image": "Gas Analyzer Icon.png",
     "title": "Gas analyzer",
     "pageId": 5828,
@@ -281,6 +301,7 @@
   },
   {
     "name": "SSD drive",
+    "category": "loot",
     "image": "Ssd icon.png",
     "title": "SSD drive",
     "pageId": 8045,
@@ -295,6 +316,7 @@
   },
   {
     "name": "SAS drive",
+    "category": "loot",
     "image": "Sas icon.png",
     "title": "SAS drive",
     "pageId": 8055,
@@ -309,6 +331,7 @@
   },
   {
     "name": "Military COFDM wireless Signal Transmitter",
+    "category": "loot",
     "image": "COFDM Icon.png",
     "title": "Military COFDM wireless Signal Transmitter",
     "pageId": 12544,
@@ -323,6 +346,7 @@
   },
   {
     "name": "UHF RFID Reader",
+    "category": "loot",
     "image": "UHFRFIDIcon.png",
     "title": "UHF RFID Reader",
     "pageId": 12575,
@@ -337,6 +361,7 @@
   },
   {
     "name": "VPX Flash Storage Module",
+    "category": "loot",
     "image": "VPXFlashIcon.png",
     "title": "VPX Flash Storage Module",
     "pageId": 12579,
@@ -351,6 +376,7 @@
   },
   {
     "name": "Virtex programmable processor",
+    "category": "loot",
     "image": "Virtex programmable processor Icon.png",
     "title": "Virtex programmable processor",
     "pageId": 12541,
@@ -365,6 +391,7 @@
   },
   {
     "name": "Capacitors",
+    "category": "loot",
     "image": "Capacitorsicon.png",
     "title": "Capacitors",
     "pageId": 12648,
@@ -379,6 +406,7 @@
   },
   {
     "name": "Wires",
+    "category": "loot",
     "image": "Wiresicon.png",
     "title": "Wires",
     "pageId": 12645,
@@ -393,6 +421,7 @@
   },
   {
     "name": "Broken GPhone X",
+    "category": "loot",
     "image": "Broken GPhone x Icon.png",
     "title": "Broken GPhone X",
     "pageId": 12815,
@@ -407,6 +436,7 @@
   },
   {
     "name": "WD-40 400ml",
+    "category": "loot",
     "image": "Wd-40400icon.png",
     "title": "WD-40 400ml",
     "pageId": 5755,
@@ -421,6 +451,7 @@
   },
   {
     "name": "WD-40 100ml.|WD-40 100ml",
+    "category": "loot",
     "image": "WD40 100ml Icon.png",
     "title": "WD-40 100ml.",
     "pageId": 5825,
@@ -435,6 +466,7 @@
   },
   {
     "name": "AA Battery",
+    "category": "loot",
     "image": "AA Battery Icon 2.png",
     "title": "AA Battery",
     "pageId": 4105,
@@ -449,6 +481,7 @@
   },
   {
     "name": "D Size Battery",
+    "category": "loot",
     "image": "D Size Battery Icon.png",
     "title": "D Size Battery",
     "pageId": 4106,
@@ -463,6 +496,7 @@
   },
   {
     "name": "Car battery",
+    "category": "loot",
     "image": "Car Battery Icon.png",
     "title": "Car battery",
     "pageId": 4108,
@@ -477,6 +511,7 @@
   },
   {
     "name": "Spark plug",
+    "category": "loot",
     "image": "Spark Plug Icon .png",
     "title": "Spark plug",
     "pageId": 5842,
@@ -491,6 +526,7 @@
   },
   {
     "name": "Energy-saving lamp",
+    "category": "loot",
     "image": "Energy-Saving Lamp Icon.png",
     "title": "Energy-saving lamp",
     "pageId": 5850,
@@ -505,6 +541,7 @@
   },
   {
     "name": "Ultraviolet lamp",
+    "category": "loot",
     "image": "UV lamp Icon.png",
     "title": "Ultraviolet lamp",
     "pageId": 5862,
@@ -519,6 +556,7 @@
   },
   {
     "name": "Geiger-Muller counter",
+    "category": "loot",
     "image": "Geiger-Mueller counter Icon.png",
     "title": "Geiger-Muller counter",
     "pageId": 4081,
@@ -533,6 +571,7 @@
   },
   {
     "name": "Broken GPhone",
+    "category": "loot",
     "image": "Broken GPhone Icon.png",
     "title": "Broken GPhone",
     "pageId": 4083,
@@ -547,6 +586,7 @@
   },
   {
     "name": "CPU Fan",
+    "category": "loot",
     "image": "CPU Fan Icon.png",
     "title": "CPU Fan",
     "pageId": 4086,
@@ -561,6 +601,7 @@
   },
   {
     "name": "PC CPU",
+    "category": "loot",
     "image": "PC CPU Icon.png",
     "title": "PC CPU",
     "pageId": 4087,
@@ -575,6 +616,7 @@
   },
   {
     "name": "DVD drive",
+    "category": "loot",
     "image": "DVD drive Icon.png",
     "title": "DVD drive",
     "pageId": 4089,
@@ -589,6 +631,7 @@
   },
   {
     "name": "RAM",
+    "category": "loot",
     "image": "ramicon.png",
     "title": "RAM",
     "pageId": 4091,
@@ -603,6 +646,7 @@
   },
   {
     "name": "Power supply unit",
+    "category": "loot",
     "image": "Psuicon.png",
     "title": "Power supply unit",
     "pageId": 4092,
@@ -617,6 +661,7 @@
   },
   {
     "name": "Printed circuit board",
+    "category": "loot",
     "image": "Circuit_Icon.png",
     "title": "Printed circuit board",
     "pageId": 7738,
@@ -631,6 +676,7 @@
   },
   {
     "name": "Graphics card",
+    "category": "loot",
     "image": "Graphics_Card_icon.png",
     "title": "Graphics card",
     "pageId": 4094,
@@ -645,6 +691,7 @@
   },
   {
     "name": "Powercord",
+    "category": "loot",
     "image": "Powercord icon.png",
     "title": "Powercord",
     "pageId": 7180,
@@ -659,6 +706,7 @@
   },
   {
     "name": "Insulating tape",
+    "category": "loot",
     "image": "Insulating tape Icon.png",
     "title": "Insulating tape",
     "pageId": 4096,
@@ -673,6 +721,7 @@
   },
   {
     "name": "Duct tape",
+    "category": "loot",
     "image": "Duct tape Icon.png",
     "title": "Duct tape",
     "pageId": 4098,
@@ -687,6 +736,7 @@
   },
   {
     "name": "Construction measuring tape",
+    "category": "loot",
     "image": "Construction Measuring Tape Icon.png",
     "title": "Construction measuring tape",
     "pageId": 5853,
@@ -701,6 +751,7 @@
   },
   {
     "name": "Toothpaste",
+    "category": "loot",
     "image": "toothpasteicon.png",
     "title": "Toothpaste",
     "pageId": 4100,
@@ -715,6 +766,7 @@
   },
   {
     "name": "USB Adapter",
+    "category": "loot",
     "image": "USB Adapter Icon.png",
     "title": "USB Adapter",
     "pageId": 5863,
@@ -729,6 +781,7 @@
   },
   {
     "name": "T-Shaped Plug",
+    "category": "loot",
     "image": "T-Shaped Plug Icon.png",
     "title": "T-Shaped Plug",
     "pageId": 4101,
@@ -743,6 +796,7 @@
   },
   {
     "name": "Printer paper",
+    "category": "loot",
     "image": "Printer Paper icon.png",
     "title": "Printer paper",
     "pageId": 4104,
@@ -757,6 +811,7 @@
   },
   {
     "name": "Screwdriver",
+    "category": "loot",
     "image": "Screwdriver Icon.png",
     "title": "Screwdriver",
     "pageId": 5773,
@@ -771,6 +826,7 @@
   },
   {
     "name": "Wrench",
+    "category": "loot",
     "image": "Wrench Icon.png",
     "title": "Wrench",
     "pageId": 5736,
@@ -785,6 +841,7 @@
   },
   {
     "name": "Pliers",
+    "category": "loot",
     "image": "Plier Icon.png",
     "title": "Pliers",
     "pageId": 5767,
@@ -799,6 +856,7 @@
   },
   {
     "name": "Electric drill",
+    "category": "loot",
     "image": "Electric Drill icon.png",
     "title": "Electric drill",
     "pageId": 6007,
@@ -813,6 +871,7 @@
   },
   {
     "name": "Antique vase",
+    "category": "loot",
     "image": "Vaseicon.png",
     "title": "Antique vase",
     "pageId": 7942,
@@ -827,6 +886,7 @@
   },
   {
     "name": "Antique teapot",
+    "category": "loot",
     "image": "Teapot icon.png",
     "title": "Antique teapot",
     "pageId": 7941,
@@ -841,6 +901,7 @@
   },
   {
     "name": "Silver Badge",
+    "category": "loot",
     "image": "Silver_Badge_icon.png",
     "title": "Silver Badge",
     "pageId": 11923,
@@ -855,6 +916,7 @@
   },
   {
     "name": "Chainlet",
+    "category": "loot",
     "image": "Chainlet icon.png",
     "title": "Chainlet",
     "pageId": 4076,
@@ -869,6 +931,7 @@
   },
   {
     "name": "Golden neck chain",
+    "category": "loot",
     "image": "Golden neck chain Icon.png",
     "title": "Golden neck chain",
     "pageId": 4079,
@@ -883,6 +946,7 @@
   },
   {
     "name": "Physical bitcoin",
+    "category": "loot",
     "image": "Bitcoin icon.png",
     "title": "Physical bitcoin",
     "pageId": 6715,
@@ -897,6 +961,7 @@
   },
   {
     "name": "Damaged hard drive",
+    "category": "loot",
     "image": "Damaged Hard Drive Icon.png",
     "title": "Damaged hard drive",
     "pageId": 5722,
@@ -911,6 +976,7 @@
   },
   {
     "name": "Magnet",
+    "category": "loot",
     "image": "Magnet_Icon.png",
     "title": "Magnet",
     "pageId": 5762,
@@ -925,6 +991,7 @@
   },
   {
     "name": "Paid AntiRoach",
+    "category": "loot",
     "image": "Paidicon.png",
     "title": "Paid AntiRoach",
     "pageId": 5989,
@@ -939,6 +1006,7 @@
   },
   {
     "name": "Clin wiper",
+    "category": "loot",
     "image": "Clin Wiper icon.png",
     "title": "Clin wiper",
     "pageId": 7178,
@@ -953,6 +1021,7 @@
   },
   {
     "name": "Portable defibrillator",
+    "category": "loot",
     "image": "Defibrillatoricon.png",
     "title": "Portable defibrillator",
     "pageId": 12829,
@@ -967,6 +1036,7 @@
   },
   {
     "name": "LEDX Skin Transilluminator",
+    "category": "loot",
     "image": "TransilluminatorIcon.png",
     "title": "LEDX Skin Transilluminator",
     "pageId": 12603,
@@ -981,6 +1051,7 @@
   },
   {
     "name": "Saline solution",
+    "category": "loot",
     "image": "Saline Solution icon.png",
     "title": "Saline solution",
     "pageId": 6090,
@@ -995,6 +1066,7 @@
   },
   {
     "name": "Medical bloodset",
+    "category": "loot",
     "image": "Medical Bloodset Icon.png",
     "title": "Medical bloodset",
     "pageId": 10779,
@@ -1009,6 +1081,7 @@
   },
   {
     "name": "Hydrogen peroxide",
+    "category": "loot",
     "image": "Hydrogen Peroxide icon.png",
     "title": "Hydrogen peroxide",
     "pageId": 7181,
@@ -1023,6 +1096,7 @@
   },
   {
     "name": "Ox bleach",
+    "category": "loot",
     "image": "Bleachicon.png",
     "title": "Ox bleach",
     "pageId": 6099,
@@ -1037,6 +1111,7 @@
   },
   {
     "name": "Shustrilo sealing foam",
+    "category": "loot",
     "image": "Shusicon.png",
     "title": "Shustrilo sealing foam",
     "pageId": 7184,
@@ -1051,6 +1126,7 @@
   },
   {
     "name": "Xenomorph sealing foam",
+    "category": "loot",
     "image": "Xenoicon.png",
     "title": "Xenomorph sealing foam",
     "pageId": 7179,
@@ -1065,6 +1141,7 @@
   },
   {
     "name": "Sodium bicarbonate",
+    "category": "loot",
     "image": "Sodium Bicarbonate icon.png",
     "title": "Sodium bicarbonate",
     "pageId": 7182,
@@ -1079,6 +1156,7 @@
   },
   {
     "name": "Soap",
+    "category": "loot",
     "image": "Soap icon.png",
     "title": "Soap",
     "pageId": 12635,
@@ -1093,6 +1171,7 @@
   },
   {
     "name": "Toilet paper",
+    "category": "loot",
     "image": "Toilet paper icon.png",
     "title": "Toilet paper",
     "pageId": 12818,
@@ -1107,6 +1186,7 @@
   },
   {
     "name": "5L propane tank",
+    "category": "loot",
     "image": "5L propane tank icon.png",
     "title": "5L propane tank",
     "pageId": 7175,
@@ -1121,6 +1201,7 @@
   },
   {
     "name": "Fuel conditioner",
+    "category": "loot",
     "image": "fuelcondicon.png",
     "title": "Fuel conditioner",
     "pageId": 10780,
@@ -1135,6 +1216,7 @@
   },
   {
     "name": "Heat-exchange alkali surface washer",
+    "category": "loot",
     "image": "Heat-exchange alkali surface washer icon.png",
     "title": "Heat-exchange alkali surface washer",
     "pageId": 7177,
@@ -1149,6 +1231,7 @@
   },
   {
     "name": "Dry fuel",
+    "category": "loot",
     "image": "Dryfuelicon.png",
     "title": "Dry fuel",
     "pageId": 7081,
@@ -1163,6 +1246,7 @@
   },
   {
     "name": "A set of tools",
+    "category": "loot",
     "image": "Toolsicon.png",
     "title": "A set of tools",
     "pageId": 7030,
@@ -1177,6 +1261,7 @@
   },
   {
     "name": "Rechargeable battery",
+    "category": "loot",
     "image": "Recicon.png",
     "title": "Rechargeable battery",
     "pageId": 7183,
@@ -1191,6 +1276,7 @@
   },
   {
     "name": "Air filter for gas mask",
+    "category": "loot",
     "image": "Airfiltericon.png",
     "title": "Air filter for gas mask",
     "pageId": 7940,
@@ -1205,6 +1291,7 @@
   },
   {
     "name": "Secure Flash drive",
+    "category": "loot",
     "image": "Secure Flash drive Icon.png",
     "title": "Secure Flash drive",
     "pageId": 8051,
@@ -1219,6 +1306,7 @@
   },
   {
     "name": "Coffee Majaica",
+    "category": "loot",
     "image": "Coffeicon.png",
     "title": "Coffee Majaica",
     "pageId": 10334,
@@ -1233,6 +1321,7 @@
   },
   {
     "name": "Ophthalmoscope",
+    "category": "loot",
     "image": "Ophthalmoscopeicon.png",
     "title": "Ophthalmoscope",
     "pageId": 10345,
@@ -1247,6 +1336,7 @@
   },
   {
     "name": "Pliers Elite",
+    "category": "loot",
     "image": "PliersElite.png",
     "title": "Pliers Elite",
     "pageId": 10347,
@@ -1261,6 +1351,7 @@
   },
   {
     "name": "Powerbank",
+    "category": "loot",
     "image": "PowerbankIcon.png",
     "title": "Powerbank",
     "pageId": 10276,
@@ -1275,6 +1366,7 @@
   },
   {
     "name": "42nd Signature Blend English Tea",
+    "category": "loot",
     "image": "EnglishTeaIcon.png",
     "title": "42nd Signature Blend English Tea",
     "pageId": 11930,
@@ -1289,6 +1381,7 @@
   },
   {
     "name": "Golden rooster",
+    "category": "loot",
     "image": "GoldenRoosterIcon.png",
     "title": "Golden rooster",
     "pageId": 11932,
@@ -1303,6 +1396,7 @@
   },
   {
     "name": "Roler submariner gold wrist watch",
+    "category": "loot",
     "image": "Roler icon.png",
     "title": "Roler submariner gold wrist watch",
     "pageId": 6709,
@@ -1317,6 +1411,7 @@
   },
   {
     "name": "Battered antique Book",
+    "category": "loot",
     "image": "BatteredBookIcon.png",
     "title": "Battered antique Book",
     "pageId": 11897,
@@ -1331,6 +1426,7 @@
   },
   {
     "name": "FireKlean gun lube",
+    "category": "loot",
     "image": "FireKlean_icon.png",
     "title": "FireKlean gun lube",
     "pageId": 11911,
@@ -1345,6 +1441,7 @@
   },
   {
     "name": "Old firesteel",
+    "category": "loot",
     "image": "FireSteelIcon.png",
     "title": "Old firesteel",
     "pageId": 11929,
@@ -1359,6 +1456,7 @@
   },
   {
     "name": "Deadlyslob's beard oil",
+    "category": "loot",
     "image": "Deadlyslobs beard oil icon.png",
     "title": "Deadlyslob's beard oil",
     "pageId": 11920,
@@ -1373,6 +1471,7 @@
   },
   {
     "name": "Golden 1GPhone",
+    "category": "loot",
     "image": "1gphone icon.png",
     "title": "Golden 1GPhone",
     "pageId": 11908,
@@ -1387,6 +1486,7 @@
   },
   {
     "name": "Tetriz portable game",
+    "category": "loot",
     "image": "Tetriz icon.png",
     "title": "Tetriz portable game",
     "pageId": 12258,
@@ -1401,6 +1501,7 @@
   },
   {
     "name": "Chain with Prokill medallion",
+    "category": "loot",
     "image": "Prokill medallion Icon.png",
     "title": "Chain with Prokill medallion",
     "pageId": 12865,
@@ -1415,6 +1516,7 @@
   },
   {
     "name": "Nippers",
+    "category": "loot",
     "image": "Nippers small.jpg",
     "title": "Nippers",
     "pageId": 15000,
@@ -1429,6 +1531,7 @@
   },
   {
     "name": "Metal cutting scissors",
+    "category": "loot",
     "image": "Metal_cutting_scissors_icon.png",
     "title": "Metal cutting scissors",
     "pageId": 15008,
@@ -1443,6 +1546,7 @@
   },
   {
     "name": "Handdrill",
+    "category": "loot",
     "image": "Handdrill_icon.png",
     "title": "Handdrill",
     "pageId": 15006,
@@ -1457,6 +1561,7 @@
   },
   {
     "name": "6-STEN-140-M military battery",
+    "category": "loot",
     "image": "Mil Batt icon.png",
     "title": "6-STEN-140-M military battery",
     "pageId": 15011,
@@ -1471,6 +1576,7 @@
   },
   {
     "name": "NIXXOR lens",
+    "category": "loot",
     "image": "NIXXOR_lens_icon.png",
     "title": "NIXXOR lens",
     "pageId": 15521,
@@ -1485,6 +1591,7 @@
   },
   {
     "name": "Expeditionary fuel tank",
+    "category": "loot",
     "image": "expeditionary-fuel-tank-icon.png",
     "title": "Expeditionary fuel tank",
     "pageId": 14996,
@@ -1499,6 +1606,7 @@
   },
   {
     "name": "Metal fuel tank",
+    "category": "loot",
     "image": "Metal-fuel-tank-icon.png",
     "title": "Metal fuel tank",
     "pageId": 15525,
@@ -1513,6 +1621,7 @@
   },
   {
     "name": "FP-100 filter absorber",
+    "category": "loot",
     "image": "FP-100 filter absorber icon.png",
     "title": "FP-100 filter absorber",
     "pageId": 15519,
@@ -1527,6 +1636,7 @@
   },
   {
     "name": "Electric motor",
+    "category": "loot",
     "image": "Electric motor icon.png",
     "title": "Electric motor",
     "pageId": 15520,
@@ -1541,6 +1651,7 @@
   },
   {
     "name": "Broken LCD",
+    "category": "loot",
     "image": "lcd-icon.PNG",
     "title": "Broken LCD",
     "pageId": 15005,
@@ -1555,6 +1666,7 @@
   },
   {
     "name": "Working LCD",
+    "category": "loot",
     "image": "Working LCD Icon.png",
     "title": "Working LCD",
     "pageId": 15058,
@@ -1569,6 +1681,7 @@
   },
   {
     "name": "GP coin",
+    "category": "loot",
     "image": "gp_coin_icon.png",
     "title": "GP coin",
     "pageId": 15127,
@@ -1583,6 +1696,7 @@
   },
   {
     "name": "Water filter",
+    "category": "loot",
     "image": "water_filter_icon.png",
     "title": "Water filter",
     "pageId": 15527,
@@ -1597,6 +1711,7 @@
   },
   {
     "name": "Gunpowder \"Kite\"",
+    "category": "loot",
     "image": "Gunpowder Icon.png",
     "title": "Gunpowder \"Kite\"",
     "pageId": 5840,
@@ -1611,6 +1726,7 @@
   },
   {
     "name": "Gunpowder \"Eagle\"",
+    "category": "loot",
     "image": "gunpowder_eagle_icon.png",
     "title": "Gunpowder \"Eagle\"",
     "pageId": 15266,
@@ -1625,6 +1741,7 @@
   },
   {
     "name": "Gunpowder \"Hawk\"",
+    "category": "loot",
     "image": "GunpowderHawkIcon.png",
     "title": "Gunpowder \"Hawk\"",
     "pageId": 15606,
@@ -1639,6 +1756,7 @@
   },
   {
     "name": "Pile of meds",
+    "category": "loot",
     "image": "Pile of meds icon.png",
     "title": "Pile of meds",
     "pageId": 15294,
@@ -1653,6 +1771,7 @@
   },
   {
     "name": "Disposable syringe",
+    "category": "loot",
     "image": "DisposableSyringeIcon.png",
     "title": "Disposable syringe",
     "pageId": 15332,
@@ -1667,6 +1786,7 @@
   },
   {
     "name": "Phased array element",
+    "category": "loot",
     "image": "Phased-Array-Element-icon.png",
     "title": "Phased array element",
     "pageId": 15357,
@@ -1681,6 +1801,7 @@
   },
   {
     "name": "Military circuit board",
+    "category": "loot",
     "image": "MilitaryCircuitBoardIcon.png",
     "title": "Military circuit board",
     "pageId": 15360,
@@ -1695,6 +1816,7 @@
   },
   {
     "name": "Military thermal vision module Iridium",
+    "category": "loot",
     "image": "mil thervis.png",
     "title": "Military thermal vision module Iridium",
     "pageId": 15362,
@@ -1709,6 +1831,7 @@
   },
   {
     "name": "Military gyrotachometer",
+    "category": "loot",
     "image": "MGT_Icon.png",
     "title": "Military gyrotachometer",
     "pageId": 15364,
@@ -1723,6 +1846,7 @@
   },
   {
     "name": "Weapon parts",
+    "category": "loot",
     "image": "WeaponPartsIcon.png",
     "title": "Weapon parts",
     "pageId": 15375,
@@ -1737,6 +1861,7 @@
   },
   {
     "name": "Round pliers",
+    "category": "loot",
     "image": "RoundPliersIcon.png",
     "title": "Round pliers",
     "pageId": 15378,
@@ -1751,6 +1876,7 @@
   },
   {
     "name": "OFZ 30x160mm shell",
+    "category": "loot",
     "image": "30x160mmShellicon.png",
     "title": "OFZ 30x160mm shell",
     "pageId": 15389,
@@ -1765,6 +1891,7 @@
   },
   {
     "name": "Military cable",
+    "category": "loot",
     "image": "MilitaryCableIcon.png",
     "title": "Military cable",
     "pageId": 15490,
@@ -1779,6 +1906,7 @@
   },
   {
     "name": "Military power filter",
+    "category": "loot",
     "image": "Mil Filter Icon.png",
     "title": "Military power filter",
     "pageId": 15491,
@@ -1793,6 +1921,7 @@
   },
   {
     "name": "Pressure gauge",
+    "category": "loot",
     "image": "Pressure gauge icon.png",
     "title": "Pressure gauge",
     "pageId": 15522,
@@ -1807,6 +1936,7 @@
   },
   {
     "name": "Analog thermometer",
+    "category": "loot",
     "image": "Anal Thermometer Icon.png",
     "title": "Analog thermometer",
     "pageId": 15523,
@@ -1821,6 +1951,7 @@
   },
   {
     "name": "Light bulb",
+    "category": "loot",
     "image": "Bulb icon.png",
     "title": "Light bulb",
     "pageId": 15528,
@@ -1835,6 +1966,7 @@
   },
   {
     "name": "Radiator helix",
+    "category": "loot",
     "image": "RadiatorHelixIcon.png",
     "title": "Radiator helix",
     "pageId": 15532,
@@ -1849,6 +1981,7 @@
   },
   {
     "name": "Gold skull ring",
+    "category": "loot",
     "image": "SkullRing Icon.png",
     "title": "Gold skull ring",
     "pageId": 15534,
@@ -1863,6 +1996,7 @@
   },
   {
     "name": "Technical documentation",
+    "category": "loot",
     "image": "lada_manual_icon.png",
     "title": "Technical documentation",
     "pageId": 8053,
@@ -1877,6 +2011,7 @@
   },
   {
     "name": "Schaman shampoo",
+    "category": "loot",
     "image": "Shampoo_icon.png",
     "title": "Schaman shampoo",
     "pageId": 15568,
@@ -1891,6 +2026,7 @@
   },
   {
     "name": "Ortodontox toothpaste",
+    "category": "loot",
     "image": "OrtodontoxToothpasteIcon.png",
     "title": "Ortodontox toothpaste",
     "pageId": 15569,
@@ -1905,6 +2041,7 @@
   },
   {
     "name": "Long flat screwdriver",
+    "category": "loot",
     "image": "Long_screwdriver_icon.png",
     "title": "Long flat screwdriver",
     "pageId": 15570,
@@ -1919,6 +2056,7 @@
   },
   {
     "name": "Flat screwdriver",
+    "category": "loot",
     "image": "Flat Screwdriver Icon.PNG",
     "title": "Flat screwdriver",
     "pageId": 15594,
@@ -1933,6 +2071,7 @@
   },
   {
     "name": "Phase control relay",
+    "category": "loot",
     "image": "Relay Icon.png",
     "title": "Phase control relay",
     "pageId": 14967,
@@ -1947,6 +2086,7 @@
   },
   {
     "name": "Silicone tube",
+    "category": "loot",
     "image": "SiliconeTubeIcon.png",
     "title": "Silicone tube",
     "pageId": 15015,
@@ -1961,6 +2101,7 @@
   },
   {
     "name": "Diary",
+    "category": "loot",
     "image": "Diary Icon1.png",
     "title": "Diary",
     "pageId": 5931,
@@ -1975,6 +2116,7 @@
   },
   {
     "name": "Slim diary",
+    "category": "loot",
     "image": "SlimDiaryIcon.png",
     "title": "Slim diary",
     "pageId": 8054,

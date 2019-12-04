@@ -1,6 +1,7 @@
 [
   {
     "name": "Ops-Core Fast GUNSIGHT Mandible",
+    "category": "additional_armor",
     "image": "Mandible.png",
     "title": "Ops-Core Fast GUNSIGHT Mandible",
     "pageId": 7745,
@@ -9,10 +10,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/Mandible.png?version=6a301a6d05f8fd899bd72c0326edae2d",
-    "filePath": "ops_core_fast_gunsight_mandible"
+    "filePath": "ops_core_fast_gunsight_mandible",
+    "marketSearchName": "Ops-Core Fast GUNSIGHT Mandible",
+    "marketPositionOffset": 0
   },
   {
     "name": "Ops-Core Fast Side Armor",
+    "category": "additional_armor",
     "image": "Saarmorblack.png",
     "title": "Ops-Core Fast Side Armor",
     "pageId": 7980,
@@ -21,10 +25,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/Saarmorblack.png?version=d5f35ed7aa0df313e405c2a3130c24fe",
-    "filePath": "ops_core_fast_side_armor"
+    "filePath": "ops_core_fast_side_armor",
+    "marketSearchName": "Ops-Core Fast Side Armor",
+    "marketPositionOffset": 0
   },
   {
     "name": "Crye Airframe Ears",
+    "category": "additional_armor",
     "image": "CryeAirframeEarsicon.png",
     "title": "Crye Airframe Ears",
     "pageId": 12881,
@@ -33,10 +40,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/CryeAirframeEarsicon.png?version=0403e4495d0ddc7d573f06bb750e7af0",
-    "filePath": "crye_airframe_ears"
+    "filePath": "crye_airframe_ears",
+    "marketSearchName": "Crye Airframe Ears",
+    "marketPositionOffset": 0
   },
   {
     "name": "Crye Airframe Chops",
+    "category": "additional_armor",
     "image": "CryeAirframeChops icon.png",
     "title": "Crye Airframe Chops",
     "pageId": 12855,
@@ -45,10 +55,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/CryeAirframeChops_icon.png?version=0e37e121ecb3dba9d4d53c8b0f40bea8",
-    "filePath": "crye_airframe_chops"
+    "filePath": "crye_airframe_chops",
+    "marketSearchName": "Crye Airframe Chops",
+    "marketPositionOffset": 0
   },
   {
     "name": "SLAAP armor Plate (Tan)",
+    "category": "additional_armor",
     "image": "SLAAPArmorPlateIcon.png",
     "title": "SLAAP armor Plate (Tan)",
     "pageId": 12777,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/93/SLAAPArmorPlateIcon.png?version=b2db8d997badbd86a8463aecde2e2dd0",
-    "filePath": "slaap_armor_plate__tan_"
+    "filePath": "slaap_armor_plate__tan_",
+    "marketSearchName": "SLAAP armor Plate (Tan)",
+    "marketPositionOffset": 0
   },
   {
     "name": "LSHZ-2DTM Aventail",
+    "category": "additional_armor",
     "image": "wiki.png",
     "title": "LSHZ-2DTM Aventail",
     "pageId": 15605,
@@ -69,6 +85,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "lshz_2dtm_aventail"
+    "filePath": "lshz_2dtm_aventail",
+    "marketSearchName": "LSHZ-2DTM Aventail",
+    "marketPositionOffset": 0
   }
 ]

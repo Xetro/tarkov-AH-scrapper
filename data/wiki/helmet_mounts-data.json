@@ -1,6 +1,7 @@
 [
   {
     "name": "Norotos Titanium Advanced Tactical Mount",
+    "category": "helmet_mounts",
     "image": "Tatm.png",
     "title": "Norotos Titanium Advanced Tactical Mount",
     "pageId": 7986,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Tatm.png?version=e42ecaec850ec89d9fff632fcfc65a8a",
-    "filePath": "norotos_titanium_advanced_tactical_mount"
+    "filePath": "norotos_titanium_advanced_tactical_mount",
+    "marketSearchName": "Norotos Titanium Advanced Tactical Mount",
+    "marketPositionOffset": 0
   },
   {
     "name": "PNV-10T dovetail adapter",
+    "category": "helmet_mounts",
     "image": "PNV-10TDovetailicon.png",
     "title": "PNV-10T dovetail adapter",
     "pageId": 12877,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/PNV-10TDovetailicon.png",
-    "filePath": "pnv_10t_dovetail_adapter"
+    "filePath": "pnv_10t_dovetail_adapter",
+    "marketSearchName": "PNV-10T dovetail adapter",
+    "marketPositionOffset": 0
   },
   {
     "name": "Dual Dovetail Mount for PVS-14 monocular",
+    "category": "helmet_mounts",
     "image": "Ddt.png",
     "title": "Dual Dovetail Mount for PVS-14 monocular",
     "pageId": 8383,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d5/Ddt.png?version=0b67a9cfc6a4061de183494c8010c38d",
-    "filePath": "dual_dovetail_mount_for_pvs_14_monocular"
+    "filePath": "dual_dovetail_mount_for_pvs_14_monocular",
+    "marketSearchName": "Dual Dovetail Mount for PVS-14 monocular",
+    "marketPositionOffset": 0
   },
   {
     "name": "Wilcox Interface for PVS-7",
+    "category": "helmet_mounts",
     "image": "wiki.png",
     "title": "Wilcox Interface for PVS-7",
     "pageId": 14960,
@@ -45,6 +55,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "wilcox_interface_for_pvs_7"
+    "filePath": "wilcox_interface_for_pvs_7",
+    "marketSearchName": "Wilcox Interface for PVS-7",
+    "marketPositionOffset": 0
   }
 ]

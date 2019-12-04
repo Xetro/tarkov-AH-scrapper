@@ -1,6 +1,7 @@
 [
   {
     "name": "Lancer OEM 14 inch M-LOK foregrip for MPX",
+    "category": "handguards",
     "image": "Lancer OEM 14 inch M-LOK foregrip for MPX Icon.png",
     "title": "Lancer OEM 14 inch M-LOK foregrip for MPX",
     "pageId": 13846,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/Lancer_OEM_14_inch_M-LOK_foregrip_for_MPX_Icon.png",
-    "filePath": "lancer_oem_14_inch_m_lok_foregrip_for_mpx"
+    "filePath": "lancer_oem_14_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Lancer OEM 14 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "Troy Industries 13\" M-LOK foregrip for 416A5",
+    "category": "handguards",
     "image": "Troy Industries 13- M-LOK foregrip for 416A5 Icon.png",
     "title": "Troy Industries 13\" M-LOK foregrip for 416A5",
     "pageId": 13871,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e2/Troy_Industries_13-_M-LOK_foregrip_for_416A5_Icon.png",
-    "filePath": "troy_industries_13__m_lok_foregrip_for_416a5"
+    "filePath": "troy_industries_13__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Troy Industries 13\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0
   },
   {
     "name": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
+    "category": "handguards",
     "image": "CruxHandguard15InchIcon.png",
     "title": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
     "pageId": 13875,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/CruxHandguard15InchIcon.png?version=5b58cea475d47f42e0c3adca7bb42c05",
-    "filePath": "strike_industries_crux_15__m_lok_foregrip_for_416a5"
+    "filePath": "strike_industries_crux_15__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0
   },
   {
     "name": "Desert Tech foregrip for MDR",
+    "category": "handguards",
     "image": "Desert Tech foregrip for MDR icon.png",
     "title": "Desert Tech foregrip for MDR",
     "pageId": 13605,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/Desert_Tech_foregrip_for_MDR_icon.png?version=4cd47ea3ed6769043840c47fddfa0ac2",
-    "filePath": "desert_tech_foregrip_for_mdr"
+    "filePath": "desert_tech_foregrip_for_mdr",
+    "marketSearchName": "Desert Tech foregrip for MDR",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK MRS 14\" keymod foregrip for 416A5",
+    "category": "handguards",
     "image": "HK Keymod Icon.png",
     "title": "HK MRS 14\" keymod foregrip for 416A5",
     "pageId": 13872,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/HK_Keymod_Icon.png?version=42d0454fae29116fa47c922bcfb173cf",
-    "filePath": "hk_mrs_14__keymod_foregrip_for_416a5"
+    "filePath": "hk_mrs_14__keymod_foregrip_for_416a5",
+    "marketSearchName": "HK MRS 14\" keymod foregrip for 416A5",
+    "marketPositionOffset": 0
   },
   {
     "name": "Zenit B-10 AK Handguard",
+    "category": "handguards",
     "image": "B10Icon.png",
     "title": "Zenit B-10 AK Handguard",
     "pageId": 13866,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/B10Icon.png?version=48a3d5372c7af92a9bf188d4975421d1",
-    "filePath": "zenit_b_10_ak_handguard"
+    "filePath": "zenit_b_10_ak_handguard",
+    "marketSearchName": "Zenit B-10 AK Handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "SAI 10\" QD Rail foregrip for AR15",
+    "category": "handguards",
     "image": "SAI10Icon.png",
     "title": "SAI 10\" QD Rail foregrip for AR15",
     "pageId": 13884,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/SAI10Icon.png?version=3c0581e73c2b7c2f0f76913a7e9dbf03",
-    "filePath": "sai_10__qd_rail_foregrip_for_ar15"
+    "filePath": "sai_10__qd_rail_foregrip_for_ar15",
+    "marketSearchName": "SAI 10\" QD Rail foregrip for AR15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Midwest 10.5 inch M-LOK foregrip for MPX",
+    "category": "handguards",
     "image": "Midwest 10.5 inch M-LOK foregrip for MPX icon.png",
     "title": "Midwest 10.5 inch M-LOK foregrip for MPX",
     "pageId": 13854,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6f/Midwest_10.5_inch_M-LOK_foregrip_for_MPX_icon.png",
-    "filePath": "midwest_10_5_inch_m_lok_foregrip_for_mpx"
+    "filePath": "midwest_10_5_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Midwest 10.5 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "Midwest 4.5 inch M-LOK foregrip for MPX",
+    "category": "handguards",
     "image": "Midwest4.5Icon.png",
     "title": "Midwest 4.5 inch M-LOK foregrip for MPX",
     "pageId": 13852,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/41/Midwest4.5Icon.png",
-    "filePath": "midwest_4_5_inch_m_lok_foregrip_for_mpx"
+    "filePath": "midwest_4_5_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Midwest 4.5 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "Stngr Vypr 10\" M-LOK foregrip for AR15",
+    "category": "handguards",
     "image": "Stngr Icon.png",
     "title": "Stngr Vypr 10\" M-LOK foregrip for AR15",
     "pageId": 13879,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2c/Stngr_Icon.png?version=9696a578e96167639dd19d32a7da163e",
-    "filePath": "stngr_vypr_10__m_lok_foregrip_for_ar15"
+    "filePath": "stngr_vypr_10__m_lok_foregrip_for_ar15",
+    "marketSearchName": "Stngr Vypr 10\" M-LOK foregrip for AR15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems",
+    "category": "handguards",
     "image": "RIS II 12.25 Icon.png",
     "title": "Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems",
     "pageId": 13915,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/51/RIS_II_12.25_Icon.png",
-    "filePath": "daniel_defence_ris_ii_12_25_foregrip_for_ar_15_compatible_systems"
+    "filePath": "daniel_defence_ris_ii_12_25_foregrip_for_ar_15_compatible_systems",
+    "marketSearchName": "Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul MOE SL carbine length M-LOK foregrip for AR15",
+    "category": "handguards",
     "image": "Magpul MOE SL carabine length M-LOK foregrip for AR15 icon.png",
     "title": "Magpul MOE SL carbine length M-LOK foregrip for AR15",
     "pageId": 13886,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/Magpul_MOE_SL_carabine_length_M-LOK_foregrip_for_AR15_icon.png",
-    "filePath": "magpul_moe_sl_carbine_length_m_lok_foregrip_for_ar15"
+    "filePath": "magpul_moe_sl_carbine_length_m_lok_foregrip_for_ar15",
+    "marketSearchName": "Magpul MOE SL carbine length M-LOK foregrip for AR15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems",
+    "category": "handguards",
     "image": "RIS II FSP Icon.png",
     "title": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems",
     "pageId": 13916,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/RIS_II_FSP_Icon.png?version=2c6e1428e0ae03cb2d4bfd8a1f350373",
-    "filePath": "daniel_defence_fde_ris_ii_fsp_9_5_foregrip_for_ar_15_compatible_systems"
+    "filePath": "daniel_defence_fde_ris_ii_fsp_9_5_foregrip_for_ar_15_compatible_systems",
+    "marketSearchName": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "Polymer SVDS handguard",
+    "category": "handguards",
     "image": "Polymer SVDS foregrip icon.png",
     "title": "Polymer SVDS handguard",
     "pageId": 13839,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/30/Polymer_SVDS_foregrip_icon.png?version=351e2de36a57cd0fe3d4547f931d33e0",
-    "filePath": "polymer_svds_handguard"
+    "filePath": "polymer_svds_handguard",
+    "marketSearchName": "Polymer SVDS handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "SAI 14.5\" QD Rail foregrip for AR15",
+    "category": "handguards",
     "image": "SAI14.5Icon.png",
     "title": "SAI 14.5\" QD Rail foregrip for AR15",
     "pageId": 13883,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/SAI14.5Icon.png",
-    "filePath": "sai_14_5__qd_rail_foregrip_for_ar15"
+    "filePath": "sai_14_5__qd_rail_foregrip_for_ar15",
+    "marketSearchName": "SAI 14.5\" QD Rail foregrip for AR15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Midwest 6.5 inch M-LOK foregrip for MPX",
+    "category": "handguards",
     "image": "Midwest6.5icon.png",
     "title": "Midwest 6.5 inch M-LOK foregrip for MPX",
     "pageId": 13853,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5b/Midwest6.5icon.png",
-    "filePath": "midwest_6_5_inch_m_lok_foregrip_for_mpx"
+    "filePath": "midwest_6_5_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Midwest 6.5 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "Midwest 9\" M-LOK foregrip for 416A5",
+    "category": "handguards",
     "image": "Midwest9In416HGIcon.png",
     "title": "Midwest 9\" M-LOK foregrip for 416A5",
     "pageId": 13873,
@@ -201,10 +250,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c9/Midwest9In416HGIcon.png?version=bfaa75ed466d0e1fa43e664bbe2e0485",
-    "filePath": "midwest_9__m_lok_foregrip_for_416a5"
+    "filePath": "midwest_9__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Midwest 9\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul Zhukov-U HAND GUARD for AK",
+    "category": "handguards",
     "image": "ZhukovUIcon.gif",
     "title": "Magpul Zhukov-U HAND GUARD for AK",
     "pageId": 13914,
@@ -213,10 +265,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/ZhukovUIcon.gif?version=1ae217ba1e67e324215a67c74985bf7a",
-    "filePath": "magpul_zhukov_u_hand_guard_for_ak"
+    "filePath": "magpul_zhukov_u_hand_guard_for_ak",
+    "marketSearchName": "Magpul Zhukov-U HAND GUARD for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul MOE SL mid length M-LOK foregrip for AR15",
+    "category": "handguards",
     "image": "Magpul MOE SL mid length M-LOK foregrip for AR15 icon.png",
     "title": "Magpul MOE SL mid length M-LOK foregrip for AR15",
     "pageId": 13885,
@@ -225,10 +280,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/Magpul_MOE_SL_mid_length_M-LOK_foregrip_for_AR15_icon.png",
-    "filePath": "magpul_moe_sl_mid_length_m_lok_foregrip_for_ar15"
+    "filePath": "magpul_moe_sl_mid_length_m_lok_foregrip_for_ar15",
+    "marketSearchName": "Magpul MOE SL mid length M-LOK foregrip for AR15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Midwest 13.5\" M-LOK foregrip for 416A5",
+    "category": "handguards",
     "image": "Midwest m-lok icon.png",
     "title": "Midwest 13.5\" M-LOK foregrip for 416A5",
     "pageId": 13874,
@@ -237,10 +295,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Midwest_m-lok_icon.png",
-    "filePath": "midwest_13_5__m_lok_foregrip_for_416a5"
+    "filePath": "midwest_13_5__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Midwest 13.5\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash RPK-16 regular handguard",
+    "category": "handguards",
     "image": "Izhmash RPK-16 regular handguard icon.png",
     "title": "Izhmash RPK-16 regular handguard",
     "pageId": 12583,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/Izhmash_RPK-16_regular_handguard_icon.png",
-    "filePath": "izhmash_rpk_16_regular_handguard"
+    "filePath": "izhmash_rpk_16_regular_handguard",
+    "marketSearchName": "Izhmash RPK-16 regular handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "ADAR 2-15 wooden stock for AR-15 and compatibles",
+    "category": "handguards",
     "image": "ADAR2-15WoodenHandguardicon.png",
     "title": "ADAR 2-15 wooden stock for AR-15 and compatibles",
     "pageId": 12736,
@@ -261,10 +325,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/ADAR2-15WoodenHandguardicon.png",
-    "filePath": "adar_2_15_wooden_stock_for_ar_15_and_compatibles"
+    "filePath": "adar_2_15_wooden_stock_for_ar_15_and_compatibles",
+    "marketSearchName": "ADAR 2-15 wooden stock for AR-15 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "VLTOR CMRD Keymod handguard for AK",
+    "category": "handguards",
     "image": "VLTORCMRDKeymodicon.png",
     "title": "VLTOR CMRD Keymod handguard for AK",
     "pageId": 12873,
@@ -273,10 +340,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/VLTORCMRDKeymodicon.png?version=19bccdf13d7f080de47dd5d5e64b1022",
-    "filePath": "vltor_cmrd_keymod_handguard_for_ak"
+    "filePath": "vltor_cmrd_keymod_handguard_for_ak",
+    "marketSearchName": "VLTOR CMRD Keymod handguard for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK quadrail handguard for 416-compatible systems",
+    "category": "handguards",
     "image": "Hkquadrail416compatibleicon.png",
     "title": "HK quadrail handguard for 416-compatible systems",
     "pageId": 12121,
@@ -285,10 +355,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Hkquadrail416compatibleicon.png?version=18dbac264c3ca48494f73b29d14b7f39",
-    "filePath": "hk_quadrail_handguard_for_416_compatible_systems"
+    "filePath": "hk_quadrail_handguard_for_416_compatible_systems",
+    "marketSearchName": "HK quadrail handguard for 416-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK quadrail handguard with a flip-up sight for 416-compatible systems",
+    "category": "handguards",
     "image": "HKQuadFlipUpIcon.png",
     "title": "HK quadrail handguard with a flip-up sight for 416-compatible systems",
     "pageId": 12122,
@@ -297,10 +370,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/HKQuadFlipUpIcon.png?version=b65221dfc8b4f732f0d14a631293f4e3",
-    "filePath": "hk_quadrail_handguard_with_a_flip_up_sight_for_416_compatible_systems"
+    "filePath": "hk_quadrail_handguard_with_a_flip_up_sight_for_416_compatible_systems",
+    "marketSearchName": "HK quadrail handguard with a flip-up sight for 416-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK extended quadrail handguard for 416-compatible systems",
+    "category": "handguards",
     "image": "hk416extendedhandguardicon.png",
     "title": "HK extended quadrail handguard for 416-compatible systems",
     "pageId": 12123,
@@ -309,10 +385,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/Hk416extendedhandguardicon.png?version=0d17c603f5ce5022c73dee347752b79b",
-    "filePath": "hk_extended_quadrail_handguard_for_416_compatible_systems"
+    "filePath": "hk_extended_quadrail_handguard_for_416_compatible_systems",
+    "marketSearchName": "HK extended quadrail handguard for 416-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
+    "category": "handguards",
     "image": "Quad Rail Full Hg Icon.png",
     "title": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
     "pageId": 11524,
@@ -321,10 +400,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/52/Quad_Rail_Full_Hg_Icon.png?version=4a5a3dca418199eb08651687a4cff0f4",
-    "filePath": "ds_arms_quad_rail_full_lenght_foregrip_for_sa_58"
+    "filePath": "ds_arms_quad_rail_full_lenght_foregrip_for_sa_58",
+    "marketSearchName": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV FAS foregrip for FAL",
+    "category": "handguards",
     "image": "FAS CASV Icon.png",
     "title": "Vltor CASV FAS foregrip for FAL",
     "pageId": 11523,
@@ -333,10 +415,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/FAS_CASV_Icon.png?version=e515461e95e495ccd6661bf479ad99b0",
-    "filePath": "vltor_casv_fas_foregrip_for_fal"
+    "filePath": "vltor_casv_fas_foregrip_for_fal",
+    "marketSearchName": "Vltor CASV FAS foregrip for FAL",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor CASV FAL foregrip for FAL",
+    "category": "handguards",
     "image": "FAL CASV Icon.png",
     "title": "Vltor CASV FAL foregrip for FAL",
     "pageId": 11522,
@@ -345,10 +430,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/FAL_CASV_Icon.png?version=2f87a3e9b73a50daea215911e5c0ed8c",
-    "filePath": "vltor_casv_fal_foregrip_for_fal"
+    "filePath": "vltor_casv_fal_foregrip_for_fal",
+    "marketSearchName": "Vltor CASV FAL foregrip for FAL",
+    "marketPositionOffset": 0
   },
   {
     "name": "Original Austrian foregrip for a FAL",
+    "category": "handguards",
     "image": "FAL Austrian hg Icon.png",
     "title": "Original Austrian foregrip for a FAL",
     "pageId": 11521,
@@ -357,10 +445,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/FAL_Austrian_hg_Icon.png?version=05cf2b2e19d5cb7d6a0defef190d5588",
-    "filePath": "original_austrian_foregrip_for_a_fal"
+    "filePath": "original_austrian_foregrip_for_a_fal",
+    "marketSearchName": "Original Austrian foregrip for a FAL",
+    "marketPositionOffset": 0
   },
   {
     "name": "DSA Belgian style foregrip for a FAL",
+    "category": "handguards",
     "image": "FAL Belgian hg icon.png",
     "title": "DSA Belgian style foregrip for a FAL",
     "pageId": 11520,
@@ -369,10 +460,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/FAL_Belgian_hg_icon.png?version=69a143152298e79589470817a2508085",
-    "filePath": "dsa_belgian_style_foregrip_for_a_fal"
+    "filePath": "dsa_belgian_style_foregrip_for_a_fal",
+    "marketSearchName": "DSA Belgian style foregrip for a FAL",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aim sport Universal M-LOK foregrip for FAL",
+    "category": "handguards",
     "image": "FAL MLOK hg icon.png",
     "title": "Aim sport Universal M-LOK foregrip for FAL",
     "pageId": 11519,
@@ -381,10 +475,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/FAL_MLOK_hg_icon.png?version=67fc7c6248d39de80ad2cbd4aeaa39ae",
-    "filePath": "aim_sport_universal_m_lok_foregrip_for_fal"
+    "filePath": "aim_sport_universal_m_lok_foregrip_for_fal",
+    "marketSearchName": "Aim sport Universal M-LOK foregrip for FAL",
+    "marketPositionOffset": 0
   },
   {
     "name": "Aim sport Universal keymod foregrip for FAL",
+    "category": "handguards",
     "image": "FAL Keymod Guard Icon.png",
     "title": "Aim sport Universal keymod foregrip for FAL",
     "pageId": 11518,
@@ -393,10 +490,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/FAL_Keymod_Guard_Icon.png?version=a36b048935dea44598e6688c94af56df",
-    "filePath": "aim_sport_universal_keymod_foregrip_for_fal"
+    "filePath": "aim_sport_universal_keymod_foregrip_for_fal",
+    "marketSearchName": "Aim sport Universal keymod foregrip for FAL",
+    "marketPositionOffset": 0
   },
   {
     "name": "Hexagon handguard for AK",
+    "category": "handguards",
     "image": "AK Hex hg icon.gif",
     "title": "Hexagon handguard for AK",
     "pageId": 11533,
@@ -405,10 +505,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/AK_Hex_hg_icon.gif?version=e29bae70a303b8289ba93407cc6d2115",
-    "filePath": "hexagon_handguard_for_ak"
+    "filePath": "hexagon_handguard_for_ak",
+    "marketSearchName": "Hexagon handguard for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "DS Arms quad rail foregrip for SA-58",
+    "category": "handguards",
     "image": "SA58_Quad_Rail_Icon.png",
     "title": "DS Arms quad rail foregrip for SA-58",
     "pageId": 11025,
@@ -417,10 +520,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b6/SA58_Quad_Rail_Icon.png?version=87c02408666e294a15dea9b353839ede",
-    "filePath": "ds_arms_quad_rail_foregrip_for_sa_58"
+    "filePath": "ds_arms_quad_rail_foregrip_for_sa_58",
+    "marketSearchName": "DS Arms quad rail foregrip for SA-58",
+    "marketPositionOffset": 0
   },
   {
     "name": "Handguard MK 10 for use with AR-15 and compatible",
+    "category": "handguards",
     "image": "Handguard MK 10 for use with AR-15 and compatible Icon.png",
     "title": "Handguard MK 10 for use with AR-15 and compatible",
     "pageId": 11024,
@@ -429,10 +535,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Handguard_MK_10_for_use_with_AR-15_and_compatible_Icon.png",
-    "filePath": "handguard_mk_10_for_use_with_ar_15_and_compatible"
+    "filePath": "handguard_mk_10_for_use_with_ar_15_and_compatible",
+    "marketSearchName": "Handguard MK 10 for use with AR-15 and compatible",
+    "marketPositionOffset": 0
   },
   {
     "name": "Strike industries TRAX 1 foregrip",
+    "category": "handguards",
     "image": "Trax1icon.png",
     "title": "Strike industries TRAX 1 foregrip",
     "pageId": 9762,
@@ -441,10 +550,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/Trax1icon.png?version=bbd8da3b42106c4d33295a3db1b0e9e9",
-    "filePath": "strike_industries_trax_1_foregrip"
+    "filePath": "strike_industries_trax_1_foregrip",
+    "marketSearchName": "Strike industries TRAX 1 foregrip",
+    "marketPositionOffset": 0
   },
   {
     "name": "Strike industries TRAX 2",
+    "category": "handguards",
     "image": "Trax2icon.png",
     "title": "Strike industries TRAX 2",
     "pageId": 9763,
@@ -453,10 +565,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Trax2icon.png?version=6758f660b28f02bad5af6419f17f1666",
-    "filePath": "strike_industries_trax_2"
+    "filePath": "strike_industries_trax_2",
+    "marketSearchName": "Strike industries TRAX 2",
+    "marketPositionOffset": 0
   },
   {
     "name": "Colt M4 Length handguard for AR-15 and compatibles",
+    "category": "handguards",
     "image": "M4LengthHandguardIcon.png",
     "title": "Colt M4 Length handguard for AR-15 and compatibles",
     "pageId": 10240,
@@ -465,10 +580,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3d/M4LengthHandguardIcon.png?version=c1383f780e28997e69d37eb0be8519b2",
-    "filePath": "colt_m4_length_handguard_for_ar_15_and_compatibles"
+    "filePath": "colt_m4_length_handguard_for_ar_15_and_compatibles",
+    "marketSearchName": "Colt M4 Length handguard for AR-15 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "XRSU47SU Tactical Handguard for AKS-74U",
+    "category": "handguards",
     "image": "Aksurailmounticon.png",
     "title": "XRSU47SU Tactical Handguard for AKS-74U",
     "pageId": 9768,
@@ -477,10 +595,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Aksurailmounticon.png?version=57b17f35450dec6e4e8a76cd869a426c",
-    "filePath": "xrsu47su_tactical_handguard_for_aks_74u"
+    "filePath": "xrsu47su_tactical_handguard_for_aks_74u",
+    "marketSearchName": "XRSU47SU Tactical Handguard for AKS-74U",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP5 TL-99 Aluminum handguard",
+    "category": "handguards",
     "image": "Mp5tl99icon.png",
     "title": "MP5 TL-99 Aluminum handguard",
     "pageId": 9757,
@@ -489,10 +610,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7d/Mp5tl99icon.png?version=46dc36da84611043f78a5728bfa3ea4c",
-    "filePath": "mp5_tl_99_aluminum_handguard"
+    "filePath": "mp5_tl_99_aluminum_handguard",
+    "marketSearchName": "MP5 TL-99 Aluminum handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP5 Wide Tropical Polymer handguard",
+    "category": "handguards",
     "image": "Mp5wt.png",
     "title": "MP5 Wide Tropical Polymer handguard",
     "pageId": 6974,
@@ -501,10 +625,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/Mp5wt.png?version=4bc5fd51613ef878ef57dea9e841daa1",
-    "filePath": "mp5_wide_tropical_polymer_handguard"
+    "filePath": "mp5_wide_tropical_polymer_handguard",
+    "marketSearchName": "MP5 Wide Tropical Polymer handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "Wooden AK-74 handguard (6P20 Sb.6)",
+    "category": "handguards",
     "image": "6p20sb6.png",
     "title": "Wooden AK-74 handguard (6P20 Sb.6)",
     "pageId": 3124,
@@ -513,10 +640,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/6p20sb6.png?version=85ca5c5f13a0f0cc8f40d306062dc05e",
-    "filePath": "wooden_ak_74_handguard__6p20_sb_6_"
+    "filePath": "wooden_ak_74_handguard__6p20_sb_6_",
+    "marketSearchName": "Wooden AK-74 handguard (6P20 Sb.6)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul MOE AKM HAND GUARD for AK",
+    "category": "handguards",
     "image": "MOE_AKM_Icon.gif",
     "title": "Magpul MOE AKM HAND GUARD for AK",
     "pageId": 6717,
@@ -525,10 +655,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/29/MOE_AKM_Icon.gif?version=b12b5570541bf341ef8c6ba73b73c336",
-    "filePath": "magpul_moe_akm_hand_guard_for_ak"
+    "filePath": "magpul_moe_akm_hand_guard_for_ak",
+    "marketSearchName": "Magpul MOE AKM HAND GUARD for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "LOBAEV Arms DVL-10 M2 handguard",
+    "category": "handguards",
     "image": "Dvlhandgaurd.png",
     "title": "LOBAEV Arms DVL-10 M2 handguard",
     "pageId": 3286,
@@ -537,10 +670,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c9/Dvlhandgaurd.png?version=27f3d226763993aadd02e56d69f04b7b",
-    "filePath": "lobaev_arms_dvl_10_m2_handguard"
+    "filePath": "lobaev_arms_dvl_10_m2_handguard",
+    "marketSearchName": "LOBAEV Arms DVL-10 M2 handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "Wooden AKM / VPO-209 handguard",
+    "category": "handguards",
     "image": "Vpo209hg.png",
     "title": "Wooden AKM / VPO-209 handguard",
     "pageId": 7864,
@@ -549,10 +685,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Vpo209hg.png?version=d7d967f5904d135b6414244574173cec",
-    "filePath": "wooden_akm___vpo_209_handguard"
+    "filePath": "wooden_akm___vpo_209_handguard",
+    "marketSearchName": "Wooden AKM / VPO-209 handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "Wooden AK-74 handguard (6P1 Sb.6-1)",
+    "category": "handguards",
     "image": "6p1sb61.png",
     "title": "Wooden AK-74 handguard (6P1 Sb.6-1)",
     "pageId": 7074,
@@ -561,10 +700,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/6p1sb61.png?version=e828f7f245cdce7a3510f0c63e2c28d4",
-    "filePath": "wooden_ak_74_handguard__6p1_sb_6_1_"
+    "filePath": "wooden_ak_74_handguard__6p1_sb_6_1_",
+    "marketSearchName": "Wooden AK-74 handguard (6P1 Sb.6-1)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Wooden VPO-136 handguard",
+    "category": "handguards",
     "image": "Vpo136hg.png",
     "title": "Wooden VPO-136 handguard",
     "pageId": 7148,
@@ -573,10 +715,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/Vpo136hg.png?version=49c403267bad052684d2501cc5379349",
-    "filePath": "wooden_vpo_136_handguard"
+    "filePath": "wooden_vpo_136_handguard",
+    "marketSearchName": "Wooden VPO-136 handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmekh MP-153 Polymer stock",
+    "category": "handguards",
     "image": "Mp153polymer.png",
     "title": "Izhmekh MP-153 Polymer stock",
     "pageId": 3107,
@@ -585,10 +730,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/Mp153polymer.png?version=4bc5fd51613ef878ef57dea9e841daa1",
-    "filePath": "izhmekh_mp_153_polymer_stock"
+    "filePath": "izhmekh_mp_153_polymer_stock",
+    "marketSearchName": "Izhmekh MP-153 Polymer stock",
+    "marketPositionOffset": 0
   },
   {
     "name": "Krebs Custom UFM Keymod System handguard for AKM",
+    "category": "handguards",
     "image": "Ufm.png",
     "title": "Krebs Custom UFM Keymod System handguard for AKM",
     "pageId": 7265,
@@ -597,10 +745,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/Ufm.png?version=e1eb8e7876b260b4307eca9f642d9f58",
-    "filePath": "krebs_custom_ufm_keymod_system_handguard_for_akm"
+    "filePath": "krebs_custom_ufm_keymod_system_handguard_for_akm",
+    "marketSearchName": "Krebs Custom UFM Keymod System handguard for AKM",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP5SD Polymer handguard",
+    "category": "handguards",
     "image": "Mp5sdhg.png",
     "title": "MP5SD Polymer handguard",
     "pageId": 6975,
@@ -609,10 +760,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/47/Mp5sdhg.png?version=216ed1cabfe163d205990469e3957664",
-    "filePath": "mp5sd_polymer_handguard"
+    "filePath": "mp5sd_polymer_handguard",
+    "marketSearchName": "MP5SD Polymer handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmekh MP-133 Beechwood forestock",
+    "category": "handguards",
     "image": "Mr133beech.png",
     "title": "Izhmekh MP-133 Beechwood forestock",
     "pageId": 3269,
@@ -621,10 +775,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/Mr133beech.png?version=279b17255e58f128ffe05144a999bf09",
-    "filePath": "izhmekh_mp_133_beechwood_forestock"
+    "filePath": "izhmekh_mp_133_beechwood_forestock",
+    "marketSearchName": "Izhmekh MP-133 Beechwood forestock",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-11 AKS-74U Handguard",
+    "category": "handguards",
     "image": "B-11hg.png",
     "title": "B-11 AKS-74U Handguard",
     "pageId": 3282,
@@ -633,10 +790,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/B-11hg.png",
-    "filePath": "b_11_aks_74u_handguard"
+    "filePath": "b_11_aks_74u_handguard",
+    "marketSearchName": "B-11 AKS-74U Handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "Handguard SIG MPX Gen. 1 for MPX",
+    "category": "handguards",
     "image": "Mpxgen1.png",
     "title": "Handguard SIG MPX Gen. 1 for MPX",
     "pageId": 6870,
@@ -645,10 +805,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Mpxgen1.png?version=4b4ebb5f8f87d6dcba63710dfa60a1be",
-    "filePath": "handguard_sig_mpx_gen__1_for_mpx"
+    "filePath": "handguard_sig_mpx_gen__1_for_mpx",
+    "marketSearchName": "Handguard SIG MPX Gen. 1 for MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "Remington Arms handguard for a R11 RSASS",
+    "category": "handguards",
     "image": "Rsasshg.png",
     "title": "Remington Arms handguard for a R11 RSASS",
     "pageId": 8407,
@@ -657,10 +820,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/Rsasshg.png?version=2cbb6ba136d6f2a8e98a3f912762f76e",
-    "filePath": "remington_arms_handguard_for_a_r11_rsass"
+    "filePath": "remington_arms_handguard_for_a_r11_rsass",
+    "marketSearchName": "Remington Arms handguard for a R11 RSASS",
+    "marketPositionOffset": 0
   },
   {
     "name": "Handguard War Sport LVOA-C blk. for use with AR-15 and compatible",
+    "category": "handguards",
     "image": "Lvoac.png",
     "title": "Handguard War Sport LVOA-C blk. for use with AR-15 and compatible",
     "pageId": 6977,
@@ -669,10 +835,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Lvoac.png?version=8f1b2f41867c75fd6104e5e8d84ff668",
-    "filePath": "handguard_war_sport_lvoa_c_blk__for_use_with_ar_15_and_compatible"
+    "filePath": "handguard_war_sport_lvoa_c_blk__for_use_with_ar_15_and_compatible",
+    "marketSearchName": "Handguard War Sport LVOA-C blk. for use with AR-15 and compatible",
+    "marketPositionOffset": 0
   },
   {
     "name": "Handguard War Sport LVOA-S blk. for use with AR-15 and compatible",
+    "category": "handguards",
     "image": "Lvoas.png",
     "title": "Handguard War Sport LVOA-S blk. for use with AR-15 and compatible",
     "pageId": 6976,
@@ -681,10 +850,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/Lvoas.png?version=c6875acdefc7fdedbd91bfbc1658f391",
-    "filePath": "handguard_war_sport_lvoa_s_blk__for_use_with_ar_15_and_compatible"
+    "filePath": "handguard_war_sport_lvoa_s_blk__for_use_with_ar_15_and_compatible",
+    "marketSearchName": "Handguard War Sport LVOA-S blk. for use with AR-15 and compatible",
+    "marketPositionOffset": 0
   },
   {
     "name": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems",
+    "category": "handguards",
     "image": "DD Ris2 Icon.gif",
     "title": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems",
     "pageId": 3106,
@@ -693,10 +865,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/DD_Ris2_Icon.gif?version=afe1b2dc33e8887ecab35df51533afd4",
-    "filePath": "daniel_defence_ris_ii_9_5_foregrip_for_ar_15_compatible_systems"
+    "filePath": "daniel_defence_ris_ii_9_5_foregrip_for_ar_15_compatible_systems",
+    "marketSearchName": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "SOK-12 aluminum handguard MTU002 Long Top",
+    "category": "handguards",
     "image": "Mtu002l.png",
     "title": "SOK-12 aluminum handguard MTU002 Long Top",
     "pageId": 3283,
@@ -705,10 +880,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/Mtu002l.png?version=4b4ebb5f8f87d6dcba63710dfa60a1be",
-    "filePath": "sok_12_aluminum_handguard_mtu002_long_top"
+    "filePath": "sok_12_aluminum_handguard_mtu002_long_top",
+    "marketSearchName": "SOK-12 aluminum handguard MTU002 Long Top",
+    "marketPositionOffset": 0
   },
   {
     "name": "Polymer AK-74 foregrip (6P20 Sb.9)",
+    "category": "handguards",
     "image": "6p20sb9.png",
     "title": "Polymer AK-74 foregrip (6P20 Sb.9)",
     "pageId": 3272,
@@ -717,10 +895,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/6p20sb9.png?version=26dea5ce139d3af5b6138ba5a00d314e",
-    "filePath": "polymer_ak_74_foregrip__6p20_sb_9_"
+    "filePath": "polymer_ak_74_foregrip__6p20_sb_9_",
+    "marketSearchName": "Polymer AK-74 foregrip (6P20 Sb.9)",
+    "marketPositionOffset": 0
   },
   {
     "name": "SOK-12 polymer handguard Sb.7-1",
+    "category": "handguards",
     "image": "Sb.7-1.png",
     "title": "SOK-12 polymer handguard Sb.7-1",
     "pageId": 3278,
@@ -729,10 +910,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f0/Sb.7-1.png",
-    "filePath": "sok_12_polymer_handguard_sb_7_1"
+    "filePath": "sok_12_polymer_handguard_sb_7_1",
+    "marketSearchName": "SOK-12 polymer handguard Sb.7-1",
+    "marketPositionOffset": 0
   },
   {
     "name": "SOK-12 aluminum handguard MTU002 Short Top",
+    "category": "handguards",
     "image": "Mtu002s.png",
     "title": "SOK-12 aluminum handguard MTU002 Short Top",
     "pageId": 3284,
@@ -741,10 +925,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8d/Mtu002s.png?version=236873db062d363559eda1556d4597c6",
-    "filePath": "sok_12_aluminum_handguard_mtu002_short_top"
+    "filePath": "sok_12_aluminum_handguard_mtu002_short_top",
+    "marketSearchName": "SOK-12 aluminum handguard MTU002 Short Top",
+    "marketPositionOffset": 0
   },
   {
     "name": "CAA RS47 foregrip for AK-compatible systems",
+    "category": "handguards",
     "image": "Caars47.png",
     "title": "CAA RS47 foregrip for AK-compatible systems",
     "pageId": 2992,
@@ -753,10 +940,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Caars47.png?version=8dc30607ade2d240004631762da804c9",
-    "filePath": "caa_rs47_foregrip_for_ak_compatible_systems"
+    "filePath": "caa_rs47_foregrip_for_ak_compatible_systems",
+    "marketSearchName": "CAA RS47 foregrip for AK-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "B-10M foregrip and rail mount B-19",
+    "category": "handguards",
     "image": "B10m.png",
     "title": "B-10M foregrip and rail mount B-19",
     "pageId": 3274,
@@ -765,10 +955,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/B10m.png?version=b15168bc6d3b549632fcd4f84c11f5ba",
-    "filePath": "b_10m_foregrip_and_rail_mount_b_19"
+    "filePath": "b_10m_foregrip_and_rail_mount_b_19",
+    "marketSearchName": "B-10M foregrip and rail mount B-19",
+    "marketPositionOffset": 0
   },
   {
     "name": "Wooden AKS-74U Handguard (6P26 Sb.6)",
+    "category": "handguards",
     "image": "6p26sb6.png",
     "title": "Wooden AKS-74U Handguard (6P26 Sb.6)",
     "pageId": 3281,
@@ -777,10 +970,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/6p26sb6.png?version=e657d833fed0ffce3d5109195c6e3b1d",
-    "filePath": "wooden_aks_74u_handguard__6p26_sb_6_"
+    "filePath": "wooden_aks_74u_handguard__6p26_sb_6_",
+    "marketSearchName": "Wooden AKS-74U Handguard (6P26 Sb.6)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Knight's Armament KAC RIS handguard for AR-15 and compatibles",
+    "category": "handguards",
     "image": "Kacris.png",
     "title": "Knight's Armament KAC RIS handguard for AR-15 and compatibles",
     "pageId": 3117,
@@ -789,10 +985,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Kacris.png?version=b4d40e8eb06da0058db6ceec2d94d677",
-    "filePath": "knight_s_armament_kac_ris_handguard_for_ar_15_and_compatibles"
+    "filePath": "knight_s_armament_kac_ris_handguard_for_ar_15_and_compatibles",
+    "marketSearchName": "Knight's Armament KAC RIS handguard for AR-15 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "Custom plastic MP-133 forestock with mounts",
+    "category": "handguards",
     "image": "Custommp133.png",
     "title": "Custom plastic MP-133 forestock with mounts",
     "pageId": 3270,
@@ -801,10 +1000,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/Custommp133.png?version=92af34399ca66335f0b442a6d02d8ce2",
-    "filePath": "custom_plastic_mp_133_forestock_with_mounts"
+    "filePath": "custom_plastic_mp_133_forestock_with_mounts",
+    "marketSearchName": "Custom plastic MP-133 forestock with mounts",
+    "marketPositionOffset": 0
   },
   {
     "name": "Fab Defence PR870 forestock",
+    "category": "handguards",
     "image": "FAB Defense PR870 forestock icon.png",
     "title": "Fab Defence PR870 forestock",
     "pageId": 9715,
@@ -813,10 +1015,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/FAB_Defense_PR870_forestock_icon.png?version=a2280411f6106364776f9b8e719ab640",
-    "filePath": "fab_defence_pr870_forestock"
+    "filePath": "fab_defence_pr870_forestock",
+    "marketSearchName": "Fab Defence PR870 forestock",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul MOE M870 forestock",
+    "category": "handguards",
     "image": "Magpulm870forestockicon.png",
     "title": "Magpul MOE M870 forestock",
     "pageId": 9718,
@@ -825,10 +1030,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/Magpulm870forestockicon.png?version=1577d9f433010e4813c9dafccce80d2b",
-    "filePath": "magpul_moe_m870_forestock"
+    "filePath": "magpul_moe_m870_forestock",
+    "marketSearchName": "Magpul MOE M870 forestock",
+    "marketPositionOffset": 0
   },
   {
     "name": "Speedfeed short M870 forestock",
+    "category": "handguards",
     "image": "Speedfedicon.png",
     "title": "Speedfeed short M870 forestock",
     "pageId": 9722,
@@ -837,10 +1045,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/Speedfedicon.png?version=53daa3106aff3d044f239e235d030e7d",
-    "filePath": "speedfeed_short_m870_forestock"
+    "filePath": "speedfeed_short_m870_forestock",
+    "marketSearchName": "Speedfeed short M870 forestock",
+    "marketPositionOffset": 0
   },
   {
     "name": "Polymer AK-100 series foregrip",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "Polymer AK-100 series foregrip",
     "pageId": 15411,
@@ -849,10 +1060,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "polymer_ak_100_series_foregrip"
+    "filePath": "polymer_ak_100_series_foregrip",
+    "marketSearchName": "Polymer AK-100 series foregrip",
+    "marketPositionOffset": 0
   },
   {
     "name": "Polymer ASh-12 foregrip",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "Polymer ASh-12 foregrip",
     "pageId": 15436,
@@ -861,10 +1075,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "polymer_ash_12_foregrip"
+    "filePath": "polymer_ash_12_foregrip",
+    "marketSearchName": "Polymer ASh-12 foregrip",
+    "marketPositionOffset": 0
   },
   {
     "name": "5.45 Design \"Aggressor\" handguard for AK",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "5.45 Design \"Aggressor\" handguard for AK",
     "pageId": 15454,
@@ -873,10 +1090,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "5_45_design__aggressor__handguard_for_ak"
+    "filePath": "5_45_design__aggressor__handguard_for_ak",
+    "marketSearchName": "5.45 Design \"Aggressor\" handguard for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
     "pageId": 15475,
@@ -885,10 +1105,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "strike_industries_viper_carabine_length_m_lok_foregrip_for_ar_15"
+    "filePath": "strike_industries_viper_carabine_length_m_lok_foregrip_for_ar_15",
+    "marketSearchName": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems",
     "pageId": 15477,
@@ -897,10 +1120,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "noveske_sws_n6_10_5_inch_foregrip_for_ar_10_compatible_systems"
+    "filePath": "noveske_sws_n6_10_5_inch_foregrip_for_ar_10_compatible_systems",
+    "marketSearchName": "Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
     "pageId": 15478,
@@ -909,10 +1135,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "noveske_sws_n6_split_handguard_for_ar_10_compatible_systems"
+    "filePath": "noveske_sws_n6_split_handguard_for_ar_10_compatible_systems",
+    "marketSearchName": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "CAA HX-5 MP5 handguard",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "CAA HX-5 MP5 handguard",
     "pageId": 15480,
@@ -921,10 +1150,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "caa_hx_5_mp5_handguard"
+    "filePath": "caa_hx_5_mp5_handguard",
+    "marketSearchName": "CAA HX-5 MP5 handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "URX 3.1 10.75\" handguard for AR15",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "URX 3.1 10.75\" handguard for AR15",
     "pageId": 15502,
@@ -933,10 +1165,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "urx_3_1_10_75__handguard_for_ar15"
+    "filePath": "urx_3_1_10_75__handguard_for_ar15",
+    "marketSearchName": "URX 3.1 10.75\" handguard for AR15",
+    "marketPositionOffset": 0
   },
   {
     "name": "URX 3 8\" handguard for AR15",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "URX 3 8\" handguard for AR15",
     "pageId": 15503,
@@ -945,10 +1180,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "urx_3_8__handguard_for_ar15"
+    "filePath": "urx_3_8__handguard_for_ar15",
+    "marketSearchName": "URX 3 8\" handguard for AR15",
+    "marketPositionOffset": 0
   },
   {
     "name": "Alfa Arms Goliaf AKS-74U Handguard",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "Alfa Arms Goliaf AKS-74U Handguard",
     "pageId": 15515,
@@ -957,10 +1195,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "alfa_arms_goliaf_aks_74u_handguard"
+    "filePath": "alfa_arms_goliaf_aks_74u_handguard",
+    "marketSearchName": "Alfa Arms Goliaf AKS-74U Handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "PTR Tri-Rail MP5 handguard",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "PTR Tri-Rail MP5 handguard",
     "pageId": 15517,
@@ -969,10 +1210,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "ptr_tri_rail_mp5_handguard"
+    "filePath": "ptr_tri_rail_mp5_handguard",
+    "marketSearchName": "PTR Tri-Rail MP5 handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "TDI AKM-L handguard for AK",
+    "category": "handguards",
     "image": "wiki.png",
     "title": "TDI AKM-L handguard for AK",
     "pageId": 15518,
@@ -981,10 +1225,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "tdi_akm_l_handguard_for_ak"
+    "filePath": "tdi_akm_l_handguard_for_ak",
+    "marketSearchName": "TDI AKM-L handguard for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "Wooden CAF WASR 10-63 handguard",
+    "category": "handguards",
     "image": "DingDongGripIcon.png",
     "title": "Wooden CAF WASR 10-63 handguard",
     "pageId": 15549,
@@ -993,10 +1240,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/DingDongGripIcon.png?version=449df473ba27803b1360875e5bb5d755",
-    "filePath": "wooden_caf_wasr_10_63_handguard"
+    "filePath": "wooden_caf_wasr_10_63_handguard",
+    "marketSearchName": "Wooden CAF WASR 10-63 handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP5k Polymer handguard",
+    "category": "handguards",
     "image": "MP5k_Polymer_handguard_icon.png",
     "title": "MP5k Polymer handguard",
     "pageId": 15553,
@@ -1005,10 +1255,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/MP5k_Polymer_handguard_icon.png?version=c9aaa20852fa730545edc0ee5a8afe85",
-    "filePath": "mp5k_polymer_handguard"
+    "filePath": "mp5k_polymer_handguard",
+    "marketSearchName": "MP5k Polymer handguard",
+    "marketPositionOffset": 0
   },
   {
     "name": "Lone Star Ion Lite handguard for AR-15 and compatible",
+    "category": "handguards",
     "image": "Ion Lite Icon.PNG",
     "title": "Lone Star Ion Lite handguard for AR-15 and compatible",
     "pageId": 15572,
@@ -1017,6 +1270,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/42/Ion_Lite_Icon.PNG?version=5097343003267f6fd49afe6ab476b926",
-    "filePath": "lone_star_ion_lite_handguard_for_ar_15_and_compatible"
+    "filePath": "lone_star_ion_lite_handguard_for_ar_15_and_compatible",
+    "marketSearchName": "Lone Star Ion Lite handguard for AR-15 and compatible",
+    "marketPositionOffset": 0
   }
 ]

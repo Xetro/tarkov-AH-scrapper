@@ -1,6 +1,7 @@
 [
   {
     "name": "Tactical glasses",
+    "category": "eyewear",
     "image": "Tactical_Glasses_icon.png",
     "title": "Tactical glasses",
     "pageId": 4176,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/Tactical_Glasses_icon.png?version=c54b518e62203ce7e0a03e3f833a3605",
-    "filePath": "tactical_glasses"
+    "filePath": "tactical_glasses",
+    "marketSearchName": "Tactical glasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "Anti-fragmentation glasses",
+    "category": "eyewear",
     "image": "Anti-fragmentation goggles icon.png",
     "title": "Anti-fragmentation glasses",
     "pageId": 6081,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Anti-fragmentation_goggles_icon.png",
-    "filePath": "anti_fragmentation_glasses"
+    "filePath": "anti_fragmentation_glasses",
+    "marketSearchName": "Anti-fragmentation glasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "6B34 Anti-fragmentation glasses",
+    "category": "eyewear",
     "image": "6b34_glasses_icon.png",
     "title": "6B34 Anti-fragmentation glasses",
     "pageId": 10737,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/6b34_glasses_icon.png?version=917d09780c6741ab6e0ad66ce8d44e86",
-    "filePath": "6b34_anti_fragmentation_glasses"
+    "filePath": "6b34_anti_fragmentation_glasses",
+    "marketSearchName": "6B34 Anti-fragmentation glasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "Round frame sunglasses",
+    "category": "eyewear",
     "image": "Round_frame_sunglasses_icon.png",
     "title": "Round frame sunglasses",
     "pageId": 9556,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/Round_frame_sunglasses_icon.png?version=be8cabe9fc0aa0c15ecfb3b0f1b7d73d",
-    "filePath": "round_frame_sunglasses"
+    "filePath": "round_frame_sunglasses",
+    "marketSearchName": "Round frame sunglasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "Dundukk sport sunglasses",
+    "category": "eyewear",
     "image": "Dundukk sport sunglasses icon.png",
     "title": "Dundukk sport sunglasses",
     "pageId": 9557,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/Dundukk_sport_sunglasses_icon.png?version=13f3ab3736490f1119efe2be06a907bd",
-    "filePath": "dundukk_sport_sunglasses"
+    "filePath": "dundukk_sport_sunglasses",
+    "marketSearchName": "Dundukk sport sunglasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "SI M Frame safety glasses",
+    "category": "eyewear",
     "image": "SIMcion.png",
     "title": "SI M Frame safety glasses",
     "pageId": 12782,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/SIMcion.png?version=4c5cb6f87aee5e07a4f86cd665ac3da1",
-    "filePath": "si_m_frame_safety_glasses"
+    "filePath": "si_m_frame_safety_glasses",
+    "marketSearchName": "SI M Frame safety glasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "Pyramex Proximity safety glasses",
+    "category": "eyewear",
     "image": "Pyramexicon.png",
     "title": "Pyramex Proximity safety glasses",
     "pageId": 12734,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/Pyramexicon.png?version=fe39ac08c84c4b8f858b0de316eb19b0",
-    "filePath": "pyramex_proximity_safety_glasses"
+    "filePath": "pyramex_proximity_safety_glasses",
+    "marketSearchName": "Pyramex Proximity safety glasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "RayBench Hipster Reserve sunglasses",
+    "category": "eyewear",
     "image": "RayBench_Hipster_Reserve_Sunglasses_icon.png",
     "title": "RayBench Hipster Reserve sunglasses",
     "pageId": 9558,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/RayBench_Hipster_Reserve_Sunglasses_icon.png?version=4ae4e4faf26ff08f4ad274d8328e7775",
-    "filePath": "raybench_hipster_reserve_sunglasses"
+    "filePath": "raybench_hipster_reserve_sunglasses",
+    "marketSearchName": "RayBench Hipster Reserve sunglasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "RayBench Aviator glasses|RayBench Aviator Glasses",
+    "category": "eyewear",
     "image": "Aviator Sunglasses icon.png",
     "title": "RayBench Aviator glasses",
     "pageId": 15601,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/Aviator_Sunglasses_icon.png?version=57eb1ed5ff4a84df272bd15d9247c0f4",
-    "filePath": "raybench_aviator_glasses_raybench_aviator_glasses"
+    "filePath": "raybench_aviator_glasses_raybench_aviator_glasses",
+    "marketSearchName": "RayBench Aviator glasses|RayBench Aviator Glasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "Crossbow tactical glasses",
+    "category": "eyewear",
     "image": "Crossbow_tactical_glasses_icon.png",
     "title": "Crossbow tactical glasses",
     "pageId": 15593,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/25/Crossbow_tactical_glasses_icon.png?version=fff483a636f27dadb654b84035280a12",
-    "filePath": "crossbow_tactical_glasses"
+    "filePath": "crossbow_tactical_glasses",
+    "marketSearchName": "Crossbow tactical glasses",
+    "marketPositionOffset": 0
   },
   {
     "name": "Gascan glasses",
+    "category": "eyewear",
     "image": "Gascan icon.JPG",
     "title": "Gascan glasses",
     "pageId": 15598,
@@ -129,6 +160,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/Gascan_icon.JPG?version=ddff814e5155a10a6180777f603451b6",
-    "filePath": "gascan_glasses"
+    "filePath": "gascan_glasses",
+    "marketSearchName": "Gascan glasses",
+    "marketPositionOffset": 0
   }
 ]

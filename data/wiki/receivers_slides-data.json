@@ -1,6 +1,7 @@
 [
   {
     "name": "Molot VPO-101 dust cover",
+    "category": "receivers_slides",
     "image": "VOP-101DCIcon.png",
     "title": "Molot VPO-101 dust cover",
     "pageId": 13844,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/18/VOP-101DCIcon.png",
-    "filePath": "molot_vpo_101_dust_cover"
+    "filePath": "molot_vpo_101_dust_cover",
+    "marketSearchName": "Molot VPO-101 dust cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash SVDS dust cover",
+    "category": "receivers_slides",
     "image": "Izhmash SVDS dust cover icon.png",
     "title": "Izhmash SVDS dust cover",
     "pageId": 13834,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Izhmash_SVDS_dust_cover_icon.png?version=505bb171cf204774780bfe6cc4a70f1d",
-    "filePath": "izhmash_svds_dust_cover"
+    "filePath": "izhmash_svds_dust_cover",
+    "marketSearchName": "Izhmash SVDS dust cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "Upper receiver ADAR 2-15 5.56x45 for 2-15 assault rifle",
+    "category": "receivers_slides",
     "image": "Adaruppericon.png",
     "title": "Upper receiver ADAR 2-15 5.56x45 for 2-15 assault rifle",
     "pageId": 12737,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/Adaruppericon.png?version=2ff50e692c82cdee36f61210b8c6feac",
-    "filePath": "upper_receiver_adar_2_15_5_56x45_for_2_15_assault_rifle"
+    "filePath": "upper_receiver_adar_2_15_5_56x45_for_2_15_assault_rifle",
+    "marketSearchName": "Upper receiver ADAR 2-15 5.56x45 for 2-15 assault rifle",
+    "marketPositionOffset": 0
   },
   {
     "name": "Noveske Gen.3 5.56x45 Upper receiver for AR systems",
+    "category": "receivers_slides",
     "image": "Noveskeuppericon.png",
     "title": "Noveske Gen.3 5.56x45 Upper receiver for AR systems",
     "pageId": 12792,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/Noveskeuppericon.png?version=2f7d156596e48ff0d26428dc3391d790",
-    "filePath": "noveske_gen_3_5_56x45_upper_receiver_for_ar_systems"
+    "filePath": "noveske_gen_3_5_56x45_upper_receiver_for_ar_systems",
+    "marketSearchName": "Noveske Gen.3 5.56x45 Upper receiver for AR systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "P226 Sig Legion full size pistol slide",
+    "category": "receivers_slides",
     "image": "Legion slide icon.png",
     "title": "P226 Sig Legion full size pistol slide",
     "pageId": 12843,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fc/Legion_slide_icon.png?version=43a487efb95bfa38da5d3f585aed4e87",
-    "filePath": "p226_sig_legion_full_size_pistol_slide"
+    "filePath": "p226_sig_legion_full_size_pistol_slide",
+    "marketSearchName": "P226 Sig Legion full size pistol slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "P226 Sig Emperor scorpion pistol slide",
+    "category": "receivers_slides",
     "image": "Scorpion slide icon.png",
     "title": "P226 Sig Emperor scorpion pistol slide",
     "pageId": 12810,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/Scorpion_slide_icon.png?version=ade13d654026e78fed88dff2d128db33",
-    "filePath": "p226_sig_emperor_scorpion_pistol_slide"
+    "filePath": "p226_sig_emperor_scorpion_pistol_slide",
+    "marketSearchName": "P226 Sig Emperor scorpion pistol slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "P226 Sig Stainless elite pistol slide",
+    "category": "receivers_slides",
     "image": "Stainless elite slide icon.png",
     "title": "P226 Sig Stainless elite pistol slide",
     "pageId": 12871,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/Stainless_elite_slide_icon.png?version=ea436416f8d4bd88f9b4ec8bd317fa4e",
-    "filePath": "p226_sig_stainless_elite_pistol_slide"
+    "filePath": "p226_sig_stainless_elite_pistol_slide",
+    "marketSearchName": "P226 Sig Stainless elite pistol slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "P226 Axelson tactical Mk.25 pistol slide",
+    "category": "receivers_slides",
     "image": "Axelson slide icon.png",
     "title": "P226 Axelson tactical Mk.25 pistol slide",
     "pageId": 12723,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/Axelson_slide_icon.png?version=4e93b5767d5c21fcb40db2ac4ac13784",
-    "filePath": "p226_axelson_tactical_mk_25_pistol_slide"
+    "filePath": "p226_axelson_tactical_mk_25_pistol_slide",
+    "marketSearchName": "P226 Axelson tactical Mk.25 pistol slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash regual dust cover for RPK-16",
+    "category": "receivers_slides",
     "image": "Izhmash regual dust cover for RPK-16 icon.png",
     "title": "Izhmash regual dust cover for RPK-16",
     "pageId": 12576,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f2/Izhmash_regual_dust_cover_for_RPK-16_icon.png",
-    "filePath": "izhmash_regual_dust_cover_for_rpk_16"
+    "filePath": "izhmash_regual_dust_cover_for_rpk_16",
+    "marketSearchName": "Izhmash regual dust cover for RPK-16",
+    "marketPositionOffset": 0
   },
   {
     "name": "Upper receiver HK 416A5 5.56x45 for 416A5",
+    "category": "receivers_slides",
     "image": "Hk416uppericon.png",
     "title": "Upper receiver HK 416A5 5.56x45 for 416A5",
     "pageId": 11891,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/Hk416uppericon.png?version=6f8c5aa69a07e847662f9cb879843302",
-    "filePath": "upper_receiver_hk_416a5_5_56x45_for_416a5"
+    "filePath": "upper_receiver_hk_416a5_5_56x45_for_416a5",
+    "marketSearchName": "Upper receiver HK 416A5 5.56x45 for 416A5",
+    "marketPositionOffset": 0
   },
   {
     "name": "Regular dust cover for FAL",
+    "category": "receivers_slides",
     "image": "FAL Dustcover icon.png",
     "title": "Regular dust cover for FAL",
     "pageId": 11517,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/01/FAL_Dustcover_icon.png?version=a1c32953663dc2048bb03d5d53468eb7",
-    "filePath": "regular_dust_cover_for_fal"
+    "filePath": "regular_dust_cover_for_fal",
+    "marketSearchName": "Regular dust cover for FAL",
+    "marketPositionOffset": 0
   },
   {
     "name": "DS Arms Extreme Duty dust cover for SA58",
+    "category": "receivers_slides",
     "image": "SA58_DUST_Icon.png",
     "title": "DS Arms Extreme Duty dust cover for SA58",
     "pageId": 11061,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/SA58_DUST_Icon.png?version=f1e3fb1186cf9fda2ea8301317c7253f",
-    "filePath": "ds_arms_extreme_duty_dust_cover_for_sa58"
+    "filePath": "ds_arms_extreme_duty_dust_cover_for_sa58",
+    "marketSearchName": "DS Arms Extreme Duty dust cover for SA58",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock 18C 9x19 slide",
+    "category": "receivers_slides",
     "image": "Glock 18C 9x19 slide Icon.png",
     "title": "Glock 18C 9x19 slide",
     "pageId": 11060,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/Glock_18C_9x19_slide_Icon.png?version=0b238ff78d2011fa5a531410ccc34778",
-    "filePath": "glock_18c_9x19_slide"
+    "filePath": "glock_18c_9x19_slide",
+    "marketSearchName": "Glock 18C 9x19 slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash АK-74M dust cover (6P34 0-1)",
+    "category": "receivers_slides",
     "image": "6p340-1icon.png",
     "title": "Izhmash АK-74M dust cover (6P34 0-1)",
     "pageId": 9743,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/6p340-1icon.png",
-    "filePath": "izhmash__k_74m_dust_cover__6p34_0_1_"
+    "filePath": "izhmash__k_74m_dust_cover__6p34_0_1_",
+    "marketSearchName": "Izhmash АK-74M dust cover (6P34 0-1)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock 9x19 Moto Cut slide",
+    "category": "receivers_slides",
     "image": "Glockmotocuticon.png",
     "title": "Glock 9x19 Moto Cut slide",
     "pageId": 9753,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/Glockmotocuticon.png?version=f207f3a39efcccf29d2a0b67f78b73ff",
-    "filePath": "glock_9x19_moto_cut_slide"
+    "filePath": "glock_9x19_moto_cut_slide",
+    "marketSearchName": "Glock 9x19 Moto Cut slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash AK-74 dust cover (6P1 0-1)",
+    "category": "receivers_slides",
     "image": "6p1 0-1akn.png",
     "title": "Izhmash AK-74 dust cover (6P1 0-1)",
     "pageId": 3408,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/6p1_0-1akn.png",
-    "filePath": "izhmash_ak_74_dust_cover__6p1_0_1_"
+    "filePath": "izhmash_ak_74_dust_cover__6p1_0_1_",
+    "marketSearchName": "Izhmash AK-74 dust cover (6P1 0-1)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash AKM dust cover (6P1 0-1)",
+    "category": "receivers_slides",
     "image": "6p1-01akm.png",
     "title": "Izhmash AKM dust cover (6P1 0-1)",
     "pageId": 7555,
@@ -201,10 +250,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/6p1-01akm.png",
-    "filePath": "izhmash_akm_dust_cover__6p1_0_1_"
+    "filePath": "izhmash_akm_dust_cover__6p1_0_1_",
+    "marketSearchName": "Izhmash AKM dust cover (6P1 0-1)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Molot AKM type dust cover",
+    "category": "receivers_slides",
     "image": "Akmtype.png",
     "title": "Molot AKM type dust cover",
     "pageId": 7556,
@@ -213,10 +265,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/Akmtype.png?version=c84f781e11c1da8192066f36c39847e3",
-    "filePath": "molot_akm_type_dust_cover"
+    "filePath": "molot_akm_type_dust_cover",
+    "marketSearchName": "Molot AKM type dust cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "AKS-74U Dust cover (6P26 Sb.7)",
+    "category": "receivers_slides",
     "image": "6p26sb.7.png",
     "title": "AKS-74U Dust cover (6P26 Sb.7)",
     "pageId": 3418,
@@ -225,10 +280,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/6p26sb.7.png",
-    "filePath": "aks_74u_dust_cover__6p26_sb_7_"
+    "filePath": "aks_74u_dust_cover__6p26_sb_7_",
+    "marketSearchName": "AKS-74U Dust cover (6P26 Sb.7)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash AKS-74UB Dust cover",
+    "category": "receivers_slides",
     "image": "Aksubdc.png",
     "title": "Izhmash AKS-74UB Dust cover",
     "pageId": 3420,
@@ -237,10 +295,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1f/Aksubdc.png?version=c84f781e11c1da8192066f36c39847e3",
-    "filePath": "izhmash_aks_74ub_dust_cover"
+    "filePath": "izhmash_aks_74ub_dust_cover",
+    "marketSearchName": "Izhmash AKS-74UB Dust cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash Vityaz receiver cover",
+    "category": "receivers_slides",
     "image": "Rec.cov. vityaz.png",
     "title": "Izhmash Vityaz receiver cover",
     "pageId": 6967,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/Rec.cov._vityaz.png",
-    "filePath": "izhmash_vityaz_receiver_cover"
+    "filePath": "izhmash_vityaz_receiver_cover",
+    "marketSearchName": "Izhmash Vityaz receiver cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash SOK-12 Sb.0-2 dust cover",
+    "category": "receivers_slides",
     "image": "Sb.0-2.png",
     "title": "Izhmash SOK-12 Sb.0-2 dust cover",
     "pageId": 3412,
@@ -261,10 +325,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/Sb.0-2.png",
-    "filePath": "izhmash_sok_12_sb_0_2_dust_cover"
+    "filePath": "izhmash_sok_12_sb_0_2_dust_cover",
+    "marketSearchName": "Izhmash SOK-12 Sb.0-2 dust cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "AS VAL Dust cover",
+    "category": "receivers_slides",
     "image": "Valdust.png",
     "title": "AS VAL Dust cover",
     "pageId": 3035,
@@ -273,10 +340,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/Valdust.png?version=e945373a1d537da3c15d4bcdd8656681",
-    "filePath": "as_val_dust_cover"
+    "filePath": "as_val_dust_cover",
+    "marketSearchName": "AS VAL Dust cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "VSS Vintorez dust cover",
+    "category": "receivers_slides",
     "image": "Vssdust.png",
     "title": "VSS Vintorez dust cover",
     "pageId": 3415,
@@ -285,10 +355,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/Vssdust.png?version=d07ce500d7e2b61997fd6553e38d7069",
-    "filePath": "vss_vintorez_dust_cover"
+    "filePath": "vss_vintorez_dust_cover",
+    "marketSearchName": "VSS Vintorez dust cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "Zenit B-33 dust cover for AK-74",
+    "category": "receivers_slides",
     "image": "B-33.png",
     "title": "Zenit B-33 dust cover for AK-74",
     "pageId": 3410,
@@ -297,10 +370,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/B-33.png",
-    "filePath": "zenit_b_33_dust_cover_for_ak_74"
+    "filePath": "zenit_b_33_dust_cover_for_ak_74",
+    "marketSearchName": "Zenit B-33 dust cover for AK-74",
+    "marketPositionOffset": 0
   },
   {
     "name": "Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle",
+    "category": "receivers_slides",
     "image": "M4upper.png",
     "title": "Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle",
     "pageId": 3407,
@@ -309,10 +385,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/64/M4upper.png?version=db7d000583406d90fa8e87ee874132ec",
-    "filePath": "upper_receiver_colt_m4a1_5_56x45_for_m4a1_assault_rifle"
+    "filePath": "upper_receiver_colt_m4a1_5_56x45_for_m4a1_assault_rifle",
+    "marketSearchName": "Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vltor MUR-1S 5.56x45 Upper receiver for AR systems",
+    "category": "receivers_slides",
     "image": "Murupper.png",
     "title": "Vltor MUR-1S 5.56x45 Upper receiver for AR systems",
     "pageId": 6959,
@@ -321,10 +400,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/48/Murupper.png?version=013c589b343faf326417d39aa1367a3e",
-    "filePath": "vltor_mur_1s_5_56x45_upper_receiver_for_ar_systems"
+    "filePath": "vltor_mur_1s_5_56x45_upper_receiver_for_ar_systems",
+    "marketSearchName": "Vltor MUR-1S 5.56x45 Upper receiver for AR systems",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK MP5SD Upper receiver",
+    "category": "receivers_slides",
     "image": "Mp5sdupper.png",
     "title": "HK MP5SD Upper receiver",
     "pageId": 6833,
@@ -333,10 +415,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/87/Mp5sdupper.png?version=b6fc88290a13c54bece0bea71dd3082d",
-    "filePath": "hk_mp5sd_upper_receiver"
+    "filePath": "hk_mp5sd_upper_receiver",
+    "marketSearchName": "HK MP5SD Upper receiver",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK MP5 Upper receiver",
+    "category": "receivers_slides",
     "image": "Mp5upper.png",
     "title": "HK MP5 Upper receiver",
     "pageId": 6835,
@@ -345,10 +430,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/Mp5upper.png?version=2539786103af58acd9e3aad7c1f1dc8f",
-    "filePath": "hk_mp5_upper_receiver"
+    "filePath": "hk_mp5_upper_receiver",
+    "marketSearchName": "HK MP5 Upper receiver",
+    "marketPositionOffset": 0
   },
   {
     "name": "Upper receiver of the first generation SIG MPX",
+    "category": "receivers_slides",
     "image": "Mpx1gen..png",
     "title": "Upper receiver of the first generation SIG MPX",
     "pageId": 6867,
@@ -357,10 +445,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9e/Mpx1gen..png",
-    "filePath": "upper_receiver_of_the_first_generation_sig_mpx"
+    "filePath": "upper_receiver_of_the_first_generation_sig_mpx",
+    "marketSearchName": "Upper receiver of the first generation SIG MPX",
+    "marketPositionOffset": 0
   },
   {
     "name": "SIG Sauer P226R 9x19 pistol slide",
+    "category": "receivers_slides",
     "image": "P226slide.png",
     "title": "SIG Sauer P226R 9x19 pistol slide",
     "pageId": 3411,
@@ -369,10 +460,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/P226slide.png?version=b49194002ee644fa52dfd46c78eedda0",
-    "filePath": "sig_sauer_p226r_9x19_pistol_slide"
+    "filePath": "sig_sauer_p226r_9x19_pistol_slide",
+    "marketSearchName": "SIG Sauer P226R 9x19 pistol slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash Vityaz-SN receiver cover",
+    "category": "receivers_slides",
     "image": "Rec.cover. vityaz-sn.png",
     "title": "Izhmash Vityaz-SN receiver cover",
     "pageId": 6966,
@@ -381,10 +475,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/Rec.cover._vityaz-sn.png",
-    "filePath": "izhmash_vityaz_sn_receiver_cover"
+    "filePath": "izhmash_vityaz_sn_receiver_cover",
+    "marketSearchName": "Izhmash Vityaz-SN receiver cover",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock Alpha Wolf Custom slide",
+    "category": "receivers_slides",
     "image": "Glockawc.png",
     "title": "Glock Alpha Wolf Custom slide",
     "pageId": 8453,
@@ -393,10 +490,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/Glockawc.png?version=488948a7a5ebbf0f8abb613507a35c74",
-    "filePath": "glock_alpha_wolf_custom_slide"
+    "filePath": "glock_alpha_wolf_custom_slide",
+    "marketSearchName": "Glock Alpha Wolf Custom slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Polymer80 PS9 Glock slide",
+    "category": "receivers_slides",
     "image": "Ps9.png",
     "title": "Polymer80 PS9 Glock slide",
     "pageId": 8454,
@@ -405,10 +505,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7f/Ps9.png?version=0db5f0bfe64097cf9afc533a4571b9e1",
-    "filePath": "polymer80_ps9_glock_slide"
+    "filePath": "polymer80_ps9_glock_slide",
+    "marketSearchName": "Polymer80 PS9 Glock slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Zev Tech Hex Gen3 slide",
+    "category": "receivers_slides",
     "image": "Gzthex.png",
     "title": "Zev Tech Hex Gen3 slide",
     "pageId": 8455,
@@ -417,10 +520,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2f/Gzthex.png?version=235a0bf8f0a478651893b7289f302a7c",
-    "filePath": "zev_tech_hex_gen3_slide"
+    "filePath": "zev_tech_hex_gen3_slide",
+    "marketSearchName": "Zev Tech Hex Gen3 slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock 9x19 slide",
+    "category": "receivers_slides",
     "image": "Glockslide.png",
     "title": "Glock 9x19 slide",
     "pageId": 8450,
@@ -429,10 +535,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/Glockslide.png?version=28b64eca8e7637684c86d729fafeb26f",
-    "filePath": "glock_9x19_slide"
+    "filePath": "glock_9x19_slide",
+    "marketSearchName": "Glock 9x19 slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock Zev Tech Hex Spartan slide",
+    "category": "receivers_slides",
     "image": "Gztspart.png",
     "title": "Glock Zev Tech Hex Spartan slide",
     "pageId": 8456,
@@ -441,10 +550,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b8/Gztspart.png?version=db7d000583406d90fa8e87ee874132ec",
-    "filePath": "glock_zev_tech_hex_spartan_slide"
+    "filePath": "glock_zev_tech_hex_spartan_slide",
+    "marketSearchName": "Glock Zev Tech Hex Spartan slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock 9x19 Viper Cut slide",
+    "category": "receivers_slides",
     "image": "Glockvipercut.png",
     "title": "Glock 9x19 Viper Cut slide",
     "pageId": 8451,
@@ -453,10 +565,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Glockvipercut.png?version=a9fc7048d4f18f48cc0a5c5dc5a71666",
-    "filePath": "glock_9x19_viper_cut_slide"
+    "filePath": "glock_9x19_viper_cut_slide",
+    "marketSearchName": "Glock 9x19 Viper Cut slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock Alpha Wolf slide",
+    "category": "receivers_slides",
     "image": "Glockaw.png",
     "title": "Glock Alpha Wolf slide",
     "pageId": 8452,
@@ -465,10 +580,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/Glockaw.png?version=425b78abb4298c35e8891f363095af67",
-    "filePath": "glock_alpha_wolf_slide"
+    "filePath": "glock_alpha_wolf_slide",
+    "marketSearchName": "Glock Alpha Wolf slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "M9A3 9x19 pistol slide",
+    "category": "receivers_slides",
     "image": "wiki.png",
     "title": "M9A3 9x19 pistol slide",
     "pageId": 15022,
@@ -477,10 +595,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "m9a3_9x19_pistol_slide"
+    "filePath": "m9a3_9x19_pistol_slide",
+    "marketSearchName": "M9A3 9x19 pistol slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN EFFEN 90 Upper receiver for P90",
+    "category": "receivers_slides",
     "image": "wiki.png",
     "title": "FN EFFEN 90 Upper receiver for P90",
     "pageId": 15422,
@@ -489,10 +610,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "fn_effen_90_upper_receiver_for_p90"
+    "filePath": "fn_effen_90_upper_receiver_for_p90",
+    "marketSearchName": "FN EFFEN 90 Upper receiver for P90",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN Upper receiver for P90",
+    "category": "receivers_slides",
     "image": "FN_Upper_receiver_for_P90_icon.png",
     "title": "FN Upper receiver for P90",
     "pageId": 15423,
@@ -501,10 +625,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/FN_Upper_receiver_for_P90_icon.png?version=84fcf6415ca866d2fe4c56fec955ab2a",
-    "filePath": "fn_upper_receiver_for_p90"
+    "filePath": "fn_upper_receiver_for_p90",
+    "marketSearchName": "FN Upper receiver for P90",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN Upper receiver for PS90",
+    "category": "receivers_slides",
     "image": "wiki.png",
     "title": "FN Upper receiver for PS90",
     "pageId": 15470,
@@ -513,10 +640,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "fn_upper_receiver_for_ps90"
+    "filePath": "fn_upper_receiver_for_ps90",
+    "marketSearchName": "FN Upper receiver for PS90",
+    "marketPositionOffset": 0
   },
   {
     "name": "AKademia Bastion dust cover for AK",
+    "category": "receivers_slides",
     "image": "AKademia Bastion dust cover for AK.PNG",
     "title": "AKademia Bastion dust cover for AK",
     "pageId": 15546,
@@ -525,10 +655,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/AKademia_Bastion_dust_cover_for_AK.PNG?version=8e7871bc76a399e891e663410d0d853b",
-    "filePath": "akademia_bastion_dust_cover_for_ak"
+    "filePath": "akademia_bastion_dust_cover_for_ak",
+    "marketSearchName": "AKademia Bastion dust cover for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "Fab Defence PDC dust cover for AK-74",
+    "category": "receivers_slides",
     "image": "wiki.png",
     "title": "Fab Defence PDC dust cover for AK-74",
     "pageId": 15547,
@@ -537,10 +670,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "fab_defence_pdc_dust_cover_for_ak_74"
+    "filePath": "fab_defence_pdc_dust_cover_for_ak_74",
+    "marketSearchName": "Fab Defence PDC dust cover for AK-74",
+    "marketPositionOffset": 0
   },
   {
     "name": "TWS Dog leg rail dust cover for AK",
+    "category": "receivers_slides",
     "image": "TWS Dog leg rail dust cover for AK.png",
     "title": "TWS Dog leg rail dust cover for AK",
     "pageId": 15548,
@@ -549,10 +685,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/TWS_Dog_leg_rail_dust_cover_for_AK.png?version=8581cd849736bee847538765db834464",
-    "filePath": "tws_dog_leg_rail_dust_cover_for_ak"
+    "filePath": "tws_dog_leg_rail_dust_cover_for_ak",
+    "marketSearchName": "TWS Dog leg rail dust cover for AK",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK MP5 Kurz Upper receiver",
+    "category": "receivers_slides",
     "image": "HK_MP5_Kurz_Upper_receiver_icon.png",
     "title": "HK MP5 Kurz Upper receiver",
     "pageId": 15555,
@@ -561,10 +700,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/HK_MP5_Kurz_Upper_receiver_icon.png?version=0defae86881400b67176ffcec48f4260",
-    "filePath": "hk_mp5_kurz_upper_receiver"
+    "filePath": "hk_mp5_kurz_upper_receiver",
+    "marketSearchName": "HK MP5 Kurz Upper receiver",
+    "marketPositionOffset": 0
   },
   {
     "name": "Five-seveN MK2 pistol slide",
+    "category": "receivers_slides",
     "image": "Five_seveN_MK2_pistol_slide_icon.png",
     "title": "Five-seveN MK2 pistol slide",
     "pageId": 15558,
@@ -573,10 +715,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6c/Five_seveN_MK2_pistol_slide_icon.png?version=95540b8f997a5c20ba9a67e837f61354",
-    "filePath": "five_seven_mk2_pistol_slide"
+    "filePath": "five_seven_mk2_pistol_slide",
+    "marketSearchName": "Five-seveN MK2 pistol slide",
+    "marketPositionOffset": 0
   },
   {
     "name": "Lightweight upper 5.56x45 for TX15 rifle",
+    "category": "receivers_slides",
     "image": "TX15 LW Upper Icon.PNG",
     "title": "Lightweight upper 5.56x45 for TX15 rifle",
     "pageId": 15571,
@@ -585,6 +730,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/TX15_LW_Upper_Icon.PNG?version=44f4fb3ddbd179a4d36b3eb004e44927",
-    "filePath": "lightweight_upper_5_56x45_for_tx15_rifle"
+    "filePath": "lightweight_upper_5_56x45_for_tx15_rifle",
+    "marketSearchName": "Lightweight upper 5.56x45 for TX15 rifle",
+    "marketPositionOffset": 0
   }
 ]

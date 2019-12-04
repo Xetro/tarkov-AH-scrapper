@@ -1,6 +1,7 @@
 [
   {
     "name": "T-7 Thermal Goggles with Night Vision Mounts",
+    "category": "thermal_vision_devices",
     "image": "T-7 Icon.PNG",
     "title": "T-7 Thermal Goggles with Night Vision Mounts",
     "pageId": 14988,
@@ -9,6 +10,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d5/T-7_Icon.PNG",
-    "filePath": "t_7_thermal_goggles_with_night_vision_mounts"
+    "filePath": "t_7_thermal_goggles_with_night_vision_mounts",
+    "marketSearchName": "T-7 Thermal Goggles with Night Vision Mounts",
+    "marketPositionOffset": 0
   }
 ]

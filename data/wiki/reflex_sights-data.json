@@ -1,6 +1,7 @@
 [
   {
     "name": "Aimpoint COMP M4 reflex sight",
+    "category": "reflex_sights",
     "image": "Comp M4 Icon.png",
     "title": "Aimpoint COMP M4 reflex sight",
     "pageId": 13895,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/74/Comp_M4_Icon.png?version=c116b33952e7391c01ab9dd81e998d22",
-    "filePath": "aimpoint_comp_m4_reflex_sight"
+    "filePath": "aimpoint_comp_m4_reflex_sight",
+    "marketSearchName": "Aimpoint COMP M4 reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Cobra EKP-8-02 reflex sight",
+    "category": "reflex_sights",
     "image": "Ekp-8-02icon.png",
     "title": "Cobra EKP-8-02 reflex sight",
     "pageId": 8303,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/Ekp-8-02icon.png",
-    "filePath": "cobra_ekp_8_02_reflex_sight"
+    "filePath": "cobra_ekp_8_02_reflex_sight",
+    "marketSearchName": "Cobra EKP-8-02 reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Cobra EKP-8-18 reflex sight",
+    "category": "reflex_sights",
     "image": "Ekp-8-18icon.png",
     "title": "Cobra EKP-8-18 reflex sight",
     "pageId": 6733,
@@ -33,10 +40,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2e/Ekp-8-18icon.png",
-    "filePath": "cobra_ekp_8_18_reflex_sight"
+    "filePath": "cobra_ekp_8_18_reflex_sight",
+    "marketSearchName": "Cobra EKP-8-18 reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Eotech 553 holographic sight",
+    "category": "reflex_sights",
     "image": "553icon.png",
     "title": "Eotech 553 holographic sight",
     "pageId": 3128,
@@ -45,10 +55,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/553icon.png?version=340dbd1ebd74f34022322cb2561a08d1",
-    "filePath": "eotech_553_holographic_sight"
+    "filePath": "eotech_553_holographic_sight",
+    "marketSearchName": "Eotech 553 holographic sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Eotech EXPS3 holographic sight",
+    "category": "reflex_sights",
     "image": "EXPS3 Sight icon.png",
     "title": "Eotech EXPS3 holographic sight",
     "pageId": 3088,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a5/EXPS3_Sight_icon.png?version=d5c34b9abe26f8d4484e339f8bacfecc",
-    "filePath": "eotech_exps3_holographic_sight"
+    "filePath": "eotech_exps3_holographic_sight",
+    "marketSearchName": "Eotech EXPS3 holographic sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Eotech HHS-1 sight",
+    "category": "reflex_sights",
     "image": "Eotech HHS-1 sight icon.gif",
     "title": "Eotech HHS-1 sight",
     "pageId": 12805,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/80/Eotech_HHS-1_sight_icon.gif",
-    "filePath": "eotech_hhs_1_sight"
+    "filePath": "eotech_hhs_1_sight",
+    "marketSearchName": "Eotech HHS-1 sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Eotech XPS3-0 holographic sight",
+    "category": "reflex_sights",
     "image": "Xps3-0icon.png",
     "title": "Eotech XPS3-0 holographic sight",
     "pageId": 3423,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/69/Xps3-0icon.png",
-    "filePath": "eotech_xps3_0_holographic_sight"
+    "filePath": "eotech_xps3_0_holographic_sight",
+    "marketSearchName": "Eotech XPS3-0 holographic sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Eotech XPS3-2 holographic sight",
+    "category": "reflex_sights",
     "image": "Xps3-2icon.png",
     "title": "Eotech XPS3-2 holographic sight",
     "pageId": 3426,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/Xps3-2icon.png",
-    "filePath": "eotech_xps3_2_holographic_sight"
+    "filePath": "eotech_xps3_2_holographic_sight",
+    "marketSearchName": "Eotech XPS3-2 holographic sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Holosun HS401G5 reflex sight",
+    "category": "reflex_sights",
     "image": "HS401G5_Icon.png",
     "title": "Holosun HS401G5 reflex sight",
     "pageId": 10907,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/HS401G5_Icon.png?version=8b9977c724c75894e0198cb12f6a8798",
-    "filePath": "holosun_hs401g5_reflex_sight"
+    "filePath": "holosun_hs401g5_reflex_sight",
+    "marketSearchName": "Holosun HS401G5 reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "NPZ USP-1 4x scope",
+    "category": "reflex_sights",
     "image": "NPZ USP-1 4x scope icon v2.png",
     "title": "NPZ USP-1 4x scope",
     "pageId": 15343,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/NPZ_USP-1_4x_scope_icon_v2.png",
-    "filePath": "npz_usp_1_4x_scope"
+    "filePath": "npz_usp_1_4x_scope",
+    "marketSearchName": "NPZ USP-1 4x scope",
+    "marketPositionOffset": 0
   },
   {
     "name": "OKP-7 reflex sight",
+    "category": "reflex_sights",
     "image": "Okp-7icon.png",
     "title": "OKP-7 reflex sight",
     "pageId": 3068,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/Okp-7icon.png",
-    "filePath": "okp_7_reflex_sight"
+    "filePath": "okp_7_reflex_sight",
+    "marketSearchName": "OKP-7 reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "OKP-7 reflex sight (Dovetail)",
+    "category": "reflex_sights",
     "image": "Okp-7doveicon.png",
     "title": "OKP-7 reflex sight (Dovetail)",
     "pageId": 8738,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Okp-7doveicon.png",
-    "filePath": "okp_7_reflex_sight__dovetail_"
+    "filePath": "okp_7_reflex_sight__dovetail_",
+    "marketSearchName": "OKP-7 reflex sight (Dovetail)",
+    "marketPositionOffset": 0
   },
   {
     "name": "VOMZ Pilad P1X42 \"WEAVER\" reflex sight",
+    "category": "reflex_sights",
     "image": "P1x42icon.png",
     "title": "VOMZ Pilad P1X42 \"WEAVER\" reflex sight",
     "pageId": 3102,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/P1x42icon.png?version=30341cba2eccecd973d3e32887f01d29",
-    "filePath": "vomz_pilad_p1x42__weaver__reflex_sight"
+    "filePath": "vomz_pilad_p1x42__weaver__reflex_sight",
+    "marketSearchName": "VOMZ Pilad P1X42 \"WEAVER\" reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Valday 1P87 holographic sight",
+    "category": "reflex_sights",
     "image": "Valday 1P87 holographic sight icon.png",
     "title": "Valday 1P87 holographic sight",
     "pageId": 12857,
@@ -165,10 +205,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dc/Valday_1P87_holographic_sight_icon.png?version=0549f1330135495861275afb18cc30e6",
-    "filePath": "valday_1p87_holographic_sight"
+    "filePath": "valday_1p87_holographic_sight",
+    "marketSearchName": "Valday 1P87 holographic sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Vortex Razor AMG UH-1 holographic sight",
+    "category": "reflex_sights",
     "image": "Uh-1icon.png",
     "title": "Vortex Razor AMG UH-1 holographic sight",
     "pageId": 8394,
@@ -177,10 +220,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/Uh-1icon.png",
-    "filePath": "vortex_razor_amg_uh_1_holographic_sight"
+    "filePath": "vortex_razor_amg_uh_1_holographic_sight",
+    "marketSearchName": "Vortex Razor AMG UH-1 holographic sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Walther MRS reflex sight",
+    "category": "reflex_sights",
     "image": "Mrsicon.png",
     "title": "Walther MRS reflex sight",
     "pageId": 3081,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Mrsicon.png?version=983e48c52ec89c3db5dc71bd52d34fed",
-    "filePath": "walther_mrs_reflex_sight"
+    "filePath": "walther_mrs_reflex_sight",
+    "marketSearchName": "Walther MRS reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN Ring sight reflex sight",
+    "category": "reflex_sights",
     "image": "Mrsicon.png",
     "title": "FN Ring sight reflex sight",
     "pageId": 15451,
@@ -201,10 +250,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Mrsicon.png?version=983e48c52ec89c3db5dc71bd52d34fed",
-    "filePath": "fn_ring_sight_reflex_sight"
+    "filePath": "fn_ring_sight_reflex_sight",
+    "marketSearchName": "FN Ring sight reflex sight",
+    "marketPositionOffset": 0
   },
   {
     "name": "Trijicon SRS-02 reflex sight",
+    "category": "reflex_sights",
     "image": "wiki.png",
     "title": "Trijicon SRS-02 reflex sight",
     "pageId": 15550,
@@ -213,6 +265,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "trijicon_srs_02_reflex_sight"
+    "filePath": "trijicon_srs_02_reflex_sight",
+    "marketSearchName": "Trijicon SRS-02 reflex sight",
+    "marketPositionOffset": 0
   }
 ]

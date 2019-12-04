@@ -1,6 +1,7 @@
 [
   {
     "name": "Factory exit key",
+    "category": "keys_factory",
     "image": "Factory key icon.png",
     "title": "Factory exit key",
     "pageId": 4029,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Factory_key_icon.png?version=459982fbc47d60275ae9b1280070a510",
-    "filePath": "factory_exit_key"
+    "filePath": "factory_exit_key",
+    "marketSearchName": "Factory exit key",
+    "marketPositionOffset": 0
   },
   {
     "name": "Door key",
+    "category": "keys_factory",
     "image": "Door key Icon.png",
     "title": "Door key",
     "pageId": 4062,
@@ -21,10 +25,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
-    "filePath": "door_key"
+    "filePath": "door_key",
+    "marketSearchName": "Door key",
+    "marketPositionOffset": 0
   },
   {
     "name": "Door key (alternative)",
+    "category": "keys_factory",
     "image": "Door key Icon.png",
     "title": "Door key (alternative)",
     "pageId": 7219,
@@ -33,6 +40,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
-    "filePath": "door_key__alternative_"
+    "filePath": "door_key__alternative_",
+    "marketSearchName": "Door key (alternative)",
+    "marketPositionOffset": 0
   }
 ]

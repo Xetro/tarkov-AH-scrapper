@@ -1,6 +1,7 @@
 [
   {
     "name": "Light armored Shattered mask",
+    "category": "face_cover",
     "image": "Shattered_icon.png",
     "title": "Light armored Shattered mask",
     "pageId": 10813,
@@ -9,10 +10,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/Shattered_icon.png?version=afd1f94dce1ea0363383f8b984eb9aeb",
-    "filePath": "light_armored_shattered_mask"
+    "filePath": "light_armored_shattered_mask",
+    "marketSearchName": "Light armored Shattered mask",
+    "marketPositionOffset": 0
   },
   {
     "name": "GP-5 gasmask",
+    "category": "face_cover",
     "image": "GP-5_Icon.png",
     "title": "GP-5 gasmask",
     "pageId": 10814,
@@ -21,10 +25,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/GP-5_Icon.png",
-    "filePath": "gp_5_gasmask"
+    "filePath": "gp_5_gasmask",
+    "marketSearchName": "GP-5 gasmask",
+    "marketPositionOffset": 0
   },
   {
     "name": "Deadly skull mask",
+    "category": "face_cover",
     "image": "Deady Skull Mask Icon.png",
     "title": "Deadly skull mask",
     "pageId": 10812,
@@ -33,10 +40,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b5/Deady_Skull_Mask_Icon.png?version=628c905ebd76eb5d0c694d6a2113f49b",
-    "filePath": "deadly_skull_mask"
+    "filePath": "deadly_skull_mask",
+    "marketSearchName": "Deadly skull mask",
+    "marketPositionOffset": 0
   },
   {
     "name": "Respirator",
+    "category": "face_cover",
     "image": "Respirator icon.png",
     "title": "Respirator",
     "pageId": 6002,
@@ -45,10 +55,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/Respirator_icon.png?version=93257cad9d77ef67097575dc27868350",
-    "filePath": "respirator"
+    "filePath": "respirator",
+    "marketSearchName": "Respirator",
+    "marketPositionOffset": 0
   },
   {
     "name": "Balaclava",
+    "category": "face_cover",
     "image": "Balaclava_icon.png",
     "title": "Balaclava",
     "pageId": 4146,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/Balaclava_icon.png?version=6df0f760ed52822a399712bf0ccf5e4f",
-    "filePath": "balaclava"
+    "filePath": "balaclava",
+    "marketSearchName": "Balaclava",
+    "marketPositionOffset": 0
   },
   {
     "name": "Cold Fear Infrared balaclava",
+    "category": "face_cover",
     "image": "Cold_fear_infrared_balaclava_icon.png",
     "title": "Cold Fear Infrared balaclava",
     "pageId": 9560,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f3/Cold_fear_infrared_balaclava_icon.png?version=45e3b53b783934ffdec2c7ff2125ab62",
-    "filePath": "cold_fear_infrared_balaclava"
+    "filePath": "cold_fear_infrared_balaclava",
+    "marketSearchName": "Cold Fear Infrared balaclava",
+    "marketPositionOffset": 0
   },
   {
     "name": "Ghost balaclava",
+    "category": "face_cover",
     "image": "GHOSTBalaclavaIcon.png",
     "title": "Ghost balaclava",
     "pageId": 9561,
@@ -81,10 +100,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/GHOSTBalaclavaIcon.png?version=ebf12b4eae14025d0d720ef7e30b90e8",
-    "filePath": "ghost_balaclava"
+    "filePath": "ghost_balaclava",
+    "marketSearchName": "Ghost balaclava",
+    "marketPositionOffset": 0
   },
   {
     "name": "Momex balaclava",
+    "category": "face_cover",
     "image": "momex_balaclava_icon.png",
     "title": "Momex balaclava",
     "pageId": 10740,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/Momex_balaclava_icon.png?version=8a244cf8d28b6f6261707094f0b646fb",
-    "filePath": "momex_balaclava"
+    "filePath": "momex_balaclava",
+    "marketSearchName": "Momex balaclava",
+    "marketPositionOffset": 0
   },
   {
     "name": "Shemagh",
+    "category": "face_cover",
     "image": "shemagicon.png",
     "title": "Shemagh",
     "pageId": 9562,
@@ -105,10 +130,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/Shemagicon.png?version=cfaad8514f347333c81c3a38f5f1e194",
-    "filePath": "shemagh"
+    "filePath": "shemagh",
+    "marketSearchName": "Shemagh",
+    "marketPositionOffset": 0
   },
   {
     "name": "Shemagh (var. 2)",
+    "category": "face_cover",
     "image": "Shemagh V2 Icon.png",
     "title": "Shemagh (var. 2)",
     "pageId": 10816,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Shemagh_V2_Icon.png?version=72691dbc394a946cd0c49610eff94376",
-    "filePath": "shemagh__var__2_"
+    "filePath": "shemagh__var__2_",
+    "marketSearchName": "Shemagh (var. 2)",
+    "marketPositionOffset": 0
   },
   {
     "name": "Lower half-mask",
+    "category": "face_cover",
     "image": "Lower half-mask icon.png",
     "title": "Lower half-mask",
     "pageId": 4150,
@@ -129,10 +160,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f4/Lower_half-mask_icon.png",
-    "filePath": "lower_half_mask"
+    "filePath": "lower_half_mask",
+    "marketSearchName": "Lower half-mask",
+    "marketPositionOffset": 0
   },
   {
     "name": "Neoprene mask",
+    "category": "face_cover",
     "image": "Neoprene_Mask_Icon.png",
     "title": "Neoprene mask",
     "pageId": 10815,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/93/Neoprene_Mask_Icon.png?version=895eaf4df1577be5f14f7734a094d433",
-    "filePath": "neoprene_mask"
+    "filePath": "neoprene_mask",
+    "marketSearchName": "Neoprene mask",
+    "marketPositionOffset": 0
   },
   {
     "name": "Fake mustache",
+    "category": "face_cover",
     "image": "Fake Mustache icon.png",
     "title": "Fake mustache",
     "pageId": 11917,
@@ -153,6 +190,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/Fake_Mustache_icon.png?version=54acf671b0fb841d4ccff00ef0bf831e",
-    "filePath": "fake_mustache"
+    "filePath": "fake_mustache",
+    "marketSearchName": "Fake mustache",
+    "marketPositionOffset": 0
   }
 ]

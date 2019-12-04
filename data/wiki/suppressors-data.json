@@ -1,6 +1,7 @@
 [
   {
     "name": "Gemech ONE 7.62x51 Sound Suppressor",
+    "category": "suppressors",
     "image": "Gemech ONE Icon.png",
     "title": "Gemech ONE 7.62x51 Sound Suppressor",
     "pageId": 13894,
@@ -15,6 +16,7 @@
   },
   {
     "name": "AAC Illusion 9 9x19mm silencer",
+    "category": "suppressors",
     "image": "Illusion Icon.png",
     "title": "AAC Illusion 9 9x19mm silencer",
     "pageId": 13899,
@@ -29,6 +31,7 @@
   },
   {
     "name": "Sig SRD 9 9x19mm sound suppressor",
+    "category": "suppressors",
     "image": "SRD9Icon.png",
     "title": "Sig SRD 9 9x19mm sound suppressor",
     "pageId": 13864,
@@ -43,6 +46,7 @@
   },
   {
     "name": "Regular SV-98 7.62x54 silencer",
+    "category": "suppressors",
     "image": "SV98Sil.png",
     "title": "Regular SV-98 7.62x54 silencer",
     "pageId": 13612,
@@ -57,6 +61,7 @@
   },
   {
     "name": "Surefire SOCOM556-MONSTER 5.56x45 silencer",
+    "category": "suppressors",
     "image": "Surfire Monster.png",
     "title": "Surefire SOCOM556-MONSTER 5.56x45 silencer",
     "pageId": 3004,
@@ -71,6 +76,7 @@
   },
   {
     "name": "Surefire SOCOM556-MINI MONSTER 5.56x45 Silencer",
+    "category": "suppressors",
     "image": "Surefire Mini Monster.png",
     "title": "Surefire SOCOM556-MINI MONSTER 5.56x45 Silencer",
     "pageId": 3439,
@@ -85,6 +91,7 @@
   },
   {
     "name": "B&T Rotex 2 4.6x30 silencer",
+    "category": "suppressors",
     "image": "Rotex2Icon.png",
     "title": "B&T Rotex 2 4.6x30 silencer",
     "pageId": 11867,
@@ -99,6 +106,7 @@
   },
   {
     "name": "Bramit silencer for a Mosin rifle",
+    "category": "suppressors",
     "image": "BramitIcon.png",
     "title": "Bramit silencer for a Mosin rifle",
     "pageId": 11482,
@@ -113,6 +121,7 @@
   },
   {
     "name": "Hexagon 12K sound suppressor",
+    "category": "suppressors",
     "image": "Hexagon12kicon.png",
     "title": "Hexagon 12K sound suppressor",
     "pageId": 6884,
@@ -127,6 +136,7 @@
   },
   {
     "name": "PBS-4 5.45x39 Silencer",
+    "category": "suppressors",
     "image": "Pbs-4icon.png",
     "title": "PBS-4 5.45x39 Silencer",
     "pageId": 3070,
@@ -141,6 +151,7 @@
   },
   {
     "name": "Hexagon AK-74 5.45x39 sound suppressor",
+    "category": "suppressors",
     "image": "Hexagonak-47icon.png",
     "title": "Hexagon AK-74 5.45x39 sound suppressor",
     "pageId": 6893,
@@ -155,6 +166,7 @@
   },
   {
     "name": "Hexagon SKS 7.62x39 sound suppressor",
+    "category": "suppressors",
     "image": "Heaxagonsksicon.png",
     "title": "Hexagon SKS 7.62x39 sound suppressor",
     "pageId": 6889,
@@ -169,6 +181,7 @@
   },
   {
     "name": "Zenit DTK-4M muzzle brake",
+    "category": "suppressors",
     "image": "Dtk-4micon.png",
     "title": "Zenit DTK-4M muzzle brake",
     "pageId": 8418,
@@ -183,6 +196,7 @@
   },
   {
     "name": "Hexagon AKM 7.62x39 sound suppressor",
+    "category": "suppressors",
     "image": "Hexagonakmicon.png",
     "title": "Hexagon AKM 7.62x39 sound suppressor",
     "pageId": 6887,
@@ -197,6 +211,7 @@
   },
   {
     "name": "Rotor 43 9x19 muzzle brake",
+    "category": "suppressors",
     "image": "Icon Rotor43 9.19.png",
     "title": "Rotor 43 9x19 muzzle brake",
     "pageId": 9880,
@@ -211,6 +226,7 @@
   },
   {
     "name": "Rotor 43 7.62x39 muzzle brake",
+    "category": "suppressors",
     "image": "Icon Rotor43 7.62.png",
     "title": "Rotor 43 7.62x39 muzzle brake",
     "pageId": 9879,
@@ -225,6 +241,7 @@
   },
   {
     "name": "Rotor 43 .366TKM muzzle brake",
+    "category": "suppressors",
     "image": "Icon Rotor43 366TKM.png",
     "title": "Rotor 43 .366TKM muzzle brake",
     "pageId": 9877,
@@ -239,6 +256,7 @@
   },
   {
     "name": "Rotor 43 5.56x45 muzzle brake",
+    "category": "suppressors",
     "image": "Icon Rotor43 5.56x45.png",
     "title": "Rotor 43 5.56x45 muzzle brake",
     "pageId": 9878,
@@ -253,6 +271,7 @@
   },
   {
     "name": "Silencer APB 9x18PM",
+    "category": "suppressors",
     "image": "Apbsilencericon.png",
     "title": "Silencer APB 9x18PM",
     "pageId": 9883,
@@ -267,6 +286,7 @@
   },
   {
     "name": "SilencerCo Salvo 12 sound suppressor",
+    "category": "suppressors",
     "image": "SilencerCo Salvo 12 sound suppressor Icon.png",
     "title": "SilencerCo Salvo 12 sound suppressor",
     "pageId": 11057,
@@ -281,6 +301,7 @@
   },
   {
     "name": "MP5SD 9x19 silencer",
+    "category": "suppressors",
     "image": "MP5SDsuppressoricon.png",
     "title": "MP5SD 9x19 silencer",
     "pageId": 6898,
@@ -295,6 +316,7 @@
   },
   {
     "name": "AAC 762 SDN-6 7.62x51 Sound Suppressor",
+    "category": "suppressors",
     "image": "762sdn-6icon.png",
     "title": "AAC 762 SDN-6 7.62x51 Sound Suppressor",
     "pageId": 8426,
@@ -309,6 +331,7 @@
   },
   {
     "name": "SilencerCo Osprey 9 9x19mm sound suppressor",
+    "category": "suppressors",
     "image": "Osprey9icon.png",
     "title": "SilencerCo Osprey 9 9x19mm sound suppressor",
     "pageId": 8423,
@@ -323,6 +346,7 @@
   },
   {
     "name": "SR1MP silencer 9x21",
+    "category": "suppressors",
     "image": "Sr1mpicon.png",
     "title": "SR1MP silencer 9x21",
     "pageId": 8439,
@@ -337,6 +361,7 @@
   },
   {
     "name": "Silencerco Hybrid 46 multi-caliber silencer",
+    "category": "suppressors",
     "image": "Hybrid46icon.png",
     "title": "Silencerco Hybrid 46 multi-caliber silencer",
     "pageId": 6881,
@@ -351,6 +376,7 @@
   },
   {
     "name": "Vityaz 9x19 sound suppressing device",
+    "category": "suppressors",
     "image": "Vityazsilicon.png",
     "title": "Vityaz 9x19 sound suppressing device",
     "pageId": 6901,
@@ -365,6 +391,7 @@
   },
   {
     "name": "Makeshift 7.62x25 TT silencer",
+    "category": "suppressors",
     "image": "Ttsilencericon.png",
     "title": "Makeshift 7.62x25 TT silencer",
     "pageId": 3002,
@@ -379,6 +406,7 @@
   },
   {
     "name": "Fischer Development FD917 suppressor",
+    "category": "suppressors",
     "image": "Fd917icon.png",
     "title": "Fischer Development FD917 suppressor",
     "pageId": 8458,
@@ -393,6 +421,7 @@
   },
   {
     "name": "Alpha Dog Alpha 9 9x19 sound suppressor",
+    "category": "suppressors",
     "image": "Alpha9icon.png",
     "title": "Alpha Dog Alpha 9 9x19 sound suppressor",
     "pageId": 8434,
@@ -407,6 +436,7 @@
   },
   {
     "name": "KAC QDSS NT-4 5.56x45 silencer",
+    "category": "suppressors",
     "image": "NT4_Icon.gif",
     "title": "KAC QDSS NT-4 5.56x45 silencer",
     "pageId": 6687,
@@ -421,6 +451,7 @@
   },
   {
     "name": "MPX-SD 9x19 Integrated silencer",
+    "category": "suppressors",
     "image": "Mpx-sdicon.png",
     "title": "MPX-SD 9x19 Integrated silencer",
     "pageId": 6866,
@@ -435,6 +466,7 @@
   },
   {
     "name": "VSS 9x39 integral barrel-suppressor",
+    "category": "suppressors",
     "image": "Vsssuppressoricon.png",
     "title": "VSS 9x39 integral barrel-suppressor",
     "pageId": 3444,
@@ -449,6 +481,7 @@
   },
   {
     "name": "PBS-1 7.62x39 silencer",
+    "category": "suppressors",
     "image": "Pbs-1icon.png",
     "title": "PBS-1 7.62x39 silencer",
     "pageId": 8420,
@@ -463,6 +496,7 @@
   },
   {
     "name": "Stock silencer for PB 9x18 PM",
+    "category": "suppressors",
     "image": "Pbs-sicon.png",
     "title": "Stock silencer for PB 9x18 PM",
     "pageId": 3442,
@@ -477,6 +511,7 @@
   },
   {
     "name": "TGP-A 5.45x39 muzzle device/suppressor",
+    "category": "suppressors",
     "image": "Tgp-aicon.png",
     "title": "TGP-A 5.45x39 muzzle device/suppressor",
     "pageId": 3440,
@@ -491,6 +526,7 @@
   },
   {
     "name": "AS VAL 9x39 integral barrel-suppressor",
+    "category": "suppressors",
     "image": "Valsuppressoricon.png",
     "title": "AS VAL 9x39 integral barrel-suppressor",
     "pageId": 3064,
@@ -505,6 +541,7 @@
   },
   {
     "name": "PP-91-01 Kedr-B 9x18PM suppressor",
+    "category": "suppressors",
     "image": "PP-91-01 Suppressor icon.png",
     "title": "PP-91-01 Kedr-B 9x18PM suppressor",
     "pageId": 3446,
@@ -519,6 +556,7 @@
   },
   {
     "name": "ASh-12 12.7x55 tactical suppressor",
+    "category": "suppressors",
     "image": "wiki.png",
     "title": "ASh-12 12.7x55 tactical suppressor",
     "pageId": 15410,
@@ -533,6 +571,7 @@
   },
   {
     "name": "FN Attenuator 5.7x28 silencer",
+    "category": "suppressors",
     "image": "FN Attenuator 5.7x28 silencer icon.jpg",
     "title": "FN Attenuator 5.7x28 silencer",
     "pageId": 15449,
@@ -547,6 +586,7 @@
   },
   {
     "name": "Daniel Defence Wave QD Sound Suppressor",
+    "category": "suppressors",
     "image": "wiki.png",
     "title": "Daniel Defence Wave QD Sound Suppressor",
     "pageId": 15473,
@@ -561,6 +601,7 @@
   },
   {
     "name": "Gemtech SFN-57 5.7x28mm silencer",
+    "category": "suppressors",
     "image": "wiki.png",
     "title": "Gemtech SFN-57 5.7x28mm silencer",
     "pageId": 15565,
@@ -575,6 +616,7 @@
   },
   {
     "name": "Thunder Beast Ultra 5 Sound Suppressor",
+    "category": "suppressors",
     "image": "Ultra 5 Icon.PNG",
     "title": "Thunder Beast Ultra 5 Sound Suppressor",
     "pageId": 15574,

@@ -1,6 +1,7 @@
 [
   {
     "name": "Harris HBR Bipod",
+    "category": "bipods",
     "image": "Harris_HBR_Bipod_icon.png",
     "title": "Harris HBR Bipod",
     "pageId": 3190,
@@ -9,10 +10,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/Harris_HBR_Bipod_icon.png?version=87ede26b530312487514779af4f03240",
-    "filePath": "harris_hbr_bipod"
+    "filePath": "harris_hbr_bipod",
+    "marketSearchName": "Harris HBR Bipod",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash SV-98 bipod",
+    "category": "bipods",
     "image": "SV-98_Bipod_icon.png",
     "title": "Izhmash SV-98 bipod",
     "pageId": 3186,
@@ -21,6 +25,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/SV-98_Bipod_icon.png",
-    "filePath": "izhmash_sv_98_bipod"
+    "filePath": "izhmash_sv_98_bipod",
+    "marketSearchName": "Izhmash SV-98 bipod",
+    "marketPositionOffset": 0
   }
 ]

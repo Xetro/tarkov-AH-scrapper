@@ -1,6 +1,7 @@
 [
   {
     "name": "F5 MPX Drum mag 50-round 9x19 magazine",
+    "category": "magazines",
     "image": "F5 MPX Drum mag 50-round 9x19 magazine Icon.png",
     "title": "F5 MPX Drum mag 50-round 9x19 magazine",
     "pageId": 13857,
@@ -9,10 +10,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/F5_MPX_Drum_mag_50-round_9x19_magazine_Icon.png",
-    "filePath": "f5_mpx_drum_mag_50_round_9x19_magazine"
+    "filePath": "f5_mpx_drum_mag_50_round_9x19_magazine",
+    "marketSearchName": "F5 MPX Drum mag 50-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "TROY Battlemag 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "TroyBattlemag30Icon.png",
     "title": "TROY Battlemag 5.56x45 STANAG 30-round magazine",
     "pageId": 13878,
@@ -21,10 +25,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/TroyBattlemag30Icon.png?version=e1ba3e951f1743b1f84c9ba2743a93bb",
-    "filePath": "troy_battlemag_5_56x45_stanag_30_round_magazine"
+    "filePath": "troy_battlemag_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "TROY Battlemag 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "ProMag AALVX 35 7.62x39 35-round SKS magazine.",
+    "category": "magazines",
     "image": "AALVX Icon.png",
     "title": "ProMag AALVX 35 7.62x39 35-round SKS magazine.",
     "pageId": 13847,
@@ -33,10 +40,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/64/AALVX_Icon.png?version=aaf3a1cc49cedbfed0760d0f018e69ba",
-    "filePath": "promag_aalvx_35_7_62x39_35_round_sks_magazine_"
+    "filePath": "promag_aalvx_35_7_62x39_35_round_sks_magazine_",
+    "marketSearchName": "ProMag AALVX 35 7.62x39 35-round SKS magazine.",
+    "marketPositionOffset": 0
   },
   {
     "name": "MPX with TTI Base pad +11 41-round 9x19 magazine",
+    "category": "magazines",
     "image": "MPX Base Pad Icon.png",
     "title": "MPX with TTI Base pad +11 41-round 9x19 magazine",
     "pageId": 13856,
@@ -45,10 +55,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ad/MPX_Base_Pad_Icon.png?version=1d1aff4cfc9879a8f4f3eef9202cf3b6",
-    "filePath": "mpx_with_tti_base_pad__11_41_round_9x19_magazine"
+    "filePath": "mpx_with_tti_base_pad__11_41_round_9x19_magazine",
+    "marketSearchName": "MPX with TTI Base pad +11 41-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "7.62x51 metal magazine for VPO-101 and compatibles, 10-round capacity",
+    "category": "magazines",
     "image": "VPO-101 10rnd mag icon.png",
     "title": "7.62x51 metal magazine for VPO-101 and compatibles, 10-round capacity",
     "pageId": 13842,
@@ -57,10 +70,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/VPO-101_10rnd_mag_icon.png",
-    "filePath": "7_62x51_metal_magazine_for_vpo_101_and_compatibles__10_round_capacity"
+    "filePath": "7_62x51_metal_magazine_for_vpo_101_and_compatibles__10_round_capacity",
+    "marketSearchName": "7.62x51 metal magazine for VPO-101 and compatibles, 10-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "5-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
+    "category": "magazines",
     "image": "Sb5 Icon.png",
     "title": "5-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
     "pageId": 13861,
@@ -69,10 +85,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/Sb5_Icon.png?version=349105bef0ca4bc643489ab4d4e6f75a",
-    "filePath": "5_shot_mc_20_01_sb_3_20ga_magazine_for_toz_106"
+    "filePath": "5_shot_mc_20_01_sb_3_20ga_magazine_for_toz_106",
+    "marketSearchName": "5-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
+    "marketPositionOffset": 0
   },
   {
     "name": "20-round SVD 7.62x54 magazine",
+    "category": "magazines",
     "image": "SVD 20 Icon.png",
     "title": "20-round SVD 7.62x54 magazine",
     "pageId": 13909,
@@ -81,10 +100,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/SVD_20_Icon.png?version=3ffb684974db0e2897346f0add91391b",
-    "filePath": "20_round_svd_7_62x54_magazine"
+    "filePath": "20_round_svd_7_62x54_magazine",
+    "marketSearchName": "20-round SVD 7.62x54 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "7.62x51 metal magazine for VPO-101 and compatibles, 5-round capacity",
+    "category": "magazines",
     "image": "VPO-101Magicon.png",
     "title": "7.62x51 metal magazine for VPO-101 and compatibles, 5-round capacity",
     "pageId": 13607,
@@ -93,10 +115,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/VPO-101Magicon.png",
-    "filePath": "7_62x51_metal_magazine_for_vpo_101_and_compatibles__5_round_capacity"
+    "filePath": "7_62x51_metal_magazine_for_vpo_101_and_compatibles__5_round_capacity",
+    "marketSearchName": "7.62x51 metal magazine for VPO-101 and compatibles, 5-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles",
+    "category": "magazines",
     "image": "ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles icon.png",
     "title": "ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles",
     "pageId": 13865,
@@ -105,10 +130,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/41/ProMag_AK-A-16_73-round_7.62x39_magazine_for_AKM_and_compatibles_icon.png",
-    "filePath": "promag_ak_a_16_73_round_7_62x39_magazine_for_akm_and_compatibles"
+    "filePath": "promag_ak_a_16_73_round_7_62x39_magazine_for_akm_and_compatibles",
+    "marketSearchName": "ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "P226 Extended magazine 9x19",
+    "category": "magazines",
     "image": "P226ExtMagIcon.png",
     "title": "P226 Extended magazine 9x19",
     "pageId": 13911,
@@ -117,10 +145,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8e/P226ExtMagIcon.png?version=99e390dc7e25d05637b41c79ebf8663c",
-    "filePath": "p226_extended_magazine_9x19"
+    "filePath": "p226_extended_magazine_9x19",
+    "marketSearchName": "P226 Extended magazine 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK PM Gen.2 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "HKPM30RndIcon.png",
     "title": "HK PM Gen.2 5.56x45 STANAG 30-round magazine",
     "pageId": 13877,
@@ -129,10 +160,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8e/HKPM30RndIcon.png?version=c99b2348cac83496f5bce097a4413d79",
-    "filePath": "hk_pm_gen_2_5_56x45_stanag_30_round_magazine"
+    "filePath": "hk_pm_gen_2_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "HK PM Gen.2 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "10 rnds. SKS internal box magazine 7.62x39",
+    "category": "magazines",
     "image": "Editing 10 rnds. SKS internal box magazine 7.62x39 icon.png",
     "title": "10 rnds. SKS internal box magazine 7.62x39",
     "pageId": 3348,
@@ -141,10 +175,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/00/Editing_10_rnds._SKS_internal_box_magazine_7.62x39_icon.png",
-    "filePath": "10_rnds__sks_internal_box_magazine_7_62x39"
+    "filePath": "10_rnds__sks_internal_box_magazine_7_62x39",
+    "marketSearchName": "10 rnds. SKS internal box magazine 7.62x39",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round SVD 7.62x54 magazine",
+    "category": "magazines",
     "image": "10-round SVD 7.62x54 magazine icon.png",
     "title": "10-round SVD 7.62x54 magazine",
     "pageId": 13838,
@@ -153,10 +190,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7f/10-round_SVD_7.62x54_magazine_icon.png",
-    "filePath": "10_round_svd_7_62x54_magazine"
+    "filePath": "10_round_svd_7_62x54_magazine",
+    "marketSearchName": "10-round SVD 7.62x54 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK Polymer mag 30 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "HK Polymer Icon.png",
     "title": "HK Polymer mag 30 5.56x45 STANAG 30-round magazine",
     "pageId": 13876,
@@ -165,10 +205,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/HK_Polymer_Icon.png?version=ad6adfa4682f49e9188f8e35fce31384",
-    "filePath": "hk_polymer_mag_30_5_56x45_stanag_30_round_magazine"
+    "filePath": "hk_polymer_mag_30_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "HK Polymer mag 30 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "100-round MAG5-100 5.56x45 STANAG magazine",
+    "category": "magazines",
     "image": "MAG5-100 Icon.png",
     "title": "100-round MAG5-100 5.56x45 STANAG magazine",
     "pageId": 13868,
@@ -177,10 +220,13 @@
       "height": "3"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/MAG5-100_Icon.png",
-    "filePath": "100_round_mag5_100_5_56x45_stanag_magazine"
+    "filePath": "100_round_mag5_100_5_56x45_stanag_magazine",
+    "marketSearchName": "100-round MAG5-100 5.56x45 STANAG magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard MPX 20-round 9x19 magazine",
+    "category": "magazines",
     "image": "Standard MPX 20-round 9x19 magazine icon.png",
     "title": "Standard MPX 20-round 9x19 magazine",
     "pageId": 13855,
@@ -189,10 +235,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/Standard_MPX_20-round_9x19_magazine_icon.png",
-    "filePath": "standard_mpx_20_round_9x19_magazine"
+    "filePath": "standard_mpx_20_round_9x19_magazine",
+    "marketSearchName": "Standard MPX 20-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "PUFGUN SG-919 20 20-round 9x19 magazine for PP-19-01",
+    "category": "magazines",
     "image": "PUFGUN SG-919 20 20-round 9x19 magazine for PP-19-01 icon.png",
     "title": "PUFGUN SG-919 20 20-round 9x19 magazine for PP-19-01",
     "pageId": 12861,
@@ -201,10 +250,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/PUFGUN_SG-919_20_20-round_9x19_magazine_for_PP-19-01_icon.png",
-    "filePath": "pufgun_sg_919_20_20_round_9x19_magazine_for_pp_19_01"
+    "filePath": "pufgun_sg_919_20_20_round_9x19_magazine_for_pp_19_01",
+    "marketSearchName": "PUFGUN SG-919 20 20-round 9x19 magazine for PP-19-01",
+    "marketPositionOffset": 0
   },
   {
     "name": "PUFGUN SG-919 30 30-round 9x19 magazine for PP-19-01",
+    "category": "magazines",
     "image": "PUFGUN SG-919 30 30-round 9x19 magazine for PP-19-01 icon.png",
     "title": "PUFGUN SG-919 30 30-round 9x19 magazine for PP-19-01",
     "pageId": 12860,
@@ -213,10 +265,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/PUFGUN_SG-919_30_30-round_9x19_magazine_for_PP-19-01_icon.png",
-    "filePath": "pufgun_sg_919_30_30_round_9x19_magazine_for_pp_19_01"
+    "filePath": "pufgun_sg_919_30_30_round_9x19_magazine_for_pp_19_01",
+    "marketSearchName": "PUFGUN SG-919 30 30-round 9x19 magazine for PP-19-01",
+    "marketPositionOffset": 0
   },
   {
     "name": "Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons",
+    "category": "magazines",
     "image": "Cwpmagicon.png",
     "title": "Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons",
     "pageId": 12859,
@@ -225,10 +280,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Cwpmagicon.png?version=e3342296e46ce0d07e55786d834d3220",
-    "filePath": "arsenal_cwp_30_round_5_56x45_magazine_for_slr_106_and_compatible_weapons"
+    "filePath": "arsenal_cwp_30_round_5_56x45_magazine_for_slr_106_and_compatible_weapons",
+    "marketSearchName": "Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "HK Steel Maritime 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "HK Steel Maritime5 5.56x45 STANAG 30-round magazine icon.png",
     "title": "HK Steel Maritime 5.56x45 STANAG 30-round magazine",
     "pageId": 12868,
@@ -237,10 +295,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/HK_Steel_Maritime5_5.56x45_STANAG_30-round_magazine_icon.png",
-    "filePath": "hk_steel_maritime_5_56x45_stanag_30_round_magazine"
+    "filePath": "hk_steel_maritime_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "HK Steel Maritime 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "5-round .308 M700 magazine",
+    "category": "magazines",
     "image": "5-round .308 M700 magazine icon.png",
     "title": "5-round .308 M700 magazine",
     "pageId": 12711,
@@ -249,10 +310,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cc/5-round_.308_M700_magazine_icon.png",
-    "filePath": "5_round__308_m700_magazine"
+    "filePath": "5_round__308_m700_magazine",
+    "marketSearchName": "5-round .308 M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round .308 M700 magazine",
+    "category": "magazines",
     "image": "10-round .308 M700 magazine icon.png",
     "title": "10-round .308 M700 magazine",
     "pageId": 12712,
@@ -261,10 +325,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/10-round_.308_M700_magazine_icon.png",
-    "filePath": "10_round__308_m700_magazine"
+    "filePath": "10_round__308_m700_magazine",
+    "marketSearchName": "10-round .308 M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "95-round 5.45x39 magazine for RPK-16 and compatibles",
+    "category": "magazines",
     "image": "95-round 5.45x39 magazine for RPK-16 icon.png",
     "title": "95-round 5.45x39 magazine for RPK-16 and compatibles",
     "pageId": 12493,
@@ -273,10 +340,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/03/95-round_5.45x39_magazine_for_RPK-16_icon.png",
-    "filePath": "95_round_5_45x39_magazine_for_rpk_16_and_compatibles"
+    "filePath": "95_round_5_45x39_magazine_for_rpk_16_and_compatibles",
+    "marketSearchName": "95-round 5.45x39 magazine for RPK-16 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "30-round 5.45x39 magazine for AK-12 and compatibles",
+    "category": "magazines",
     "image": "30-round 5.45x39 magazine for АK-12 and compatibles icon.png",
     "title": "30-round 5.45x39 magazine for AK-12 and compatibles",
     "pageId": 12581,
@@ -285,10 +355,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/30-round_5.45x39_magazine_for_%D0%90K-12_and_compatibles_icon.png",
-    "filePath": "30_round_5_45x39_magazine_for_ak_12_and_compatibles"
+    "filePath": "30_round_5_45x39_magazine_for_ak_12_and_compatibles",
+    "marketSearchName": "30-round 5.45x39 magazine for AK-12 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity",
+    "category": "magazines",
     "image": "MosinProMagIcon.png",
     "title": "7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity",
     "pageId": 11883,
@@ -297,10 +370,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/MosinProMagIcon.png?version=075f45dceb13f560b01432b418e2eaf3",
-    "filePath": "7_62x54r_promag_opfor_for_archangel_mosin_rifle_kit__10_round_capacity"
+    "filePath": "7_62x54r_promag_opfor_for_archangel_mosin_rifle_kit__10_round_capacity",
+    "marketSearchName": "7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "British FAL/L1A1 7.62x51 30 rnd magazine",
+    "category": "magazines",
     "image": "L1A1 Mag Icon.png",
     "title": "British FAL/L1A1 7.62x51 30 rnd magazine",
     "pageId": 11515,
@@ -309,10 +385,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/L1A1_Mag_Icon.png?version=269d28f1dc3a8cf50f1738e3c39877df",
-    "filePath": "british_fal_l1a1_7_62x51_30_rnd_magazine"
+    "filePath": "british_fal_l1a1_7_62x51_30_rnd_magazine",
+    "marketSearchName": "British FAL/L1A1 7.62x51 30 rnd magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "X-14 M14 50 round 7.62x51 magazine",
+    "category": "magazines",
     "image": "M1450roundericon.png",
     "title": "X-14 M14 50 round 7.62x51 magazine",
     "pageId": 10244,
@@ -321,10 +400,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/90/M1450roundericon.png?version=9038ad33ceda0d78676da7a60bcc0bb0",
-    "filePath": "x_14_m14_50_round_7_62x51_magazine"
+    "filePath": "x_14_m14_50_round_7_62x51_magazine",
+    "marketSearchName": "X-14 M14 50 round 7.62x51 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "M14 30 round 7.62x51 magazine",
+    "category": "magazines",
     "image": "30roundm1magicon.png",
     "title": "M14 30 round 7.62x51 magazine",
     "pageId": 10245,
@@ -333,10 +415,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/30roundm1magicon.png?version=e058a3c90f243f04fe3c5b9e8a83d1b3",
-    "filePath": "m14_30_round_7_62x51_magazine"
+    "filePath": "m14_30_round_7_62x51_magazine",
+    "marketSearchName": "M14 30 round 7.62x51 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Regular 4rnd magazine for Mosin rifle",
+    "category": "magazines",
     "image": "Mosin Mag Icon.png",
     "title": "Regular 4rnd magazine for Mosin rifle",
     "pageId": 10358,
@@ -345,10 +430,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/Mosin_Mag_Icon.png?version=2bce217b7272d16609e1f10e633bd823",
-    "filePath": "regular_4rnd_magazine_for_mosin_rifle"
+    "filePath": "regular_4rnd_magazine_for_mosin_rifle",
+    "marketSearchName": "Regular 4rnd magazine for Mosin rifle",
+    "marketPositionOffset": 0
   },
   {
     "name": "PMAG GEN M3 30 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "M4mag30roundnowindowicon.png",
     "title": "PMAG GEN M3 30 5.56x45 STANAG 30-round magazine",
     "pageId": 9952,
@@ -357,10 +445,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/M4mag30roundnowindowicon.png?version=efb5a04a9f526758a0079aad12cdb122",
-    "filePath": "pmag_gen_m3_30_5_56x45_stanag_30_round_magazine"
+    "filePath": "pmag_gen_m3_30_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "PMAG GEN M3 30 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "6L29 30-round 5.56x45 magazine for АK-101 and compatible weapons",
+    "category": "magazines",
     "image": "6l29icon.png",
     "title": "6L29 30-round 5.56x45 magazine for АK-101 and compatible weapons",
     "pageId": 9703,
@@ -369,10 +460,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/22/6l29icon.png?version=31e7aca3d9200ef06290f6db740c82a9",
-    "filePath": "6l29_30_round_5_56x45_magazine_for__k_101_and_compatible_weapons"
+    "filePath": "6l29_30_round_5_56x45_magazine_for__k_101_and_compatible_weapons",
+    "marketSearchName": "6L29 30-round 5.56x45 magazine for АK-101 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "30-round 7.62x39 magazine for АK-103 and compatible weapons",
+    "category": "magazines",
     "image": "AK-103Magicon.png",
     "title": "30-round 7.62x39 magazine for АK-103 and compatible weapons",
     "pageId": 9701,
@@ -381,10 +475,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/AK-103Magicon.png",
-    "filePath": "30_round_7_62x39_magazine_for__k_103_and_compatible_weapons"
+    "filePath": "30_round_7_62x39_magazine_for__k_103_and_compatible_weapons",
+    "marketSearchName": "30-round 7.62x39 magazine for АK-103 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "M1A 20 round 7.62x51 magazine",
+    "category": "magazines",
     "image": "M1amagicon.png",
     "title": "M1A 20 round 7.62x51 magazine",
     "pageId": 9716,
@@ -393,10 +490,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/M1amagicon.png?version=a976c1604a8aac116db25f0f9721816b",
-    "filePath": "m1a_20_round_7_62x51_magazine"
+    "filePath": "m1a_20_round_7_62x51_magazine",
+    "marketSearchName": "M1A 20 round 7.62x51 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "PMAG GEN M3 10 5.56x45 STANAG 10-round magazine",
+    "category": "magazines",
     "image": "10roundm4icon.png",
     "title": "PMAG GEN M3 10 5.56x45 STANAG 10-round magazine",
     "pageId": 9758,
@@ -405,10 +505,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dc/10roundm4icon.png?version=757d86eb91cedf7884bcbcf76ebef779",
-    "filePath": "pmag_gen_m3_10_5_56x45_stanag_10_round_magazine"
+    "filePath": "pmag_gen_m3_10_5_56x45_stanag_10_round_magazine",
+    "marketSearchName": "PMAG GEN M3 10 5.56x45 STANAG 10-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity",
+    "category": "magazines",
     "image": "Pmag30aknicon.png",
     "title": "Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity",
     "pageId": 9759,
@@ -417,10 +520,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/Pmag30aknicon.png?version=d5c85ba8aef20770c6c7c7237832bd3f",
-    "filePath": "pmag_30_ak74_gen_m3_5_45x39_magazine_for_ak_and_compatibles__30_round_capacity"
+    "filePath": "pmag_30_ak74_gen_m3_5_45x39_magazine_for_ak_and_compatibles__30_round_capacity",
+    "marketSearchName": "Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "30-round SR3M.130 9x39 SR3M magazine",
+    "category": "magazines",
     "image": "Vssval30roundericon.png",
     "title": "30-round SR3M.130 9x39 SR3M magazine",
     "pageId": 9713,
@@ -429,10 +535,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/Vssval30roundericon.png?version=6d71702e72f3c6cb05a26a382d3cf740",
-    "filePath": "30_round_sr3m_130_9x39_sr3m_magazine"
+    "filePath": "30_round_sr3m_130_9x39_sr3m_magazine",
+    "marketSearchName": "30-round SR3M.130 9x39 SR3M magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "SAI-02 10-round 12x76 magazine for SOK-12 and compatible weapons",
+    "category": "magazines",
     "image": "10RounderSaiga12Icon.png",
     "title": "SAI-02 10-round 12x76 magazine for SOK-12 and compatible weapons",
     "pageId": 9760,
@@ -441,10 +550,13 @@
       "height": "3"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/10RounderSaiga12Icon.png?version=1178a21c0cfe98db0f965e7314954e21",
-    "filePath": "sai_02_10_round_12x76_magazine_for_sok_12_and_compatible_weapons"
+    "filePath": "sai_02_10_round_12x76_magazine_for_sok_12_and_compatible_weapons",
+    "marketSearchName": "SAI-02 10-round 12x76 magazine for SOK-12 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "8-shell MP-133x8 12ga magazine",
+    "category": "magazines",
     "image": "Mp133x8.png",
     "title": "8-shell MP-133x8 12ga magazine",
     "pageId": 3009,
@@ -453,10 +565,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/96/Mp133x8.png?version=367d0a36a06168e091e449f75ea57314",
-    "filePath": "8_shell_mp_133x8_12ga_magazine"
+    "filePath": "8_shell_mp_133x8_12ga_magazine",
+    "marketSearchName": "8-shell MP-133x8 12ga magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity",
+    "category": "magazines",
     "image": "6l10magicon.png",
     "title": "Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity",
     "pageId": 7557,
@@ -465,10 +580,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6f/6l10magicon.png?version=a7f270cd7fd3bfdb23225534f5757b78",
-    "filePath": "izhmash_6l10_7_62x39_magazine_for_ak_and_compatibles__30_round_capacity"
+    "filePath": "izhmash_6l10_7_62x39_magazine_for_ak_and_compatibles__30_round_capacity",
+    "marketSearchName": "Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity",
+    "category": "magazines",
     "image": "Ak10rndmag.png",
     "title": "7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity",
     "pageId": 7039,
@@ -477,10 +595,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/Ak10rndmag.png?version=beccd886f5045a808d33811b75812b5b",
-    "filePath": "7_62x39_ribbed_metal_magazine_for_ak_and_compatibles__10_round_capacity"
+    "filePath": "7_62x39_ribbed_metal_magazine_for_ak_and_compatibles__10_round_capacity",
+    "marketSearchName": "7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "SR1-MP magazine",
+    "category": "magazines",
     "image": "Sr1mpmag.png",
     "title": "SR1-MP magazine",
     "pageId": 8141,
@@ -489,10 +610,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/35/Sr1mpmag.png?version=ca2090f07a850341fb300900d4a594dc",
-    "filePath": "sr1_mp_magazine"
+    "filePath": "sr1_mp_magazine",
+    "marketSearchName": "SR1-MP magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "P226 magazine",
+    "category": "magazines",
     "image": "P226mag.png",
     "title": "P226 magazine",
     "pageId": 3091,
@@ -501,10 +625,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/69/P226mag.png?version=3cd9a07fd64407af195492a607c26390",
-    "filePath": "p226_magazine"
+    "filePath": "p226_magazine",
+    "marketSearchName": "P226 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "20-round 6L25 9x39 VSS magazine",
+    "category": "magazines",
     "image": "Vss20rndicon.png",
     "title": "20-round 6L25 9x39 VSS magazine",
     "pageId": 3105,
@@ -513,10 +640,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/Vss20rndicon.png?version=e1f79ad7571b1fd238ccb9fd4311877f",
-    "filePath": "20_round_6l25_9x39_vss_magazine"
+    "filePath": "20_round_6l25_9x39_vss_magazine",
+    "marketSearchName": "20-round 6L25 9x39 VSS magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "30-round 6L23 5.45x39 magazine for AK-74 and compatibles",
+    "category": "magazines",
     "image": "30rndakplastic.png",
     "title": "30-round 6L23 5.45x39 magazine for AK-74 and compatibles",
     "pageId": 3065,
@@ -525,10 +655,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/03/30rndakplastic.png?version=d8f964dd722da0cd7e1754c010da5179",
-    "filePath": "30_round_6l23_5_45x39_magazine_for_ak_74_and_compatibles"
+    "filePath": "30_round_6l23_5_45x39_magazine_for_ak_74_and_compatibles",
+    "marketSearchName": "30-round 6L23 5.45x39 magazine for AK-74 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "45-round 6L26 5.45x39 magazine for AK-74 and compatibles",
+    "category": "magazines",
     "image": "6l26magicon.png",
     "title": "45-round 6L26 5.45x39 magazine for AK-74 and compatibles",
     "pageId": 3327,
@@ -537,10 +670,13 @@
       "height": "3"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/6l26magicon.png?version=5b25b144b56478ee3ab3f09790fadd7a",
-    "filePath": "45_round_6l26_5_45x39_magazine_for_ak_74_and_compatibles"
+    "filePath": "45_round_6l26_5_45x39_magazine_for_ak_74_and_compatibles",
+    "marketSearchName": "45-round 6L26 5.45x39 magazine for AK-74 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round .308 DVL-10 magazine",
+    "category": "magazines",
     "image": "Dvlmag.png",
     "title": "10-round .308 DVL-10 magazine",
     "pageId": 3352,
@@ -549,10 +685,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/59/Dvlmag.png?version=e925f829d2f7bd6077e0af05795caae6",
-    "filePath": "10_round__308_dvl_10_magazine"
+    "filePath": "10_round__308_dvl_10_magazine",
+    "marketSearchName": "10-round .308 DVL-10 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP-443 9x19 18-round magazine",
+    "category": "magazines",
     "image": "Grachmag.png",
     "title": "MP-443 9x19 18-round magazine",
     "pageId": 3343,
@@ -561,10 +700,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Grachmag.png?version=0721ff5782ff3dd0ee7365e7a9946f5a",
-    "filePath": "mp_443_9x19_18_round_magazine"
+    "filePath": "mp_443_9x19_18_round_magazine",
+    "marketSearchName": "MP-443 9x19 18-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard MP5 30-round 9x19 magazine",
+    "category": "magazines",
     "image": "Mp5magicon.png",
     "title": "Standard MP5 30-round 9x19 magazine",
     "pageId": 6824,
@@ -573,10 +715,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Mp5magicon.png?version=647e60900f2eced24f57c7fc1c0d4918",
-    "filePath": "standard_mp5_30_round_9x19_magazine"
+    "filePath": "standard_mp5_30_round_9x19_magazine",
+    "marketSearchName": "Standard MP5 30-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Glock 9x19 magazine",
+    "category": "magazines",
     "image": "Glockmag.png",
     "title": "Glock 9x19 magazine",
     "pageId": 8140,
@@ -585,10 +730,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Glockmag.png?version=fce061abf74b88fcd1d6bc109e9ed48a",
-    "filePath": "glock_9x19_magazine"
+    "filePath": "glock_9x19_magazine",
+    "marketSearchName": "Glock 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard MPX 30-round 9x19 magazine",
+    "category": "magazines",
     "image": "Mpxmagicon.png",
     "title": "Standard MPX 30-round 9x19 magazine",
     "pageId": 6952,
@@ -597,10 +745,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/89/Mpxmagicon.png?version=08e25149824aeed1033520598338beae",
-    "filePath": "standard_mpx_30_round_9x19_magazine"
+    "filePath": "standard_mpx_30_round_9x19_magazine",
+    "marketSearchName": "Standard MPX 30-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "6-shell MP-133x6 12ga magazine",
+    "category": "magazines",
     "image": "Mp133x6.png",
     "title": "6-shell MP-133x6 12ga magazine",
     "pageId": 3334,
@@ -609,10 +760,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/Mp133x6.png?version=21a1ba774e0d3974d48d03e59023d871",
-    "filePath": "6_shell_mp_133x6_12ga_magazine"
+    "filePath": "6_shell_mp_133x6_12ga_magazine",
+    "marketSearchName": "6-shell MP-133x6 12ga magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP-153 foreend cap",
+    "category": "magazines",
     "image": "Mp153x4.png",
     "title": "MP-153 foreend cap",
     "pageId": 3340,
@@ -621,10 +775,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bf/Mp153x4.png?version=752283e997c3b1c239c2197a6c33a217",
-    "filePath": "mp_153_foreend_cap"
+    "filePath": "mp_153_foreend_cap",
+    "marketSearchName": "MP-153 foreend cap",
+    "marketPositionOffset": 0
   },
   {
     "name": "X Products X-5 MP5 50-round 9x19 magazine",
+    "category": "magazines",
     "image": "Mp5drumicon.png",
     "title": "X Products X-5 MP5 50-round 9x19 magazine",
     "pageId": 7829,
@@ -633,10 +790,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0e/Mp5drumicon.png?version=cedf4a355af2ea7d9e3025c29fe5203a",
-    "filePath": "x_products_x_5_mp5_50_round_9x19_magazine"
+    "filePath": "x_products_x_5_mp5_50_round_9x19_magazine",
+    "marketSearchName": "X Products X-5 MP5 50-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP-153 5-rd magazine extension",
+    "category": "magazines",
     "image": "Mp153x5.png",
     "title": "MP-153 5-rd magazine extension",
     "pageId": 3341,
@@ -645,10 +805,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/eb/Mp153x5.png?version=9932453d6476b79ce60e80bbcca7cdc0",
-    "filePath": "mp_153_5_rd_magazine_extension"
+    "filePath": "mp_153_5_rd_magazine_extension",
+    "marketSearchName": "MP-153 5-rd magazine extension",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP-153 6-rd magazine extension",
+    "category": "magazines",
     "image": "Mp153x6.png",
     "title": "MP-153 6-rd magazine extension",
     "pageId": 8648,
@@ -657,10 +820,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9e/Mp153x6.png?version=542c18facaa9aa7da7bf5e38cb866ca6",
-    "filePath": "mp_153_6_rd_magazine_extension"
+    "filePath": "mp_153_6_rd_magazine_extension",
+    "marketSearchName": "MP-153 6-rd magazine extension",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP-153 7-rd magazine extension",
+    "category": "magazines",
     "image": "Mp153x7.png",
     "title": "MP-153 7-rd magazine extension",
     "pageId": 8649,
@@ -669,10 +835,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Mp153x7.png?version=35ac1aa8bf34b5f434eb7c463c7888e7",
-    "filePath": "mp_153_7_rd_magazine_extension"
+    "filePath": "mp_153_7_rd_magazine_extension",
+    "marketSearchName": "MP-153 7-rd magazine extension",
+    "marketPositionOffset": 0
   },
   {
     "name": "MP-153 8-rd magazine extension",
+    "category": "magazines",
     "image": "Mp153x8.png",
     "title": "MP-153 8-rd magazine extension",
     "pageId": 8650,
@@ -681,10 +850,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Mp153x8.png?version=4b0043a9c92f9043023ce4e13223c080",
-    "filePath": "mp_153_8_rd_magazine_extension"
+    "filePath": "mp_153_8_rd_magazine_extension",
+    "marketSearchName": "MP-153 8-rd magazine extension",
+    "marketPositionOffset": 0
   },
   {
     "name": "60-round 6L31 5.45x39 magazine for AK-74 and compatibles",
+    "category": "magazines",
     "image": "6L31-60-mag icon.png",
     "title": "60-round 6L31 5.45x39 magazine for AK-74 and compatibles",
     "pageId": 3330,
@@ -693,10 +865,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/6L31-60-mag_icon.png",
-    "filePath": "60_round_6l31_5_45x39_magazine_for_ak_74_and_compatibles"
+    "filePath": "60_round_6l31_5_45x39_magazine_for_ak_74_and_compatibles",
+    "marketSearchName": "60-round 6L31 5.45x39 magazine for AK-74 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity",
+    "category": "magazines",
     "image": "PalmAK30Icon.gif",
     "title": "Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity",
     "pageId": 7558,
@@ -705,10 +880,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/PalmAK30Icon.gif?version=d732f6877576086a3cc7267c17b9135d",
-    "filePath": "palm_us_ak30_7_62x39_magazine_for_ak_and_compatibles__30_round_capacity"
+    "filePath": "palm_us_ak30_7_62x39_magazine_for_ak_and_compatibles__30_round_capacity",
+    "marketSearchName": "Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "TT-105 7.62x25 TT Magazine",
+    "category": "magazines",
     "image": "TT-105 magazine icon.png",
     "title": "TT-105 7.62x25 TT Magazine",
     "pageId": 6947,
@@ -717,10 +895,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/65/TT-105_magazine_icon.png",
-    "filePath": "tt_105_7_62x25_tt_magazine"
+    "filePath": "tt_105_7_62x25_tt_magazine",
+    "marketSearchName": "TT-105 7.62x25 TT Magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "PM/PPSH 9x18PM 84-round drum mag for PM",
+    "category": "magazines",
     "image": "Makarovdrumicon.png",
     "title": "PM/PPSH 9x18PM 84-round drum mag for PM",
     "pageId": 3337,
@@ -729,10 +910,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/Makarovdrumicon.png?version=8076c6aabce1fe5765bbc99cf138a291",
-    "filePath": "pm_ppsh_9x18pm_84_round_drum_mag_for_pm"
+    "filePath": "pm_ppsh_9x18pm_84_round_drum_mag_for_pm",
+    "marketSearchName": "PM/PPSH 9x18PM 84-round drum mag for PM",
+    "marketPositionOffset": 0
   },
   {
     "name": "90-93 9x18PM Magazine, for 8 PM rounds",
+    "category": "magazines",
     "image": "Makarovmag.png",
     "title": "90-93 9x18PM Magazine, for 8 PM rounds",
     "pageId": 3313,
@@ -741,10 +925,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/20/Makarovmag.png?version=2be9233d9ad97e7bda7431b0c1f59b98",
-    "filePath": "90_93_9x18pm_magazine__for_8_pm_rounds"
+    "filePath": "90_93_9x18pm_magazine__for_8_pm_rounds",
+    "marketSearchName": "90-93 9x18PM Magazine, for 8 PM rounds",
+    "marketPositionOffset": 0
   },
   {
     "name": "Sb.5 5-round 12/76 magazine for SOK-12 and compatible weapons",
+    "category": "magazines",
     "image": "Saig12mag.png",
     "title": "Sb.5 5-round 12/76 magazine for SOK-12 and compatible weapons",
     "pageId": 3342,
@@ -753,10 +940,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d1/Saig12mag.png?version=bd117475b4a4eaca8f28bb79a9f4119f",
-    "filePath": "sb_5_5_round_12_76_magazine_for_sok_12_and_compatible_weapons"
+    "filePath": "sb_5_5_round_12_76_magazine_for_sok_12_and_compatible_weapons",
+    "marketSearchName": "Sb.5 5-round 12/76 magazine for SOK-12 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "ProMag SKS-A5 7.62x39 20-round SKS magazine",
+    "category": "magazines",
     "image": "Sksmagicon.png",
     "title": "ProMag SKS-A5 7.62x39 20-round SKS magazine",
     "pageId": 7136,
@@ -765,10 +955,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Sksmagicon.png?version=4cd87bc994800fd18ab2c76ff304ae64",
-    "filePath": "promag_sks_a5_7_62x39_20_round_sks_magazine"
+    "filePath": "promag_sks_a5_7_62x39_20_round_sks_magazine",
+    "marketSearchName": "ProMag SKS-A5 7.62x39 20-round SKS magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons",
+    "category": "magazines",
     "image": "6l2030rndmagicon.png",
     "title": "6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons",
     "pageId": 3100,
@@ -777,10 +970,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d3/6l2030rndmagicon.png?version=d705c8ffd0947a2e227e5d6fc1116073",
-    "filePath": "6l20_30_round_5_45x39_magazine_for_ak_74_and_compatible_weapons"
+    "filePath": "6l20_30_round_5_45x39_magazine_for_ak_74_and_compatible_weapons",
+    "marketSearchName": "6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round 6L24 9x39 VSS magazine",
+    "category": "magazines",
     "image": "Vss10rnd.png",
     "title": "10-round 6L24 9x39 VSS magazine",
     "pageId": 3127,
@@ -789,10 +985,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/Vss10rnd.png?version=1dcab9ad762fd7b5dd956ba5dbd59117",
-    "filePath": "10_round_6l24_9x39_vss_magazine"
+    "filePath": "10_round_6l24_9x39_vss_magazine",
+    "marketSearchName": "10-round 6L24 9x39 VSS magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons",
+    "category": "magazines",
     "image": "45orangeakmagicon.png",
     "title": "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons",
     "pageId": 3339,
@@ -801,10 +1000,13 @@
       "height": "3"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/45orangeakmagicon.png?version=b315d9a914f48f0391be60169ec289c0",
-    "filePath": "6l18_45_round_5_45x39_magazine_for_ak_74_and_compatible_weapons"
+    "filePath": "6l18_45_round_5_45x39_magazine_for_ak_74_and_compatible_weapons",
+    "marketSearchName": "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles",
+    "category": "magazines",
     "image": "Ak55mag.png",
     "title": "Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles",
     "pageId": 7040,
@@ -813,10 +1015,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/Ak55mag.png?version=7ec35d518d1041f70a8206141c22d046",
-    "filePath": "izhmash_ak_magazine__issued__55_or_later__30_round_for_7_62x39_ak_and_compatibles"
+    "filePath": "izhmash_ak_magazine__issued__55_or_later__30_round_for_7_62x39_ak_and_compatibles",
+    "marketSearchName": "Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity",
+    "category": "magazines",
     "image": "Amsalu.png",
     "title": "Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity",
     "pageId": 7041,
@@ -825,10 +1030,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/36/Amsalu.png?version=3cb0d18fc2b9b438a0bfe933760bbc5e",
-    "filePath": "izhmash_7_62x39_akms_aluminium_magazine_for_ak_and_compatibles__30_round_capacity"
+    "filePath": "izhmash_7_62x39_akms_aluminium_magazine_for_ak_and_compatibles__30_round_capacity",
+    "marketSearchName": "Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles",
+    "category": "magazines",
     "image": "Ak7410rndmag.png",
     "title": "10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles",
     "pageId": 3082,
@@ -837,10 +1045,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/Ak7410rndmag.png?version=8a0e65f29c8bcba0a9f1ffda16bc11a1",
-    "filePath": "10_round_saiga_545_5_45x39_magazine_for_ak_74_and_compatibles"
+    "filePath": "10_round_saiga_545_5_45x39_magazine_for_ak_74_and_compatibles",
+    "marketSearchName": "10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round polymer magazine 7.62x54R for SV-98",
+    "category": "magazines",
     "image": "Sv98mag.png",
     "title": "10-round polymer magazine 7.62x54R for SV-98",
     "pageId": 3097,
@@ -849,10 +1060,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/Sv98mag.png?version=42f4467df6f5051ca7999aa47a6493f8",
-    "filePath": "10_round_polymer_magazine_7_62x54r_for_sv_98"
+    "filePath": "10_round_polymer_magazine_7_62x54r_for_sv_98",
+    "marketSearchName": "10-round polymer magazine 7.62x54R for SV-98",
+    "marketPositionOffset": 0
   },
   {
     "name": "Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity",
+    "category": "magazines",
     "image": "Akm40rndicom.png",
     "title": "Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity",
     "pageId": 7207,
@@ -861,10 +1075,13 @@
       "height": "3"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/Akm40rndicom.png?version=50cc0d36291e34c52fefd74a3846ee08",
-    "filePath": "molot_6p2_sb_11_7_62x39_magazine_for_ak_and_compatibles__40_round_capacity"
+    "filePath": "molot_6p2_sb_11_7_62x39_magazine_for_ak_and_compatibles__40_round_capacity",
+    "marketSearchName": "Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity",
+    "category": "magazines",
     "image": "Pmag30rndakmicon.png",
     "title": "PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity",
     "pageId": 7254,
@@ -873,10 +1090,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bf/Pmag30rndakmicon.png?version=6b65ac66381790c62a1223d2e9625dae",
-    "filePath": "pmag_30_ak_akm_gen_m3_7_62x39_magazine_for_ak_and_compatibles__30_round_capacity"
+    "filePath": "pmag_30_ak_akm_gen_m3_7_62x39_magazine_for_ak_and_compatibles__30_round_capacity",
+    "marketSearchName": "PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard APS 9x18PM 20-round magazine",
+    "category": "magazines",
     "image": "APS 9x19PM 20-round magazine icon.png",
     "title": "Standard APS 9x18PM 20-round magazine",
     "pageId": 9706,
@@ -885,10 +1105,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/16/APS_9x19PM_20-round_magazine_icon.png",
-    "filePath": "standard_aps_9x18pm_20_round_magazine"
+    "filePath": "standard_aps_9x18pm_20_round_magazine",
+    "marketSearchName": "Standard APS 9x18PM 20-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round Izh.9x19 Sb.7 magazine",
+    "category": "magazines",
     "image": "Pp1910rndicon.png",
     "title": "10-round Izh.9x19 Sb.7 magazine",
     "pageId": 5508,
@@ -897,10 +1120,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/Pp1910rndicon.png?version=c1aff914c02c601210ec14ff43ad848b",
-    "filePath": "10_round_izh_9x19_sb_7_magazine"
+    "filePath": "10_round_izh_9x19_sb_7_magazine",
+    "marketSearchName": "10-round Izh.9x19 Sb.7 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard PP-19-01 30-round 9x19 magazine",
+    "category": "magazines",
     "image": "Pp1930rndicon.png",
     "title": "Standard PP-19-01 30-round 9x19 magazine",
     "pageId": 5515,
@@ -909,10 +1135,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/Pp1930rndicon.png?version=6673cfe6341dea7715a531b641138f0b",
-    "filePath": "standard_pp_19_01_30_round_9x19_magazine"
+    "filePath": "standard_pp_19_01_30_round_9x19_magazine",
+    "marketSearchName": "Standard PP-19-01 30-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard 9x18PM 20-round magazine for PP-91",
+    "category": "magazines",
     "image": "Kedr20rndmag.png",
     "title": "Standard 9x18PM 20-round magazine for PP-91",
     "pageId": 3345,
@@ -921,10 +1150,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/76/Kedr20rndmag.png?version=4e4b7d4344f87e506259083137e95387",
-    "filePath": "standard_9x18pm_20_round_magazine_for_pp_91"
+    "filePath": "standard_9x18pm_20_round_magazine_for_pp_91",
+    "marketSearchName": "Standard 9x18PM 20-round magazine for PP-91",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard 9x18PM 30-round magazine for PP-91",
+    "category": "magazines",
     "image": "Kedr30rnd.png",
     "title": "Standard 9x18PM 30-round magazine for PP-91",
     "pageId": 3346,
@@ -933,10 +1165,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Kedr30rnd.png?version=162343e4f1d46fbf0921b59fdbc52871",
-    "filePath": "standard_9x18pm_30_round_magazine_for_pp_91"
+    "filePath": "standard_9x18pm_30_round_magazine_for_pp_91",
+    "marketSearchName": "Standard 9x18PM 30-round magazine for PP-91",
+    "marketPositionOffset": 0
   },
   {
     "name": "Colt AR-15 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "Stanag30rndicon.png",
     "title": "Colt AR-15 5.56x45 STANAG 30-round magazine",
     "pageId": 3109,
@@ -945,10 +1180,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/Stanag30rndicon.png?version=11fa20397fec6a97c9884b81e95726ff",
-    "filePath": "colt_ar_15_5_56x45_stanag_30_round_magazine"
+    "filePath": "colt_ar_15_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "Colt AR-15 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul PMAG D-60 5.56x45 60-round magazine",
+    "category": "magazines",
     "image": "Magpul PMAG D-60.png",
     "title": "Magpul PMAG D-60 5.56x45 60-round magazine",
     "pageId": 7251,
@@ -957,10 +1195,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/Magpul_PMAG_D-60.png",
-    "filePath": "magpul_pmag_d_60_5_56x45_60_round_magazine"
+    "filePath": "magpul_pmag_d_60_5_56x45_60_round_magazine",
+    "marketSearchName": "Magpul PMAG D-60 5.56x45 60-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "PMAG GEN M3 20 5.56x45 STANAG 20-round magazine",
+    "category": "magazines",
     "image": "M420-round.png",
     "title": "PMAG GEN M3 20 5.56x45 STANAG 20-round magazine",
     "pageId": 3316,
@@ -969,10 +1210,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f3/M420-round.png",
-    "filePath": "pmag_gen_m3_20_5_56x45_stanag_20_round_magazine"
+    "filePath": "pmag_gen_m3_20_5_56x45_stanag_20_round_magazine",
+    "marketSearchName": "PMAG GEN M3 20 5.56x45 STANAG 20-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "40-round PMAG GEN M3 40 5.56x45 STANAG magazine",
+    "category": "magazines",
     "image": "PMAG_40_Icon.gif",
     "title": "40-round PMAG GEN M3 40 5.56x45 STANAG magazine",
     "pageId": 3319,
@@ -981,10 +1225,13 @@
       "height": "3"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/PMAG_40_Icon.gif?version=9a042f8bcc9b260d184ed2a20f86abdc",
-    "filePath": "40_round_pmag_gen_m3_40_5_56x45_stanag_magazine"
+    "filePath": "40_round_pmag_gen_m3_40_5_56x45_stanag_magazine",
+    "marketSearchName": "40-round PMAG GEN M3 40 5.56x45 STANAG magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "Genm30m4magicon.png",
     "title": "PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine",
     "pageId": 3325,
@@ -993,10 +1240,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Genm30m4magicon.png?version=356161d56644cb00d1c51f341881e712",
-    "filePath": "pmag_gen_m3_w_30_5_56x45_stanag_30_round_magazine"
+    "filePath": "pmag_gen_m3_w_30_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "60-round MAG5-60 5.56x45 STANAG magazine",
+    "category": "magazines",
     "image": "STANAG magazine 60-round MAG5 -5.56x45.png",
     "title": "60-round MAG5-60 5.56x45 STANAG magazine",
     "pageId": 3322,
@@ -1005,10 +1255,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/STANAG_magazine_60-round_MAG5_-5.56x45.png",
-    "filePath": "60_round_mag5_60_5_56x45_stanag_magazine"
+    "filePath": "60_round_mag5_60_5_56x45_stanag_magazine",
+    "marketSearchName": "60-round MAG5-60 5.56x45 STANAG magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "PMAG SR/LR GEN M3 20 7.62x51 20 rnd",
+    "category": "magazines",
     "image": "Rsassmag.png",
     "title": "PMAG SR/LR GEN M3 20 7.62x51 20 rnd",
     "pageId": 7374,
@@ -1017,10 +1270,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/50/Rsassmag.png?version=f26ec5c127de109b163b1a21248d806e",
-    "filePath": "pmag_sr_lr_gen_m3_20_7_62x51_20_rnd"
+    "filePath": "pmag_sr_lr_gen_m3_20_7_62x51_20_rnd",
+    "marketSearchName": "PMAG SR/LR GEN M3 20 7.62x51 20 rnd",
+    "marketPositionOffset": 0
   },
   {
     "name": "2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
+    "category": "magazines",
     "image": "Toz2rnd.png",
     "title": "2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
     "pageId": 8139,
@@ -1029,10 +1285,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Toz2rnd.png?version=5ad48c77894cee6cfe150438db92a88e",
-    "filePath": "2_shot_mc_20_01_sb_3_20ga_magazine_for_toz_106"
+    "filePath": "2_shot_mc_20_01_sb_3_20ga_magazine_for_toz_106",
+    "marketSearchName": "2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
+    "marketPositionOffset": 0
   },
   {
     "name": "4-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
+    "category": "magazines",
     "image": "Toz4rnd.png",
     "title": "4-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
     "pageId": 8427,
@@ -1041,10 +1300,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/Toz4rnd.png?version=26bc573b806de943146f7c4e14fde05e",
-    "filePath": "4_shot_mc_20_01_sb_3_20ga_magazine_for_toz_106"
+    "filePath": "4_shot_mc_20_01_sb_3_20ga_magazine_for_toz_106",
+    "marketSearchName": "4-shot MC 20-01 Sb.3 20ga magazine for TOZ-106",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-shell M870x10 12ga magazine",
+    "category": "magazines",
     "image": "10shell870magicon.png",
     "title": "10-shell M870x10 12ga magazine",
     "pageId": 9707,
@@ -1053,10 +1315,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/10shell870magicon.png?version=b56a027b4af00b921fbada5963a54797",
-    "filePath": "10_shell_m870x10_12ga_magazine"
+    "filePath": "10_shell_m870x10_12ga_magazine",
+    "marketSearchName": "10-shell M870x10 12ga magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "7-shell M870x7 12ga magazine",
+    "category": "magazines",
     "image": "M870x7icon.png",
     "title": "7-shell M870x7 12ga magazine",
     "pageId": 9712,
@@ -1065,10 +1330,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/M870x7icon.png?version=f2740bc4a06300046240e67b4cc95e41",
-    "filePath": "7_shell_m870x7_12ga_magazine"
+    "filePath": "7_shell_m870x7_12ga_magazine",
+    "marketSearchName": "7-shell M870x7 12ga magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Pmag GL9 polymer magazine",
+    "category": "magazines",
     "image": "Glockpolymermag.png",
     "title": "Pmag GL9 polymer magazine",
     "pageId": 8448,
@@ -1077,10 +1345,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/Glockpolymermag.png?version=3f2020b62b4173f29ac260500f338a3f",
-    "filePath": "pmag_gl9_polymer_magazine"
+    "filePath": "pmag_gl9_polymer_magazine",
+    "marketSearchName": "Pmag GL9 polymer magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "SGMT Drum mag for Glock 9x19, 50 rounds capacity",
+    "category": "magazines",
     "image": "Glockdrumicon.png",
     "title": "SGMT Drum mag for Glock 9x19, 50 rounds capacity",
     "pageId": 8449,
@@ -1089,10 +1360,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a9/Glockdrumicon.png?version=793740a41398b00b8ad5f5b9f360a457",
-    "filePath": "sgmt_drum_mag_for_glock_9x19__50_rounds_capacity"
+    "filePath": "sgmt_drum_mag_for_glock_9x19__50_rounds_capacity",
+    "marketSearchName": "SGMT Drum mag for Glock 9x19, 50 rounds capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "4-shell M870 12ga magazine cap",
+    "category": "magazines",
     "image": "4-shell M870 12ga magazine cap icon.png",
     "title": "4-shell M870 12ga magazine cap",
     "pageId": 9709,
@@ -1101,10 +1375,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/4-shell_M870_12ga_magazine_cap_icon.png",
-    "filePath": "4_shell_m870_12ga_magazine_cap"
+    "filePath": "4_shell_m870_12ga_magazine_cap",
+    "marketSearchName": "4-shell M870 12ga magazine cap",
+    "marketPositionOffset": 0
   },
   {
     "name": "\"Big Stick\" 9x19 magazine for Glock 9x19",
+    "category": "magazines",
     "image": "Bigstickicon.png",
     "title": "\"Big Stick\" 9x19 magazine for Glock 9x19",
     "pageId": 8447,
@@ -1113,10 +1390,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/Bigstickicon.png?version=41312cb402d672da5e846fc3e0b6334d",
-    "filePath": "_big_stick__9x19_magazine_for_glock_9x19"
+    "filePath": "_big_stick__9x19_magazine_for_glock_9x19",
+    "marketSearchName": "\"Big Stick\" 9x19 magazine for Glock 9x19",
+    "marketPositionOffset": 0
   },
   {
     "name": "FAL/SA-58 7.62x51 20 rnd",
+    "category": "magazines",
     "image": "FAL 20 Icon.png",
     "title": "FAL/SA-58 7.62x51 20 rnd",
     "pageId": 10874,
@@ -1125,10 +1405,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/FAL_20_Icon.png?version=5661b5b633427dd87fa1f407bfd23d7f",
-    "filePath": "fal_sa_58_7_62x51_20_rnd"
+    "filePath": "fal_sa_58_7_62x51_20_rnd",
+    "marketSearchName": "FAL/SA-58 7.62x51 20 rnd",
+    "marketPositionOffset": 0
   },
   {
     "name": "FAL/SA-58 7.62x51 30 rnd",
+    "category": "magazines",
     "image": "FAL Std 30Mag Icon.png",
     "title": "FAL/SA-58 7.62x51 30 rnd",
     "pageId": 11425,
@@ -1137,10 +1420,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/FAL_Std_30Mag_Icon.png?version=4cf9f9ea5359c425e3baa817fbb41a53",
-    "filePath": "fal_sa_58_7_62x51_30_rnd"
+    "filePath": "fal_sa_58_7_62x51_30_rnd",
+    "marketSearchName": "FAL/SA-58 7.62x51 30 rnd",
+    "marketPositionOffset": 0
   },
   {
     "name": "FAL/SA-58 7.62x51 10 rnd",
+    "category": "magazines",
     "image": "FAL-SA-58 7.62x51 10 rnd Icon.png",
     "title": "FAL/SA-58 7.62x51 10 rnd",
     "pageId": 11424,
@@ -1149,10 +1435,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7e/FAL-SA-58_7.62x51_10_rnd_Icon.png",
-    "filePath": "fal_sa_58_7_62x51_10_rnd"
+    "filePath": "fal_sa_58_7_62x51_10_rnd",
+    "marketSearchName": "FAL/SA-58 7.62x51 10 rnd",
+    "marketPositionOffset": 0
   },
   {
     "name": "X-FAL FAL/SA-58 7.62x51 50 rnd magazine",
+    "category": "magazines",
     "image": "FAL 50 Icon.png",
     "title": "X-FAL FAL/SA-58 7.62x51 50 rnd magazine",
     "pageId": 11421,
@@ -1161,10 +1450,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/FAL_50_Icon.png?version=698de50065e19510fc5e0f89aec6ec59",
-    "filePath": "x_fal_fal_sa_58_7_62x51_50_rnd_magazine"
+    "filePath": "x_fal_fal_sa_58_7_62x51_50_rnd_magazine",
+    "marketSearchName": "X-FAL FAL/SA-58 7.62x51 50 rnd magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "FAL/SA-58 \"MMW\" 7.62x51 20 rnd plastic mag",
+    "category": "magazines",
     "image": "MMW Fal Icon.png",
     "title": "FAL/SA-58 \"MMW\" 7.62x51 20 rnd plastic mag",
     "pageId": 11451,
@@ -1173,10 +1465,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/MMW_Fal_Icon.png?version=3b54b92d896b2406fee58cde96d405fa",
-    "filePath": "fal_sa_58__mmw__7_62x51_20_rnd_plastic_mag"
+    "filePath": "fal_sa_58__mmw__7_62x51_20_rnd_plastic_mag",
+    "marketSearchName": "FAL/SA-58 \"MMW\" 7.62x51 20 rnd plastic mag",
+    "marketPositionOffset": 0
   },
   {
     "name": "Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity",
+    "category": "magazines",
     "image": "40_Bak_Mag_Icon.png",
     "title": "Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity",
     "pageId": 11000,
@@ -1185,10 +1480,13 @@
       "height": "3"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/40_Bak_Mag_Icon.png?version=44e6e8ee531cf3b2714a64d51e5c5bd4",
-    "filePath": "bakelite_7_62x39_magazine_for_ak_and_compatibles__40_round_capacity"
+    "filePath": "bakelite_7_62x39_magazine_for_ak_and_compatibles__40_round_capacity",
+    "marketSearchName": "Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity",
+    "category": "magazines",
     "image": "AKAl10Icon.png",
     "title": "Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity",
     "pageId": 11001,
@@ -1197,10 +1495,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/AKAl10Icon.png?version=121adb70075cf47394e07ebbe549bc2a",
-    "filePath": "izhmash_7_62x39_ak_aluminium_magazine_for_ak_and_compatibles__10_round_capacity"
+    "filePath": "izhmash_7_62x39_ak_aluminium_magazine_for_ak_and_compatibles__10_round_capacity",
+    "marketSearchName": "Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard MP7 20-round 4.6x30 magazine",
+    "category": "magazines",
     "image": "MP720RounderIcon.png",
     "title": "Standard MP7 20-round 4.6x30 magazine",
     "pageId": 11794,
@@ -1209,10 +1510,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/MP720RounderIcon.png?version=314fb51596d6b572198070c2d7da4d13",
-    "filePath": "standard_mp7_20_round_4_6x30_magazine"
+    "filePath": "standard_mp7_20_round_4_6x30_magazine",
+    "marketSearchName": "Standard MP7 20-round 4.6x30 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard MP7 30-round 4.6x30 magazine",
+    "category": "magazines",
     "image": "MP730RounderIcon.png",
     "title": "Standard MP7 30-round 4.6x30 magazine",
     "pageId": 11796,
@@ -1221,10 +1525,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/90/MP730RounderIcon.png?version=1ad2e372bcae60b494e1b22d6756197f",
-    "filePath": "standard_mp7_30_round_4_6x30_magazine"
+    "filePath": "standard_mp7_30_round_4_6x30_magazine",
+    "marketSearchName": "Standard MP7 30-round 4.6x30 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard MP7 40-round 4.6x30 magazine",
+    "category": "magazines",
     "image": "MP740Icon.png",
     "title": "Standard MP7 40-round 4.6x30 magazine",
     "pageId": 11799,
@@ -1233,10 +1540,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/MP740Icon.png?version=ce6e203f2efce1ae6d9f3ef0838d4ee6",
-    "filePath": "standard_mp7_40_round_4_6x30_magazine"
+    "filePath": "standard_mp7_40_round_4_6x30_magazine",
+    "marketSearchName": "Standard MP7 40-round 4.6x30 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "M9A3 9x19 17-round magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "M9A3 9x19 17-round magazine",
     "pageId": 15019,
@@ -1245,10 +1555,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "m9a3_9x19_17_round_magazine"
+    "filePath": "m9a3_9x19_17_round_magazine",
+    "marketSearchName": "M9A3 9x19 17-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "12.7x55 magazine for ASh-12, 10-round capacity",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "12.7x55 magazine for ASh-12, 10-round capacity",
     "pageId": 15405,
@@ -1257,10 +1570,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "12_7x55_magazine_for_ash_12__10_round_capacity"
+    "filePath": "12_7x55_magazine_for_ash_12__10_round_capacity",
+    "marketSearchName": "12.7x55 magazine for ASh-12, 10-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "12.7x55 magazine for ASh-12, 20-round capacity",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "12.7x55 magazine for ASh-12, 20-round capacity",
     "pageId": 15406,
@@ -1269,10 +1585,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "12_7x55_magazine_for_ash_12__20_round_capacity"
+    "filePath": "12_7x55_magazine_for_ash_12__20_round_capacity",
+    "marketSearchName": "12.7x55 magazine for ASh-12, 20-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "X-47 AK 7.62x39 50 rnd magazine",
+    "category": "magazines",
     "image": "X47762x3950RndIcon.png",
     "title": "X-47 AK 7.62x39 50 rnd magazine",
     "pageId": 14939,
@@ -1281,10 +1600,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/98/X47762x3950RndIcon.png?version=239a8ac2eaeb71979e43f701fa663819",
-    "filePath": "x_47_ak_7_62x39_50_rnd_magazine"
+    "filePath": "x_47_ak_7_62x39_50_rnd_magazine",
+    "marketSearchName": "X-47 AK 7.62x39 50 rnd magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "FN magazine for P90, 50-round capacity",
+    "category": "magazines",
     "image": "FN magazine for P90 50 icon.jpg",
     "title": "FN magazine for P90, 50-round capacity",
     "pageId": 15418,
@@ -1293,10 +1615,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/71/FN_magazine_for_P90_50_icon.jpg?version=a692cb6fb66b84642ff8d281bccaf4ec",
-    "filePath": "fn_magazine_for_p90__50_round_capacity"
+    "filePath": "fn_magazine_for_p90__50_round_capacity",
+    "marketSearchName": "FN magazine for P90, 50-round capacity",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul PMAG .308 AC 5-round M700 magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "Magpul PMAG .308 AC 5-round M700 magazine",
     "pageId": 15448,
@@ -1305,10 +1630,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "magpul_pmag__308_ac_5_round_m700_magazine"
+    "filePath": "magpul_pmag__308_ac_5_round_m700_magazine",
+    "marketSearchName": "Magpul PMAG .308 AC 5-round M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Promag AA-70 10-round .308 M700 magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "Promag AA-70 10-round .308 M700 magazine",
     "pageId": 15541,
@@ -1317,10 +1645,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "promag_aa_70_10_round__308_m700_magazine"
+    "filePath": "promag_aa_70_10_round__308_m700_magazine",
+    "marketSearchName": "Promag AA-70 10-round .308 M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Promag AA-70 20-round .308 M700 magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "Promag AA-70 20-round .308 M700 magazine",
     "pageId": 15452,
@@ -1329,10 +1660,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "promag_aa_70_20_round__308_m700_magazine"
+    "filePath": "promag_aa_70_20_round__308_m700_magazine",
+    "marketSearchName": "Promag AA-70 20-round .308 M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons",
+    "category": "magazines",
     "image": "Saiga_Powermag20_Icon.png",
     "title": "MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons",
     "pageId": 15471,
@@ -1341,10 +1675,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6f/Saiga_Powermag20_Icon.png?version=72b438a092fbfbe53fe8c12cd6eafb26",
-    "filePath": "maxrounds_powermag_20_round_12_76_magazine_for_sok_12_and_compatible_weapons"
+    "filePath": "maxrounds_powermag_20_round_12_76_magazine_for_sok_12_and_compatible_weapons",
+    "marketSearchName": "MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons",
+    "marketPositionOffset": 0
   },
   {
     "name": "100 rounds belt",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "100 rounds belt",
     "pageId": 15474,
@@ -1353,10 +1690,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "100_rounds_belt"
+    "filePath": "100_rounds_belt",
+    "marketSearchName": "100 rounds belt",
+    "marketPositionOffset": 0
   },
   {
     "name": "PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine",
     "pageId": 15512,
@@ -1365,10 +1705,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "pmag_gen_m3_fde_w_30_5_56x45_stanag_30_round_magazine"
+    "filePath": "pmag_gen_m3_fde_w_30_5_56x45_stanag_30_round_magazine",
+    "marketSearchName": "PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "5-round .308 AICS M700 magazine",
+    "category": "magazines",
     "image": "AT AICS Polymer Stock for M700 stash.jpg",
     "title": "5-round .308 AICS M700 magazine",
     "pageId": 15537,
@@ -1377,10 +1720,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bf/AT_AICS_Polymer_Stock_for_M700_stash.jpg?version=faaa87bccd09c2893ff0ea64ca2ff1f7",
-    "filePath": "5_round__308_aics_m700_magazine"
+    "filePath": "5_round__308_aics_m700_magazine",
+    "marketSearchName": "5-round .308 AICS M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "10-round .308 AICS M700 magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "10-round .308 AICS M700 magazine",
     "pageId": 15538,
@@ -1389,10 +1735,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "10_round__308_aics_m700_magazine"
+    "filePath": "10_round__308_aics_m700_magazine",
+    "marketSearchName": "10-round .308 AICS M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "12-round .308 MDT AICS M700 magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "12-round .308 MDT AICS M700 magazine",
     "pageId": 15539,
@@ -1401,10 +1750,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "12_round__308_mdt_aics_m700_magazine"
+    "filePath": "12_round__308_mdt_aics_m700_magazine",
+    "marketSearchName": "12-round .308 MDT AICS M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Magpul PMAG .308 AC 10-round M700 magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "Magpul PMAG .308 AC 10-round M700 magazine",
     "pageId": 15540,
@@ -1413,10 +1765,13 @@
       "height": "2"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "magpul_pmag__308_ac_10_round_m700_magazine"
+    "filePath": "magpul_pmag__308_ac_10_round_m700_magazine",
+    "marketSearchName": "Magpul PMAG .308 AC 10-round M700 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Standard MP5 20-round 9x19 magazine",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "Standard MP5 20-round 9x19 magazine",
     "pageId": 15552,
@@ -1425,10 +1780,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "standard_mp5_20_round_9x19_magazine"
+    "filePath": "standard_mp5_20_round_9x19_magazine",
+    "marketSearchName": "Standard MP5 20-round 9x19 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "Five-seveN 20-Round 5.7x28 magazine",
+    "category": "magazines",
     "image": "Five-seveN_20-Round_5.7x28_magazine_icon.png",
     "title": "Five-seveN 20-Round 5.7x28 magazine",
     "pageId": 15563,
@@ -1437,10 +1795,13 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/Five-seveN_20-Round_5.7x28_magazine_icon.png",
-    "filePath": "five_seven_20_round_5_7x28_magazine"
+    "filePath": "five_seven_20_round_5_7x28_magazine",
+    "marketSearchName": "Five-seveN 20-Round 5.7x28 magazine",
+    "marketPositionOffset": 0
   },
   {
     "name": "AGS-30 30-Grenades box 30x29",
+    "category": "magazines",
     "image": "wiki.png",
     "title": "AGS-30 30-Grenades box 30x29",
     "pageId": 15585,
@@ -1449,6 +1810,8 @@
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "ags_30_30_grenades_box_30x29"
+    "filePath": "ags_30_30_grenades_box_30x29",
+    "marketSearchName": "AGS-30 30-Grenades box 30x29",
+    "marketPositionOffset": 0
   }
 ]
