@@ -49,6 +49,7 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
 
     return {
       name,
+      category: categoryName,
       image: image[1],
       title: pages[index].title,
       pageId: pages[index].pageId
