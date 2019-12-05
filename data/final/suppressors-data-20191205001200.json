@@ -910,12 +910,12 @@
     "marketSearchName": "Alpha Dog Alpha 9 9x19 sound suppressor",
     "marketPositionOffset": 0,
     "price_array": [
-      589508691890
+      0
     ],
     "slots": 2,
     "timestamp": "20191205001200",
-    "price_per_slot": 294754345945,
-    "price_avg": 589508691890
+    "price_per_slot": 0,
+    "price_avg": 0
   },
   {
     "name": "KAC QDSS NT-4 5.56x45 silencer",

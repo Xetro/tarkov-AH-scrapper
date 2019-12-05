@@ -287,12 +287,12 @@
     "marketSearchName": "RB-MP12 key",
     "marketPositionOffset": 0,
     "price_array": [
-      18886681290
+      0
     ],
     "slots": 1,
     "timestamp": "20191205000956",
-    "price_per_slot": 18886681290,
-    "price_avg": 18886681290
+    "price_per_slot": 0,
+    "price_avg": 0
   },
   {
     "name": "RB-MP13 key",
@@ -772,12 +772,12 @@
     "marketSearchName": "Key RB-PSP2",
     "marketPositionOffset": 0,
     "price_array": [
-      88589691898
+      
     ],
     "slots": 1,
     "timestamp": "20191205000956",
-    "price_per_slot": 88589691898,
-    "price_avg": 88589691898
+    "price_per_slot": 0,
+    "price_avg": 0
   },
   {
     "name": "RB-ST key",
