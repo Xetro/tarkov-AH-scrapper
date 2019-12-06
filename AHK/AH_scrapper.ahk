@@ -14,10 +14,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #ifWinActive, ahk_exe EscapeFromTarkov.exe
 
 *~F2::
-JSONpath := "../data/wiki/keys_woods-data.json"
+JSONpath := "../data/wiki/thermal_vision_devices-data.json"
 FileRead, JSONString, %JSONpath%
 
 parsedJSON := JSON.Load(JSONString)
+
 
 for k, v in parsedJSON
 {
@@ -32,9 +33,10 @@ for k, v in parsedJSON
 	MouseMove, 150, %y%
 	Click 
 	filename := v.filePath
+	timestamp := A_now
 	prePath := "../data/images/raw/"
 	extension := ".png"
-	fullPath = %prePath%%filename%%extension%
+	fullPath = %prePath%%filename%_%timestamp%%extension%
 	sleep 900
 	CaptureScreen(0,"true", fullPath)
 	sleep 400
