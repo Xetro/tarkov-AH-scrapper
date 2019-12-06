@@ -96,7 +96,7 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
   const searchExceptions = Object.keys(categoryData.searchExceptions);
 
   results = results.map(item => {
-    item.marketSearchName = item.name;
+    item.marketSearchName = item.title;
     if (searchExceptions.includes(item.name)) {
       item.marketSearchName = categoryData.searchExceptions[item.name];
     }

@@ -75,21 +75,6 @@
     "marketPositionOffset": 0
   },
   {
-    "name": "Trijicon ACOG 3.5x35 scope",
-    "category": "assault_scopes",
-    "image": "Acogicon.png",
-    "title": "Trijicon ACOG 3.5x35 scope",
-    "pageId": 6924,
-    "size": {
-      "width": "2",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/Acogicon.png?version=bf3020597986ca2b59f121380f804399",
-    "filePath": "trijicon_acog_3_5x35_scope",
-    "marketSearchName": "Trijicon ACOG 3.5x35 scope",
-    "marketPositionOffset": 0
-  },
-  {
     "name": "Trijicon ACOG TA01NSN 4x32 scope",
     "category": "assault_scopes",
     "image": "Trijicon ACOG TA01NSN 4x32 scope icon.gif",

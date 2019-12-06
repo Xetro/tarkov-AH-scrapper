@@ -1,12 +1,18 @@
 {
     "weapons": {
         "name": "weapons",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "OP-SKS": "Simonov Semi-Automatic Carbine",
+            "M9A3": "Beretta M9A3"
+        },
+        "positionExceptions": {
+            "OP-SKS": 1,
+            "TT pistol": 1
+        },
         "usePages": [1, 9, 14, 15],
         "nameIndex": 0,
         "imgFileIndex": 1,
-        "ignore": [],
+        "ignore": [6, 13],
         "useRegex": 1
     },
     "headwear": {
@@ -164,6 +170,7 @@
     },
     "assault_scopes": {
         "name": "weapon_mods",
+        "searchExceptions" : {},
         "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
