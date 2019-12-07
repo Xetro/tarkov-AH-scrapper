@@ -171,18 +171,26 @@
     "assault_scopes": {
         "name": "weapon_mods",
         "searchExceptions" : {},
-        "positionExceptions": {},
+        "positionExceptions": {
+            "ELCAN SpecterDR 1x/4x Scope": 1,
+            "Trijicon ACOG TA01NSN 4x32 scope": 1
+
+        },
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [5, 14],
+        "ignore": [0],
         "useRegex": 1,
         "additionalRegex": "Assault scopes(.|\n)+Reflex sights"
     },
     "reflex_sights": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "OKP-7 reflex sight (Dovetail)": "OKP-7 reflex sight"
+        },
+        "positionExceptions": {
+            "OKP-7 reflex sight": 1
+        },
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -219,7 +227,7 @@
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [5, 14],
         "useRegex": 1,
         "additionalRegex": "Scopes(.|\n)+Special scopes"
     },
@@ -375,7 +383,9 @@
     },
     "additional_armor": {
         "name": "gear_components",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "Ops-Core Fast Side Armor": "Side Armor"
+        },
         "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
@@ -541,8 +551,13 @@
     },
     "containers": {
         "name": "containers",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Mr. Holodilnick thermobag": "Holodilnick",
+            "Magazine case": "Magazine"
+        },
+        "positionExceptions": {
+            "Items case": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,

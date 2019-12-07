@@ -42,7 +42,7 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Items_case_icon.png?version=1d4b84706bb447ae9cb572f01f38e0b9",
     "filePath": "items_case",
     "marketSearchName": "Items case",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 1
   },
   {
     "name": "T H I C C Weapon case",
@@ -101,7 +101,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/Mr._Holodilnick_thermobag_icon.png",
     "filePath": "mr__holodilnick_thermobag",
-    "marketSearchName": "Mr. Holodilnick thermobag",
+    "marketSearchName": "Holodilnick",
     "marketPositionOffset": 0
   },
   {
@@ -116,7 +116,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/Magbox_icon.png?version=0a608165b58bf589f1f55511151744b2",
     "filePath": "magazine_case",
-    "marketSearchName": "Magazine case",
+    "marketSearchName": "Magazine",
     "marketPositionOffset": 0
   },
   {

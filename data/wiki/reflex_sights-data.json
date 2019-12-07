@@ -162,7 +162,7 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1b/Okp-7icon.png",
     "filePath": "okp_7_reflex_sight",
     "marketSearchName": "OKP-7 reflex sight",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 1
   },
   {
     "name": "OKP-7 reflex sight (Dovetail)",
@@ -176,7 +176,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Okp-7doveicon.png",
     "filePath": "okp_7_reflex_sight__dovetail_",
-    "marketSearchName": "OKP-7 reflex sight (Dovetail)",
+    "marketSearchName": "OKP-7 reflex sight",
     "marketPositionOffset": 0
   },
   {
