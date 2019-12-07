@@ -164,7 +164,7 @@
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [35],
         "useRegex": 1,
         "additionalRegex": "Suppressors(.|\n)+"
     },
