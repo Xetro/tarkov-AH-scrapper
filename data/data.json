@@ -15588,18 +15588,12 @@
     "marketSearchName": "PM (t) 9x18PM pistol",
     "marketPositionOffset": 0,
     "price_array": [
-      55999,
-      57000,
-      60000,
-      68000,
-      80000,
-      90000,
-      100000
+10000
     ],
     "slots": 2,
     "timestamp": "20191207000459",
-    "price_per_slot": 28833,
-    "price_avg": 57666
+    "price_per_slot": 5000,
+    "price_avg": 10000
   },
   {
     "name": "PM pistol",
@@ -15674,25 +15668,12 @@
     "marketSearchName": "TT pistol 7.62x25 TT",
     "marketPositionOffset": 1,
     "price_array": [
-      64969,
-      65000,
-      66665,
-      66666,
-      68950,
-      69000,
-      69000,
-      70000,
-      70000,
-      70000,
-      70000,
-      70000,
-      70000,
-      70000
+      8800
     ],
     "slots": 2,
     "timestamp": "20191207000510",
-    "price_per_slot": 32772,
-    "price_avg": 65544
+    "price_per_slot": 4400,
+    "price_avg": 8800
   },
   {
     "name": "TT pistol (gold)",
@@ -16322,5 +16303,5480 @@
     "timestamp": "20191207000602",
     "price_per_slot": 6933,
     "price_avg": 6933
+  },
+  {
+    "name": "KAC Vertical pistol grip",
+    "category": "foregrips",
+    "image": "KACVPGIcon.png",
+    "title": "KAC Vertical pistol grip",
+    "pageId": 13908,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/KACVPGIcon.png?version=54e697730ec212b661e18f3e1ebb924e",
+    "filePath": "kac_vertical_pistol_grip",
+    "marketSearchName": "KAC Vertical pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4399,
+      4400,
+      4598,
+      4599,
+      4800,
+      4800,
+      4880,
+      4888
+    ],
+    "slots": 1,
+    "timestamp": "20191207210333",
+    "price_per_slot": 4465,
+    "price_avg": 4465
+  },
+  {
+    "name": "BCM MOD.3 Tactical grip",
+    "category": "foregrips",
+    "image": "BCMMOD3GripIcon.png",
+    "title": "BCM MOD.3 Tactical grip",
+    "pageId": 13901,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/BCMMOD3GripIcon.png?version=6002162ab47328c53984c95696d23e4b",
+    "filePath": "bcm_mod_3_tactical_grip",
+    "marketSearchName": "BCM MOD.3 Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5096
+    ],
+    "slots": 1,
+    "timestamp": "20191207210336",
+    "price_per_slot": 5096,
+    "price_avg": 5096
+  },
+  {
+    "name": "SI \"Cobra tactical\" tactical grip",
+    "category": "foregrips",
+    "image": "Cobra Grip Icon.png",
+    "title": "SI \"Cobra tactical\" tactical grip",
+    "pageId": 13888,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/Cobra_Grip_Icon.png?version=c4810e704b2ea9955ce54e782267d222",
+    "filePath": "si__cobra_tactical__tactical_grip",
+    "marketSearchName": "SI \"Cobra tactical\" tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10452,
+      11980,
+      12049,
+      12100,
+      12150,
+      12152,
+      13300
+    ],
+    "slots": 1,
+    "timestamp": "20191207210340",
+    "price_per_slot": 11493,
+    "price_avg": 11493
+  },
+  {
+    "name": "Magpul M-LOK AFG Tactical grip",
+    "category": "foregrips",
+    "image": "AFG_MLOK_Icon.gif",
+    "title": "Magpul M-LOK AFG Tactical grip",
+    "pageId": 3232,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/AFG_MLOK_Icon.gif?version=f9a01759266bcec12a54cfd6f5da8393",
+    "filePath": "magpul_m_lok_afg_tactical_grip",
+    "marketSearchName": "Magpul M-LOK AFG Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7607,
+      7998,
+      7999,
+      8000,
+      8420,
+      8445,
+      8450,
+      8450,
+      8450,
+      9999
+    ],
+    "slots": 1,
+    "timestamp": "20191207210343",
+    "price_per_slot": 7868,
+    "price_avg": 7868
+  },
+  {
+    "name": "Hera Arms CQR tactical grip",
+    "category": "foregrips",
+    "image": "Heraarmsgripicon.png",
+    "title": "Hera Arms CQR tactical grip",
+    "pageId": 8264,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/Heraarmsgripicon.png?version=9dbeffbd8794a8849fda259be4756d44",
+    "filePath": "hera_arms_cqr_tactical_grip",
+    "marketSearchName": "Hera Arms CQR tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      19999,
+      19999
+    ],
+    "slots": 1,
+    "timestamp": "20191207210347",
+    "price_per_slot": 19999,
+    "price_avg": 19999
+  },
+  {
+    "name": "Fortis Shift tactical grip",
+    "category": "foregrips",
+    "image": "Fortisshifticon.png",
+    "title": "Fortis Shift tactical grip",
+    "pageId": 7264,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Fortisshifticon.png?version=d42717616a09feac55a14b82a34e1c3c",
+    "filePath": "fortis_shift_tactical_grip",
+    "marketSearchName": "Fortis Shift tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14985,
+      14986,
+      14987
+    ],
+    "slots": 1,
+    "timestamp": "20191207210354",
+    "price_per_slot": 14986,
+    "price_avg": 14986
+  },
+  {
+    "name": "Magpul AFG grip",
+    "category": "foregrips",
+    "image": "AFG_Grip_Icon.gif",
+    "title": "Magpul AFG grip",
+    "pageId": 3236,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8c/AFG_Grip_Icon.gif?version=ed5ce8e7a9e626eba237cf93cc1a92d5",
+    "filePath": "magpul_afg_grip",
+    "marketSearchName": "Magpul AFG grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7990,
+      7999,
+      8200,
+      8444,
+      8490,
+      8500,
+      8998,
+      8999,
+      9000,
+      9000,
+      9000,
+      9800,
+      15000,
+      15000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210358",
+    "price_per_slot": 8063,
+    "price_avg": 8063
+  },
+  {
+    "name": "Magpul RVG grip black",
+    "category": "foregrips",
+    "image": "Rvggripicon.png",
+    "title": "Magpul RVG grip black",
+    "pageId": 7016,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/Rvggripicon.png?version=68aceb988a320c28a5679eef6718c794",
+    "filePath": "magpul_rvg_grip_black",
+    "marketSearchName": "Magpul RVG grip black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8590,
+      8795,
+      8999,
+      9500,
+      9800,
+      11900,
+      62000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210401",
+    "price_per_slot": 8794,
+    "price_avg": 8794
+  },
+  {
+    "name": "SE-5 Express Grip",
+    "category": "foregrips",
+    "image": "SE-5 Express Grip Icon.png",
+    "title": "SE-5 Express Grip",
+    "pageId": 11022,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/SE-5_Express_Grip_Icon.png",
+    "filePath": "se_5_express_grip",
+    "marketSearchName": "SE-5 Express Grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15000,
+      15865,
+      15866,
+      15868,
+      15868,
+      15913,
+      15916,
+      15998,
+      16000,
+      16750
+    ],
+    "slots": 1,
+    "timestamp": "20191207210404",
+    "price_per_slot": 15577,
+    "price_avg": 15577
+  },
+  {
+    "name": "Tango Down Stubby BGV-MK46K tactical grip",
+    "category": "foregrips",
+    "image": "BGV_MK46_Icon.gif",
+    "title": "Tango Down Stubby BGV-MK46K tactical grip",
+    "pageId": 3231,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/BGV_MK46_Icon.gif?version=5259035ad8bb88de56d9a6ba133d79fc",
+    "filePath": "tango_down_stubby_bgv_mk46k_tactical_grip",
+    "marketSearchName": "Tango Down Stubby BGV-MK46K tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4999,
+      5250,
+      5250,
+      7000,
+      10000,
+      12770,
+      12888,
+      13600,
+      21999,
+      50250
+    ],
+    "slots": 1,
+    "timestamp": "20191207210408",
+    "price_per_slot": 5166,
+    "price_avg": 5166
+  },
+  {
+    "name": "Viking Tactical UVG Tactical grip",
+    "category": "foregrips",
+    "image": "Vikinggripicon.png",
+    "title": "Viking Tactical UVG Tactical grip",
+    "pageId": 7162,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/Vikinggripicon.png?version=19f15abc1ffc0e35d2cd5b66f1181ba3",
+    "filePath": "viking_tactical_uvg_tactical_grip",
+    "marketSearchName": "Viking Tactical UVG Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4000,
+      4500,
+      4999,
+      5999,
+      5999,
+      6000,
+      6000,
+      7000,
+      7000,
+      7000,
+      7000,
+      7051,
+      7500,
+      7998
+    ],
+    "slots": 1,
+    "timestamp": "20191207210412",
+    "price_per_slot": 4499,
+    "price_avg": 4499
+  },
+  {
+    "name": "Zenit RK-0 Foregrip",
+    "category": "foregrips",
+    "image": "Zenit RK-0 Foregrip icon.png",
+    "title": "Zenit RK-0 Foregrip",
+    "pageId": 12785,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/Zenit_RK-0_Foregrip_icon.png",
+    "filePath": "zenit_rk_0_foregrip",
+    "marketSearchName": "Zenit RK-0 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6804,
+      7499,
+      7500,
+      7600
+    ],
+    "slots": 1,
+    "timestamp": "20191207210415",
+    "price_per_slot": 7267,
+    "price_avg": 7267
+  },
+  {
+    "name": "Zenit RK-1 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK-1Icon.png",
+    "title": "Zenit RK-1 Foregrip",
+    "pageId": 12671,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/30/ZenitRK-1Icon.png",
+    "filePath": "zenit_rk_1_foregrip",
+    "marketSearchName": "Zenit RK-1 Foregrip",
+    "marketPositionOffset": 1,
+    "price_array": [
+      12671,
+      13400,
+      13486,
+      13488,
+      13489,
+      13490,
+      13500,
+      13589,
+      13671,
+      13788,
+      14444,
+      14500,
+      17000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210418",
+    "price_per_slot": 13185,
+    "price_avg": 13185
+  },
+  {
+    "name": "Zenit RK-1 Foregrip on B-25U mount",
+    "category": "foregrips",
+    "image": "ZenitRK1B-25Uicon.png",
+    "title": "Zenit RK-1 Foregrip on B-25U mount",
+    "pageId": 12788,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/52/ZenitRK1B-25Uicon.png",
+    "filePath": "zenit_rk_1_foregrip_on_b_25u_mount",
+    "marketSearchName": "Zenit RK-1 Foregrip on B-25U mount",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23999,
+      25000,
+      25502,
+      27650,
+      27659,
+      27660,
+      27666,
+      27777,
+      27848,
+      27890,
+      27890,
+      27900,
+      27999,
+      28000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210422",
+    "price_per_slot": 24833,
+    "price_avg": 24833
+  },
+  {
+    "name": "Zenit RK-2 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK2icon.png",
+    "title": "Zenit RK-2 Foregrip",
+    "pageId": 12783,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/15/ZenitRK2icon.png?version=7a7830e7d54ba45a5a762119d0b9db52",
+    "filePath": "zenit_rk_2_foregrip",
+    "marketSearchName": "Zenit RK-2 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18473,
+      20000,
+      22000,
+      22222,
+      22500,
+      22995,
+      23000,
+      23000,
+      23000,
+      23000,
+      23000,
+      23888,
+      24000,
+      26999
+    ],
+    "slots": 1,
+    "timestamp": "20191207210425",
+    "price_per_slot": 20157,
+    "price_avg": 20157
+  },
+  {
+    "name": "Zenit RK-4 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK4icon.png",
+    "title": "Zenit RK-4 Foregrip",
+    "pageId": 12784,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/ZenitRK4icon.png?version=33ada658fcf11cc87a73c1f7efc5513a",
+    "filePath": "zenit_rk_4_foregrip",
+    "marketSearchName": "Zenit RK-4 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6362,
+      7250,
+      7499,
+      7500,
+      7770,
+      7777,
+      9800
+    ],
+    "slots": 1,
+    "timestamp": "20191207210429",
+    "price_per_slot": 7037,
+    "price_avg": 7037
+  },
+  {
+    "name": "Zenit RK-5 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK5icon.png",
+    "title": "Zenit RK-5 Foregrip",
+    "pageId": 12786,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d1/ZenitRK5icon.png?version=689689061744af1437657137ddb001b2",
+    "filePath": "zenit_rk_5_foregrip",
+    "marketSearchName": "Zenit RK-5 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6491,
+      6798,
+      6799,
+      6995,
+      9499,
+      9500,
+      9998
+    ],
+    "slots": 1,
+    "timestamp": "20191207210432",
+    "price_per_slot": 6696,
+    "price_avg": 6696
+  },
+  {
+    "name": "Zenit RK-6 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK6icon.png",
+    "title": "Zenit RK-6 Foregrip",
+    "pageId": 12787,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f0/ZenitRK6icon.png?version=929b860ccdd69d29a7ec743d28b589af",
+    "filePath": "zenit_rk_6_foregrip",
+    "marketSearchName": "Zenit RK-6 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5984,
+      7498,
+      7500,
+      7555,
+      7695,
+      7750,
+      7777,
+      7779,
+      7780,
+      7790,
+      7800,
+      9911,
+      10999,
+      11000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210436",
+    "price_per_slot": 6994,
+    "price_avg": 6994
+  },
+  {
+    "name": "ASh-12 Vertical pistol grip",
+    "category": "foregrips",
+    "image": "wiki.png",
+    "title": "ASh-12 Vertical pistol grip",
+    "pageId": 15435,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "ash_12_vertical_pistol_grip",
+    "marketSearchName": "ASh-12 Vertical pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2548,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210439",
+    "price_per_slot": 3774,
+    "price_avg": 3774
+  },
+  {
+    "name": "RTM Pillau Tactical grip",
+    "category": "foregrips",
+    "image": "wiki.png",
+    "title": "RTM Pillau Tactical grip",
+    "pageId": 15455,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "rtm_pillau_tactical_grip",
+    "marketSearchName": "RTM Pillau Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3780,
+      5550,
+      5780
+    ],
+    "slots": 1,
+    "timestamp": "20191207210443",
+    "price_per_slot": 5036,
+    "price_avg": 5036
+  },
+  {
+    "name": "Lancer OEM 14 inch M-LOK foregrip for MPX",
+    "category": "handguards",
+    "image": "Lancer OEM 14 inch M-LOK foregrip for MPX Icon.png",
+    "title": "Lancer OEM 14 inch M-LOK foregrip for MPX",
+    "pageId": 13846,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/Lancer_OEM_14_inch_M-LOK_foregrip_for_MPX_Icon.png",
+    "filePath": "lancer_oem_14_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Lancer OEM 14 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15286,
+      16444,
+      16450,
+      16500
+    ],
+    "slots": 2,
+    "timestamp": "20191207220919",
+    "price_per_slot": 8030,
+    "price_avg": 16060
+  },
+  {
+    "name": "Troy Industries 13\" M-LOK foregrip for 416A5",
+    "category": "handguards",
+    "image": "Troy Industries 13- M-LOK foregrip for 416A5 Icon.png",
+    "title": "Troy Industries 13\" M-LOK foregrip for 416A5",
+    "pageId": 13871,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e2/Troy_Industries_13-_M-LOK_foregrip_for_416A5_Icon.png",
+    "filePath": "troy_industries_13__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Troy Industries 13\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0,
+    "price_array": [
+      22100,
+      22111,
+      22111
+    ],
+    "slots": 3,
+    "timestamp": "20191207220924",
+    "price_per_slot": 7369,
+    "price_avg": 22107
+  },
+  {
+    "name": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
+    "category": "handguards",
+    "image": "CruxHandguard15InchIcon.png",
+    "title": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
+    "pageId": 13875,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/CruxHandguard15InchIcon.png?version=5b58cea475d47f42e0c3adca7bb42c05",
+    "filePath": "strike_industries_crux_15__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23999,
+      24000,
+      24900,
+      24999
+    ],
+    "slots": 3,
+    "timestamp": "20191207220929",
+    "price_per_slot": 8099,
+    "price_avg": 24299
+  },
+  {
+    "name": "HK MRS 14\" keymod foregrip for 416A5",
+    "category": "handguards",
+    "image": "HK Keymod Icon.png",
+    "title": "HK MRS 14\" keymod foregrip for 416A5",
+    "pageId": 13872,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/HK_Keymod_Icon.png?version=42d0454fae29116fa47c922bcfb173cf",
+    "filePath": "hk_mrs_14__keymod_foregrip_for_416a5",
+    "marketSearchName": "HK MRS 14\" keymod foregrip for 416A5",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14456,
+      14950,
+      14999,
+      14999,
+      15000,
+      17400,
+      19888,
+      20000
+    ],
+    "slots": 3,
+    "timestamp": "20191207220935",
+    "price_per_slot": 4933,
+    "price_avg": 14801
+  },
+  {
+    "name": "Zenit B-10 AK Handguard",
+    "category": "handguards",
+    "image": "B10Icon.png",
+    "title": "Zenit B-10 AK Handguard",
+    "pageId": 13866,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/B10Icon.png?version=48a3d5372c7af92a9bf188d4975421d1",
+    "filePath": "zenit_b_10_ak_handguard",
+    "marketSearchName": "Zenit B-10 AK Handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5610,
+      11288,
+      14000,
+      15000,
+      15000,
+      15999
+    ],
+    "slots": 1,
+    "timestamp": "20191207220940",
+    "price_per_slot": 10299,
+    "price_avg": 10299
+  },
+  {
+    "name": "SAI 10\" QD Rail foregrip for AR15",
+    "category": "handguards",
+    "image": "SAI10Icon.png",
+    "title": "SAI 10\" QD Rail foregrip for AR15",
+    "pageId": 13884,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8f/SAI10Icon.png?version=3c0581e73c2b7c2f0f76913a7e9dbf03",
+    "filePath": "sai_10__qd_rail_foregrip_for_ar15",
+    "marketSearchName": "SAI 10\" QD Rail foregrip for AR15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      25555,
+      26892,
+      27100,
+      27200,
+      28000,
+      30000
+    ],
+    "slots": 2,
+    "timestamp": "20191207220945",
+    "price_per_slot": 13257,
+    "price_avg": 26515
+  },
+  {
+    "name": "Midwest 10.5 inch M-LOK foregrip for MPX",
+    "category": "handguards",
+    "image": "Midwest 10.5 inch M-LOK foregrip for MPX icon.png",
+    "title": "Midwest 10.5 inch M-LOK foregrip for MPX",
+    "pageId": 13854,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6f/Midwest_10.5_inch_M-LOK_foregrip_for_MPX_icon.png",
+    "filePath": "midwest_10_5_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Midwest 10.5 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7000,
+      7899,
+      7900,
+      8008,
+      8420,
+      8788,
+      9000,
+      10000,
+      12000
+    ],
+    "slots": 2,
+    "timestamp": "20191207220950",
+    "price_per_slot": 3799,
+    "price_avg": 7599
+  },
+  {
+    "name": "Midwest 4.5 inch M-LOK foregrip for MPX",
+    "category": "handguards",
+    "image": "Midwest4.5Icon.png",
+    "title": "Midwest 4.5 inch M-LOK foregrip for MPX",
+    "pageId": 13852,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/41/Midwest4.5Icon.png",
+    "filePath": "midwest_4_5_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Midwest 4.5 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7999,
+      10000
+    ],
+    "slots": 1,
+    "timestamp": "20191207220955",
+    "price_per_slot": 8999,
+    "price_avg": 8999
+  },
+  {
+    "name": "Stngr Vypr 10\" M-LOK foregrip for AR15",
+    "category": "handguards",
+    "image": "Stngr Icon.png",
+    "title": "Stngr Vypr 10\" M-LOK foregrip for AR15",
+    "pageId": 13879,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2c/Stngr_Icon.png?version=9696a578e96167639dd19d32a7da163e",
+    "filePath": "stngr_vypr_10__m_lok_foregrip_for_ar15",
+    "marketSearchName": "Stngr Vypr 10\" M-LOK foregrip for AR15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15080,
+      20969,
+      22000,
+      24999
+    ],
+    "slots": 2,
+    "timestamp": "20191207221000",
+    "price_per_slot": 9674,
+    "price_avg": 19349
+  },
+  {
+    "name": "Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems",
+    "category": "handguards",
+    "image": "RIS II 12.25 Icon.png",
+    "title": "Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems",
+    "pageId": 13915,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/51/RIS_II_12.25_Icon.png",
+    "filePath": "daniel_defence_ris_ii_12_25_foregrip_for_ar_15_compatible_systems",
+    "marketSearchName": "Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23790,
+      23800,
+      24998
+    ],
+    "slots": 2,
+    "timestamp": "20191207221006",
+    "price_per_slot": 12098,
+    "price_avg": 24196
+  },
+  {
+    "name": "Magpul MOE SL carbine length M-LOK foregrip for AR15",
+    "category": "handguards",
+    "image": "Magpul MOE SL carabine length M-LOK foregrip for AR15 icon.png",
+    "title": "Magpul MOE SL carbine length M-LOK foregrip for AR15",
+    "pageId": 13886,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/Magpul_MOE_SL_carabine_length_M-LOK_foregrip_for_AR15_icon.png",
+    "filePath": "magpul_moe_sl_carbine_length_m_lok_foregrip_for_ar15",
+    "marketSearchName": "Magpul MOE SL carbine length M-LOK foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9504,
+      10500,
+      10500,
+      10500,
+      10504,
+      10800,
+      10995,
+      12111,
+      12345,
+      72000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221011",
+    "price_per_slot": 5084,
+    "price_avg": 10168
+  },
+  {
+    "name": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems",
+    "category": "handguards",
+    "image": "RIS II FSP Icon.png",
+    "title": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems",
+    "pageId": 13916,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/RIS_II_FSP_Icon.png?version=2c6e1428e0ae03cb2d4bfd8a1f350373",
+    "filePath": "daniel_defence_fde_ris_ii_fsp_9_5_foregrip_for_ar_15_compatible_systems",
+    "marketSearchName": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      11000,
+      12000,
+      13999,
+      14000,
+      15000,
+      17400,
+      18000,
+      19333,
+      24000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221017",
+    "price_per_slot": 6166,
+    "price_avg": 12333
+  },
+  {
+    "name": "SAI 14.5\" QD Rail foregrip for AR15",
+    "category": "handguards",
+    "image": "SAI14.5Icon.png",
+    "title": "SAI 14.5\" QD Rail foregrip for AR15",
+    "pageId": 13883,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/SAI14.5Icon.png",
+    "filePath": "sai_14_5__qd_rail_foregrip_for_ar15",
+    "marketSearchName": "SAI 14.5\" QD Rail foregrip for AR15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      31428,
+      34216,
+      34222,
+      34500,
+      34500,
+      34749,
+      34999,
+      37850,
+      42900,
+      42980,
+      60000
+    ],
+    "slots": 3,
+    "timestamp": "20191207221022",
+    "price_per_slot": 11096,
+    "price_avg": 33288
+  },
+  {
+    "name": "Midwest 6.5 inch M-LOK foregrip for MPX",
+    "category": "handguards",
+    "image": "Midwest6.5icon.png",
+    "title": "Midwest 6.5 inch M-LOK foregrip for MPX",
+    "pageId": 13853,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5b/Midwest6.5icon.png",
+    "filePath": "midwest_6_5_inch_m_lok_foregrip_for_mpx",
+    "marketSearchName": "Midwest 6.5 inch M-LOK foregrip for MPX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5420,
+      5900,
+      5998,
+      5999,
+      6000,
+      6000,
+      6000,
+      6199,
+      6500,
+      6666,
+      7000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221027",
+    "price_per_slot": 2886,
+    "price_avg": 5772
+  },
+  {
+    "name": "Midwest 9\" M-LOK foregrip for 416A5",
+    "category": "handguards",
+    "image": "Midwest9In416HGIcon.png",
+    "title": "Midwest 9\" M-LOK foregrip for 416A5",
+    "pageId": 13873,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c9/Midwest9In416HGIcon.png?version=bfaa75ed466d0e1fa43e664bbe2e0485",
+    "filePath": "midwest_9__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Midwest 9\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5000,
+      6000,
+      6490,
+      6500,
+      6999,
+      7999,
+      8000,
+      8500,
+      9999,
+      12000,
+      32800
+    ],
+    "slots": 2,
+    "timestamp": "20191207221032",
+    "price_per_slot": 2915,
+    "price_avg": 5830
+  },
+  {
+    "name": "Magpul Zhukov-U HAND GUARD for AK",
+    "category": "handguards",
+    "image": "ZhukovUIcon.gif",
+    "title": "Magpul Zhukov-U HAND GUARD for AK",
+    "pageId": 13914,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/ZhukovUIcon.gif?version=1ae217ba1e67e324215a67c74985bf7a",
+    "filePath": "magpul_zhukov_u_hand_guard_for_ak",
+    "marketSearchName": "Magpul Zhukov-U HAND GUARD",
+    "marketPositionOffset": 0,
+    "price_array": [
+      16000,
+      17000,
+      17500,
+      20736,
+      24888,
+      25000,
+      45000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221037",
+    "price_per_slot": 8416,
+    "price_avg": 16833
+  },
+  {
+    "name": "Magpul MOE SL mid length M-LOK foregrip for AR15",
+    "category": "handguards",
+    "image": "Magpul MOE SL mid length M-LOK foregrip for AR15 icon.png",
+    "title": "Magpul MOE SL mid length M-LOK foregrip for AR15",
+    "pageId": 13885,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/Magpul_MOE_SL_mid_length_M-LOK_foregrip_for_AR15_icon.png",
+    "filePath": "magpul_moe_sl_mid_length_m_lok_foregrip_for_ar15",
+    "marketSearchName": "Magpul MOE SL mid length M-LOK foregrip for AR15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      11988,
+      12999,
+      13000,
+      14450,
+      17500
+    ],
+    "slots": 2,
+    "timestamp": "20191207221043",
+    "price_per_slot": 6331,
+    "price_avg": 12662
+  },
+  {
+    "name": "Midwest 13.5\" M-LOK foregrip for 416A5",
+    "category": "handguards",
+    "image": "Midwest m-lok icon.png",
+    "title": "Midwest 13.5\" M-LOK foregrip for 416A5",
+    "pageId": 13874,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Midwest_m-lok_icon.png",
+    "filePath": "midwest_13_5__m_lok_foregrip_for_416a5",
+    "marketSearchName": "Midwest 13.5\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23888,
+      24000
+    ],
+    "slots": 3,
+    "timestamp": "20191207221048",
+    "price_per_slot": 7981,
+    "price_avg": 23944
+  },
+  {
+    "name": "ADAR 2-15 wooden stock for AR-15 and compatibles",
+    "category": "handguards",
+    "image": "ADAR2-15WoodenHandguardicon.png",
+    "title": "ADAR 2-15 wooden stock for AR-15 and compatibles",
+    "pageId": 12736,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/ADAR2-15WoodenHandguardicon.png",
+    "filePath": "adar_2_15_wooden_stock_for_ar_15_and_compatibles",
+    "marketSearchName": "ADAR 2-15 wooden stock for AR-15 and compatibles",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2990,
+      2990,
+      2999,
+      3000,
+      3500
+    ],
+    "slots": 2,
+    "timestamp": "20191207221053",
+    "price_per_slot": 1496,
+    "price_avg": 2993
+  },
+  {
+    "name": "VLTOR CMRD Keymod handguard for AK",
+    "category": "handguards",
+    "image": "VLTORCMRDKeymodicon.png",
+    "title": "VLTOR CMRD Keymod handguard for AK",
+    "pageId": 12873,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/VLTORCMRDKeymodicon.png?version=19bccdf13d7f080de47dd5d5e64b1022",
+    "filePath": "vltor_cmrd_keymod_handguard_for_ak",
+    "marketSearchName": "VLTOR CMRD Keymod handguard for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      42898,
+      44000,
+      44777,
+      44970,
+      44980,
+      44990,
+      44999,
+      45000,
+      45000,
+      47000,
+      47500,
+      48000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221058",
+    "price_per_slot": 21945,
+    "price_avg": 43891
+  },
+  {
+    "name": "HK quadrail handguard for 416-compatible systems",
+    "category": "handguards",
+    "image": "Hkquadrail416compatibleicon.png",
+    "title": "HK quadrail handguard for 416-compatible systems",
+    "pageId": 12121,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Hkquadrail416compatibleicon.png?version=18dbac264c3ca48494f73b29d14b7f39",
+    "filePath": "hk_quadrail_handguard_for_416_compatible_systems",
+    "marketSearchName": "HK quadrail handguard for 416-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8485,
+      8490,
+      8500,
+      9000,
+      9000,
+      9497,
+      9498,
+      9876
+    ],
+    "slots": 2,
+    "timestamp": "20191207221104",
+    "price_per_slot": 4245,
+    "price_avg": 8491
+  },
+  {
+    "name": "HK quadrail handguard with a flip-up sight for 416-compatible systems",
+    "category": "handguards",
+    "image": "HKQuadFlipUpIcon.png",
+    "title": "HK quadrail handguard with a flip-up sight for 416-compatible systems",
+    "pageId": 12122,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/HKQuadFlipUpIcon.png?version=b65221dfc8b4f732f0d14a631293f4e3",
+    "filePath": "hk_quadrail_handguard_with_a_flip_up_sight_for_416_compatible_systems",
+    "marketSearchName": "HK quadrail handguard with a flip-up sight for 416-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8684,
+      14897
+    ],
+    "slots": 2,
+    "timestamp": "20191207221110",
+    "price_per_slot": 5895,
+    "price_avg": 11790
+  },
+  {
+    "name": "HK extended quadrail handguard for 416-compatible systems",
+    "category": "handguards",
+    "image": "hk416extendedhandguardicon.png",
+    "title": "HK extended quadrail handguard for 416-compatible systems",
+    "pageId": 12123,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/Hk416extendedhandguardicon.png?version=0d17c603f5ce5022c73dee347752b79b",
+    "filePath": "hk_extended_quadrail_handguard_for_416_compatible_systems",
+    "marketSearchName": "HK extended quadrail handguard for 416-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      111752
+    ],
+    "slots": 3,
+    "timestamp": "20191207221115",
+    "price_per_slot": 37250,
+    "price_avg": 111752
+  },
+  {
+    "name": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
+    "category": "handguards",
+    "image": "Quad Rail Full Hg Icon.png",
+    "title": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
+    "pageId": 11524,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/52/Quad_Rail_Full_Hg_Icon.png?version=4a5a3dca418199eb08651687a4cff0f4",
+    "filePath": "ds_arms_quad_rail_full_lenght_foregrip_for_sa_58",
+    "marketSearchName": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
+    "marketPositionOffset": 0,
+    "price_array": [
+      17800,
+      17850,
+      18000,
+      18000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221120",
+    "price_per_slot": 8941,
+    "price_avg": 17883
+  },
+  {
+    "name": "Vltor CASV FAS foregrip for FAL",
+    "category": "handguards",
+    "image": "FAS CASV Icon.png",
+    "title": "Vltor CASV FAS foregrip for FAL",
+    "pageId": 11523,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/FAS_CASV_Icon.png?version=e515461e95e495ccd6661bf479ad99b0",
+    "filePath": "vltor_casv_fas_foregrip_for_fal",
+    "marketSearchName": "Vltor CASV FAS foregrip for FAL",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14068,
+      16000,
+      19750,
+      19896,
+      20000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221125",
+    "price_per_slot": 8303,
+    "price_avg": 16606
+  },
+  {
+    "name": "Vltor CASV FAL foregrip for FAL",
+    "category": "handguards",
+    "image": "FAL CASV Icon.png",
+    "title": "Vltor CASV FAL foregrip for FAL",
+    "pageId": 11522,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/FAL_CASV_Icon.png?version=2f87a3e9b73a50daea215911e5c0ed8c",
+    "filePath": "vltor_casv_fal_foregrip_for_fal",
+    "marketSearchName": "Vltor CASV FAL foregrip for FAL",
+    "marketPositionOffset": 0,
+    "price_array": [
+      17506,
+      20999,
+      21000,
+      21444,
+      21900,
+      21999,
+      22190,
+      22199,
+      22420
+    ],
+    "slots": 2,
+    "timestamp": "20191207221130",
+    "price_per_slot": 9917,
+    "price_avg": 19835
+  },
+  {
+    "name": "Original Austrian foregrip for a FAL",
+    "category": "handguards",
+    "image": "FAL Austrian hg Icon.png",
+    "title": "Original Austrian foregrip for a FAL",
+    "pageId": 11521,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/FAL_Austrian_hg_Icon.png?version=05cf2b2e19d5cb7d6a0defef190d5588",
+    "filePath": "original_austrian_foregrip_for_a_fal",
+    "marketSearchName": "Original Austrian foregrip for a FAL",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2479656
+    ],
+    "slots": 2,
+    "timestamp": "20191207221136",
+    "price_per_slot": 1239828,
+    "price_avg": 2479656
+  },
+  {
+    "name": "DSA Belgian style foregrip for a FAL",
+    "category": "handguards",
+    "image": "FAL Belgian hg icon.png",
+    "title": "DSA Belgian style foregrip for a FAL",
+    "pageId": 11520,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/FAL_Belgian_hg_icon.png?version=69a143152298e79589470817a2508085",
+    "filePath": "dsa_belgian_style_foregrip_for_a_fal",
+    "marketSearchName": "DSA Belgian style foregrip for a FAL",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2500,
+      3000,
+      3123,
+      3300,
+      3400,
+      3444,
+      3500,
+      3999,
+      4500,
+      4900,
+      10000,
+      20000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221141",
+    "price_per_slot": 1437,
+    "price_avg": 2874
+  },
+  {
+    "name": "Aim sport Universal M-LOK foregrip for FAL",
+    "category": "handguards",
+    "image": "FAL MLOK hg icon.png",
+    "title": "Aim sport Universal M-LOK foregrip for FAL",
+    "pageId": 11519,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/FAL_MLOK_hg_icon.png?version=67fc7c6248d39de80ad2cbd4aeaa39ae",
+    "filePath": "aim_sport_universal_m_lok_foregrip_for_fal",
+    "marketSearchName": "Aim sport Universal M-LOK foregrip for FAL",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5704,
+      6995,
+      7000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221146",
+    "price_per_slot": 3283,
+    "price_avg": 6566
+  },
+  {
+    "name": "Aim sport Universal keymod foregrip for FAL",
+    "category": "handguards",
+    "image": "FAL Keymod Guard Icon.png",
+    "title": "Aim sport Universal keymod foregrip for FAL",
+    "pageId": 11518,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/FAL_Keymod_Guard_Icon.png?version=a36b048935dea44598e6688c94af56df",
+    "filePath": "aim_sport_universal_keymod_foregrip_for_fal",
+    "marketSearchName": "Aim sport Universal keymod foregrip for FAL",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5035,
+      6195,
+      6211,
+      6500,
+      7035,
+      20000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221151",
+    "price_per_slot": 2906,
+    "price_avg": 5813
+  },
+  {
+    "name": "Hexagon handguard for AK",
+    "category": "handguards",
+    "image": "AK Hex hg icon.gif",
+    "title": "Hexagon handguard for AK",
+    "pageId": 11533,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/AK_Hex_hg_icon.gif?version=e29bae70a303b8289ba93407cc6d2115",
+    "filePath": "hexagon_handguard_for_ak",
+    "marketSearchName": "Hexagon handguard for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      36289,
+      36488
+    ],
+    "slots": 2,
+    "timestamp": "20191207221156",
+    "price_per_slot": 18194,
+    "price_avg": 36388
+  },
+  {
+    "name": "DS Arms quad rail foregrip for SA-58",
+    "category": "handguards",
+    "image": "SA58_Quad_Rail_Icon.png",
+    "title": "DS Arms quad rail foregrip for SA-58",
+    "pageId": 11025,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b6/SA58_Quad_Rail_Icon.png?version=87c02408666e294a15dea9b353839ede",
+    "filePath": "ds_arms_quad_rail_foregrip_for_sa_58",
+    "marketSearchName": "DS Arms quad rail foregrip for SA-58",
+    "marketPositionOffset": 0,
+    "price_array": [
+      49750,
+      49999,
+      53000,
+      53750
+    ],
+    "slots": 2,
+    "timestamp": "20191207221201",
+    "price_per_slot": 25458,
+    "price_avg": 50916
+  },
+  {
+    "name": "Handguard MK 10 for use with AR-15 and compatible",
+    "category": "handguards",
+    "image": "Handguard MK 10 for use with AR-15 and compatible Icon.png",
+    "title": "Handguard MK 10 for use with AR-15 and compatible",
+    "pageId": 11024,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Handguard_MK_10_for_use_with_AR-15_and_compatible_Icon.png",
+    "filePath": "handguard_mk_10_for_use_with_ar_15_and_compatible",
+    "marketSearchName": "Handguard MK 10 for use with AR-15 and compatible",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15864,
+      16499,
+      16500,
+      17149
+    ],
+    "slots": 2,
+    "timestamp": "20191207221207",
+    "price_per_slot": 8143,
+    "price_avg": 16287
+  },
+  {
+    "name": "Strike industries TRAX 1 foregrip",
+    "category": "handguards",
+    "image": "Trax1icon.png",
+    "title": "Strike industries TRAX 1 foregrip",
+    "pageId": 9762,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/Trax1icon.png?version=bbd8da3b42106c4d33295a3db1b0e9e9",
+    "filePath": "strike_industries_trax_1_foregrip",
+    "marketSearchName": "Strike industries TRAX 1 foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8242,
+      8500,
+      9999,
+      10303,
+      10997,
+      11250,
+      11300,
+      12390,
+      12399,
+      12400,
+      12500,
+      14999,
+      15000,
+      15000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221212",
+    "price_per_slot": 8913,
+    "price_avg": 8913
+  },
+  {
+    "name": "Strike industries TRAX 2",
+    "category": "handguards",
+    "image": "Trax2icon.png",
+    "title": "Strike industries TRAX 2",
+    "pageId": 9763,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Trax2icon.png?version=6758f660b28f02bad5af6419f17f1666",
+    "filePath": "strike_industries_trax_2",
+    "marketSearchName": "Strike industries TRAX 2",
+    "marketPositionOffset": 0,
+    "price_array": [
+      12400,
+      12500
+    ],
+    "slots": 1,
+    "timestamp": "20191207221217",
+    "price_per_slot": 12450,
+    "price_avg": 12450
+  },
+  {
+    "name": "Colt M4 Length handguard for AR-15 and compatibles",
+    "category": "handguards",
+    "image": "M4LengthHandguardIcon.png",
+    "title": "Colt M4 Length handguard for AR-15 and compatibles",
+    "pageId": 10240,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3d/M4LengthHandguardIcon.png?version=c1383f780e28997e69d37eb0be8519b2",
+    "filePath": "colt_m4_length_handguard_for_ar_15_and_compatibles",
+    "marketSearchName": "Colt M4 Length handguard for AR-15 and compatibles",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2469
+    ],
+    "slots": 2,
+    "timestamp": "20191207221222",
+    "price_per_slot": 1234,
+    "price_avg": 2469
+  },
+  {
+    "name": "XRSU47SU Tactical Handguard for AKS-74U",
+    "category": "handguards",
+    "image": "Aksurailmounticon.png",
+    "title": "XRSU47SU Tactical Handguard for AKS-74U",
+    "pageId": 9768,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/Aksurailmounticon.png?version=57b17f35450dec6e4e8a76cd869a426c",
+    "filePath": "xrsu47su_tactical_handguard_for_aks_74u",
+    "marketSearchName": "XRSU47SU Tactical Handguard for AKS-74U",
+    "marketPositionOffset": 0,
+    "price_array": [
+      22973,
+      22974,
+      25999,
+      26000,
+      26000,
+      26000,
+      26000,
+      27000,
+      28000,
+      28955,
+      28974,
+      30000,
+      30000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221228",
+    "price_per_slot": 11991,
+    "price_avg": 23982
+  },
+  {
+    "name": "MP5 TL-99 Aluminum handguard",
+    "category": "handguards",
+    "image": "Mp5tl99icon.png",
+    "title": "MP5 TL-99 Aluminum handguard",
+    "pageId": 9757,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7d/Mp5tl99icon.png?version=46dc36da84611043f78a5728bfa3ea4c",
+    "filePath": "mp5_tl_99_aluminum_handguard",
+    "marketSearchName": "MP5 TL-99 Aluminum handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8112,
+      9495,
+      9499,
+      10000,
+      95000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221233",
+    "price_per_slot": 4517,
+    "price_avg": 9035
+  },
+  {
+    "name": "MP5 Wide Tropical Polymer handguard",
+    "category": "handguards",
+    "image": "Mp5wt.png",
+    "title": "MP5 Wide Tropical Polymer handguard",
+    "pageId": 6974,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/Mp5wt.png?version=4bc5fd51613ef878ef57dea9e841daa1",
+    "filePath": "mp5_wide_tropical_polymer_handguard",
+    "marketSearchName": "MP5 Wide Tropical Polymer handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1800,
+      1999,
+      2000,
+      2000,
+      2100,
+      2300,
+      2300,
+      2400,
+      2400,
+      2400,
+      2500,
+      2800,
+      2999,
+      3000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221238",
+    "price_per_slot": 966,
+    "price_avg": 1933
+  },
+  {
+    "name": "Wooden AK-74 handguard (6P20 Sb.6)",
+    "category": "handguards",
+    "image": "6p20sb6.png",
+    "title": "Wooden AK-74 handguard (6P20 Sb.6)",
+    "pageId": 3124,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/6p20sb6.png?version=85ca5c5f13a0f0cc8f40d306062dc05e",
+    "filePath": "wooden_ak_74_handguard__6p20_sb_6_",
+    "marketSearchName": "Wooden AK-74 handguard (6P20 Sb.6)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      834
+    ],
+    "slots": 1,
+    "timestamp": "20191207221243",
+    "price_per_slot": 834,
+    "price_avg": 834
+  },
+  {
+    "name": "Magpul MOE AKM HAND GUARD for AK",
+    "category": "handguards",
+    "image": "MOE_AKM_Icon.gif",
+    "title": "Magpul MOE AKM HAND GUARD for AK",
+    "pageId": 6717,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/29/MOE_AKM_Icon.gif?version=b12b5570541bf341ef8c6ba73b73c336",
+    "filePath": "magpul_moe_akm_hand_guard_for_ak",
+    "marketSearchName": "Magpul MOE AKM HAND GUARD (Black) for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      17533,
+      18249,
+      19950,
+      19980,
+      20000,
+      26500
+    ],
+    "slots": 1,
+    "timestamp": "20191207221248",
+    "price_per_slot": 18577,
+    "price_avg": 18577
+  },
+  {
+    "name": "LOBAEV Arms DVL-10 M2 handguard",
+    "category": "handguards",
+    "image": "Dvlhandgaurd.png",
+    "title": "LOBAEV Arms DVL-10 M2 handguard",
+    "pageId": 3286,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c9/Dvlhandgaurd.png?version=27f3d226763993aadd02e56d69f04b7b",
+    "filePath": "lobaev_arms_dvl_10_m2_handguard",
+    "marketSearchName": "LOBAEV Arms DVL-10",
+    "marketPositionOffset": 0,
+    "price_array": [
+      22000,
+      23999
+    ],
+    "slots": 2,
+    "timestamp": "20191207221253",
+    "price_per_slot": 11499,
+    "price_avg": 22999
+  },
+  {
+    "name": "Wooden AKM / VPO-209 handguard",
+    "category": "handguards",
+    "image": "Vpo209hg.png",
+    "title": "Wooden AKM / VPO-209 handguard",
+    "pageId": 7864,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/Vpo209hg.png?version=d7d967f5904d135b6414244574173cec",
+    "filePath": "wooden_akm___vpo_209_handguard",
+    "marketSearchName": "Wooden AKM / VPO-209 handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      829,
+      1056
+    ],
+    "slots": 1,
+    "timestamp": "20191207221258",
+    "price_per_slot": 942,
+    "price_avg": 942
+  },
+  {
+    "name": "Wooden AK-74 handguard (6P1 Sb.6-1)",
+    "category": "handguards",
+    "image": "6p1sb61.png",
+    "title": "Wooden AK-74 handguard (6P1 Sb.6-1)",
+    "pageId": 7074,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/6p1sb61.png?version=e828f7f245cdce7a3510f0c63e2c28d4",
+    "filePath": "wooden_ak_74_handguard__6p1_sb_6_1_",
+    "marketSearchName": "Wooden AK-74 handguard (6P1 Sb.6-1)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1051
+    ],
+    "slots": 1,
+    "timestamp": "20191207221303",
+    "price_per_slot": 1051,
+    "price_avg": 1051
+  },
+  {
+    "name": "Wooden VPO-136 handguard",
+    "category": "handguards",
+    "image": "Vpo136hg.png",
+    "title": "Wooden VPO-136 handguard",
+    "pageId": 7148,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/Vpo136hg.png?version=49c403267bad052684d2501cc5379349",
+    "filePath": "wooden_vpo_136_handguard",
+    "marketSearchName": "Wooden VPO-136 handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      866
+    ],
+    "slots": 1,
+    "timestamp": "20191207221308",
+    "price_per_slot": 866,
+    "price_avg": 866
+  },
+  {
+    "name": "Krebs Custom UFM Keymod System handguard for AKM",
+    "category": "handguards",
+    "image": "Ufm.png",
+    "title": "Krebs Custom UFM Keymod System handguard for AKM",
+    "pageId": 7265,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/Ufm.png?version=e1eb8e7876b260b4307eca9f642d9f58",
+    "filePath": "krebs_custom_ufm_keymod_system_handguard_for_akm",
+    "marketSearchName": "Krebs Custom UFM Keymod System handguard for AKM",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14998,
+      14999,
+      15000,
+      16000,
+      16988,
+      17333,
+      17500,
+      17998,
+      17999,
+      17999,
+      19000,
+      19000,
+      19000,
+      20000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221313",
+    "price_per_slot": 7499,
+    "price_avg": 14999
+  },
+  {
+    "name": "MP5SD Polymer handguard",
+    "category": "handguards",
+    "image": "Mp5sdhg.png",
+    "title": "MP5SD Polymer handguard",
+    "pageId": 6975,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/47/Mp5sdhg.png?version=216ed1cabfe163d205990469e3957664",
+    "filePath": "mp5sd_polymer_handguard",
+    "marketSearchName": "MP5SD Polymer handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7500,
+      7500,
+      7999,
+      8000,
+      8300,
+      8399,
+      9350,
+      9400,
+      9900,
+      9999,
+      9999,
+      15000,
+      15500,
+      16900
+    ],
+    "slots": 2,
+    "timestamp": "20191207221318",
+    "price_per_slot": 3833,
+    "price_avg": 7666
+  },
+  {
+    "name": "Izhmekh MP-133 Beechwood forestock",
+    "category": "handguards",
+    "image": "Mr133beech.png",
+    "title": "Izhmekh MP-133 Beechwood forestock",
+    "pageId": 3269,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/Mr133beech.png?version=279b17255e58f128ffe05144a999bf09",
+    "filePath": "izhmekh_mp_133_beechwood_forestock",
+    "marketSearchName": "Izhmekh MP-133 Beechwood forestock",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3300,
+      3990,
+      30000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221323",
+    "price_per_slot": 6215,
+    "price_avg": 12430
+  },
+  {
+    "name": "B-11 AKS-74U Handguard",
+    "category": "handguards",
+    "image": "B-11hg.png",
+    "title": "B-11 AKS-74U Handguard",
+    "pageId": 3282,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/B-11hg.png",
+    "filePath": "b_11_aks_74u_handguard",
+    "marketSearchName": "B-11 AKS-74U Handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5610,
+      8890,
+      9999,
+      10000,
+      11500,
+      11500,
+      12000,
+      12150,
+      12799,
+      12800,
+      12990,
+      12999,
+      18500
+    ],
+    "slots": 1,
+    "timestamp": "20191207221328",
+    "price_per_slot": 8166,
+    "price_avg": 8166
+  },
+  {
+    "name": "Handguard SIG MPX Gen. 1 for MPX",
+    "category": "handguards",
+    "image": "Mpxgen1.png",
+    "title": "Handguard SIG MPX Gen. 1 for MPX",
+    "pageId": 6870,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/54/Mpxgen1.png?version=4b4ebb5f8f87d6dcba63710dfa60a1be",
+    "filePath": "handguard_sig_mpx_gen__1_for_mpx",
+    "marketSearchName": "Handguard SIG MPX Gen. 1 for MPX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9999,
+      10000,
+      10998,
+      10999,
+      11000,
+      12500
+    ],
+    "slots": 2,
+    "timestamp": "20191207221334",
+    "price_per_slot": 5166,
+    "price_avg": 10332
+  },
+  {
+    "name": "Remington Arms handguard for a R11 RSASS",
+    "category": "handguards",
+    "image": "Rsasshg.png",
+    "title": "Remington Arms handguard for a R11 RSASS",
+    "pageId": 8407,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/Rsasshg.png?version=2cbb6ba136d6f2a8e98a3f912762f76e",
+    "filePath": "remington_arms_handguard_for_a_r11_rsass",
+    "marketSearchName": "Remington Arms handguard for a R11 RSASS",
+    "marketPositionOffset": 0,
+    "price_array": [
+      22220,
+      22222
+    ],
+    "slots": 2,
+    "timestamp": "20191207221339",
+    "price_per_slot": 11110,
+    "price_avg": 22221
+  },
+  {
+    "name": "Handguard War Sport LVOA-C blk. for use with AR-15 and compatible",
+    "category": "handguards",
+    "image": "Lvoac.png",
+    "title": "Handguard War Sport LVOA-C blk. for use with AR-15 and compatible",
+    "pageId": 6977,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/Lvoac.png?version=8f1b2f41867c75fd6104e5e8d84ff668",
+    "filePath": "handguard_war_sport_lvoa_c_blk__for_use_with_ar_15_and_compatible",
+    "marketSearchName": "Handguard War Sport LVOA-C blk. for use with AR-15 and compatible",
+    "marketPositionOffset": 0,
+    "price_array": [
+      26000,
+      26985,
+      26999,
+      27000,
+      27990,
+      28000,
+      28000
+    ],
+    "slots": 3,
+    "timestamp": "20191207221344",
+    "price_per_slot": 8887,
+    "price_avg": 26661
+  },
+  {
+    "name": "Handguard War Sport LVOA-S blk. for use with AR-15 and compatible",
+    "category": "handguards",
+    "image": "Lvoas.png",
+    "title": "Handguard War Sport LVOA-S blk. for use with AR-15 and compatible",
+    "pageId": 6976,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/Lvoas.png?version=c6875acdefc7fdedbd91bfbc1658f391",
+    "filePath": "handguard_war_sport_lvoa_s_blk__for_use_with_ar_15_and_compatible",
+    "marketSearchName": "Handguard War Sport LVOA-S blk. for use with AR-15 and compatible",
+    "marketPositionOffset": 0,
+    "price_array": [
+      16000,
+      16700,
+      16800,
+      18000,
+      18500,
+      18900,
+      20000,
+      20200,
+      20668,
+      20669,
+      21899,
+      22000,
+      25000,
+      160000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221350",
+    "price_per_slot": 8250,
+    "price_avg": 16500
+  },
+  {
+    "name": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems",
+    "category": "handguards",
+    "image": "DD Ris2 Icon.gif",
+    "title": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems",
+    "pageId": 3106,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/DD_Ris2_Icon.gif?version=afe1b2dc33e8887ecab35df51533afd4",
+    "filePath": "daniel_defence_ris_ii_9_5_foregrip_for_ar_15_compatible_systems",
+    "marketSearchName": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      19999,
+      19999,
+      19999,
+      20000,
+      21000,
+      25000,
+      28999,
+      29000,
+      30999,
+      31000,
+      33000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221356",
+    "price_per_slot": 9999,
+    "price_avg": 19999
+  },
+  {
+    "name": "SOK-12 aluminum handguard MTU002 Long Top",
+    "category": "handguards",
+    "image": "Mtu002l.png",
+    "title": "SOK-12 aluminum handguard MTU002 Long Top",
+    "pageId": 3283,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/Mtu002l.png?version=4b4ebb5f8f87d6dcba63710dfa60a1be",
+    "filePath": "sok_12_aluminum_handguard_mtu002_long_top",
+    "marketSearchName": "SOK-12 aluminum handguard MTU002 Long Top",
+    "marketPositionOffset": 0,
+    "price_array": [
+      11066,
+      14000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221401",
+    "price_per_slot": 6266,
+    "price_avg": 12533
+  },
+  {
+    "name": "Polymer AK-74 foregrip (6P20 Sb.9)",
+    "category": "handguards",
+    "image": "6p20sb9.png",
+    "title": "Polymer AK-74 foregrip (6P20 Sb.9)",
+    "pageId": 3272,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/6p20sb9.png?version=26dea5ce139d3af5b6138ba5a00d314e",
+    "filePath": "polymer_ak_74_foregrip__6p20_sb_9_",
+    "marketSearchName": "Polymer AK-74 foregrip (6P20 Sb.9)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      106,
+      120,
+      1329,
+      1500,
+      5000,
+      7000,
+      8000,
+      23000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221406",
+    "price_per_slot": 518,
+    "price_avg": 518
+  },
+  {
+    "name": "SOK-12 polymer handguard Sb.7-1",
+    "category": "handguards",
+    "image": "Sb.7-1.png",
+    "title": "SOK-12 polymer handguard Sb.7-1",
+    "pageId": 3278,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f0/Sb.7-1.png",
+    "filePath": "sok_12_polymer_handguard_sb_7_1",
+    "marketSearchName": "SOK-12 polymer handguard Sb.7-1",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1425,
+      3999
+    ],
+    "slots": 1,
+    "timestamp": "20191207221411",
+    "price_per_slot": 2712,
+    "price_avg": 2712
+  },
+  {
+    "name": "SOK-12 aluminum handguard MTU002 Short Top",
+    "category": "handguards",
+    "image": "Mtu002s.png",
+    "title": "SOK-12 aluminum handguard MTU002 Short Top",
+    "pageId": 3284,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8d/Mtu002s.png?version=236873db062d363559eda1556d4597c6",
+    "filePath": "sok_12_aluminum_handguard_mtu002_short_top",
+    "marketSearchName": "SOK-12 aluminum handguard MTU002 Short Top",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8143,
+      9000,
+      9450,
+      10000,
+      10000,
+      10000,
+      11999,
+      12000,
+      12900,
+      13000,
+      13000,
+      13200
+    ],
+    "slots": 2,
+    "timestamp": "20191207221416",
+    "price_per_slot": 4432,
+    "price_avg": 8864
+  },
+  {
+    "name": "CAA RS47 foregrip for AK-compatible systems",
+    "category": "handguards",
+    "image": "Caars47.png",
+    "title": "CAA RS47 foregrip for AK-compatible systems",
+    "pageId": 2992,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Caars47.png?version=8dc30607ade2d240004631762da804c9",
+    "filePath": "caa_rs47_foregrip_for_ak_compatible_systems",
+    "marketSearchName": "CAA RS47 foregrip for AK-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14995,
+      17500,
+      17500,
+      17800,
+      17888,
+      19000,
+      20000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221421",
+    "price_per_slot": 16665,
+    "price_avg": 16665
+  },
+  {
+    "name": "B-10M foregrip and rail mount B-19",
+    "category": "handguards",
+    "image": "B10m.png",
+    "title": "B-10M foregrip and rail mount B-19",
+    "pageId": 3274,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/B10m.png?version=b15168bc6d3b549632fcd4f84c11f5ba",
+    "filePath": "b_10m_foregrip_and_rail_mount_b_19",
+    "marketSearchName": "b-10",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14220,
+      14394,
+      17895,
+      17999,
+      18000,
+      18499,
+      19900,
+      19977,
+      19980,
+      19990,
+      19999,
+      19999,
+      20000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221426",
+    "price_per_slot": 15503,
+    "price_avg": 15503
+  },
+  {
+    "name": "Wooden AKS-74U Handguard (6P26 Sb.6)",
+    "category": "handguards",
+    "image": "6p26sb6.png",
+    "title": "Wooden AKS-74U Handguard (6P26 Sb.6)",
+    "pageId": 3281,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/6p26sb6.png?version=e657d833fed0ffce3d5109195c6e3b1d",
+    "filePath": "wooden_aks_74u_handguard__6p26_sb_6_",
+    "marketSearchName": "Wooden AKS-74U Handguard (6P26 Sb.6)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      908,
+      3500,
+      3999,
+      4500,
+      5000,
+      5000,
+      10000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221431",
+    "price_per_slot": 2802,
+    "price_avg": 2802
+  },
+  {
+    "name": "Knight's Armament KAC RIS handguard for AR-15 and compatibles",
+    "category": "handguards",
+    "image": "Kacris.png",
+    "title": "Knight's Armament KAC RIS handguard for AR-15 and compatibles",
+    "pageId": 3117,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Kacris.png?version=b4d40e8eb06da0058db6ceec2d94d677",
+    "filePath": "knight_s_armament_kac_ris_handguard_for_ar_15_and_compatibles",
+    "marketSearchName": "Knight's Armament KAC RIS handguard for AR-15 and compatibles",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8490,
+      10000,
+      10000,
+      10000,
+      10000,
+      11000,
+      11000,
+      11500,
+      12000,
+      12000,
+      12990,
+      12999,
+      13000,
+      13111
+    ],
+    "slots": 2,
+    "timestamp": "20191207221437",
+    "price_per_slot": 4748,
+    "price_avg": 9496
+  },
+  {
+    "name": "Custom plastic MP-133 forestock with mounts",
+    "category": "handguards",
+    "image": "Custommp133.png",
+    "title": "Custom plastic MP-133 forestock with mounts",
+    "pageId": 3270,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/Custommp133.png?version=92af34399ca66335f0b442a6d02d8ce2",
+    "filePath": "custom_plastic_mp_133_forestock_with_mounts",
+    "marketSearchName": "Custom plastic MP-133 forestock with mounts",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9333,
+      9700,
+      9896,
+      9932,
+      9933,
+      9933,
+      9990,
+      9999,
+      10889,
+      11450,
+      30000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221442",
+    "price_per_slot": 4821,
+    "price_avg": 9643
+  },
+  {
+    "name": "Fab Defence PR870 forestock",
+    "category": "handguards",
+    "image": "FAB Defense PR870 forestock icon.png",
+    "title": "Fab Defence PR870 forestock",
+    "pageId": 9715,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/FAB_Defense_PR870_forestock_icon.png?version=a2280411f6106364776f9b8e719ab640",
+    "filePath": "fab_defence_pr870_forestock",
+    "marketSearchName": "Fab Defence PR870 forestock",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2216,
+      3500
+    ],
+    "slots": 2,
+    "timestamp": "20191207221447",
+    "price_per_slot": 1429,
+    "price_avg": 2858
+  },
+  {
+    "name": "Magpul MOE M870 forestock",
+    "category": "handguards",
+    "image": "Magpulm870forestockicon.png",
+    "title": "Magpul MOE M870 forestock",
+    "pageId": 9718,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/Magpulm870forestockicon.png?version=1577d9f433010e4813c9dafccce80d2b",
+    "filePath": "magpul_moe_m870_forestock",
+    "marketSearchName": "Magpul MOE M870 forestock",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18870,
+      18880,
+      18900,
+      19299,
+      19300,
+      19480,
+      19480,
+      19997,
+      20000,
+      20999,
+      24999,
+      37000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221452",
+    "price_per_slot": 9441,
+    "price_avg": 18883
+  },
+  {
+    "name": "Speedfeed short M870 forestock",
+    "category": "handguards",
+    "image": "Speedfedicon.png",
+    "title": "Speedfeed short M870 forestock",
+    "pageId": 9722,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/Speedfedicon.png?version=53daa3106aff3d044f239e235d030e7d",
+    "filePath": "speedfeed_short_m870_forestock",
+    "marketSearchName": "Speedfeed short M870 forestock",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1459,
+      2999,
+      3000,
+      3000,
+      4999
+    ],
+    "slots": 2,
+    "timestamp": "20191207221457",
+    "price_per_slot": 1243,
+    "price_avg": 2486
+  },
+  {
+    "name": "Polymer AK-100 series foregrip",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "Polymer AK-100 series foregrip",
+    "pageId": 15411,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "polymer_ak_100_series_foregrip",
+    "marketSearchName": "Polymer AK-100 series foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1374,
+      1375,
+      1500,
+      3000,
+      250000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221502",
+    "price_per_slot": 1416,
+    "price_avg": 1416
+  },
+  {
+    "name": "Polymer ASh-12 foregrip",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "Polymer ASh-12 foregrip",
+    "pageId": 15436,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "polymer_ash_12_foregrip",
+    "marketSearchName": "Polymer ASh-12 foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1063,
+      2000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221507",
+    "price_per_slot": 1531,
+    "price_avg": 1531
+  },
+  {
+    "name": "5.45 Design \"Aggressor\" handguard for AK",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "5.45 Design \"Aggressor\" handguard for AK",
+    "pageId": 15454,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "5_45_design__aggressor__handguard_for_ak",
+    "marketSearchName": "5.45 Design \"Aggressor\" handguard for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      20881,
+      20883,
+      20990,
+      21000,
+      21000,
+      25000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221513",
+    "price_per_slot": 20918,
+    "price_avg": 20918
+  },
+  {
+    "name": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "pageId": 15475,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "strike_industries_viper_carabine_length_m_lok_foregrip_for_ar_15",
+    "marketSearchName": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9880,
+      12000,
+      12000,
+      12897,
+      12898,
+      14000,
+      14711,
+      15999
+    ],
+    "slots": 2,
+    "timestamp": "20191207221518",
+    "price_per_slot": 5646,
+    "price_avg": 11293
+  },
+  {
+    "name": "Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems",
+    "pageId": 15477,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "noveske_sws_n6_10_5_inch_foregrip_for_ar_10_compatible_systems",
+    "marketSearchName": "Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      20000
+    ],
+    "slots": 2,
+    "timestamp": "20191207221524",
+    "price_per_slot": 10000,
+    "price_avg": 20000
+  },
+  {
+    "name": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
+    "pageId": 15478,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "noveske_sws_n6_split_handguard_for_ar_10_compatible_systems",
+    "marketSearchName": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15000,
+      15000,
+      15000,
+      15500
+    ],
+    "slots": 2,
+    "timestamp": "20191207221529",
+    "price_per_slot": 7500,
+    "price_avg": 15000
+  },
+  {
+    "name": "URX 3.1 10.75\" handguard for AR15",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "URX 3.1 10.75\" handguard for AR15",
+    "pageId": 15502,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "urx_3_1_10_75__handguard_for_ar15",
+    "marketSearchName": "URX 3.1 10.75\" handguard for AR15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      22898,
+      22999,
+      23980
+    ],
+    "slots": 2,
+    "timestamp": "20191207221534",
+    "price_per_slot": 11646,
+    "price_avg": 23292
+  },
+  {
+    "name": "URX 3 8\" handguard for AR15",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "URX 3 8\" handguard for AR15",
+    "pageId": 15503,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "urx_3_8__handguard_for_ar15",
+    "marketSearchName": "URX 3 8\" handguard for AR15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      21999
+    ],
+    "slots": 2,
+    "timestamp": "20191207221539",
+    "price_per_slot": 10999,
+    "price_avg": 21999
+  },
+  {
+    "name": "Alfa Arms Goliaf AKS-74U Handguard",
+    "category": "handguards",
+    "image": "Alfa Arms Goliaf AKS-74U Handguard icon.png",
+    "title": "Alfa Arms Goliaf AKS-74U Handguard",
+    "pageId": 15515,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/Alfa_Arms_Goliaf_AKS-74U_Handguard_icon.png",
+    "filePath": "alfa_arms_goliaf_aks_74u_handguard",
+    "marketSearchName": "Alfa Arms Goliaf AKS-74U Handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5402,
+      8500,
+      8690,
+      8779,
+      8780,
+      8800,
+      8900,
+      9995,
+      10369,
+      11111,
+      11900,
+      12000,
+      13000,
+      13999
+    ],
+    "slots": 1,
+    "timestamp": "20191207221544",
+    "price_per_slot": 7530,
+    "price_avg": 7530
+  },
+  {
+    "name": "PTR Tri-Rail MP5 handguard",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "PTR Tri-Rail MP5 handguard",
+    "pageId": 15517,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "ptr_tri_rail_mp5_handguard",
+    "marketSearchName": "PTR Tri-Rail MP5 handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10608,
+      14999
+    ],
+    "slots": 2,
+    "timestamp": "20191207221549",
+    "price_per_slot": 6401,
+    "price_avg": 12803
+  },
+  {
+    "name": "TDI AKM-L handguard for AK",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "TDI AKM-L handguard for AK",
+    "pageId": 15518,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "tdi_akm_l_handguard_for_ak",
+    "marketSearchName": "TDI AKM-L handguard for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4536,
+      10000,
+      11998,
+      11999,
+      12000,
+      15000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221554",
+    "price_per_slot": 8844,
+    "price_avg": 8844
+  },
+  {
+    "name": "Wooden CAF WASR 10-63 handguard",
+    "category": "handguards",
+    "image": "DingDongGripIcon.png",
+    "title": "Wooden CAF WASR 10-63 handguard",
+    "pageId": 15549,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/DingDongGripIcon.png?version=449df473ba27803b1360875e5bb5d755",
+    "filePath": "wooden_caf_wasr_10_63_handguard",
+    "marketSearchName": "Wooden CAF WASR 10-63 handguard",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6210,
+      7969,
+      7995,
+      7999,
+      8899,
+      9000,
+      9500,
+      9996,
+      9999,
+      10000,
+      10000,
+      11000,
+      11000,
+      11000
+    ],
+    "slots": 1,
+    "timestamp": "20191207221559",
+    "price_per_slot": 7391,
+    "price_avg": 7391
+  },
+  {
+    "name": "Lone Star Ion Lite handguard for AR-15 and compatible",
+    "category": "handguards",
+    "image": "Ion Lite Icon.PNG",
+    "title": "Lone Star Ion Lite handguard for AR-15 and compatible",
+    "pageId": 15572,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/42/Ion_Lite_Icon.PNG?version=5097343003267f6fd49afe6ab476b926",
+    "filePath": "lone_star_ion_lite_handguard_for_ar_15_and_compatible",
+    "marketSearchName": "Lone Star Ion Lite handguard for AR-15 and compatible",
+    "marketPositionOffset": 0,
+    "price_array": [
+      0
+    ],
+    "slots": 3,
+    "timestamp": "20191207221605",
+    "price_per_slot": 0,
+    "price_avg": 0
+  },
+  {
+    "name": "Armasight NVG mask",
+    "category": "headwear",
+    "image": "Armasight NVG Mask Icon.png",
+    "title": "Armasight NVG mask",
+    "pageId": 12563,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/Armasight_NVG_Mask_Icon.png?version=0a4bad23289c5fbb1a9b69f0581a37fe",
+    "filePath": "armasight_nvg_mask",
+    "marketSearchName": "Armasight NVG mask",
+    "marketPositionOffset": 0,
+    "price_array": [
+      20055,
+      29000,
+      29997,
+      39000,
+      40000,
+      44900,
+      45000,
+      50000,
+      110000,
+      135000,
+      140000,
+      140000,
+      140000,
+      145000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221850",
+    "price_per_slot": 6587,
+    "price_avg": 26350
+  },
+  {
+    "name": "Wilcox Skull Lock head mount",
+    "category": "headwear",
+    "image": "slockicon.png",
+    "title": "Wilcox Skull Lock head mount",
+    "pageId": 4177,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f2/Slockicon.png?version=a5b4ddadadb5a83257bbc9531f7fc6ac",
+    "filePath": "wilcox_skull_lock_head_mount",
+    "marketSearchName": "Wilcox Skull Lock head mount",
+    "marketPositionOffset": 0,
+    "price_array": [
+      16000,
+      16990,
+      17000,
+      17999,
+      18000,
+      18899,
+      18900,
+      19000,
+      19700,
+      19999,
+      21999,
+      22000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221855",
+    "price_per_slot": 4165,
+    "price_avg": 16663
+  },
+  {
+    "name": "Kolpak-1S riot helmet",
+    "category": "headwear",
+    "image": "Kolpak-1S Icon.png",
+    "title": "Kolpak-1S riot helmet",
+    "pageId": 5992,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c3/Kolpak-1S_Icon.png",
+    "filePath": "kolpak_1s_riot_helmet",
+    "marketSearchName": "Kolpak-1S riot helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2999,
+      3000,
+      3000,
+      3000,
+      4899,
+      4999,
+      4999,
+      5000,
+      5000,
+      5000,
+      5000,
+      5000,
+      5954,
+      6442
+    ],
+    "slots": 4,
+    "timestamp": "20191207221900",
+    "price_per_slot": 749,
+    "price_avg": 2999
+  },
+  {
+    "name": "SHPM Firefighter's helmet",
+    "category": "headwear",
+    "image": "SHPM Firefighter's helmet icon.png",
+    "title": "SHPM Firefighter's helmet",
+    "pageId": 12807,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/SHPM_Firefighter%27s_helmet_icon.png",
+    "filePath": "shpm_firefighter_s_helmet",
+    "marketSearchName": "SHPM Firefighter's helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8500,
+      8500,
+      9000,
+      10000,
+      11111,
+      13300
+    ],
+    "slots": 4,
+    "timestamp": "20191207221905",
+    "price_per_slot": 2166,
+    "price_avg": 8666
+  },
+  {
+    "name": "PSH-97 \"Djeta\" helmet",
+    "category": "headwear",
+    "image": "PSH-97 -Jeta- helmet Icon.png",
+    "title": "PSH-97 \"Djeta\" helmet",
+    "pageId": 12735,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/PSH-97_-Jeta-_helmet_Icon.png",
+    "filePath": "psh_97__djeta__helmet",
+    "marketSearchName": "PSH-97 \"Djeta\" helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10999,
+      11000,
+      12000,
+      12000,
+      12000,
+      12111,
+      13000,
+      13500,
+      14000,
+      14500,
+      15000,
+      15000,
+      15300,
+      16666
+    ],
+    "slots": 4,
+    "timestamp": "20191207221910",
+    "price_per_slot": 2833,
+    "price_avg": 11333
+  },
+  {
+    "name": "UNTAR helmet",
+    "category": "headwear",
+    "image": "UNTARHelmetIcon.png",
+    "title": "UNTAR helmet",
+    "pageId": 9536,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/UNTARHelmetIcon.png?version=7728832f2522eb3690d1a5bf8d420cb0",
+    "filePath": "untar_helmet",
+    "marketSearchName": "UNTAR helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18200,
+      18766,
+      19331,
+      20000,
+      20462,
+      20999,
+      21500,
+      22300,
+      22750,
+      22999,
+      23000,
+      24000,
+      24000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221914",
+    "price_per_slot": 4691,
+    "price_avg": 18765
+  },
+  {
+    "name": "6B47 Ratnik-BSh Helmet",
+    "category": "headwear",
+    "image": "6B47_Icon.gif",
+    "title": "6B47 Ratnik-BSh Helmet",
+    "pageId": 8129,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/6B47_Icon.gif?version=5ef781bfe4344fda631710f77cb0cd25",
+    "filePath": "6b47_ratnik_bsh_helmet",
+    "marketSearchName": "6B47 Ratnik-BSh Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      20000,
+      21000,
+      23000,
+      25000,
+      25000,
+      26500,
+      26888,
+      26900,
+      27000,
+      27000,
+      28000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221919",
+    "price_per_slot": 5333,
+    "price_avg": 21333
+  },
+  {
+    "name": "SSh-68 helmet (1968 steel helmet)",
+    "category": "headwear",
+    "image": "SSH-68Icon.png",
+    "title": "SSh-68 helmet (1968 steel helmet)",
+    "pageId": 12260,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/aa/SSH-68Icon.png",
+    "filePath": "ssh_68_helmet__1968_steel_helmet_",
+    "marketSearchName": "SSh-68 helmet (1968 steel helmet)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14500,
+      16000,
+      16000,
+      16500,
+      16500,
+      17499,
+      17500,
+      17500,
+      17555,
+      17800,
+      17850
+    ],
+    "slots": 4,
+    "timestamp": "20191207221924",
+    "price_per_slot": 3875,
+    "price_avg": 15500
+  },
+  {
+    "name": "LZSh light helmet",
+    "category": "headwear",
+    "image": "LZSh light helmet icon.png",
+    "title": "LZSh light helmet",
+    "pageId": 10721,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/LZSh_light_helmet_icon.png?version=f0f980c59f58063630bd02470bdd3c5e",
+    "filePath": "lzsh_light_helmet",
+    "marketSearchName": "LZSh light helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      52219,
+      54777,
+      54999,
+      55000,
+      55000,
+      55000,
+      56000,
+      58000,
+      58000,
+      60000,
+      65000,
+      65000,
+      69999
+    ],
+    "slots": 4,
+    "timestamp": "20191207221929",
+    "price_per_slot": 13499,
+    "price_avg": 53998
+  },
+  {
+    "name": "Kiver-M Helmet",
+    "category": "headwear",
+    "image": "Kiver-M Helmet icon.png",
+    "title": "Kiver-M Helmet",
+    "pageId": 4142,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Kiver-M_Helmet_icon.png",
+    "filePath": "kiver_m_helmet",
+    "marketSearchName": "Kiver-M Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      29995,
+      29999,
+      29999,
+      30000,
+      30800,
+      31000,
+      31999,
+      31999,
+      32000,
+      32000,
+      32000,
+      32000,
+      32681,
+      33000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221934",
+    "price_per_slot": 7499,
+    "price_avg": 29997
+  },
+  {
+    "name": "DEVTAC Ronin ballistic helmet",
+    "category": "headwear",
+    "image": "DEVTAC Ronin ballistic helmet Icon.png",
+    "title": "DEVTAC Ronin ballistic helmet",
+    "pageId": 10823,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/DEVTAC_Ronin_ballistic_helmet_Icon.png?version=b215f1800270a48b638e6d456d29781c",
+    "filePath": "devtac_ronin_ballistic_helmet",
+    "marketSearchName": "DEVTAC Ronin ballistic helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      100000,
+      110000,
+      120000,
+      120000,
+      130000,
+      135000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221939",
+    "price_per_slot": 27500,
+    "price_avg": 110000
+  },
+  {
+    "name": "SSSh-95 Sfera-S (Sphere-S)",
+    "category": "headwear",
+    "image": "SFERAHelmetIcon.png",
+    "title": "SSSh-95 Sfera-S (Sphere-S)",
+    "pageId": 9537,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/SFERAHelmetIcon.png?version=b7e99bb28b08c5fa95b474a4727a9de8",
+    "filePath": "sssh_95_sfera_s__sphere_s_",
+    "marketSearchName": "SSSh-95 Sfera-S (Sphere-S)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      50000,
+      50000,
+      51000,
+      51999,
+      52000,
+      52000,
+      52500,
+      52999,
+      54000,
+      54000,
+      54900,
+      55000,
+      55000,
+      55000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221944",
+    "price_per_slot": 12583,
+    "price_avg": 50333
+  },
+  {
+    "name": "MSA ACH TC-2001 MICH Series Helmet",
+    "category": "headwear",
+    "image": "MICH Icon.PNG",
+    "title": "MSA ACH TC-2001 MICH Series Helmet",
+    "pageId": 15591,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/MICH_Icon.PNG?version=ddba3a832f2e36bf0593205907938b7d",
+    "filePath": "msa_ach_tc_2001_mich_series_helmet",
+    "marketSearchName": "MSA ACH TC-2001 MICH Series Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      40000,
+      40000,
+      48000,
+      49000,
+      49990,
+      50000,
+      50000,
+      52999,
+      53000,
+      53999,
+      54999,
+      59999,
+      150000,
+      160000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221949",
+    "price_per_slot": 10666,
+    "price_avg": 42666
+  },
+  {
+    "name": "MSA ACH TC-2002 MICH Series Helmet",
+    "category": "headwear",
+    "image": "MICH Icon 2002.PNG",
+    "title": "MSA ACH TC-2002 MICH Series Helmet",
+    "pageId": 15592,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/MICH_Icon_2002.PNG?version=df6eafabc86fec7e56b5a75f021f608c",
+    "filePath": "msa_ach_tc_2002_mich_series_helmet",
+    "marketSearchName": "MSA ACH TC-2002 MICH Series Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      57500,
+      57900,
+      58000,
+      58990,
+      58999,
+      59895,
+      59900,
+      59998,
+      59999,
+      59999,
+      60000,
+      60000,
+      60000,
+      60000
+    ],
+    "slots": 4,
+    "timestamp": "20191207221954",
+    "price_per_slot": 14450,
+    "price_avg": 57800
+  },
+  {
+    "name": "Highcom Striker ACHHC IIIA helmet",
+    "category": "headwear",
+    "image": "ACHHC_Icon.gif",
+    "title": "Highcom Striker ACHHC IIIA helmet",
+    "pageId": 10830,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/ACHHC_Icon.gif?version=97cd5cb91cd9a579e486b2dbf2caba0b",
+    "filePath": "highcom_striker_achhc_iiia_helmet",
+    "marketSearchName": "Highcom Striker ACHHC IIIA black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      42000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222000",
+    "price_per_slot": 10500,
+    "price_avg": 42000
+  },
+  {
+    "name": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "category": "headwear",
+    "image": "FASTMT_Icon.gif",
+    "title": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "pageId": 7442,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/FASTMT_Icon.gif?version=f71fe14f7611a81794305c375d1b8c59",
+    "filePath": "ops_core_fast_mt_super_high_cut_helmet",
+    "marketSearchName": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      87974,
+      88888,
+      114999,
+      115000,
+      115000,
+      115000,
+      115000,
+      115724,
+      119000,
+      119700,
+      119790,
+      119999,
+      120000,
+      120000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222005",
+    "price_per_slot": 24321,
+    "price_avg": 97287
+  },
+  {
+    "name": "ZSh-1-2M helmet",
+    "category": "headwear",
+    "image": "ZSH-1-2M_Icon.gif",
+    "title": "ZSh-1-2M helmet",
+    "pageId": 9542,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0d/ZSH-1-2M_Icon.gif",
+    "filePath": "zsh_1_2m_helmet",
+    "marketSearchName": "ZSh-1-2M helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      40000,
+      42000,
+      44999,
+      45000,
+      45000,
+      47000,
+      50000,
+      50000,
+      50000,
+      50000,
+      50000,
+      50000,
+      50000,
+      50000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222010",
+    "price_per_slot": 10583,
+    "price_avg": 42333
+  },
+  {
+    "name": "Highcom Striker ULACH IIIA helmet",
+    "category": "headwear",
+    "image": "ULACH_Icon.gif",
+    "title": "Highcom Striker ULACH IIIA helmet",
+    "pageId": 10825,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bb/ULACH_Icon.gif?version=ddee78d230773da1727d8f50e87518c1",
+    "filePath": "highcom_striker_ulach_iiia_helmet",
+    "marketSearchName": "Highcom Striker ULACH IIIA black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      72000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222015",
+    "price_per_slot": 18000,
+    "price_avg": 72000
+  },
+  {
+    "name": "Crye Precision Airframe Tan",
+    "category": "headwear",
+    "image": "Crye Precision Airframe Tan Icon.png",
+    "title": "Crye Precision Airframe Tan",
+    "pageId": 12820,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Crye_Precision_Airframe_Tan_Icon.png?version=c1eca57eef1834c1fc45c0afe400fabc",
+    "filePath": "crye_precision_airframe_tan",
+    "marketSearchName": "Crye Precision Airframe Tan",
+    "marketPositionOffset": 0,
+    "price_array": [
+      98974,
+      149974,
+      149975,
+      149980,
+      150000,
+      150000,
+      150000,
+      150000,
+      154411,
+      175000,
+      179000,
+      180000,
+      189999
+    ],
+    "slots": 4,
+    "timestamp": "20191207222020",
+    "price_per_slot": 33243,
+    "price_avg": 132974
+  },
+  {
+    "name": "BNTI LSHZ-2DTM Helmet",
+    "category": "headwear",
+    "image": "LZHZ-2DTMIcon.png",
+    "title": "BNTI LSHZ-2DTM Helmet",
+    "pageId": 15602,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/50/LZHZ-2DTMIcon.png",
+    "filePath": "bnti_lshz_2dtm_helmet",
+    "marketSearchName": "BNTI LSHZ-2DTM Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      105000,
+      115000,
+      120000,
+      120000,
+      120000,
+      121131,
+      121420,
+      131999,
+      134900,
+      134998,
+      134999,
+      134999,
+      135000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222025",
+    "price_per_slot": 28333,
+    "price_avg": 113333
+  },
+  {
+    "name": "Maska 1Sch helmet",
+    "category": "headwear",
+    "image": "Maska 1Sch helmet icon.gif",
+    "title": "Maska 1Sch helmet",
+    "pageId": 12499,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/Maska_1Sch_helmet_icon.gif?version=6549a0138228745103f297fd0e27c18d",
+    "filePath": "maska_1sch_helmet",
+    "marketSearchName": "Maska 1Sch helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70000,
+      95555,
+      99999,
+      100000,
+      100000,
+      100000,
+      100200,
+      110000,
+      118000,
+      120000,
+      122222,
+      125000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222029",
+    "price_per_slot": 22129,
+    "price_avg": 88518
+  },
+  {
+    "name": "Altyn helmet",
+    "category": "headwear",
+    "image": "AltynHelmetIcon.png",
+    "title": "Altyn helmet",
+    "pageId": 9538,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/AltynHelmetIcon.png?version=74a4bd60e82016c1745f397ad66658a7",
+    "filePath": "altyn_helmet",
+    "marketSearchName": "Altyn helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      96000,
+      100000,
+      110000,
+      110000,
+      111000,
+      112000,
+      113000,
+      113000,
+      114000,
+      115000,
+      120000,
+      120000,
+      120000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222034",
+    "price_per_slot": 25500,
+    "price_avg": 102000
+  },
+  {
+    "name": "Vulkan-5 (LShZ-5) heavy helmet",
+    "category": "headwear",
+    "image": "Vulkan-5 (LShZ-5) heavy helmet icon.png",
+    "title": "Vulkan-5 (LShZ-5) heavy helmet",
+    "pageId": 13947,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/30/Vulkan-5_%28LShZ-5%29_heavy_helmet_icon.png",
+    "filePath": "vulkan_5__lshz_5__heavy_helmet",
+    "marketSearchName": "Vulkan-5 (LShZ-5) heavy helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      215000,
+      220000,
+      229000,
+      229990,
+      229998,
+      229999,
+      239999,
+      240000,
+      240000,
+      240000,
+      250000,
+      250000,
+      250000,
+      250000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222039",
+    "price_per_slot": 55333,
+    "price_avg": 221333
+  },
+  {
+    "name": "Kinda cowboy hat",
+    "category": "headwear",
+    "image": "Cow_boy_hat_icon.png",
+    "title": "Kinda cowboy hat",
+    "pageId": 9546,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Cow_boy_hat_icon.png?version=014a8d20f2ed773438e774072a355d99",
+    "filePath": "kinda_cowboy_hat",
+    "marketSearchName": "Kinda cowboy hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      13000,
+      14996,
+      14997,
+      14999,
+      19000,
+      19000,
+      19300,
+      19400,
+      19400,
+      19450,
+      19500
+    ],
+    "slots": 4,
+    "timestamp": "20191207222044",
+    "price_per_slot": 3582,
+    "price_avg": 14331
+  },
+  {
+    "name": "Ushanka ear-flap cap",
+    "category": "headwear",
+    "image": "Ushanka_icon.png",
+    "title": "Ushanka ear-flap cap",
+    "pageId": 5997,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b8/Ushanka_icon.png?version=31e19523ffb51043ccf8ee3fc7ab3415",
+    "filePath": "ushanka_ear_flap_cap",
+    "marketSearchName": "Ushanka ear-flap cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      19450,
+      19499,
+      19500,
+      19500,
+      19600,
+      20000,
+      20000,
+      20000,
+      20999,
+      21000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222049",
+    "price_per_slot": 4870,
+    "price_avg": 19483
+  },
+  {
+    "name": "Miltec panama hat",
+    "category": "headwear",
+    "image": "Panama Icon.png",
+    "title": "Miltec panama hat",
+    "pageId": 10822,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/Panama_Icon.png?version=d169e029833bd94c0b35774d0fd59cf0",
+    "filePath": "miltec_panama_hat",
+    "marketSearchName": "Miltec panama hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2279,
+      5999,
+      6000,
+      8000,
+      8500,
+      14500
+    ],
+    "slots": 4,
+    "timestamp": "20191207222054",
+    "price_per_slot": 1189,
+    "price_avg": 4759
+  },
+  {
+    "name": "\"Door Kicker\" Boonie hat",
+    "category": "headwear",
+    "image": "Door kicker boonie hat icon.png",
+    "title": "\"Door Kicker\" Boonie hat",
+    "pageId": 14998,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/Door_kicker_boonie_hat_icon.png?version=5a3cb2cb6b4e2356556aff6514e2f2e4",
+    "filePath": "_door_kicker__boonie_hat",
+    "marketSearchName": "\"Door Kicker\" Boonie hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      32999,
+      33420,
+      34000,
+      34665,
+      34666,
+      34999,
+      35000,
+      39999,
+      42999,
+      45000,
+      77000,
+      99999,
+      100000,
+      100000
+    ],
+    "slots": 4,
+    "timestamp": "20191207222059",
+    "price_per_slot": 8368,
+    "price_avg": 33473
+  },
+  {
+    "name": "Beanie",
+    "category": "headwear",
+    "image": "Knitcap icon.png",
+    "title": "Beanie",
+    "pageId": 4149,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/Knitcap_icon.png?version=8af289d29b78573484488cdd06bde9db",
+    "filePath": "beanie",
+    "marketSearchName": "Beanie",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1000,
+      1000,
+      1000,
+      1391,
+      1600,
+      1700,
+      1900
+    ],
+    "slots": 1,
+    "timestamp": "20191207222104",
+    "price_per_slot": 1000,
+    "price_avg": 1000
+  },
+  {
+    "name": "Kotton beanie",
+    "category": "headwear",
+    "image": "Kotton Beanie icon.png",
+    "title": "Kotton beanie",
+    "pageId": 11914,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/Kotton_Beanie_icon.png?version=19cfef6ff7c1a45a268b9aa76ca805d3",
+    "filePath": "kotton_beanie",
+    "marketSearchName": "Kotton beanie",
+    "marketPositionOffset": 0,
+    "price_array": [
+      16300,
+      16300,
+      16322,
+      16400,
+      16420,
+      16498,
+      16500,
+      16500,
+      16500,
+      16666,
+      16969
+    ],
+    "slots": 1,
+    "timestamp": "20191207222109",
+    "price_per_slot": 16307,
+    "price_avg": 16307
+  },
+  {
+    "name": "Army cap",
+    "category": "headwear",
+    "image": "Army cap icon.png",
+    "title": "Army cap",
+    "pageId": 6023,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/65/Army_cap_icon.png?version=56998678443f02122fc53724f92f7987",
+    "filePath": "army_cap",
+    "marketSearchName": "Army cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1000,
+      1500,
+      2000,
+      2100,
+      2300,
+      2500
+    ],
+    "slots": 1,
+    "timestamp": "20191207222113",
+    "price_per_slot": 1500,
+    "price_avg": 1500
+  },
+  {
+    "name": "Baseball cap",
+    "category": "headwear",
+    "image": "Baseball_cap_icon.png",
+    "title": "Baseball cap",
+    "pageId": 4144,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f7/Baseball_cap_icon.png?version=720769920e4e7166683ba82ce87d76d1",
+    "filePath": "baseball_cap",
+    "marketSearchName": "Baseball cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      900,
+      1000,
+      1199,
+      1200,
+      1328,
+      1900,
+      2000,
+      2800,
+      2900,
+      3000,
+      3420,
+      3895,
+      4000,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191207222118",
+    "price_per_slot": 1033,
+    "price_avg": 1033
+  },
+  {
+    "name": "Police cap",
+    "category": "headwear",
+    "image": "policeicon.png",
+    "title": "Police cap",
+    "pageId": 9547,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/Policeicon.png?version=1ffb3bdc038f2900f7c8f4817c76cb03",
+    "filePath": "police_cap",
+    "marketSearchName": "Police cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1000,
+      1099,
+      1100,
+      1199,
+      1200,
+      1499,
+      1500,
+      1500,
+      1550
+    ],
+    "slots": 1,
+    "timestamp": "20191207222123",
+    "price_per_slot": 1066,
+    "price_avg": 1066
+  },
+  {
+    "name": "Tactical fleece hat",
+    "category": "headwear",
+    "image": "fleecicon.png",
+    "title": "Tactical fleece hat",
+    "pageId": 9548,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/Fleecicon.png?version=dd7a0b93d8777bf12f0da45135304dc0",
+    "filePath": "tactical_fleece_hat",
+    "marketSearchName": "Tactical fleece hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3200,
+      3300,
+      3400,
+      3500,
+      4500,
+      4736,
+      5863
+    ],
+    "slots": 1,
+    "timestamp": "20191207222128",
+    "price_per_slot": 3300,
+    "price_avg": 3300
+  },
+  {
+    "name": "UX PRO Beanie",
+    "category": "headwear",
+    "image": "uxproicon.png",
+    "title": "UX PRO Beanie",
+    "pageId": 9549,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/Uxproicon.png?version=22b1f38ecee4c648f708ab5a7f6a673c",
+    "filePath": "ux_pro_beanie",
+    "marketSearchName": "UX PRO Beanie",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2146,
+      2500
+    ],
+    "slots": 1,
+    "timestamp": "20191207222133",
+    "price_per_slot": 2323,
+    "price_avg": 2323
+  },
+  {
+    "name": "USEC baseball cap",
+    "category": "headwear",
+    "image": "USECCapIcon.png",
+    "title": "USEC baseball cap",
+    "pageId": 9552,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/71/USECCapIcon.png?version=3b9c45c1cf5afc7b3ac0277d7afe3553",
+    "filePath": "usec_baseball_cap",
+    "marketSearchName": "USEC baseball cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1724,
+      1725
+    ],
+    "slots": 1,
+    "timestamp": "20191207222137",
+    "price_per_slot": 1724,
+    "price_avg": 1724
+  },
+  {
+    "name": "BEAR baseball cap",
+    "category": "headwear",
+    "image": "BEARCapIcon.png",
+    "title": "BEAR baseball cap",
+    "pageId": 9551,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/BEARCapIcon.png?version=d8b2fcbbabad36507960dc55231e205a",
+    "filePath": "bear_baseball_cap",
+    "marketSearchName": "BEAR baseball cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1813,
+      2244
+    ],
+    "slots": 1,
+    "timestamp": "20191207222142",
+    "price_per_slot": 2028,
+    "price_avg": 2028
+  },
+  {
+    "name": "USEC baseball cap black",
+    "category": "headwear",
+    "image": "Black_USEC_Cap_Icon.png",
+    "title": "USEC baseball cap black",
+    "pageId": 10820,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/Black_USEC_Cap_Icon.png?version=74aa043a78d0c2998e26e65455356c31",
+    "filePath": "usec_baseball_cap_black",
+    "marketSearchName": "USEC baseball cap black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1819
+    ],
+    "slots": 1,
+    "timestamp": "20191207222147",
+    "price_per_slot": 1819,
+    "price_avg": 1819
+  },
+  {
+    "name": "BEAR baseball cap black",
+    "category": "headwear",
+    "image": "Black_BEAR_Cap_Icon.png",
+    "title": "BEAR baseball cap black",
+    "pageId": 10819,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/Black_BEAR_Cap_Icon.png?version=97952eb0b66279493716567672ffd99b",
+    "filePath": "bear_baseball_cap_black",
+    "marketSearchName": "BEAR baseball cap black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1919
+    ],
+    "slots": 1,
+    "timestamp": "20191207222152",
+    "price_per_slot": 1919,
+    "price_avg": 1919
+  },
+  {
+    "name": "EmerCom cap",
+    "category": "headwear",
+    "image": "emercomicon.png",
+    "title": "EmerCom cap",
+    "pageId": 9550,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/Emercomicon.png?version=e5635461383c352e60b03d9bce65c481",
+    "filePath": "emercom_cap",
+    "marketSearchName": "EmerCom cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1500,
+      1700,
+      1879
+    ],
+    "slots": 1,
+    "timestamp": "20191207222157",
+    "price_per_slot": 1693,
+    "price_avg": 1693
+  },
+  {
+    "name": "Pompon hat",
+    "category": "headwear",
+    "image": "pompon hat icon.png",
+    "title": "Pompon hat",
+    "pageId": 10789,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b5/Pompon_hat_icon.png?version=fb9d399ff00814781dad70cee6d90fe7",
+    "filePath": "pompon_hat",
+    "marketSearchName": "Pompon hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6000,
+      6599,
+      7000,
+      8999,
+      80000
+    ],
+    "slots": 1,
+    "timestamp": "20191207222202",
+    "price_per_slot": 6533,
+    "price_avg": 6533
+  },
+  {
+    "name": "Bandana",
+    "category": "headwear",
+    "image": "bandana icon.png",
+    "title": "Bandana",
+    "pageId": 10821,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Bandana_icon.png?version=3ae704b9cc940faafba751f6ef540100",
+    "filePath": "bandana",
+    "marketSearchName": "Bandana",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2095
+    ],
+    "slots": 1,
+    "timestamp": "20191207222206",
+    "price_per_slot": 2095,
+    "price_avg": 2095
+  },
+  {
+    "name": "Ski hat with holes for eyes",
+    "category": "headwear",
+    "image": "ShmaskaIcon.png",
+    "title": "Ski hat with holes for eyes",
+    "pageId": 9559,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/ShmaskaIcon.png?version=2c551061043c7e207a5efc88d075c980",
+    "filePath": "ski_hat_with_holes_for_eyes",
+    "marketSearchName": "Ski hat with holes for eyes",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7223,
+      13897,
+      13999,
+      14999,
+      14999,
+      15000,
+      15499,
+      15500,
+      15950,
+      15968,
+      16488,
+      16489,
+      16500,
+      16999
+    ],
+    "slots": 1,
+    "timestamp": "20191207222211",
+    "price_per_slot": 11706,
+    "price_avg": 11706
+  },
+  {
+    "name": "US Palm pistol grip for AK",
+    "category": "pistol_grips",
+    "image": "USPalmIcon.png",
+    "title": "US Palm pistol grip for AK",
+    "pageId": 13870,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c3/USPalmIcon.png?version=1b8f55dcfcf139c4493a964591e227be",
+    "filePath": "us_palm_pistol_grip_for_ak",
+    "marketSearchName": "US Palm pistol grip for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10550,
+      11000,
+      14300
+    ],
+    "slots": 1,
+    "timestamp": "20191207212545",
+    "price_per_slot": 11950,
+    "price_avg": 11950
+  },
+  {
+    "name": "HK Grip V.2 pistol grip for AR-15 based systems",
+    "category": "pistol_grips",
+    "image": "Grip v2 Icon.png",
+    "title": "HK Grip V.2 pistol grip for AR-15 based systems",
+    "pageId": 13881,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/15/Grip_v2_Icon.png?version=90c153c16b49b6f29d7028b207091809",
+    "filePath": "hk_grip_v_2_pistol_grip_for_ar_15_based_systems",
+    "marketSearchName": "HK Grip V.2 pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7111,
+      7599,
+      7999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212549",
+    "price_per_slot": 7569,
+    "price_avg": 7569
+  },
+  {
+    "name": "Izhmash SVDS pistol grip",
+    "category": "pistol_grips",
+    "image": "Izhmash SVDS pistol grip icon.png",
+    "title": "Izhmash SVDS pistol grip",
+    "pageId": 13835,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/Izhmash_SVDS_pistol_grip_icon.png?version=97aa6d99b379a9d61e89a0c1c531d2b2",
+    "filePath": "izhmash_svds_pistol_grip",
+    "marketSearchName": "Izhmash SVDS pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      994,
+      8498,
+      8499
+    ],
+    "slots": 1,
+    "timestamp": "20191207212553",
+    "price_per_slot": 5997,
+    "price_avg": 5997
+  },
+  {
+    "name": "Desert Tech pistol grip for MDR",
+    "category": "pistol_grips",
+    "image": "Desert Tech pistol grip for MDR icon.png",
+    "title": "Desert Tech pistol grip for MDR",
+    "pageId": 13621,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/Desert_Tech_pistol_grip_for_MDR_icon.png?version=76911cfecd1b310d9d675f3df1f807d8",
+    "filePath": "desert_tech_pistol_grip_for_mdr",
+    "marketSearchName": "Desert Tech pistol grip for MDR",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2413,
+      6100,
+      6996,
+      6999,
+      7000,
+      10000,
+      12500
+    ],
+    "slots": 1,
+    "timestamp": "20191207212557",
+    "price_per_slot": 5169,
+    "price_avg": 5169
+  },
+  {
+    "name": "Razor Arms TT rubber grips",
+    "category": "pistol_grips",
+    "image": "Razorttgripsicon.png",
+    "title": "Razor Arms TT rubber grips",
+    "pageId": 12835,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/80/Razorttgripsicon.png?version=851656d7c7546d3694fb04ffff67804f",
+    "filePath": "razor_arms_tt_rubber_grips",
+    "marketSearchName": "Razor Arms TT rubber grips",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5096,
+      6997,
+      6998,
+      7000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212600",
+    "price_per_slot": 6363,
+    "price_avg": 6363
+  },
+  {
+    "name": "Hogue like TT rubber grips",
+    "category": "pistol_grips",
+    "image": "Hoguettgripsicon.png",
+    "title": "Hogue like TT rubber grips",
+    "pageId": 12862,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d3/Hoguettgripsicon.png?version=25303884d40bb01379a2c850ecbb0a9b",
+    "filePath": "hogue_like_tt_rubber_grips",
+    "marketSearchName": "Hogue like TT rubber grips",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2808,
+      4999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212604",
+    "price_per_slot": 3903,
+    "price_avg": 3903
+  },
+  {
+    "name": "Wooden Sig Sauer Elite pistol grip for P226",
+    "category": "pistol_grips",
+    "image": "Stainless elite grips icon.png",
+    "title": "Wooden Sig Sauer Elite pistol grip for P226",
+    "pageId": 12834,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bf/Stainless_elite_grips_icon.png?version=68ff05fc4ce3b739dec46210159bb7bc",
+    "filePath": "wooden_sig_sauer_elite_pistol_grip_for_p226",
+    "marketSearchName": "Wooden Sig Sauer Elite pistol grip for P226",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2080,
+      5555
+    ],
+    "slots": 1,
+    "timestamp": "20191207212608",
+    "price_per_slot": 3817,
+    "price_avg": 3817
+  },
+  {
+    "name": "Emperor scorpion Sig Sauer pistol grip for P226",
+    "category": "pistol_grips",
+    "image": "Scorpion grips icon.png",
+    "title": "Emperor scorpion Sig Sauer pistol grip for P226",
+    "pageId": 12869,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/Scorpion_grips_icon.png?version=c95d47373311505da1f9d20d1277b536",
+    "filePath": "emperor_scorpion_sig_sauer_pistol_grip_for_p226",
+    "marketSearchName": "Emperor scorpion Sig Sauer pistol grip for P226",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2548,
+      7500,
+      8500,
+      9000,
+      10000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212612",
+    "price_per_slot": 6182,
+    "price_avg": 6182
+  },
+  {
+    "name": "Hogue Chain link pistol grip for P226",
+    "category": "pistol_grips",
+    "image": "Mascuc grips icon.png",
+    "title": "Hogue Chain link pistol grip for P226",
+    "pageId": 12726,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/01/Mascuc_grips_icon.png?version=75efb193a44cf33c960082610078b036",
+    "filePath": "hogue_chain_link_pistol_grip_for_p226",
+    "marketSearchName": "Hogue Chain link pistol grip for P226",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8632,
+      11000,
+      11000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212616",
+    "price_per_slot": 10210,
+    "price_avg": 10210
+  },
+  {
+    "name": "Axelson Tacical MK.25 pistol grip for P226",
+    "category": "pistol_grips",
+    "image": "Axelson grips icon.png",
+    "title": "Axelson Tacical MK.25 pistol grip for P226",
+    "pageId": 12725,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/Axelson_grips_icon.png?version=3b64a458eb6f62aaf389d49a04cb665d",
+    "filePath": "axelson_tacical_mk_25_pistol_grip_for_p226",
+    "marketSearchName": "Axelson Tacical MK.25 pistol grip for P226",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3120,
+      7000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212620",
+    "price_per_slot": 5060,
+    "price_avg": 5060
+  },
+  {
+    "name": "PM-Laser TT-206 side grips with LAM",
+    "category": "pistol_grips",
+    "image": "Tt-206 grips icon.png",
+    "title": "PM-Laser TT-206 side grips with LAM",
+    "pageId": 12718,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/Tt-206_grips_icon.png",
+    "filePath": "pm_laser_tt_206_side_grips_with_lam",
+    "marketSearchName": "PM-Laser TT-206 side grips with LAM",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3630
+    ],
+    "slots": 1,
+    "timestamp": "20191207212624",
+    "price_per_slot": 3630,
+    "price_avg": 3630
+  },
+  {
+    "name": "Fab Defence AGR-870 pistol grip for Remington-870",
+    "category": "pistol_grips",
+    "image": "Agr870pistolgripicon.png",
+    "title": "Fab Defence AGR-870 pistol grip for Remington-870",
+    "pageId": 12706,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Agr870pistolgripicon.png?version=0e75f04fe75f4bd3489422f8572b05f9",
+    "filePath": "fab_defence_agr_870_pistol_grip_for_remington_870",
+    "marketSearchName": "Fab Defence AGR-870 pistol grip for Remington-870",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2817,
+      6450,
+      6500,
+      6999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212628",
+    "price_per_slot": 5255,
+    "price_avg": 5255
+  },
+  {
+    "name": "Izhmash AK-12 regular pistol grip",
+    "category": "pistol_grips",
+    "image": "Izhmash AK-12 regular pistol grip icon.png",
+    "title": "Izhmash AK-12 regular pistol grip",
+    "pageId": 12526,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Izhmash_AK-12_regular_pistol_grip_icon.png",
+    "filePath": "izhmash_ak_12_regular_pistol_grip",
+    "marketSearchName": "Izhmash AK-12 regular pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1560,
+      5487,
+      5600,
+      6500,
+      6660,
+      6666,
+      8888,
+      8950,
+      8999,
+      9989,
+      9990,
+      15900
+    ],
+    "slots": 1,
+    "timestamp": "20191207212632",
+    "price_per_slot": 4215,
+    "price_avg": 4215
+  },
+  {
+    "name": "Tacfire pistol grip for Mosin rifle",
+    "category": "pistol_grips",
+    "image": "MosinTacfireGripIcon.png",
+    "title": "Tacfire pistol grip for Mosin rifle",
+    "pageId": 11951,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/MosinTacfireGripIcon.png?version=3b0bc199c2663fe490c10c0d728905d7",
+    "filePath": "tacfire_pistol_grip_for_mosin_rifle",
+    "marketSearchName": "Tacfire pistol grip for Mosin rifle",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4500,
+      7777,
+      8000,
+      8780,
+      8888,
+      19885,
+      22222
+    ],
+    "slots": 1,
+    "timestamp": "20191207212635",
+    "price_per_slot": 6759,
+    "price_avg": 6759
+  },
+  {
+    "name": "HK \"Battle Grip\" pistol grip for AR-15 based systems",
+    "category": "pistol_grips",
+    "image": "HK Battle Grip icon.png",
+    "title": "HK \"Battle Grip\" pistol grip for AR-15 based systems",
+    "pageId": 11952,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e2/HK_Battle_Grip_icon.png?version=4a3700079d08ce9818596347b471636a",
+    "filePath": "hk__battle_grip__pistol_grip_for_ar_15_based_systems",
+    "marketSearchName": "HK \"Battle Grip\" pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212639",
+    "price_per_slot": 2000,
+    "price_avg": 2000
+  },
+  {
+    "name": "HK Battle Grip with Beavertail pistol grip for AR-15 based systems",
+    "category": "pistol_grips",
+    "image": "Beavertailpistolgripicon.png",
+    "title": "HK Battle Grip with Beavertail pistol grip for AR-15 based systems",
+    "pageId": 11953,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/35/Beavertailpistolgripicon.png?version=d676506e049492ba9cfc479b45661698",
+    "filePath": "hk_battle_grip_with_beavertail_pistol_grip_for_ar_15_based_systems",
+    "marketSearchName": "HK Battle Grip with Beavertail pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2400
+    ],
+    "slots": 1,
+    "timestamp": "20191207212644",
+    "price_per_slot": 2400,
+    "price_avg": 2400
+  },
+  {
+    "name": "Fab AG FAL pistol grip for SA-58",
+    "category": "pistol_grips",
+    "image": "AG FAL Icon.png",
+    "title": "Fab AG FAL pistol grip for SA-58",
+    "pageId": 11498,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4c/AG_FAL_Icon.png?version=47e5bbaa8ce976ab1bad3818b3798fd8",
+    "filePath": "fab_ag_fal_pistol_grip_for_sa_58",
+    "marketSearchName": "Fab AG FAL pistol grip for SA-58",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4551,
+      4599,
+      4709,
+      4710,
+      4776,
+      5477,
+      14999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212648",
+    "price_per_slot": 4619,
+    "price_avg": 4619
+  },
+  {
+    "name": "Regular \"DS Arms\" pistol grip for SA-58",
+    "category": "pistol_grips",
+    "image": "SA58_Regular_Icon.png",
+    "title": "DS Arms SA-58 7.62x51",
+    "pageId": 10694,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/SA58_Regular_Icon.png?version=1b7a29c33d83af9b678eac52a374ffe7",
+    "filePath": "regular__ds_arms__pistol_grip_for_sa_58",
+    "marketSearchName": "Regular \"DS Arms\" pistol grip for SA-58",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1144,
+      1430
+    ],
+    "slots": 10,
+    "timestamp": "20191207212652",
+    "price_per_slot": 128,
+    "price_avg": 1287
+  },
+  {
+    "name": "TAPCO SAW-Style black pistol grip for SA-58",
+    "category": "pistol_grips",
+    "image": "SA58_SAW_Icon.png",
+    "title": "TAPCO SAW-Style black pistol grip for SA-58",
+    "pageId": 11053,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c6/SA58_SAW_Icon.png?version=cd9e86a6798f460c242938d1b758632a",
+    "filePath": "tapco_saw_style_black_pistol_grip_for_sa_58",
+    "marketSearchName": "TAPCO SAW-Style black pistol grip for SA-58",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3336,
+      5997,
+      5998
+    ],
+    "slots": 1,
+    "timestamp": "20191207212656",
+    "price_per_slot": 5110,
+    "price_avg": 5110
+  },
+  {
+    "name": "Rubber with finger grooves pistol grip for P226",
+    "category": "pistol_grips",
+    "image": "Hogue_226_Icon.png",
+    "title": "Rubber with finger grooves pistol grip for P226",
+    "pageId": 11054,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f3/Hogue_226_Icon.png?version=1da88d23500f18c60c416891794f873e",
+    "filePath": "rubber_with_finger_grooves_pistol_grip_for_p226",
+    "marketSearchName": "Rubber with finger grooves pistol grip for P226",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3224,
+      6450,
+      6500
+    ],
+    "slots": 1,
+    "timestamp": "20191207212700",
+    "price_per_slot": 5391,
+    "price_avg": 5391
+  },
+  {
+    "name": "Magpul MOE pistol grip for AK",
+    "category": "pistol_grips",
+    "image": "AKMOE Icon.png",
+    "title": "Magpul MOE pistol grip for AK",
+    "pageId": 11045,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/AKMOE_Icon.png?version=8fb16770c977587a38f382e1daa2b170",
+    "filePath": "magpul_moe_pistol_grip_for_ak",
+    "marketSearchName": "Magpul MOE pistol grip for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7651,
+      11000,
+      13994,
+      13995,
+      13999,
+      14000,
+      15000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212703",
+    "price_per_slot": 10881,
+    "price_avg": 10881
+  },
+  {
+    "name": "M14ALCS(MOD. 0) pistol grip for M14",
+    "category": "pistol_grips",
+    "image": "M14ALCSpistolgripicon.png",
+    "title": "M14ALCS(MOD. 0) pistol grip for M14",
+    "pageId": 10246,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/10/M14ALCSpistolgripicon.png?version=26eaf126035184e4ddf72af4dca5955d",
+    "filePath": "m14alcs_mod__0__pistol_grip_for_m14",
+    "marketSearchName": "M14ALCS(MOD. 0) pistol grip for M14",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2718,
+      4999,
+      5000,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212707",
+    "price_per_slot": 4239,
+    "price_avg": 4239
+  },
+  {
+    "name": "PP-19-01 Izhmash pistol grip",
+    "category": "pistol_grips",
+    "image": "Pp19grip.png",
+    "title": "PP-19-01 Izhmash pistol grip",
+    "pageId": 7031,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/Pp19grip.png?version=df0e43d570bfd914442ba723b8dffb88",
+    "filePath": "pp_19_01_izhmash_pistol_grip",
+    "marketSearchName": "PP-19-01 Izhmash pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      935,
+      2345,
+      2369
+    ],
+    "slots": 1,
+    "timestamp": "20191207212711",
+    "price_per_slot": 1883,
+    "price_avg": 1883
+  },
+  {
+    "name": "TOZ 002 pistol grip for TOZ-106",
+    "category": "pistol_grips",
+    "image": "Tozgrip.png",
+    "title": "TOZ 002 pistol grip for TOZ-106",
+    "pageId": 8433,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a2/Tozgrip.png?version=4e8463ada218e71658e21b1fbc26bd51",
+    "filePath": "toz_002_pistol_grip_for_toz_106",
+    "marketSearchName": "TOZ 002 pistol grip for TOZ-106",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1500
+    ],
+    "slots": 1,
+    "timestamp": "20191207212715",
+    "price_per_slot": 1500,
+    "price_avg": 1500
+  },
+  {
+    "name": "Polymer Izhmekh pistol grip for MP-443",
+    "category": "pistol_grips",
+    "image": "Mp443grip.png",
+    "title": "Polymer Izhmekh pistol grip for MP-443",
+    "pageId": 3390,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/Mp443grip.png?version=46a872335b882884952d93d872449da0",
+    "filePath": "polymer_izhmekh_pistol_grip_for_mp_443",
+    "marketSearchName": "Polymer Izhmekh pistol grip for MP-443",
+    "marketPositionOffset": 0,
+    "price_array": [],
+    "slots": 1,
+    "timestamp": "20191207212719",
+    "price_per_slot": 730,
+    "price_avg": 730
+  },
+  {
+    "name": "Sig Sauer pistol grip for P226",
+    "category": "pistol_grips",
+    "image": "226Grip_Icon.gif",
+    "title": "Sig Sauer pistol grip for P226",
+    "pageId": 3026,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/226Grip_Icon.gif?version=233d87d184ae84ebcf3fa0b80ae0d0c9",
+    "filePath": "sig_sauer_pistol_grip_for_p226",
+    "marketSearchName": "Sig Sauer pistol grip for P226",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2548,
+      7500,
+      8500,
+      9000,
+      10000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212722",
+    "price_per_slot": 6182,
+    "price_avg": 6182
+  },
+  {
+    "name": "Fancy TT side grips",
+    "category": "pistol_grips",
+    "image": "TTGrip_Fancy_Icon.png",
+    "title": "Fancy TT side grips",
+    "pageId": 11014,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/TTGrip_Fancy_Icon.png?version=bd29dda4fa884d5d7dffc6b7608f6f97",
+    "filePath": "fancy_tt_side_grips",
+    "marketSearchName": "Fancy TT side grips",
+    "marketPositionOffset": 0,
+    "price_array": [
+      25000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212726",
+    "price_per_slot": 25000,
+    "price_avg": 25000
+  },
+  {
+    "name": "Standard TT side grips",
+    "category": "pistol_grips",
+    "image": "Ttgrips.png",
+    "title": "Standard TT side grips",
+    "pageId": 3388,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/Ttgrips.png?version=c22b0603b9c6b8ff66b492f2b41f3ea5",
+    "filePath": "standard_tt_side_grips",
+    "marketSearchName": "Standard TT side grips",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2900,
+      3100,
+      3200
+    ],
+    "slots": 1,
+    "timestamp": "20191207212730",
+    "price_per_slot": 3066,
+    "price_avg": 3066
+  },
+  {
+    "name": "Izhmash AK bakelite pistol grip (6P4 Sb.8V)",
+    "category": "pistol_grips",
+    "image": "6p4sb.8v.png",
+    "title": "Izhmash AK bakelite pistol grip (6P4 Sb.8V)",
+    "pageId": 3379,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/6p4sb.8v.png",
+    "filePath": "izhmash_ak_bakelite_pistol_grip__6p4_sb_8v_",
+    "marketSearchName": "Izhmash AK bakelite pistol grip (6P4 Sb.8V)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      795,
+      994
+    ],
+    "slots": 1,
+    "timestamp": "20191207212734",
+    "price_per_slot": 894,
+    "price_avg": 894
+  },
+  {
+    "name": "Izhmash AK polymer pistol grip (6P1 Sb.8)",
+    "category": "pistol_grips",
+    "image": "6p1sb.8.png",
+    "title": "Izhmash AK polymer pistol grip (6P1 Sb.8)",
+    "pageId": 3381,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d3/6p1sb.8.png",
+    "filePath": "izhmash_ak_polymer_pistol_grip__6p1_sb_8_",
+    "marketSearchName": "Izhmash AK polymer pistol grip (6P1 Sb.8)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      821,
+      3250,
+      3500,
+      4000,
+      4889,
+      5000,
+      6000,
+      14999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212737",
+    "price_per_slot": 2523,
+    "price_avg": 2523
+  },
+  {
+    "name": "Izhmash AKM bakelite pistol grip",
+    "category": "pistol_grips",
+    "image": "Akmbak..png",
+    "title": "Izhmash AKM bakelite pistol grip",
+    "pageId": 7553,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3d/Akmbak..png",
+    "filePath": "izhmash_akm_bakelite_pistol_grip",
+    "marketSearchName": "Izhmash AKM bakelite pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7000,
+      9996,
+      34000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212741",
+    "price_per_slot": 16998,
+    "price_avg": 16998
+  },
+  {
+    "name": "Wooden Izhmash AKM pistol grip for AK",
+    "category": "pistol_grips",
+    "image": "Akmwood.png",
+    "title": "Wooden Izhmash AKM pistol grip for AK",
+    "pageId": 7079,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/Akmwood.png?version=541a954660b01d60f4c92b7416e902e4",
+    "filePath": "wooden_izhmash_akm_pistol_grip_for_ak",
+    "marketSearchName": "Wooden Izhmash AKM pistol grip for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      0
+    ],
+    "slots": 1,
+    "timestamp": "20191207212745",
+    "price_per_slot": 0,
+    "price_avg": 0
+  },
+  {
+    "name": "Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)",
+    "category": "pistol_grips",
+    "image": "6p4sb9..png",
+    "title": "Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)",
+    "pageId": 3403,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/6p4sb9..png",
+    "filePath": "izhmash_ak_74_textolite_pistol_grip__6p4_sb_9_",
+    "marketSearchName": "Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      500,
+      769,
+      6998,
+      6999,
+      7999,
+      8000,
+      8000,
+      8000,
+      9000,
+      9990,
+      10000,
+      11999,
+      12000,
+      12000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212749",
+    "price_per_slot": 2755,
+    "price_avg": 2755
+  },
+  {
+    "name": "Molot AK bakelite pistol grip",
+    "category": "pistol_grips",
+    "image": "Molotbak..png",
+    "title": "Molot AK bakelite pistol grip",
+    "pageId": 7150,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/Molotbak..png",
+    "filePath": "molot_ak_bakelite_pistol_grip",
+    "marketSearchName": "Molot AK bakelite pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      830,
+      999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212753",
+    "price_per_slot": 914,
+    "price_avg": 914
+  },
+  {
+    "name": "TAPCO SAW-Style pistol grip for AK",
+    "category": "pistol_grips",
+    "image": "AK_SAW_Icon.gif",
+    "title": "TAPCO SAW-Style pistol grip for AK",
+    "pageId": 7221,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/AK_SAW_Icon.gif?version=e10949f104d356764d8b2d2eb1e5369c",
+    "filePath": "tapco_saw_style_pistol_grip_for_ak",
+    "marketSearchName": "TAPCO SAW-Style black pistol grip for ak",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5900,
+      5900,
+      6000,
+      6000,
+      6000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212757",
+    "price_per_slot": 5933,
+    "price_avg": 5933
+  },
+  {
+    "name": "Zenit RK-3 AK pistol grip",
+    "category": "pistol_grips",
+    "image": "Rk-3.png",
+    "title": "Zenit RK-3 AK pistol grip",
+    "pageId": 3000,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/Rk-3.png",
+    "filePath": "zenit_rk_3_ak_pistol_grip",
+    "marketSearchName": "Zenit RK-3 AK pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8770,
+      9149,
+      9152,
+      9153,
+      9154,
+      9155,
+      9195,
+      9200,
+      9300,
+      9350,
+      9359,
+      9360,
+      9400,
+      17500
+    ],
+    "slots": 1,
+    "timestamp": "20191207212801",
+    "price_per_slot": 9023,
+    "price_avg": 9023
+  },
+  {
+    "name": "Colt A2 AR-15 pistol grip",
+    "category": "pistol_grips",
+    "image": "A2m4standard.png",
+    "title": "Colt A2 AR-15 pistol grip",
+    "pageId": 3377,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7e/A2m4standard.png?version=0f51eedab6578fedb551585714e8bacd",
+    "filePath": "colt_a2_ar_15_pistol_grip",
+    "marketSearchName": "Colt A2 AR-15 pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4700,
+      5000,
+      5498,
+      5499,
+      5500,
+      7250,
+      7700
+    ],
+    "slots": 1,
+    "timestamp": "20191207212804",
+    "price_per_slot": 5066,
+    "price_avg": 5066
+  },
+  {
+    "name": "DI ECS FDE pistol grip for AR-15 based systems",
+    "category": "pistol_grips",
+    "image": "Ecsfde.png",
+    "title": "DI ECS FDE pistol grip for AR-15 based systems",
+    "pageId": 3386,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/21/Ecsfde.png?version=1c1fbb920759e99d96c5b291018de9ca",
+    "filePath": "di_ecs_fde_pistol_grip_for_ar_15_based_systems",
+    "marketSearchName": "DI ECS FDE pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1511,
+      2999,
+      3000,
+      5997,
+      8500
+    ],
+    "slots": 1,
+    "timestamp": "20191207212808",
+    "price_per_slot": 2503,
+    "price_avg": 2503
+  },
+  {
+    "name": "Hera Arms CQR pistol grip-stock",
+    "category": "pistol_grips",
+    "image": "Hacqr.png",
+    "title": "Hera Arms CQR pistol grip-stock",
+    "pageId": 8405,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Hacqr.png?version=524c823e2855dc88ce664981713386cc",
+    "filePath": "hera_arms_cqr_pistol_grip_stock",
+    "marketSearchName": "Hera Arms CQR pistol grip-stock",
+    "marketPositionOffset": 0,
+    "price_array": [
+      34000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212812",
+    "price_per_slot": 34000,
+    "price_avg": 34000
+  },
+  {
+    "name": "Hogue OverMolded Rubber Grip",
+    "category": "pistol_grips",
+    "image": "OMRG_Icon.gif",
+    "title": "Hogue OverMolded Rubber Grip",
+    "pageId": 6800,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4c/OMRG_Icon.gif?version=c263e29f3f8930c35d86110b417b734d",
+    "filePath": "hogue_overmolded_rubber_grip",
+    "marketSearchName": "Hogue OverMolded Rubber Grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212816",
+    "price_per_slot": 5000,
+    "price_avg": 5000
+  },
+  {
+    "name": "MIAD Pistol grip for AR-15 based systems",
+    "category": "pistol_grips",
+    "image": "Miad.png",
+    "title": "MIAD Pistol grip for AR-15 based systems",
+    "pageId": 8406,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e7/Miad.png?version=ceccd35233c5e1deb068dc44cb51d44d",
+    "filePath": "miad_pistol_grip_for_ar_15_based_systems",
+    "marketSearchName": "MIAD Pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212820",
+    "price_per_slot": 4999,
+    "price_avg": 4999
+  },
+  {
+    "name": "Magpul MOE AR-15 pistol grip",
+    "category": "pistol_grips",
+    "image": "Magpul MOE AR-15 pistol grip Icon.png",
+    "title": "Magpul MOE AR-15 pistol grip",
+    "pageId": 3374,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dd/Magpul_MOE_AR-15_pistol_grip_Icon.png",
+    "filePath": "magpul_moe_ar_15_pistol_grip",
+    "marketSearchName": "Magpul MOE AR-15 pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      22000,
+      24444,
+      28000,
+      28500,
+      29900,
+      29999,
+      29999,
+      35000,
+      50000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212823",
+    "price_per_slot": 24814,
+    "price_avg": 24814
+  },
+  {
+    "name": "Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons",
+    "category": "pistol_grips",
+    "image": "Grals.png",
+    "title": "Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons",
+    "pageId": 7257,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/ff/Grals.png?version=c0eee5344ef6f0c26496d7d3448e9fcf",
+    "filePath": "naroh_arms_gral_s_pistol_grip_for_ar_15_compatible_weapons",
+    "marketSearchName": "Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14799,
+      14800,
+      19900,
+      19999,
+      20000,
+      28000,
+      28900,
+      29999,
+      30000,
+      34000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212828",
+    "price_per_slot": 16499,
+    "price_avg": 16499
+  },
+  {
+    "name": "Stark AR Rifle Grip for AR-15-compatible weapons",
+    "category": "pistol_grips",
+    "image": "STARK_AR_Icon.gif",
+    "title": "Stark AR Rifle Grip for AR-15-compatible weapons",
+    "pageId": 7220,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/STARK_AR_Icon.gif?version=fc1981f847ead3867f214c8851fae5c9",
+    "filePath": "stark_ar_rifle_grip_for_ar_15_compatible_weapons",
+    "marketSearchName": "Stark AR Rifle Grip (black) for ar-15",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5500,
+      5667,
+      6000,
+      6666,
+      7555,
+      7600,
+      13000,
+      20000,
+      50000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212832",
+    "price_per_slot": 5722,
+    "price_avg": 5722
+  },
+  {
+    "name": "Pistol grip SIG MPX",
+    "category": "pistol_grips",
+    "image": "Mpxgrip.png",
+    "title": "Pistol grip SIG MPX",
+    "pageId": 3405,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/Mpxgrip.png?version=ed17ed1ca59111157ef8f4aacf7fdff0",
+    "filePath": "pistol_grip_sig_mpx",
+    "marketSearchName": "Pistol grip SIG MPX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4257,
+      7000,
+      7983,
+      7999,
+      9000,
+      9999
+    ],
+    "slots": 1,
+    "timestamp": "20191207212835",
+    "price_per_slot": 6413,
+    "price_avg": 6413
+  },
+  {
+    "name": "ZMZ Polymer pistol grip for PP-91",
+    "category": "pistol_grips",
+    "image": "Kedrgrip.png",
+    "title": "ZMZ Polymer pistol grip for PP-91",
+    "pageId": 3402,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/13/Kedrgrip.png?version=4286d5f2695d9d267a7691fee6eb5251",
+    "filePath": "zmz_polymer_pistol_grip_for_pp_91",
+    "marketSearchName": "ZMZ Polymer pistol grip for PP-91",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14000,
+      14999,
+      18000,
+      18000,
+      18000,
+      20000,
+      20000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212839",
+    "price_per_slot": 15666,
+    "price_avg": 15666
+  },
+  {
+    "name": "AS VAL Pistol grip",
+    "category": "pistol_grips",
+    "image": "Valgrip.png",
+    "title": "AS VAL Pistol grip",
+    "pageId": 3029,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/Valgrip.png?version=81b1bbf16556aab1061a8a3a3995a5b1",
+    "filePath": "as_val_pistol_grip",
+    "marketSearchName": "AS VAL Pistol grip",
+    "marketPositionOffset": 1,
+    "price_array": [
+      1553
+    ],
+    "slots": 1,
+    "timestamp": "20191207212843",
+    "price_per_slot": 1553,
+    "price_avg": 1553
+  },
+  {
+    "name": "Pachmayr tactical rubber grip",
+    "category": "pistol_grips",
+    "image": "Pachrg.png",
+    "title": "Pachmayr tactical rubber grip",
+    "pageId": 8446,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/Pachrg.png?version=67fc16b730d1b8567abc934a80c20d60",
+    "filePath": "pachmayr_tactical_rubber_grip",
+    "marketSearchName": "Pachmayr tactical rubber grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2100
+    ],
+    "slots": 1,
+    "timestamp": "20191207212850",
+    "price_per_slot": 2100,
+    "price_avg": 2100
+  },
+  {
+    "name": "Skeletonized AR-15 pistol grip",
+    "category": "pistol_grips",
+    "image": "Skeletonized AR-15 pistol grip Icon.png",
+    "title": "Skeletonized AR-15 pistol grip",
+    "pageId": 10902,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/Skeletonized_AR-15_pistol_grip_Icon.png",
+    "filePath": "skeletonized_ar_15_pistol_grip",
+    "marketSearchName": "Skeletonized AR-15 pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      11900,
+      11900,
+      12000,
+      12344,
+      12345,
+      12349,
+      12380,
+      12400,
+      14380,
+      14390,
+      15999,
+      16000,
+      16799
+    ],
+    "slots": 1,
+    "timestamp": "20191207212854",
+    "price_per_slot": 11933,
+    "price_avg": 11933
+  },
+  {
+    "name": "AS VAL Pistol grip-buffer tube",
+    "category": "pistol_grips",
+    "image": "Valgripstock.png",
+    "title": "AS VAL Pistol grip-buffer tube",
+    "pageId": 8422,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Valgripstock.png?version=57dc28ca2d6acd4e90d2881ea9cf1e32",
+    "filePath": "as_val_pistol_grip_buffer_tube",
+    "marketSearchName": "AS VAL Pistol grip-buffer tube",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8505,
+      9575,
+      9599,
+      9600,
+      9999,
+      10000,
+      10200,
+      13391,
+      28999,
+      46666
+    ],
+    "slots": 2,
+    "timestamp": "20191207212858",
+    "price_per_slot": 4613,
+    "price_avg": 9226
+  },
+  {
+    "name": "TAPCO SAW-Style pistol grip for SKS INTRAFUSE Kit",
+    "category": "pistol_grips",
+    "image": "SAW_SKS_Icon.png",
+    "title": "TAPCO SAW-Style pistol grip for SKS INTRAFUSE Kit",
+    "pageId": 10991,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/SAW_SKS_Icon.png?version=2e75b83b4c0bc49142db5062e152c22f",
+    "filePath": "tapco_saw_style_pistol_grip_for_sks_intrafuse_kit",
+    "marketSearchName": "TAPCO SAW-Style pistol grip for SKS INTRAFUSE Kit",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2810,
+      3880,
+      4000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212902",
+    "price_per_slot": 3563,
+    "price_avg": 3563
+  },
+  {
+    "name": "Hera Arms HG-15 pistol grip for AR-15 based systems",
+    "category": "pistol_grips",
+    "image": "wiki.png",
+    "title": "Hera Arms HG-15 pistol grip for AR-15 based systems",
+    "pageId": 15433,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "hera_arms_hg_15_pistol_grip_for_ar_15_based_systems",
+    "marketSearchName": "Hera Arms HG-15 pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9046
+    ],
+    "slots": 1,
+    "timestamp": "20191207212906",
+    "price_per_slot": 9046,
+    "price_avg": 9046
+  },
+  {
+    "name": "Magpul Pistol Grip for Pro 700 Kit",
+    "category": "pistol_grips",
+    "image": "Pro700Grip_icon.png",
+    "title": "Magpul Pistol Grip for Pro 700 Kit",
+    "pageId": 15445,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Pro700Grip_icon.png?version=425045131250167e69dc293cff7230a1",
+    "filePath": "magpul_pistol_grip_for_pro_700_kit",
+    "marketSearchName": "Magpul Pistol Grip for Pro 700 Kit",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1944,
+      5000,
+      5250,
+      5400,
+      5500,
+      5995,
+      5996,
+      6000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212910",
+    "price_per_slot": 4064,
+    "price_avg": 4064
+  },
+  {
+    "name": "SI Enhanced pistol grip for AK",
+    "category": "pistol_grips",
+    "image": "SI EPG AK FD Icon.png",
+    "title": "SI Enhanced pistol grip for AK",
+    "pageId": 15456,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/SI_EPG_AK_FD_Icon.png?version=c5b848a74d555d941bb7091062ac971c",
+    "filePath": "si_enhanced_pistol_grip_for_ak",
+    "marketSearchName": "SI Enhanced pistol grip for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4056,
+      6584,
+      6600,
+      6667
+    ],
+    "slots": 1,
+    "timestamp": "20191207212914",
+    "price_per_slot": 5746,
+    "price_avg": 5746
+  },
+  {
+    "name": "KGB MG-47 pistol grip for AK",
+    "category": "pistol_grips",
+    "image": "MG-47 Icon.PNG",
+    "title": "KGB MG-47 pistol grip for AK",
+    "pageId": 15459,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ac/MG-47_Icon.PNG",
+    "filePath": "kgb_mg_47_pistol_grip_for_ak",
+    "marketSearchName": "KGB MG-47 pistol grip for AK",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14980,
+      16000,
+      17000,
+      17999,
+      20000,
+      20000,
+      29000,
+      30000
+    ],
+    "slots": 1,
+    "timestamp": "20191207212917",
+    "price_per_slot": 15993,
+    "price_avg": 15993
+  },
+  {
+    "name": "Fab Defence AG-58 pistol grip for VZ-58",
+    "category": "pistol_grips",
+    "image": "wiki.png",
+    "title": "Fab Defence AG-58 pistol grip for VZ-58",
+    "pageId": 15482,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "fab_defence_ag_58_pistol_grip_for_vz_58",
+    "marketSearchName": "Fab Defence AG-58 pistol grip for VZ-58",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6865,
+      8107,
+      8108
+    ],
+    "slots": 1,
+    "timestamp": "20191207212921",
+    "price_per_slot": 7693,
+    "price_avg": 7693
+  },
+  {
+    "name": "HK Ergo PSG-1 style pistol grip for AR-15 based systems",
+    "category": "pistol_grips",
+    "image": "ErgoPSG-1icon.png",
+    "title": "HK Ergo PSG-1 style pistol grip for AR-15 based systems",
+    "pageId": 15484,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/ErgoPSG-1icon.png",
+    "filePath": "hk_ergo_psg_1_style_pistol_grip_for_ar_15_based_systems",
+    "marketSearchName": "HK Ergo PSG-1 style pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0,
+    "price_array": [
+      27489,
+      27490,
+      27495,
+      27499,
+      28800,
+      31195
+    ],
+    "slots": 1,
+    "timestamp": "20191207212925",
+    "price_per_slot": 27491,
+    "price_avg": 27491
   }
 ]

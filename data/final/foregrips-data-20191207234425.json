@@ -1,0 +1,586 @@
+[
+  {
+    "name": "KAC Vertical pistol grip",
+    "category": "foregrips",
+    "image": "KACVPGIcon.png",
+    "title": "KAC Vertical pistol grip",
+    "pageId": 13908,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/KACVPGIcon.png?version=54e697730ec212b661e18f3e1ebb924e",
+    "filePath": "kac_vertical_pistol_grip",
+    "marketSearchName": "KAC Vertical pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4399,
+      4400,
+      4598,
+      4599,
+      4800,
+      4800,
+      4880,
+      4888
+    ],
+    "slots": 1,
+    "timestamp": "20191207210333",
+    "price_per_slot": 4465,
+    "price_avg": 4465
+  },
+  {
+    "name": "BCM MOD.3 Tactical grip",
+    "category": "foregrips",
+    "image": "BCMMOD3GripIcon.png",
+    "title": "BCM MOD.3 Tactical grip",
+    "pageId": 13901,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/BCMMOD3GripIcon.png?version=6002162ab47328c53984c95696d23e4b",
+    "filePath": "bcm_mod_3_tactical_grip",
+    "marketSearchName": "BCM MOD.3 Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5096
+    ],
+    "slots": 1,
+    "timestamp": "20191207210336",
+    "price_per_slot": 5096,
+    "price_avg": 5096
+  },
+  {
+    "name": "SI \"Cobra tactical\" tactical grip",
+    "category": "foregrips",
+    "image": "Cobra Grip Icon.png",
+    "title": "SI \"Cobra tactical\" tactical grip",
+    "pageId": 13888,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/Cobra_Grip_Icon.png?version=c4810e704b2ea9955ce54e782267d222",
+    "filePath": "si__cobra_tactical__tactical_grip",
+    "marketSearchName": "SI \"Cobra tactical\" tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10452,
+      11980,
+      12049,
+      12100,
+      12150,
+      12152,
+      13300
+    ],
+    "slots": 1,
+    "timestamp": "20191207210340",
+    "price_per_slot": 11493,
+    "price_avg": 11493
+  },
+  {
+    "name": "Magpul M-LOK AFG Tactical grip",
+    "category": "foregrips",
+    "image": "AFG_MLOK_Icon.gif",
+    "title": "Magpul M-LOK AFG Tactical grip",
+    "pageId": 3232,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/AFG_MLOK_Icon.gif?version=f9a01759266bcec12a54cfd6f5da8393",
+    "filePath": "magpul_m_lok_afg_tactical_grip",
+    "marketSearchName": "Magpul M-LOK AFG Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7607,
+      7998,
+      7999,
+      8000,
+      8420,
+      8445,
+      8450,
+      8450,
+      8450,
+      9999
+    ],
+    "slots": 1,
+    "timestamp": "20191207210343",
+    "price_per_slot": 7868,
+    "price_avg": 7868
+  },
+  {
+    "name": "Hera Arms CQR tactical grip",
+    "category": "foregrips",
+    "image": "Heraarmsgripicon.png",
+    "title": "Hera Arms CQR tactical grip",
+    "pageId": 8264,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/Heraarmsgripicon.png?version=9dbeffbd8794a8849fda259be4756d44",
+    "filePath": "hera_arms_cqr_tactical_grip",
+    "marketSearchName": "Hera Arms CQR tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      19999,
+      19999
+    ],
+    "slots": 1,
+    "timestamp": "20191207210347",
+    "price_per_slot": 19999,
+    "price_avg": 19999
+  },
+  {
+    "name": "Fortis Shift tactical grip",
+    "category": "foregrips",
+    "image": "Fortisshifticon.png",
+    "title": "Fortis Shift tactical grip",
+    "pageId": 7264,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Fortisshifticon.png?version=d42717616a09feac55a14b82a34e1c3c",
+    "filePath": "fortis_shift_tactical_grip",
+    "marketSearchName": "Fortis Shift tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14985,
+      14986,
+      14987
+    ],
+    "slots": 1,
+    "timestamp": "20191207210354",
+    "price_per_slot": 14986,
+    "price_avg": 14986
+  },
+  {
+    "name": "Magpul AFG grip",
+    "category": "foregrips",
+    "image": "AFG_Grip_Icon.gif",
+    "title": "Magpul AFG grip",
+    "pageId": 3236,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8c/AFG_Grip_Icon.gif?version=ed5ce8e7a9e626eba237cf93cc1a92d5",
+    "filePath": "magpul_afg_grip",
+    "marketSearchName": "Magpul AFG grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7990,
+      7999,
+      8200,
+      8444,
+      8490,
+      8500,
+      8998,
+      8999,
+      9000,
+      9000,
+      9000,
+      9800,
+      15000,
+      15000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210358",
+    "price_per_slot": 8063,
+    "price_avg": 8063
+  },
+  {
+    "name": "Magpul RVG grip black",
+    "category": "foregrips",
+    "image": "Rvggripicon.png",
+    "title": "Magpul RVG grip black",
+    "pageId": 7016,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/Rvggripicon.png?version=68aceb988a320c28a5679eef6718c794",
+    "filePath": "magpul_rvg_grip_black",
+    "marketSearchName": "Magpul RVG grip black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8590,
+      8795,
+      8999,
+      9500,
+      9800,
+      11900,
+      62000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210401",
+    "price_per_slot": 8794,
+    "price_avg": 8794
+  },
+  {
+    "name": "SE-5 Express Grip",
+    "category": "foregrips",
+    "image": "SE-5 Express Grip Icon.png",
+    "title": "SE-5 Express Grip",
+    "pageId": 11022,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/SE-5_Express_Grip_Icon.png",
+    "filePath": "se_5_express_grip",
+    "marketSearchName": "SE-5 Express Grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15000,
+      15865,
+      15866,
+      15868,
+      15868,
+      15913,
+      15916,
+      15998,
+      16000,
+      16750
+    ],
+    "slots": 1,
+    "timestamp": "20191207210404",
+    "price_per_slot": 15577,
+    "price_avg": 15577
+  },
+  {
+    "name": "Tango Down Stubby BGV-MK46K tactical grip",
+    "category": "foregrips",
+    "image": "BGV_MK46_Icon.gif",
+    "title": "Tango Down Stubby BGV-MK46K tactical grip",
+    "pageId": 3231,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/BGV_MK46_Icon.gif?version=5259035ad8bb88de56d9a6ba133d79fc",
+    "filePath": "tango_down_stubby_bgv_mk46k_tactical_grip",
+    "marketSearchName": "Tango Down Stubby BGV-MK46K tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4999,
+      5250,
+      5250,
+      7000,
+      10000,
+      12770,
+      12888,
+      13600,
+      21999,
+      50250
+    ],
+    "slots": 1,
+    "timestamp": "20191207210408",
+    "price_per_slot": 5166,
+    "price_avg": 5166
+  },
+  {
+    "name": "Viking Tactical UVG Tactical grip",
+    "category": "foregrips",
+    "image": "Vikinggripicon.png",
+    "title": "Viking Tactical UVG Tactical grip",
+    "pageId": 7162,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5e/Vikinggripicon.png?version=19f15abc1ffc0e35d2cd5b66f1181ba3",
+    "filePath": "viking_tactical_uvg_tactical_grip",
+    "marketSearchName": "Viking Tactical UVG Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4000,
+      4500,
+      4999,
+      5999,
+      5999,
+      6000,
+      6000,
+      7000,
+      7000,
+      7000,
+      7000,
+      7051,
+      7500,
+      7998
+    ],
+    "slots": 1,
+    "timestamp": "20191207210412",
+    "price_per_slot": 4499,
+    "price_avg": 4499
+  },
+  {
+    "name": "Zenit RK-0 Foregrip",
+    "category": "foregrips",
+    "image": "Zenit RK-0 Foregrip icon.png",
+    "title": "Zenit RK-0 Foregrip",
+    "pageId": 12785,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/Zenit_RK-0_Foregrip_icon.png",
+    "filePath": "zenit_rk_0_foregrip",
+    "marketSearchName": "Zenit RK-0 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6804,
+      7499,
+      7500,
+      7600
+    ],
+    "slots": 1,
+    "timestamp": "20191207210415",
+    "price_per_slot": 7267,
+    "price_avg": 7267
+  },
+  {
+    "name": "Zenit RK-1 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK-1Icon.png",
+    "title": "Zenit RK-1 Foregrip",
+    "pageId": 12671,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/30/ZenitRK-1Icon.png",
+    "filePath": "zenit_rk_1_foregrip",
+    "marketSearchName": "Zenit RK-1 Foregrip",
+    "marketPositionOffset": 1,
+    "price_array": [
+      12671,
+      13400,
+      13486,
+      13488,
+      13489,
+      13490,
+      13500,
+      13589,
+      13671,
+      13788,
+      14444,
+      14500,
+      17000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210418",
+    "price_per_slot": 13185,
+    "price_avg": 13185
+  },
+  {
+    "name": "Zenit RK-1 Foregrip on B-25U mount",
+    "category": "foregrips",
+    "image": "ZenitRK1B-25Uicon.png",
+    "title": "Zenit RK-1 Foregrip on B-25U mount",
+    "pageId": 12788,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/52/ZenitRK1B-25Uicon.png",
+    "filePath": "zenit_rk_1_foregrip_on_b_25u_mount",
+    "marketSearchName": "Zenit RK-1 Foregrip on B-25U mount",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23999,
+      25000,
+      25502,
+      27650,
+      27659,
+      27660,
+      27666,
+      27777,
+      27848,
+      27890,
+      27890,
+      27900,
+      27999,
+      28000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210422",
+    "price_per_slot": 24833,
+    "price_avg": 24833
+  },
+  {
+    "name": "Zenit RK-2 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK2icon.png",
+    "title": "Zenit RK-2 Foregrip",
+    "pageId": 12783,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/15/ZenitRK2icon.png?version=7a7830e7d54ba45a5a762119d0b9db52",
+    "filePath": "zenit_rk_2_foregrip",
+    "marketSearchName": "Zenit RK-2 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18473,
+      20000,
+      22000,
+      22222,
+      22500,
+      22995,
+      23000,
+      23000,
+      23000,
+      23000,
+      23000,
+      23888,
+      24000,
+      26999
+    ],
+    "slots": 1,
+    "timestamp": "20191207210425",
+    "price_per_slot": 20157,
+    "price_avg": 20157
+  },
+  {
+    "name": "Zenit RK-4 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK4icon.png",
+    "title": "Zenit RK-4 Foregrip",
+    "pageId": 12784,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/ZenitRK4icon.png?version=33ada658fcf11cc87a73c1f7efc5513a",
+    "filePath": "zenit_rk_4_foregrip",
+    "marketSearchName": "Zenit RK-4 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6362,
+      7250,
+      7499,
+      7500,
+      7770,
+      7777,
+      9800
+    ],
+    "slots": 1,
+    "timestamp": "20191207210429",
+    "price_per_slot": 7037,
+    "price_avg": 7037
+  },
+  {
+    "name": "Zenit RK-5 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK5icon.png",
+    "title": "Zenit RK-5 Foregrip",
+    "pageId": 12786,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d1/ZenitRK5icon.png?version=689689061744af1437657137ddb001b2",
+    "filePath": "zenit_rk_5_foregrip",
+    "marketSearchName": "Zenit RK-5 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6491,
+      6798,
+      6799,
+      6995,
+      9499,
+      9500,
+      9998
+    ],
+    "slots": 1,
+    "timestamp": "20191207210432",
+    "price_per_slot": 6696,
+    "price_avg": 6696
+  },
+  {
+    "name": "Zenit RK-6 Foregrip",
+    "category": "foregrips",
+    "image": "ZenitRK6icon.png",
+    "title": "Zenit RK-6 Foregrip",
+    "pageId": 12787,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f0/ZenitRK6icon.png?version=929b860ccdd69d29a7ec743d28b589af",
+    "filePath": "zenit_rk_6_foregrip",
+    "marketSearchName": "Zenit RK-6 Foregrip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5984,
+      7498,
+      7500,
+      7555,
+      7695,
+      7750,
+      7777,
+      7779,
+      7780,
+      7790,
+      7800,
+      9911,
+      10999,
+      11000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210436",
+    "price_per_slot": 6994,
+    "price_avg": 6994
+  },
+  {
+    "name": "ASh-12 Vertical pistol grip",
+    "category": "foregrips",
+    "image": "wiki.png",
+    "title": "ASh-12 Vertical pistol grip",
+    "pageId": 15435,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "ash_12_vertical_pistol_grip",
+    "marketSearchName": "ASh-12 Vertical pistol grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2548,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191207210439",
+    "price_per_slot": 3774,
+    "price_avg": 3774
+  },
+  {
+    "name": "RTM Pillau Tactical grip",
+    "category": "foregrips",
+    "image": "wiki.png",
+    "title": "RTM Pillau Tactical grip",
+    "pageId": 15455,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "rtm_pillau_tactical_grip",
+    "marketSearchName": "RTM Pillau Tactical grip",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3780,
+      5550,
+      5780
+    ],
+    "slots": 1,
+    "timestamp": "20191207210443",
+    "price_per_slot": 5036,
+    "price_avg": 5036
+  }
+]
