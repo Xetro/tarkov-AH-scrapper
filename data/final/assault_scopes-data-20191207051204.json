@@ -1,0 +1,255 @@
+[
+  {
+    "name": "ELCAN SpecterDR 1x/4x Scope",
+    "category": "assault_scopes",
+    "image": "SpectreDR_Icon.gif",
+    "title": "ELCAN SpecterDR 1x/4x Scope",
+    "pageId": 3057,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/aa/SpectreDR_Icon.gif?version=315faddcfe8fa010c57e58a9984b0886",
+    "filePath": "elcan_specterdr_1x_4x_scope",
+    "marketSearchName": "ELCAN SpecterDR 1x/4x Scope",
+    "marketPositionOffset": 1,
+    "price_array": [
+      33998,
+      35000,
+      35000,
+      35000,
+      36000,
+      36999,
+      37000,
+      37000,
+      37999,
+      38000,
+      38000,
+      38500,
+      38880,
+      39000
+    ],
+    "slots": 2,
+    "timestamp": "20191207010903",
+    "price_per_slot": 17333,
+    "price_avg": 34666
+  },
+  {
+    "name": "Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope",
+    "category": "assault_scopes",
+    "image": "Hamricon.png",
+    "title": "Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope",
+    "pageId": 3131,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/Hamricon.png?version=9cba1e74382696ebf7e701a1b073ae97",
+    "filePath": "leupold_mark_4_hamr_4x24mm_deltapoint_hybrid_assault_scope",
+    "marketSearchName": "Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      48750,
+      48800,
+      48884,
+      48888,
+      49989,
+      49995,
+      44999,
+      49999,
+      45000,
+      80000
+    ],
+    "slots": 2,
+    "timestamp": "20191207010906",
+    "price_per_slot": 24405,
+    "price_avg": 48811
+  },
+  {
+    "name": "Primary Arms Compact prism scope 2.5x",
+    "category": "assault_scopes",
+    "image": "Primary Arms Compact prism scope 2.5x icon.png",
+    "title": "Primary Arms Compact prism scope 2.5x",
+    "pageId": 12791,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Primary_Arms_Compact_prism_scope_2.5x_icon.png",
+    "filePath": "primary_arms_compact_prism_scope_2_5x",
+    "marketSearchName": "Primary Arms Compact prism scope 2.5x",
+    "marketPositionOffset": 0,
+    "price_array": [
+      19000,
+      19499,
+      19500,
+      19799,
+      19800,
+      19980,
+      19990,
+      19999,
+      19999
+    ],
+    "slots": 2,
+    "timestamp": "20191207010908",
+    "price_per_slot": 9666,
+    "price_avg": 19333
+  },
+  {
+    "name": "Sig BRAVO4 4X30 Scope",
+    "category": "assault_scopes",
+    "image": "Bravo4icon.png",
+    "title": "Sig BRAVO4 4X30 Scope",
+    "pageId": 3066,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/Bravo4icon.png?version=b32f496beb8c7c68dd719ad8ebff503d",
+    "filePath": "sig_bravo4_4x30_scope",
+    "marketSearchName": "Sig BRAVO4 4X30 Scope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      40000,
+      43000,
+      43000,
+      44000,
+      44000,
+      44500,
+      45000,
+      45000,
+      45995,
+      46000,
+      46000,
+      46999,
+      47900,
+      47900
+    ],
+    "slots": 2,
+    "timestamp": "20191207010911",
+    "price_per_slot": 21000,
+    "price_avg": 42000
+  },
+  {
+    "name": "Trijicon ACOG 3.5x35 scope",
+    "category": "assault_scopes",
+    "image": "Acogicon.png",
+    "title": "Trijicon ACOG 3.5x35 scope",
+    "pageId": 6924,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/Acogicon.png?version=bf3020597986ca2b59f121380f804399",
+    "filePath": "trijicon_acog_3_5x35_scope",
+    "marketSearchName": "Trijicon ACOG 3.5x35 scope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14999,
+      21000,
+      23000,
+      23000,
+      23000,
+      23000,
+      23500,
+      24000,
+      24000,
+      24000,
+      24000,
+      24300,
+      24500,
+      25000
+    ],
+    "slots": 2,
+    "timestamp": "20191207010914",
+    "price_per_slot": 9833,
+    "price_avg": 19666
+  },
+  {
+    "name": "Trijicon ACOG TA01NSN 4x32 scope",
+    "category": "assault_scopes",
+    "image": "Trijicon ACOG TA01NSN 4x32 scope icon.gif",
+    "title": "Trijicon ACOG TA01NSN 4x32 scope",
+    "pageId": 12866,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/Trijicon_ACOG_TA01NSN_4x32_scope_icon.gif?version=1e35dd1c74717e2c8d1292f91dabc9b4",
+    "filePath": "trijicon_acog_ta01nsn_4x32_scope",
+    "marketSearchName": "Trijicon ACOG TA01NSN 4x32 scope",
+    "marketPositionOffset": 1,
+    "price_array": [
+      34595,
+      34800,
+      34995
+    ],
+    "slots": 2,
+    "timestamp": "20191207010917",
+    "price_per_slot": 17398,
+    "price_avg": 34796
+  },
+  {
+    "name": "Valday PS-320 1x/6x Scope",
+    "category": "assault_scopes",
+    "image": "Valday PS-320 icon.png",
+    "title": "Valday PS-320 1x/6x Scope",
+    "pageId": 12875,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/Valday_PS-320_icon.png",
+    "filePath": "valday_ps_320_1x_6x_scope",
+    "marketSearchName": "Valday PS-320 1x/6x Scope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      38900,
+      38997,
+      38999,
+      40000,
+      45000,
+      45000,
+      52500,
+      53999,
+      54300,
+      54310,
+      54311,
+      54321,
+      54999,
+      55000
+    ],
+    "slots": 2,
+    "timestamp": "20191207010920",
+    "price_per_slot": 19482,
+    "price_avg": 38965
+  },
+  {
+    "name": "Monstrum Compact prism scope 2x32",
+    "category": "assault_scopes",
+    "image": "Monstrum2x32 Icon.png",
+    "title": "Monstrum Compact prism scope 2x32",
+    "pageId": 15551,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/21/Monstrum2x32_Icon.png?version=2e4ac2f0c489e80d5dd213fb344b0f70",
+    "filePath": "monstrum_compact_prism_scope_2x32",
+    "marketSearchName": "Monstrum Compact prism scope 2x32",
+    "marketPositionOffset": 0,
+    "price_array": [
+      24000,
+      24500,
+      29000,
+      36900,
+      40000,
+      75100,
+      107000
+    ],
+    "slots": 2,
+    "timestamp": "20191207010923",
+    "price_per_slot": 12916,
+    "price_avg": 25833
+  }
+]

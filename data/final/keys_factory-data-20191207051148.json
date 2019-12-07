@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Factory exit key",
+    "category": "keys_factory",
+    "image": "Factory key icon.png",
+    "title": "Factory exit key",
+    "pageId": 4029,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Factory_key_icon.png?version=459982fbc47d60275ae9b1280070a510",
+    "filePath": "factory_exit_key",
+    "marketSearchName": "Factory exit key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      150000,
+      160000,
+      160000,
+      164998,
+      164999,
+      165000,
+      165000,
+      168500,
+      169999,
+      170000,
+      170000
+    ],
+    "slots": 1,
+    "timestamp": "20191207020133",
+    "price_per_slot": 156666,
+    "price_avg": 156666
+  },
+  {
+    "name": "Door key",
+    "category": "keys_factory",
+    "image": "Door key Icon.png",
+    "title": "Door key",
+    "pageId": 4062,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
+    "filePath": "door_key",
+    "marketSearchName": "Door key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3400,
+      3500,
+      3500,
+      4000,
+      4800,
+      4800,
+      4999,
+      4999,
+      5000,
+      5000,
+      5000,
+      5000,
+      5000,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191207020138",
+    "price_per_slot": 3466,
+    "price_avg": 3466
+  },
+  {
+    "name": "Door key (alternative)",
+    "category": "keys_factory",
+    "image": "Door key Icon.png",
+    "title": "Door key (alternative)",
+    "pageId": 7219,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
+    "filePath": "door_key__alternative_",
+    "marketSearchName": "Door key",
+    "marketPositionOffset": 1,
+    "price_array": [
+      3400,
+      3500,
+      3500,
+      4000,
+      4800,
+      4800,
+      4999,
+      4999,
+      5000,
+      5000,
+      5000,
+      5000,
+      5000,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191207020138",
+    "price_per_slot": 3466,
+    "price_avg": 3466
+  }
+]

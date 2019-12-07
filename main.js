@@ -4,13 +4,15 @@ const categories = require("./wiki-categories.json");
 const util = require('util');
 const fs = require('fs');
 const moment = require('moment');
+const glob = require('glob');
+
 
 const writeFile = (fileName, data) => util.promisify(fs.writeFile)(fileName, data);
-
+const readFile = (fileName) => util.promisify(fs.readFile)(fileName, 'utf-8');
 
 let args = process.argv.slice(2);
 
-const allCatergories = async () => {
+const allCategories = async () => {
     for (const [category, categoryData] of Object.entries(categories)) {
         let result = await wikiParser.getItemsFromCategory(category, categoryData);
 
@@ -47,14 +49,21 @@ const singleCategory = async (category) => {
 }
 
 const runOCR = async (category) => {
+    
     if (!categories[category]) {
         console.log('Category not found: ', category);
         return;
     }
-    let JSONwithPrices = await ocr.processImage(category);
-    const timestamp = moment().format('YYYYMMDDHHmmss');
 
-    JSONwithPrices = JSONwithPrices.map(item => {
+    let JSONData = await readFile(`./data/wiki/${category}-data.json`);
+    JSONData = JSON.parse(JSONData);
+
+    let JSONwithPrices = await Promise.all(JSONData.map(async item => {
+
+        const fullFilePath = glob.sync(`./data/images/raw/${item.filePath}_*.png`)[0];
+
+        item.price_array = await ocr.processImage(item.filePath, fullFilePath);
+
         item.price_array = item.price_array.map((price, index) => {
             if (item.price_array[index + 1]) {
                 let currentPriceLength = price.length;
@@ -65,7 +74,7 @@ const runOCR = async (category) => {
                 }
             }
             return parseInt(price);
-        })
+        });
 
         let price_avg;
         if (item.price_array.length > 3) {
@@ -80,6 +89,9 @@ const runOCR = async (category) => {
         const slots = item.size.width * item.size.height;
         const price_per_slot = Math.floor(price_avg / slots);
 
+        const timestampRegex = /_(\d+).png/;
+        const timestamp = fullFilePath.match(timestampRegex)[1];
+
         return {
             ...item,
             slots,
@@ -87,7 +99,7 @@ const runOCR = async (category) => {
             price_per_slot,
             price_avg,
         }
-    })
+    }));
 
     try {
         const timestamp = moment().format('YYYYMMDDHHmmss');
@@ -97,13 +109,15 @@ const runOCR = async (category) => {
         console.log(error);
         throw error;
     }
+    console.log('return ', category);
+    return;
 }
 
 (async () => {
     if (args.length && args[0] === 'wiki') {
         args = args.slice(1);
         if (args.length && args[0] === 'all') {
-            allCatergories().catch(err => console.log('Error: ', err));
+            allCategories().catch(err => console.log('Error: ', err));
         } else if (args.length) {
             for (const category of args) {
                 await singleCategory(category).catch(err => console.log('Error: ', err));
@@ -113,8 +127,35 @@ const runOCR = async (category) => {
         }
     } else if (args.length && args[0] === 'ocr') {
         args = args.slice(1);
-        let category = args[0];
-        await runOCR(category).catch(err => console.log('Error: ', err));
+
+        await ocr.initOCR();
+        for (const category of args) {
+            console.log('loop: ', category);
+            await runOCR(category).catch(err => console.log('Error: ', err));
+        }
+        return;
+    } else if (args.length && args[0] === 'final') {
+        let JSONArray = fs.readdirSync('./data/final/');
+
+        const finalData = JSONArray.reduce((acc, fileName) => {
+
+            console.log(fileName);
+
+            let data = fs.readFileSync('./data/final/' + fileName, 'utf-8');
+            console.log(data);
+            data = JSON.parse(data);
+            data.forEach(item => acc.push(item));
+            return acc;
+        }, []);
+
+        try {
+            await writeFile(`./data/data.json`, JSON.stringify(finalData, null, 2));
+            console.log('File writen');
+        } catch (error) {
+            console.log(error);
+            throw error;
+        }
+  
     } else {
         console.log('Provide arguments for operation. \'wiki\' or \'ocr\'');
     }

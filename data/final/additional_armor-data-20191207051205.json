@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Ops-Core Fast GUNSIGHT Mandible",
+    "category": "additional_armor",
+    "image": "Mandible.png",
+    "title": "Ops-Core Fast GUNSIGHT Mandible",
+    "pageId": 7745,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/Mandible.png?version=6a301a6d05f8fd899bd72c0326edae2d",
+    "filePath": "ops_core_fast_gunsight_mandible",
+    "marketSearchName": "Ops-Core Fast GUNSIGHT Mandible",
+    "marketPositionOffset": 0,
+    "price_array": [
+      28000,
+      29999,
+      29999,
+      30500,
+      31000,
+      35000
+    ],
+    "slots": 4,
+    "timestamp": "20191207005455",
+    "price_per_slot": 7333,
+    "price_avg": 29332
+  },
+  {
+    "name": "Ops-Core Fast Side Armor",
+    "category": "additional_armor",
+    "image": "Saarmorblack.png",
+    "title": "Ops-Core Fast Side Armor",
+    "pageId": 7980,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/Saarmorblack.png?version=d5f35ed7aa0df313e405c2a3130c24fe",
+    "filePath": "ops_core_fast_side_armor",
+    "marketSearchName": "Side Armor",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4628,
+      4628,
+      4669,
+      5659,
+      6279,
+      6488,
+      6627,
+      6646,
+      6804,
+      6873,
+      6877,
+      6984,
+      7074,
+      7818
+    ],
+    "slots": 4,
+    "timestamp": "20191207005153",
+    "price_per_slot": 1160,
+    "price_avg": 4641
+  },
+  {
+    "name": "Crye Airframe Ears",
+    "category": "additional_armor",
+    "image": "CryeAirframeEarsicon.png",
+    "title": "Crye Airframe Ears",
+    "pageId": 12881,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/CryeAirframeEarsicon.png?version=0403e4495d0ddc7d573f06bb750e7af0",
+    "filePath": "crye_airframe_ears",
+    "marketSearchName": "Crye Airframe Ears",
+    "marketPositionOffset": 0,
+    "price_array": [
+      38888,
+      39999,
+      40000,
+      40000,
+      40000,
+      44000,
+      48000,
+      48500,
+      48999,
+      49999,
+      50000,
+      50000,
+      50000,
+      54999
+    ],
+    "slots": 4,
+    "timestamp": "20191207005501",
+    "price_per_slot": 9907,
+    "price_avg": 39629
+  },
+  {
+    "name": "Crye Airframe Chops",
+    "category": "additional_armor",
+    "image": "CryeAirframeChops icon.png",
+    "title": "Crye Airframe Chops",
+    "pageId": 12855,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/CryeAirframeChops_icon.png?version=0e37e121ecb3dba9d4d53c8b0f40bea8",
+    "filePath": "crye_airframe_chops",
+    "marketSearchName": "Crye Airframe Chops",
+    "marketPositionOffset": 0,
+    "price_array": [
+      21000,
+      22499,
+      22500,
+      24000,
+      28999,
+      28999,
+      29000,
+      29000,
+      29500,
+      29500,
+      29500,
+      29500,
+      29886,
+      29887
+    ],
+    "slots": 4,
+    "timestamp": "20191207005504",
+    "price_per_slot": 5499,
+    "price_avg": 21999
+  },
+  {
+    "name": "SLAAP armor Plate (Tan)",
+    "category": "additional_armor",
+    "image": "SLAAPArmorPlateIcon.png",
+    "title": "SLAAP armor Plate (Tan)",
+    "pageId": 12777,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/93/SLAAPArmorPlateIcon.png?version=b2db8d997badbd86a8463aecde2e2dd0",
+    "filePath": "slaap_armor_plate__tan_",
+    "marketSearchName": "SLAAP armor Plate (Tan)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      125000
+    ],
+    "slots": 2,
+    "timestamp": "20191207005507",
+    "price_per_slot": 62500,
+    "price_avg": 125000
+  },
+  {
+    "name": "LSHZ-2DTM Aventail",
+    "category": "additional_armor",
+    "image": "wiki.png",
+    "title": "LSHZ-2DTM Aventail",
+    "pageId": 15605,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "lshz_2dtm_aventail",
+    "marketSearchName": "LSHZ-2DTM Aventail",
+    "marketPositionOffset": 0,
+    "price_array": [
+      43000,
+      49111
+    ],
+    "slots": 2,
+    "timestamp": "20191207005510",
+    "price_per_slot": 23027,
+    "price_avg": 46055
+  }
+]

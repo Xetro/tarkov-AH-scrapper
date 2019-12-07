@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Vulcan MG night scope 3.5x",
+    "category": "special_scopes",
+    "image": "Vulcan MG night scope 3.5x Icon.png",
+    "title": "Vulcan MG night scope 3.5x",
+    "pageId": 11055,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a4/Vulcan_MG_night_scope_3.5x_Icon.png",
+    "filePath": "vulcan_mg_night_scope_3_5x",
+    "marketSearchName": "Vulcan MG night scope 3.5x",
+    "marketPositionOffset": 0,
+    "price_array": [
+      31499,
+      31500,
+      31500,
+      31500,
+      31800,
+      31999,
+      31999,
+      32000,
+      32000,
+      32000,
+      32000,
+      32000,
+      32000
+    ],
+    "slots": 2,
+    "timestamp": "20191207014752",
+    "price_per_slot": 15749,
+    "price_avg": 31499
+  },
+  {
+    "name": "Trijicon REAP-IR thermal riflescope",
+    "category": "special_scopes",
+    "image": "Thermalicon.png",
+    "title": "Trijicon REAP-IR thermal riflescope",
+    "pageId": 8399,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1d/Thermalicon.png?version=e1897f7f453bf05ab55a41e4383a877f",
+    "filePath": "trijicon_reap_ir_thermal_riflescope",
+    "marketSearchName": "Trijicon REAP-IR thermal riflescope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      165000,
+      165000,
+      168000,
+      175000,
+      175000,
+      175000,
+      175001,
+      175500,
+      175500,
+      177777,
+      178000,
+      179000
+    ],
+    "slots": 2,
+    "timestamp": "20191207014755",
+    "price_per_slot": 83000,
+    "price_avg": 166000
+  },
+  {
+    "name": "NSPU-M night Scope",
+    "category": "special_scopes",
+    "image": "Nspu-micon.png",
+    "title": "NSPU-M night Scope",
+    "pageId": 8377,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/Nspu-micon.png",
+    "filePath": "nspu_m_night_scope",
+    "marketSearchName": "NSPU-M night Scope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14249,
+      14282,
+      14499,
+      14500,
+      14500,
+      14500,
+      14868,
+      14997,
+      14999,
+      14999,
+      15000,
+      15000,
+      15000,
+      15000
+    ],
+    "slots": 2,
+    "timestamp": "20191207014758",
+    "price_per_slot": 7171,
+    "price_avg": 14343
+  },
+  {
+    "name": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+    "category": "special_scopes",
+    "image": "FLIR RS-32 Icon.png",
+    "title": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+    "pageId": 15530,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/FLIR_RS-32_Icon.png",
+    "filePath": "flir_rs_32_2_25_9x_35mm_60hz_thermal_riflescope",
+    "marketSearchName": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+    "marketPositionOffset": 0,
+    "price_array": [
+      100000,
+      102000,
+      109999,
+      110000,
+      110000,
+      115000,
+      115000,
+      115969,
+      119500,
+      120000
+    ],
+    "slots": 2,
+    "timestamp": "20191207014801",
+    "price_per_slot": 51999,
+    "price_avg": 103999
+  }
+]

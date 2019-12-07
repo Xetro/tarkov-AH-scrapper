@@ -1,54 +1,47 @@
 const OCR = require('tesseract.js-node');
-const fs = require('fs');
 const util = require('util');
 const exec = util.promisify(require('child_process').exec);
 
-const readFile = (fileName) => util.promisify(fs.readFile)(fileName, 'utf-8');
+let worker;
 
-const processImage = async (category) => {
-
-  console.log('Starting image processing...');
-
-  const worker = await OCR({
+const initOCR = async () => {
+  worker = await OCR({
     tessdata: './',
     languages: ['bender']
   });
+  return;
+}
 
-  let JSONData = await readFile(`./data/wiki/${category}-data.json`);
-  JSONData = JSON.parse(JSONData);
+const processImage = async (fileName, filePath) => {
 
-  return Promise.all(
-    JSONData.map(async (item) => {
-      const rawImagePath = `./data/images/raw/${item.filePath}.png`;
-      const processedImgPath = `./data/images/processed/${item.filePath}.png`;
-      if (fs.existsSync(rawImagePath)) {
-        await prepareImage(item.filePath);
+  console.log('Starting image processing...');
 
-        console.log(`Reading image characters...`);
 
-        const text = worker.recognize(processedImgPath, 'bender');
-        let price_array = text.replace(/[^\S\r\n]/g, '').split('\n');
-        price_array.pop();
-        price_array = price_array.map(price => price.slice(0, -1));
-        item.price_array = price_array; 
-      } else {
-        console.log(`Image file for ${item.name} not found! Path: ${processedImgPath}`);
-      }
-      return item;
-    })
-  )
+  const processedImgPath = `./data/images/processed/${fileName}.png`;
+
+  await prepareImage(processedImgPath, filePath);
+
+  console.log(`Reading image characters...`);
+  const text = worker.recognize(processedImgPath, 'bender');
+  if (fileName === 'silencerco_salvo_12_sound_suppressor') {
+    console.log('TEXT: ', text);
+  }
+  let price_array = text.replace(/[^\S\r\n]/g, '').split('\n').filter(string => string.length);
+
+  price_array = price_array.map(price => price.slice(0, -1));
+  return price_array;
 };
 
-const prepareImage = async (filePath) => {
+const prepareImage = async (processedImgPath, filePath) => {
   console.log(`Preparing image for OCR: ${filePath}`);
   try {
     const execString = `convert` + ' ' +
-    `./data/images/raw/${filePath}.png` + ' ' +
+    filePath + ' ' +
     `-crop 186x1020+2920+140` + ' ' +
     `-set colorspace Gray -separate -average` + ' ' +
     `-threshold 50%` + ' ' +
     `-negate` + ' ' +
-    `./data/images/processed/${filePath}.png`;
+    processedImgPath;
 
     const { stdout, stderr } = await exec(execString);
     if (stderr) {
@@ -60,5 +53,6 @@ const prepareImage = async (filePath) => {
 }
 
 module.exports = {
-  processImage
+  processImage,
+  initOCR
 };
