@@ -17,7 +17,10 @@
     },
     "headwear": {
         "name": "headwear",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "Highcom Striker ACHHC IIIA helmet": "Highcom Striker ACHHC IIIA black",
+            "Highcom Striker ULACH IIIA helmet": "Highcom Striker ULACH IIIA black"
+        },
         "positionExceptions": {},
         "usePages": [1, 2, 3],
         "nameIndex": 1,
@@ -79,7 +82,9 @@
     "foregrips": {
         "name": "weapon_mods",
         "searchExceptions" : {},
-        "positionExceptions": {},
+        "positionExceptions": {
+            "Zenit RK-1 Foregrip": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -310,23 +315,35 @@
     },
     "handguards": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "Magpul MOE SL carbine length M-LOK foregrip for AR15": "Magpul MOE SL carbine length M-LOK foregrip",
+            "Magpul Zhukov-U HAND GUARD for AK": "Magpul Zhukov-U HAND GUARD",
+            "Magpul MOE AKM HAND GUARD for AK": "Magpul MOE AKM HAND GUARD (Black) for AK",
+            "LOBAEV Arms DVL-10 M2 handguard": "LOBAEV Arms DVL-10",
+            "B-10M foregrip and rail mount B-19": "b-10"
+        },
         "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [72],
+        "ignore": [72, 3, 13, 20, 48, 77, 84],
         "useRegex": 1,
         "additionalRegex": "Handguards(.|\n)+Pistol grips"
     },
     "pistol_grips": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Regular \"DS Arms\" pistol grip for SA-58": "Regular \"DS Arms\" pistol grip for SA-58",
+            "TAPCO SAW-Style pistol grip for AK": "TAPCO SAW-Style black pistol grip for ak",
+            "Stark AR Rifle Grip for AR-15-compatible weapons": "Stark AR Rifle Grip (black) for ar-15"
+        },
+        "positionExceptions": {
+            "AS VAL Pistol grip": 1
+        },
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [26, 37, 53],
         "useRegex": 1,
         "additionalRegex": "Pistol grips(.|\n)+Receivers & slides "
     },

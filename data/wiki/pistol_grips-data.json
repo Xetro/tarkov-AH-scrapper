@@ -266,7 +266,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/SA58_Regular_Icon.png?version=1b7a29c33d83af9b678eac52a374ffe7",
     "filePath": "regular__ds_arms__pistol_grip_for_sa_58",
-    "marketSearchName": "DS Arms SA-58 7.62x51",
+    "marketSearchName": "Regular \"DS Arms\" pistol grip for SA-58",
     "marketPositionOffset": 0
   },
   {
@@ -387,21 +387,6 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/226Grip_Icon.gif?version=233d87d184ae84ebcf3fa0b80ae0d0c9",
     "filePath": "sig_sauer_pistol_grip_for_p226",
     "marketSearchName": "Sig Sauer pistol grip for P226",
-    "marketPositionOffset": 0
-  },
-  {
-    "name": "TSNIITOCHMASH bakelite PB side grips",
-    "category": "pistol_grips",
-    "image": "Bakelitepbgrips.png",
-    "title": "TSNIITOCHMASH bakelite PB side grips",
-    "pageId": 3383,
-    "size": {
-      "width": "1",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/Bakelitepbgrips.png?version=0f20c91adc5e48699a908f2b51f42ce4",
-    "filePath": "tsniitochmash_bakelite_pb_side_grips",
-    "marketSearchName": "TSNIITOCHMASH bakelite PB side grips",
     "marketPositionOffset": 0
   },
   {
@@ -536,7 +521,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/AK_SAW_Icon.gif?version=e10949f104d356764d8b2d2eb1e5369c",
     "filePath": "tapco_saw_style_pistol_grip_for_ak",
-    "marketSearchName": "TAPCO SAW-Style pistol grip for AK",
+    "marketSearchName": "TAPCO SAW-Style black pistol grip for ak",
     "marketPositionOffset": 0
   },
   {
@@ -552,21 +537,6 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/Rk-3.png",
     "filePath": "zenit_rk_3_ak_pistol_grip",
     "marketSearchName": "Zenit RK-3 AK pistol grip",
-    "marketPositionOffset": 0
-  },
-  {
-    "name": "APS bakelite side-pieces",
-    "category": "pistol_grips",
-    "image": "APS bakelite side-pieces icon.png",
-    "title": "APS bakelite side-pieces",
-    "pageId": 9705,
-    "size": {
-      "width": "1",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/15/APS_bakelite_side-pieces_icon.png",
-    "filePath": "aps_bakelite_side_pieces",
-    "marketSearchName": "APS bakelite side-pieces",
     "marketPositionOffset": 0
   },
   {
@@ -686,7 +656,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/STARK_AR_Icon.gif?version=fc1981f847ead3867f214c8851fae5c9",
     "filePath": "stark_ar_rifle_grip_for_ar_15_compatible_weapons",
-    "marketSearchName": "Stark AR Rifle Grip for AR-15-compatible weapons",
+    "marketSearchName": "Stark AR Rifle Grip (black) for ar-15",
     "marketPositionOffset": 0
   },
   {
@@ -732,7 +702,7 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/Valgrip.png?version=81b1bbf16556aab1061a8a3a3995a5b1",
     "filePath": "as_val_pistol_grip",
     "marketSearchName": "AS VAL Pistol grip",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 1
   },
   {
     "name": "Pachmayr tactical rubber grip",
@@ -792,21 +762,6 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/SAW_SKS_Icon.png?version=2e75b83b4c0bc49142db5062e152c22f",
     "filePath": "tapco_saw_style_pistol_grip_for_sks_intrafuse_kit",
     "marketSearchName": "TAPCO SAW-Style pistol grip for SKS INTRAFUSE Kit",
-    "marketPositionOffset": 0
-  },
-  {
-    "name": "Polymer pistol grip for M9A3",
-    "category": "pistol_grips",
-    "image": "M9A3PolymerGripIcon.png",
-    "title": "Polymer pistol grip for M9A3",
-    "pageId": 15401,
-    "size": {
-      "width": "1",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/M9A3PolymerGripIcon.png?version=d27280d04d43190d3d02d4d82d53a6c7",
-    "filePath": "polymer_pistol_grip_for_m9a3",
-    "marketSearchName": "Polymer pistol grip for M9A3",
     "marketPositionOffset": 0
   },
   {
