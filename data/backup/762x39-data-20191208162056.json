@@ -1,0 +1,153 @@
+[
+  {
+    "name": "7.62x39 mm BP",
+    "category": "762x39",
+    "image": "7.62x39BP.png",
+    "title": "7.62x39 mm BP",
+    "pageId": 7037,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4a/7.62x39BP.png",
+    "filePath": "7_62x39_mm_bp",
+    "marketSearchName": "7.62x39 mm BP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      507,
+      509,
+      510,
+      517,
+      518,
+      519,
+      520,
+      520,
+      520,
+      520,
+      520,
+      520
+    ],
+    "slots": 1,
+    "timestamp": "20191208140449",
+    "price_per_slot": 30480,
+    "price_avg": 508
+  },
+  {
+    "name": "7.62x39 mm HP",
+    "category": "762x39",
+    "image": "7.62x39HP.png",
+    "title": "7.62x39 mm HP",
+    "pageId": 7043,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/7.62x39HP.png",
+    "filePath": "7_62x39_mm_hp",
+    "marketSearchName": "7.62x39 mm HP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      62,
+      65,
+      66,
+      67,
+      81,
+      81,
+      81,
+      82,
+      92
+    ],
+    "slots": 1,
+    "timestamp": "20191208140453",
+    "price_per_slot": 3840,
+    "price_avg": 64
+  },
+  {
+    "name": "7.62x39 mm PS",
+    "category": "762x39",
+    "image": "7.62x39PS.png",
+    "title": "7.62x39 mm PS",
+    "pageId": 3802,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/7.62x39PS.png",
+    "filePath": "7_62x39_mm_ps",
+    "marketSearchName": "7.62x39 mm PS",
+    "marketPositionOffset": 0,
+    "price_array": [
+      85,
+      85,
+      87,
+      90,
+      91,
+      96,
+      108,
+      110,
+      150,
+      220,
+      220
+    ],
+    "slots": 1,
+    "timestamp": "20191208140456",
+    "price_per_slot": 5100,
+    "price_avg": 85
+  },
+  {
+    "name": "7.62x39 mm T45M",
+    "category": "762x39",
+    "image": "7.62x39T45M.png",
+    "title": "7.62x39 mm T45M",
+    "pageId": 7036,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/7.62x39T45M.png",
+    "filePath": "7_62x39_mm_t45m",
+    "marketSearchName": "7.62x39 mm T45M",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70,
+      76,
+      189,
+      190,
+      199,
+      214,
+      215,
+      219,
+      220,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140459",
+    "price_per_slot": 6660,
+    "price_avg": 111
+  },
+  {
+    "name": "7.62x39 mm US",
+    "category": "762x39",
+    "image": "7.62x39US.png",
+    "title": "7.62x39 mm US",
+    "pageId": 7038,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/7.62x39US.png",
+    "filePath": "7_62x39_mm_us",
+    "marketSearchName": "7.62x39 mm US",
+    "marketPositionOffset": 0,
+    "price_array": [
+      140,
+      150,
+      154,
+      174
+    ],
+    "slots": 1,
+    "timestamp": "20191208140502",
+    "price_per_slot": 8880,
+    "price_avg": 148
+  }
+]

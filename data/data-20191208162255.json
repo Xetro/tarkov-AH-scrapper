@@ -1,5 +1,2933 @@
 [
   {
+    "name": "12.7x55 mm PS12",
+    "category": "127x55",
+    "image": "12.7x55 PS12 icon.png",
+    "title": "12.7x55 mm PS12",
+    "pageId": 14959,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/12.7x55_PS12_icon.png",
+    "filePath": "12_7x55_mm_ps12",
+    "marketSearchName": "12.7x55 mm PS12",
+    "marketPositionOffset": 0,
+    "price_array": [
+      319,
+      320,
+      354,
+      373
+    ],
+    "slots": 1,
+    "timestamp": "20191208140547",
+    "price_per_slot": 9930,
+    "price_avg": 331
+  },
+  {
+    "name": "12.7x55 mm PS12A",
+    "category": "127x55",
+    "image": "12.7x55 PS12A icon.png",
+    "title": "12.7x55 mm PS12A",
+    "pageId": 14962,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/12.7x55_PS12A_icon.png",
+    "filePath": "12_7x55_mm_ps12a",
+    "marketSearchName": "12.7x55 mm PS12A",
+    "marketPositionOffset": 0,
+    "price_array": [
+      180,
+      200,
+      200,
+      200,
+      200,
+      220,
+      224,
+      225,
+      225,
+      225,
+      229,
+      230,
+      245,
+      249
+    ],
+    "slots": 1,
+    "timestamp": "20191208140550",
+    "price_per_slot": 5790,
+    "price_avg": 193
+  },
+  {
+    "name": "12.7x55 mm PS12B",
+    "category": "127x55",
+    "image": "12.7x55 PS12B icon.png",
+    "title": "12.7x55 mm PS12B",
+    "pageId": 14963,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/12.7x55_PS12B_icon.png",
+    "filePath": "12_7x55_mm_ps12b",
+    "marketSearchName": "12.7x55 mm PS12B",
+    "marketPositionOffset": 0,
+    "price_array": [
+      474,
+      477,
+      477,
+      479,
+      480,
+      480,
+      480,
+      487,
+      488,
+      489,
+      490,
+      490,
+      494
+    ],
+    "slots": 1,
+    "timestamp": "20191208140553",
+    "price_per_slot": 14280,
+    "price_avg": 476
+  },
+  {
+    "name": "12/70 5.25mm Buckshot",
+    "category": "12x70",
+    "image": "1270525BuckshotIcon.png",
+    "title": "12/70 5.25mm Buckshot",
+    "pageId": 14964,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/1270525BuckshotIcon.png?version=ec432abad4c585d0a2fef0593b6ddb96",
+    "filePath": "12_70_5_25mm_buckshot",
+    "marketSearchName": "12/70 5.25mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      36
+    ],
+    "slots": 1,
+    "timestamp": "20191208140557",
+    "price_per_slot": 720,
+    "price_avg": 36
+  },
+  {
+    "name": "12x70 6.5 mm \"Express\" Buckshot",
+    "category": "12x70",
+    "image": "127065ExpressBuckshotIcon.png",
+    "title": "12x70 6.5 mm \"Express\" Buckshot",
+    "pageId": 14966,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bf/127065ExpressBuckshotIcon.png?version=33aad161f2058a500b1219c037cb5673",
+    "filePath": "12x70_6_5_mm__express__buckshot",
+    "marketSearchName": "12x70 6.5 mm \"Express\" Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      40,
+      51
+    ],
+    "slots": 1,
+    "timestamp": "20191208140600",
+    "price_per_slot": 900,
+    "price_avg": 45
+  },
+  {
+    "name": "12x70 7mm Buckshot",
+    "category": "12x70",
+    "image": "12x70BUCKSHOT.png",
+    "title": "12x70 7mm Buckshot",
+    "pageId": 3800,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/12x70BUCKSHOT.png?version=401d4d5417f566a07fb0ec470a80f6a5",
+    "filePath": "12x70_7mm_buckshot",
+    "marketSearchName": "12x70 7mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      29,
+      30,
+      31,
+      31,
+      32,
+      32,
+      33,
+      35
+    ],
+    "slots": 1,
+    "timestamp": "20191208140603",
+    "price_per_slot": 600,
+    "price_avg": 30
+  },
+  {
+    "name": "12/70 8.5 mm \"Magnum\" Buckshot",
+    "category": "12x70",
+    "image": "127065ExpressMagnumIcon.png",
+    "title": "12/70 8.5 mm \"Magnum\" Buckshot",
+    "pageId": 14970,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/127065ExpressMagnumIcon.png?version=092ae04253629db99172be47648a0e0e",
+    "filePath": "12_70_8_5_mm__magnum__buckshot",
+    "marketSearchName": "12/70 8.5 mm \"Magnum\" Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      51,
+      54,
+      75,
+      97,
+      98,
+      99,
+      100,
+      116,
+      117,
+      118,
+      119,
+      124,
+      150,
+      151
+    ],
+    "slots": 1,
+    "timestamp": "20191208140606",
+    "price_per_slot": 1200,
+    "price_avg": 60
+  },
+  {
+    "name": "12/70 AP-20 Slug",
+    "category": "12x70",
+    "image": "12-70 AP-20 icon.png",
+    "title": "12/70 AP-20 Slug",
+    "pageId": 14975,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/12-70_AP-20_icon.png",
+    "filePath": "12_70_ap_20_slug",
+    "marketSearchName": "12/70 AP-20 Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      298,
+      300,
+      305,
+      305,
+      309,
+      310,
+      311,
+      329,
+      329,
+      330,
+      340
+    ],
+    "slots": 1,
+    "timestamp": "20191208140609",
+    "price_per_slot": 6020,
+    "price_avg": 301
+  },
+  {
+    "name": "12/70 Dual Sabot Slug",
+    "category": "12x70",
+    "image": "12-70 Dual Sabot icon.png",
+    "title": "12/70 Dual Sabot Slug",
+    "pageId": 14971,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/12-70_Dual_Sabot_icon.png",
+    "filePath": "12_70_dual_sabot_slug",
+    "marketSearchName": "12/70 Dual Sabot Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70,
+      110,
+      200,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140613",
+    "price_per_slot": 2520,
+    "price_avg": 126
+  },
+  {
+    "name": "12/70 Flechette",
+    "category": "12x70",
+    "image": "12-70 Flechette icon.png",
+    "title": "12/70 Flechette",
+    "pageId": 14973,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/12-70_Flechette_icon.png",
+    "filePath": "12_70_flechette",
+    "marketSearchName": "12/70 Flechette",
+    "marketPositionOffset": 0,
+    "price_array": [
+      77,
+      110,
+      117,
+      120,
+      122,
+      123,
+      125,
+      129,
+      130,
+      139,
+      145,
+      147,
+      149,
+      170
+    ],
+    "slots": 1,
+    "timestamp": "20191208140616",
+    "price_per_slot": 2020,
+    "price_avg": 101
+  },
+  {
+    "name": "12/70 FTX Custom LIte Slug",
+    "category": "12x70",
+    "image": "FTX_Slug_Icon.png",
+    "title": "12/70 FTX Custom LIte Slug",
+    "pageId": 14976,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/FTX_Slug_Icon.png?version=4e9d327f2b6da97099c482a992013bb6",
+    "filePath": "12_70_ftx_custom_lite_slug",
+    "marketSearchName": "12/70 FTX Custom LIte Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      73,
+      110,
+      149
+    ],
+    "slots": 1,
+    "timestamp": "20191208140619",
+    "price_per_slot": 2200,
+    "price_avg": 110
+  },
+  {
+    "name": "12/70 Grizzly 40 Slug",
+    "category": "12x70",
+    "image": "1270Grizzly40SlugIcon.png",
+    "title": "12/70 Grizzly 40 Slug",
+    "pageId": 14977,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/00/1270Grizzly40SlugIcon.png?version=ad706d56f2690292234c9ead09cfbdc9",
+    "filePath": "12_70_grizzly_40_slug",
+    "marketSearchName": "12/70 Grizzly 40 Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      68,
+      98,
+      99,
+      150
+    ],
+    "slots": 1,
+    "timestamp": "20191208140622",
+    "price_per_slot": 1760,
+    "price_avg": 88
+  },
+  {
+    "name": "12/70 HP Slug Copper Sabot Premier",
+    "category": "12x70",
+    "image": "12x70SLUG CSP-icon.png",
+    "title": "12/70 HP Slug Copper Sabot Premier",
+    "pageId": 15130,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/12x70SLUG_CSP-icon.png",
+    "filePath": "12_70_hp_slug_copper_sabot_premier",
+    "marketSearchName": "12/70 HP Slug Copper Sabot Premier",
+    "marketPositionOffset": 0,
+    "price_array": [
+      84,
+      169
+    ],
+    "slots": 1,
+    "timestamp": "20191208140626",
+    "price_per_slot": 2520,
+    "price_avg": 126
+  },
+  {
+    "name": "12/70 HP Slug \"SuperFormance\"",
+    "category": "12x70",
+    "image": "12-70 HP SF icon.png",
+    "title": "12/70 HP Slug \"SuperFormance\"",
+    "pageId": 14981,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/12-70_HP_SF_icon.png",
+    "filePath": "12_70_hp_slug__superformance_",
+    "marketSearchName": "12/70 HP Slug \"SuperFormance\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      216,
+      220,
+      222,
+      224,
+      225,
+      228,
+      231,
+      247,
+      250,
+      250,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140629",
+    "price_per_slot": 4380,
+    "price_avg": 219
+  },
+  {
+    "name": "12x70 Led slug",
+    "category": "12x70",
+    "image": "12x70SLUG.png",
+    "title": "12x70 Led slug",
+    "pageId": 3874,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/12x70SLUG.png?version=48964cc9a68ade085b853d7126575805",
+    "filePath": "12x70_led_slug",
+    "marketSearchName": "12x70 Led slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      38,
+      39,
+      39,
+      40,
+      40,
+      45,
+      58,
+      58,
+      59,
+      61,
+      73
+    ],
+    "slots": 1,
+    "timestamp": "20191208140632",
+    "price_per_slot": 760,
+    "price_avg": 38
+  },
+  {
+    "name": "12/70 \"Poleva-3\" Slug",
+    "category": "12x70",
+    "image": "Poleva3_Icon.png",
+    "title": "12/70 \"Poleva-3\" Slug",
+    "pageId": 14978,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Poleva3_Icon.png?version=5af876856b6b779bb3b24c1b858a0834",
+    "filePath": "12_70__poleva_3__slug",
+    "marketSearchName": "12/70 \"Poleva-3\" Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      53,
+      53,
+      55
+    ],
+    "slots": 1,
+    "timestamp": "20191208140635",
+    "price_per_slot": 1060,
+    "price_avg": 53
+  },
+  {
+    "name": "12/70 \"Poleva-6u\" Slug",
+    "category": "12x70",
+    "image": "1270Poleva6SlugIcon.png",
+    "title": "12/70 \"Poleva-6u\" Slug",
+    "pageId": 14979,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/1270Poleva6SlugIcon.png?version=caf2b5f9c25473f08458893699893076",
+    "filePath": "12_70__poleva_6u__slug",
+    "marketSearchName": "12/70 \"Poleva-6u\" Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70,
+      80,
+      112,
+      114,
+      115,
+      119,
+      120,
+      128,
+      130,
+      140
+    ],
+    "slots": 1,
+    "timestamp": "20191208140638",
+    "price_per_slot": 1740,
+    "price_avg": 87
+  },
+  {
+    "name": "12x70 RIP",
+    "category": "12x70",
+    "image": "12x70ripicon.png",
+    "title": "12x70 RIP",
+    "pageId": 12275,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8a/12x70ripicon.png?version=868e62d7b2af6ec36a950ffc13636c4a",
+    "filePath": "12x70_rip",
+    "marketSearchName": "12x70 RIP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      819,
+      820,
+      840,
+      845,
+      897,
+      933,
+      950,
+      950
+    ],
+    "slots": 1,
+    "timestamp": "20191208140642",
+    "price_per_slot": 16520,
+    "price_avg": 826
+  },
+  {
+    "name": "12x70 shell with .50 BMG bullet",
+    "category": "12x70",
+    "image": "12-70 .50 BMG icon.png",
+    "title": "12x70 shell with .50 BMG bullet",
+    "pageId": 15131,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/12-70_.50_BMG_icon.png",
+    "filePath": "12x70_shell_with__50_bmg_bullet",
+    "marketSearchName": "12x70 shell with .50 BMG bullet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      228,
+      229,
+      230,
+      232,
+      240,
+      245,
+      250,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255
+    ],
+    "slots": 1,
+    "timestamp": "20191208140645",
+    "price_per_slot": 4580,
+    "price_avg": 229
+  },
+  {
+    "name": "20/70 5.6mm Buckshot",
+    "category": "20x70",
+    "image": "20x70BUCKSHOT_56.png",
+    "title": "20/70 5.6mm Buckshot",
+    "pageId": 14982,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/20x70BUCKSHOT_56.png?version=704fa11d8d71b69cd5d3effea3053e2a",
+    "filePath": "20_70_5_6mm_buckshot",
+    "marketSearchName": "20/70 5.6mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      21
+    ],
+    "slots": 1,
+    "timestamp": "20191208140648",
+    "price_per_slot": 420,
+    "price_avg": 21
+  },
+  {
+    "name": "20/70 6.2mm Buckshot",
+    "category": "20x70",
+    "image": "207062mmBuckshotIcon.png",
+    "title": "20/70 6.2mm Buckshot",
+    "pageId": 14984,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/207062mmBuckshotIcon.png?version=eb37794f841871d8cbcbd045d5dea0f6",
+    "filePath": "20_70_6_2mm_buckshot",
+    "marketSearchName": "20/70 6.2mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      31
+    ],
+    "slots": 1,
+    "timestamp": "20191208140651",
+    "price_per_slot": 620,
+    "price_avg": 31
+  },
+  {
+    "name": "20/70 7.3mm Buckshot",
+    "category": "20x70",
+    "image": "20x70BUCKSHOT 73.png",
+    "title": "20/70 7.3mm Buckshot",
+    "pageId": 14985,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/20x70BUCKSHOT_73.png?version=b34571d5c95384f9f70c9a34b61a9ccf",
+    "filePath": "20_70_7_3mm_buckshot",
+    "marketSearchName": "20/70 7.3mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      39
+    ],
+    "slots": 1,
+    "timestamp": "20191208140654",
+    "price_per_slot": 780,
+    "price_avg": 39
+  },
+  {
+    "name": "20x70 7.5mm Buckshot",
+    "category": "20x70",
+    "image": "20x70BUCKSHOT.png",
+    "title": "20x70 7.5mm Buckshot",
+    "pageId": 7333,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/20x70BUCKSHOT.png?version=4027520ec789199964a807285b032614",
+    "filePath": "20x70_7_5mm_buckshot",
+    "marketSearchName": "20x70 7.5mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      25,
+      25,
+      26,
+      32
+    ],
+    "slots": 1,
+    "timestamp": "20191208140658",
+    "price_per_slot": 500,
+    "price_avg": 25
+  },
+  {
+    "name": "20/70 Devastator Slug",
+    "category": "20x70",
+    "image": "2070DevastatorSlugIcon.png",
+    "title": "20/70 Devastator Slug",
+    "pageId": 14986,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/2070DevastatorSlugIcon.png?version=0eeff98f4601409877ee3852b6adcb1f",
+    "filePath": "20_70_devastator_slug",
+    "marketSearchName": "20/70 Devastator Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      184,
+      390
+    ],
+    "slots": 1,
+    "timestamp": "20191208140701",
+    "price_per_slot": 5740,
+    "price_avg": 287
+  },
+  {
+    "name": "20/70 Slug \"Poleva-3\"",
+    "category": "20x70",
+    "image": "70x20SLUG_poleva3-icon.png",
+    "title": "20/70 Slug \"Poleva-3\"",
+    "pageId": 14987,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/70x20SLUG_poleva3-icon.png",
+    "filePath": "20_70_slug__poleva_3_",
+    "marketSearchName": "20/70 Slug \"Poleva-3\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      49,
+      89,
+      90,
+      95,
+      100
+    ],
+    "slots": 1,
+    "timestamp": "20191208140704",
+    "price_per_slot": 1520,
+    "price_avg": 76
+  },
+  {
+    "name": "20/70 Slug Poleva-6u",
+    "category": "20x70",
+    "image": "70x20SLUG poleva6u-icon.png",
+    "title": "20/70 Slug Poleva-6u",
+    "pageId": 14989,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/70x20SLUG_poleva6u-icon.png",
+    "filePath": "20_70_slug_poleva_6u",
+    "marketSearchName": "20/70 Slug Poleva-6u",
+    "marketPositionOffset": 0,
+    "price_array": [
+      67
+    ],
+    "slots": 1,
+    "timestamp": "20191208140707",
+    "price_per_slot": 1340,
+    "price_avg": 67
+  },
+  {
+    "name": "20/70 Star Slug",
+    "category": "20x70",
+    "image": "20-70 Star Slug icon.png",
+    "title": "20/70 Star Slug",
+    "pageId": 15126,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/20-70_Star_Slug_icon.png",
+    "filePath": "20_70_star_slug",
+    "marketSearchName": "20/70 Star Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      83
+    ],
+    "slots": 1,
+    "timestamp": "20191208140710",
+    "price_per_slot": 1660,
+    "price_avg": 83
+  },
+  {
+    "name": ".366 TKM EKO",
+    "category": "366",
+    "image": "EKOICON.png",
+    "title": ".366 TKM EKO",
+    "pageId": 6486,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/EKOICON.png?version=d2fd02a6ae40373798a1e66a9f34ef06",
+    "filePath": "_366_tkm_eko",
+    "marketSearchName": ".366 TKM EKO",
+    "marketPositionOffset": 0,
+    "price_array": [
+      87,
+      104,
+      107,
+      108,
+      109,
+      110,
+      111,
+      160
+    ],
+    "slots": 1,
+    "timestamp": "20191208140537",
+    "price_per_slot": 4950,
+    "price_avg": 99
+  },
+  {
+    "name": ".366 TKM FMJ",
+    "category": "366",
+    "image": "TKFMJICON.png",
+    "title": ".366 TKM FMJ",
+    "pageId": 6489,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/TKFMJICON.png?version=659366170283b184dcf26bf6edd92535",
+    "filePath": "_366_tkm_fmj",
+    "marketSearchName": ".366 TKM FMJ",
+    "marketPositionOffset": 0,
+    "price_array": [
+      87,
+      104,
+      107,
+      108,
+      109,
+      110,
+      111,
+      160
+    ],
+    "slots": 1,
+    "timestamp": "20191208140541",
+    "price_per_slot": 4950,
+    "price_avg": 99
+  },
+  {
+    "name": ".366 TKM Geksa",
+    "category": "366",
+    "image": "GEKSAICON.png",
+    "title": ".366 TKM Geksa",
+    "pageId": 7048,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/GEKSAICON.png?version=3d1741ab737eaae1b13271f5bb9ca919",
+    "filePath": "_366_tkm_geksa",
+    "marketSearchName": ".366 TKM Geksa",
+    "marketPositionOffset": 0,
+    "price_array": [
+      59,
+      298,
+      398
+    ],
+    "slots": 1,
+    "timestamp": "20191208140544",
+    "price_per_slot": 12550,
+    "price_avg": 251
+  },
+  {
+    "name": "4.6x30mm Action SX",
+    "category": "46x30",
+    "image": "4.6x30ActionIcon.png",
+    "title": "4.6x30mm Action SX",
+    "pageId": 11788,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/4.6x30ActionIcon.png",
+    "filePath": "4_6x30mm_action_sx",
+    "marketSearchName": "4.6x30mm Action SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      97,
+      98,
+      99,
+      100,
+      100,
+      102,
+      240,
+      249,
+      250,
+      299,
+      449,
+      3000,
+      4900
+    ],
+    "slots": 1,
+    "timestamp": "20191208140307",
+    "price_per_slot": 6860,
+    "price_avg": 98
+  },
+  {
+    "name": "4.6x30mm AP SX",
+    "category": "46x30",
+    "image": "4.6x30APenIcon.png",
+    "title": "4.6x30mm AP SX",
+    "pageId": 11789,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/4.6x30APenIcon.png",
+    "filePath": "4_6x30mm_ap_sx",
+    "marketSearchName": "4.6x30mm AP SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      468,
+      470,
+      470,
+      473,
+      474,
+      475,
+      498,
+      503,
+      510,
+      517,
+      518,
+      519,
+      519
+    ],
+    "slots": 1,
+    "timestamp": "20191208140310",
+    "price_per_slot": 32830,
+    "price_avg": 469
+  },
+  {
+    "name": "4.6x30mm FMJ SX",
+    "category": "46x30",
+    "image": "4.6x30FMJIcon.png",
+    "title": "4.6x30mm FMJ SX",
+    "pageId": 11790,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/4.6x30FMJIcon.png",
+    "filePath": "4_6x30mm_fmj_sx",
+    "marketSearchName": "4.6x30mm FMJ SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      165,
+      168,
+      169,
+      170,
+      170,
+      172,
+      173,
+      175,
+      180,
+      182,
+      184,
+      195,
+      200,
+      200
+    ],
+    "slots": 1,
+    "timestamp": "20191208140313",
+    "price_per_slot": 11690,
+    "price_avg": 167
+  },
+  {
+    "name": "4.6x30mm Subsonic SX",
+    "category": "46x30",
+    "image": "4.6x30SubsonicIcon.png",
+    "title": "4.6x30mm Subsonic SX",
+    "pageId": 11791,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3c/4.6x30SubsonicIcon.png",
+    "filePath": "4_6x30mm_subsonic_sx",
+    "marketSearchName": "4.6x30mm Subsonic SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      169,
+      180,
+      188,
+      198,
+      199,
+      200,
+      210,
+      212,
+      213,
+      217,
+      218,
+      219,
+      220,
+      232
+    ],
+    "slots": 1,
+    "timestamp": "20191208140316",
+    "price_per_slot": 12530,
+    "price_avg": 179
+  },
+  {
+    "name": "5.45x39 mm 7N39 \"Igolnik\"",
+    "category": "545x39",
+    "image": "7n39icon.png",
+    "title": "5.45x39 mm 7N39 \"Igolnik\"",
+    "pageId": 12271,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/64/7n39icon.png?version=b884ec3bff5fd674f8fc2bd2e6285b8d",
+    "filePath": "5_45x39_mm_7n39__igolnik_",
+    "marketSearchName": "5.45x39 mm 7N39 \"Igolnik\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      600,
+      654,
+      654,
+      655,
+      658,
+      659,
+      660,
+      666,
+      667,
+      668,
+      668
+    ],
+    "slots": 1,
+    "timestamp": "20191208140342",
+    "price_per_slot": 38160,
+    "price_avg": 636
+  },
+  {
+    "name": "5.45x39 mm BP",
+    "category": "545x39",
+    "image": "74BPICON.png",
+    "title": "5.45x39 mm BP",
+    "pageId": 3808,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2e/74BPICON.png?version=26590503a030181d779c8ca704a22fdd",
+    "filePath": "5_45x39_mm_bp",
+    "marketSearchName": "5.45x39 mm BP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      222,
+      239,
+      240,
+      240,
+      240,
+      240,
+      240,
+      241,
+      242,
+      242,
+      242,
+      243
+    ],
+    "slots": 1,
+    "timestamp": "20191208140345",
+    "price_per_slot": 13980,
+    "price_avg": 233
+  },
+  {
+    "name": "5.45x39 mm BS",
+    "category": "545x39",
+    "image": "74BSICON.png",
+    "title": "5.45x39 mm BS",
+    "pageId": 3810,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/74BSICON.png?version=bba1942cfed46a198d9159461563621f",
+    "filePath": "5_45x39_mm_bs",
+    "marketSearchName": "5.45x39 mm BS",
+    "marketPositionOffset": 0,
+    "price_array": [
+      554,
+      598,
+      599,
+      599,
+      599,
+      599,
+      599,
+      600,
+      600
+    ],
+    "slots": 1,
+    "timestamp": "20191208140348",
+    "price_per_slot": 34980,
+    "price_avg": 583
+  },
+  {
+    "name": "5.45x39 mm BT",
+    "category": "545x39",
+    "image": "74BTICON.png",
+    "title": "5.45x39 mm BT",
+    "pageId": 3813,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/74BTICON.png?version=92908a7543b2f5cb9d955251e2c05aed",
+    "filePath": "5_45x39_mm_bt",
+    "marketSearchName": "5.45x39 mm BT",
+    "marketPositionOffset": 0,
+    "price_array": [
+      330,
+      340,
+      341,
+      341,
+      342,
+      343,
+      344,
+      346,
+      347
+    ],
+    "slots": 1,
+    "timestamp": "20191208140352",
+    "price_per_slot": 20220,
+    "price_avg": 337
+  },
+  {
+    "name": "5.45x39 mm FMJ",
+    "category": "545x39",
+    "image": "74FMJICON.png",
+    "title": "5.45x39 mm FMJ",
+    "pageId": 3814,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/74FMJICON.png?version=d1dfe8b25beb6b9c0d189ef740cc4177",
+    "filePath": "5_45x39_mm_fmj",
+    "marketSearchName": "5.45x39 mm FMJ",
+    "marketPositionOffset": 0,
+    "price_array": [
+      37,
+      50
+    ],
+    "slots": 1,
+    "timestamp": "20191208140355",
+    "price_per_slot": 2580,
+    "price_avg": 43
+  },
+  {
+    "name": "5.45x39 mm HP",
+    "category": "545x39",
+    "image": "74HPICON.png",
+    "title": "5.45x39 mm HP",
+    "pageId": 3817,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/74HPICON.png?version=d77e9c9e3a4cb5f309977d5b209e1165",
+    "filePath": "5_45x39_mm_hp",
+    "marketSearchName": "5.45x39 mm HP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      65,
+      67,
+      68,
+      69,
+      70,
+      89,
+      99,
+      153,
+      155,
+      159,
+      170
+    ],
+    "slots": 1,
+    "timestamp": "20191208140358",
+    "price_per_slot": 3960,
+    "price_avg": 66
+  },
+  {
+    "name": "5.45x39 mm PP",
+    "category": "545x39",
+    "image": "74PPICON.png",
+    "title": "5.45x39 mm PP",
+    "pageId": 3818,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/74PPICON.png?version=6a44b57eb508b7bc5d486062744c0f7d",
+    "filePath": "5_45x39_mm_pp",
+    "marketSearchName": "5.45x39 mm PP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      152,
+      167,
+      167,
+      168,
+      168,
+      170,
+      174,
+      176,
+      177,
+      178,
+      186,
+      189,
+      118,
+      192
+    ],
+    "slots": 1,
+    "timestamp": "20191208140401",
+    "price_per_slot": 9720,
+    "price_avg": 162
+  },
+  {
+    "name": "5.45x39 mm PRS",
+    "category": "545x39",
+    "image": "74PRSICON.png",
+    "title": "5.45x39 mm PRS",
+    "pageId": 3819,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/74PRSICON.png?version=909abcbdc66c41eb44ca4cf666326da5",
+    "filePath": "5_45x39_mm_prs",
+    "marketSearchName": "5.45x39 mm PRS",
+    "marketPositionOffset": 0,
+    "price_array": [
+      47,
+      48,
+      54,
+      55,
+      57,
+      58,
+      60,
+      435
+    ],
+    "slots": 1,
+    "timestamp": "20191208140404",
+    "price_per_slot": 2940,
+    "price_avg": 49
+  },
+  {
+    "name": "5.45x39 mm PS",
+    "category": "545x39",
+    "image": "74PSICON.png",
+    "title": "5.45x39 mm PS",
+    "pageId": 3820,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/74PSICON.png?version=abfe8621be520692f0e63fdb6e585fd0",
+    "filePath": "5_45x39_mm_ps",
+    "marketSearchName": "5.45x39 mm PS",
+    "marketPositionOffset": 0,
+    "price_array": [
+      77,
+      87,
+      88,
+      250,
+      5000,
+      5999
+    ],
+    "slots": 1,
+    "timestamp": "20191208140408",
+    "price_per_slot": 5040,
+    "price_avg": 84
+  },
+  {
+    "name": "5.45x39 mm SP",
+    "category": "545x39",
+    "image": "74SPICON.png",
+    "title": "5.45x39 mm SP",
+    "pageId": 3821,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/04/74SPICON.png?version=c0f9b0ca2414124ab1b3dfa72716303e",
+    "filePath": "5_45x39_mm_sp",
+    "marketSearchName": "5.45x39 mm SP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      62
+    ],
+    "slots": 1,
+    "timestamp": "20191208140411",
+    "price_per_slot": 3720,
+    "price_avg": 62
+  },
+  {
+    "name": "5.45x39 mm T",
+    "category": "545x39",
+    "image": "74TICON.png",
+    "title": "5.45x39 mm T",
+    "pageId": 3823,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/db/74TICON.png?version=f52591c22f3b9af3c8b2e0f9ca7a4cb8",
+    "filePath": "5_45x39_mm_t",
+    "marketSearchName": "5.45x39 mm T",
+    "marketPositionOffset": 0,
+    "price_array": [
+      41,
+      41,
+      42,
+      52,
+      100,
+      115,
+      116,
+      130,
+      135
+    ],
+    "slots": 1,
+    "timestamp": "20191208140414",
+    "price_per_slot": 2460,
+    "price_avg": 41
+  },
+  {
+    "name": "5.45x39 mm US",
+    "category": "545x39",
+    "image": "74USICON.png",
+    "title": "5.45x39 mm US",
+    "pageId": 3826,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/74USICON.png?version=0159e8767675c471115dec08735ed2f4",
+    "filePath": "5_45x39_mm_us",
+    "marketSearchName": "5.45x39 mm US",
+    "marketPositionOffset": 0,
+    "price_array": [
+      43,
+      44,
+      44,
+      45,
+      45,
+      49,
+      62,
+      64,
+      83,
+      103
+    ],
+    "slots": 1,
+    "timestamp": "20191208140417",
+    "price_per_slot": 2580,
+    "price_avg": 43
+  },
+  {
+    "name": "5.56x45 mm 55 FMJ",
+    "category": "556x45",
+    "image": "55FMJICON.png",
+    "title": "5.56x45 mm 55 FMJ",
+    "pageId": 7051,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/55FMJICON.png?version=aae188d9d870c248ad4559a149fbd147",
+    "filePath": "5_56x45_mm_55_fmj",
+    "marketSearchName": "5.56x45 mm 55 FMJ",
+    "marketPositionOffset": 0,
+    "price_array": [
+      87,
+      120
+    ],
+    "slots": 1,
+    "timestamp": "20191208140420",
+    "price_per_slot": 6180,
+    "price_avg": 103
+  },
+  {
+    "name": "5.56x45 mm 55 HP",
+    "category": "556x45",
+    "image": "55HPICON.png",
+    "title": "5.56x45 mm 55 HP",
+    "pageId": 7035,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/55HPICON.png?version=7f161fc76901752ff4c39e7d5fcecaa4",
+    "filePath": "5_56x45_mm_55_hp",
+    "marketSearchName": "5.56x45 mm 55 HP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      60
+    ],
+    "slots": 1,
+    "timestamp": "20191208140424",
+    "price_per_slot": 3600,
+    "price_avg": 60
+  },
+  {
+    "name": "5.56x45 mm M855",
+    "category": "556x45",
+    "image": "M855ICON.png",
+    "title": "5.56x45 mm M855",
+    "pageId": 6618,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/M855ICON.png?version=e1cb167bc23ee29663751c12f5d7ae01",
+    "filePath": "5_56x45_mm_m855",
+    "marketSearchName": "5.56x45 mm M855",
+    "marketPositionOffset": 0,
+    "price_array": [
+      100,
+      117,
+      119,
+      124,
+      125,
+      125,
+      125,
+      126,
+      126,
+      127,
+      127,
+      128,
+      131,
+      132
+    ],
+    "slots": 1,
+    "timestamp": "20191208140427",
+    "price_per_slot": 6720,
+    "price_avg": 112
+  },
+  {
+    "name": "5.56x45 mm M855A1",
+    "category": "556x45",
+    "image": "M855A1ICON.png",
+    "title": "5.56x45 mm M855A1",
+    "pageId": 7050,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5f/M855A1ICON.png?version=ee94011166b08cd2c9c60f79a2a17f0a",
+    "filePath": "5_56x45_mm_m855a1",
+    "marketSearchName": "5.56x45 mm M855A1",
+    "marketPositionOffset": 0,
+    "price_array": [
+      200,
+      280,
+      288,
+      289,
+      297,
+      299,
+      300,
+      300,
+      301,
+      338,
+      339,
+      339,
+      340,
+      344
+    ],
+    "slots": 1,
+    "timestamp": "20191208140430",
+    "price_per_slot": 15360,
+    "price_avg": 256
+  },
+  {
+    "name": "5.56x45 mm M856",
+    "category": "556x45",
+    "image": "M856ICON.png",
+    "title": "5.56x45 mm M856",
+    "pageId": 7052,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/M856ICON.png?version=a2c1c07ef3ef4ccf4691d5f40e4dee12",
+    "filePath": "5_56x45_mm_m856",
+    "marketSearchName": "5.56x45 mm M856",
+    "marketPositionOffset": 0,
+    "price_array": [
+      162,
+      163,
+      165,
+      167,
+      177,
+      179,
+      179
+    ],
+    "slots": 1,
+    "timestamp": "20191208140433",
+    "price_per_slot": 9780,
+    "price_avg": 163
+  },
+  {
+    "name": "5.56x45 mm M856A1",
+    "category": "556x45",
+    "image": "M856A1ICON.png",
+    "title": "5.56x45 mm M856A1",
+    "pageId": 7053,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/M856A1ICON.png?version=456547d70ce954f544f9bf228267b6f2",
+    "filePath": "5_56x45_mm_m856a1",
+    "marketSearchName": "5.56x45 mm M856A1",
+    "marketPositionOffset": 0,
+    "price_array": [
+      400,
+      413,
+      414,
+      414,
+      415,
+      450,
+      450,
+      454,
+      454,
+      455,
+      458,
+      459,
+      460,
+      460
+    ],
+    "slots": 1,
+    "timestamp": "20191208140436",
+    "price_per_slot": 24540,
+    "price_avg": 409
+  },
+  {
+    "name": "5.56x45 mm M995",
+    "category": "556x45",
+    "image": "M995ICON.png",
+    "title": "5.56x45 mm M995",
+    "pageId": 7055,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b6/M995ICON.png?version=49a32af1fc51d728700e3481eead9a73",
+    "filePath": "5_56x45_mm_m995",
+    "marketSearchName": "5.56x45 mm M995",
+    "marketPositionOffset": 0,
+    "price_array": [
+      939,
+      940,
+      940,
+      945,
+      950,
+      950,
+      955,
+      959,
+      960,
+      961,
+      964,
+      965,
+      975,
+      979
+    ],
+    "slots": 1,
+    "timestamp": "20191208140440",
+    "price_per_slot": 56340,
+    "price_avg": 939
+  },
+  {
+    "name": "5.56x45 mm Mk 255 Mod 0",
+    "category": "556x45",
+    "image": "MK255ICON.png",
+    "title": "5.56x45 mm Mk 255 Mod 0",
+    "pageId": 7054,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/MK255ICON.png?version=11a6556f760ee133045f83e66037bb99",
+    "filePath": "5_56x45_mm_mk_255_mod_0",
+    "marketSearchName": "5.56x45 mm Mk 255 Mod 0",
+    "marketPositionOffset": 0,
+    "price_array": [
+      99,
+      134,
+      134,
+      140,
+      150,
+      162
+    ],
+    "slots": 1,
+    "timestamp": "20191208140443",
+    "price_per_slot": 7320,
+    "price_avg": 122
+  },
+  {
+    "name": "5.56x45 mm Warmage",
+    "category": "556x45",
+    "image": "556warmageicon.png",
+    "title": "5.56x45 mm Warmage",
+    "pageId": 12272,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/556warmageicon.png?version=e19c0ac6b97c181786859d8ea9dae1e2",
+    "filePath": "5_56x45_mm_warmage",
+    "marketSearchName": "5.56x45 mm Warmage",
+    "marketPositionOffset": 0,
+    "price_array": [
+      400,
+      409,
+      420,
+      420,
+      430,
+      439,
+      440,
+      444,
+      450,
+      489,
+      490,
+      499,
+      500,
+      540
+    ],
+    "slots": 1,
+    "timestamp": "20191208140446",
+    "price_per_slot": 24540,
+    "price_avg": 409
+  },
+  {
+    "name": "5.7x28 mm L191",
+    "category": "57x28",
+    "image": "57x28mmL191Icon.png",
+    "title": "5.7x28 mm L191",
+    "pageId": 14647,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f4/57x28mmL191Icon.png?version=500b2de80a26509ce43fa4e7e7e0555b",
+    "filePath": "5_7x28_mm_l191",
+    "marketSearchName": "5.7x28 mm L191",
+    "marketPositionOffset": 0,
+    "price_array": [
+      183,
+      184,
+      188,
+      189,
+      189,
+      190,
+      190,
+      190,
+      192,
+      193,
+      193,
+      194,
+      195
+    ],
+    "slots": 1,
+    "timestamp": "20191208140319",
+    "price_per_slot": 11100,
+    "price_avg": 185
+  },
+  {
+    "name": "5.7x28 mm R37.F",
+    "category": "57x28",
+    "image": "R37F icon.png",
+    "title": "5.7x28 mm R37.F",
+    "pageId": 14648,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6f/R37F_icon.png?version=6e5230d6f81722aa85b29b7b0abbbd6d",
+    "filePath": "5_7x28_mm_r37_f",
+    "marketSearchName": "5.7x28 mm R37.F",
+    "marketPositionOffset": 0,
+    "price_array": [
+      250,
+      250,
+      270,
+      296,
+      298,
+      298,
+      300,
+      699
+    ],
+    "slots": 1,
+    "timestamp": "20191208140323",
+    "price_per_slot": 15360,
+    "price_avg": 256
+  },
+  {
+    "name": "5.7x28 mm R37.X",
+    "category": "57x28",
+    "image": "R37X icon.png",
+    "title": "5.7x28 mm R37.X",
+    "pageId": 14649,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2e/R37X_icon.png?version=adff820a667c3038e4e5bd3dedffe40b",
+    "filePath": "5_7x28_mm_r37_x",
+    "marketSearchName": "5.7x28 mm R37.X",
+    "marketPositionOffset": 0,
+    "price_array": [
+      225,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      234,
+      235,
+      238,
+      239,
+      240,
+      247
+    ],
+    "slots": 1,
+    "timestamp": "20191208140326",
+    "price_per_slot": 13680,
+    "price_avg": 228
+  },
+  {
+    "name": "5.7x28 mm SB193",
+    "category": "57x28",
+    "image": "57x28mmSB193Icon.png",
+    "title": "5.7x28 mm SB193",
+    "pageId": 14650,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/57x28mmSB193Icon.png?version=84ec972ae7597125c81424d6cbf15f16",
+    "filePath": "5_7x28_mm_sb193",
+    "marketSearchName": "5.7x28 mm SB193",
+    "marketPositionOffset": 0,
+    "price_array": [
+      218,
+      239,
+      249,
+      251,
+      252,
+      253,
+      254,
+      255,
+      259,
+      264,
+      265,
+      268,
+      269,
+      270
+    ],
+    "slots": 1,
+    "timestamp": "20191208140329",
+    "price_per_slot": 14100,
+    "price_avg": 235
+  },
+  {
+    "name": "5.7x28 mm SS190",
+    "category": "57x28",
+    "image": "57x28mmSS190Icon.png",
+    "title": "5.7x28 mm SS190",
+    "pageId": 14651,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/57x28mmSS190Icon.png?version=8e4af83742b86027ef47376fdb94f649",
+    "filePath": "5_7x28_mm_ss190",
+    "marketSearchName": "5.7x28 mm SS190",
+    "marketPositionOffset": 0,
+    "price_array": [
+      182,
+      190,
+      192,
+      192,
+      194,
+      194,
+      200,
+      206,
+      207,
+      208,
+      209,
+      210,
+      210
+    ],
+    "slots": 1,
+    "timestamp": "20191208140332",
+    "price_per_slot": 11280,
+    "price_avg": 188
+  },
+  {
+    "name": "5.7x28 mm SS197SR",
+    "category": "57x28",
+    "image": "57x28mmSS197SRIcon.png",
+    "title": "5.7x28 mm SS197SR",
+    "pageId": 14652,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/57x28mmSS197SRIcon.png?version=ecdffda84033d72a877fb8b90f575c5b",
+    "filePath": "5_7x28_mm_ss197sr",
+    "marketSearchName": "5.7x28 mm SS197SR",
+    "marketPositionOffset": 0,
+    "price_array": [
+      187,
+      189,
+      190,
+      191,
+      191,
+      192,
+      193,
+      194,
+      200,
+      200,
+      213,
+      214,
+      215,
+      215
+    ],
+    "slots": 1,
+    "timestamp": "20191208140335",
+    "price_per_slot": 11280,
+    "price_avg": 188
+  },
+  {
+    "name": "5.7x28 mm SS198LF",
+    "category": "57x28",
+    "image": "57x28mmSS198LFIcon.png",
+    "title": "5.7x28 mm SS198LF",
+    "pageId": 14653,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/14/57x28mmSS198LFIcon.png?version=0fd9c887053600a7d2f286b2628252c5",
+    "filePath": "5_7x28_mm_ss198lf",
+    "marketSearchName": "5.7x28 mm SS198LF",
+    "marketPositionOffset": 0,
+    "price_array": [
+      178,
+      184,
+      188,
+      189,
+      204,
+      205,
+      212,
+      213,
+      217,
+      218,
+      219,
+      229,
+      233
+    ],
+    "slots": 1,
+    "timestamp": "20191208140339",
+    "price_per_slot": 10980,
+    "price_avg": 183
+  },
+  {
+    "name": "7.62x25mm TT AKBS",
+    "category": "762x25",
+    "image": "TTAKBS.png",
+    "title": "7.62x25mm TT AKBS",
+    "pageId": 3827,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/TTAKBS.png?version=18a97faf88c33a7b52377c94899988ba",
+    "filePath": "7_62x25mm_tt_akbs",
+    "marketSearchName": "7.62x25mm TT AKBS",
+    "marketPositionOffset": 0,
+    "price_array": [
+      45,
+      51
+    ],
+    "slots": 1,
+    "timestamp": "20191208140714",
+    "price_per_slot": 2400,
+    "price_avg": 48
+  },
+  {
+    "name": "7.62x25mm TT FMJ43",
+    "category": "762x25",
+    "image": "TTFMJ43.png",
+    "title": "7.62x25mm TT FMJ43",
+    "pageId": 3830,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/TTFMJ43.png?version=eb32b36ccdc41c8c8a065ef1e24df6da",
+    "filePath": "7_62x25mm_tt_fmj43",
+    "marketSearchName": "7.62x25mm TT FMJ43",
+    "marketPositionOffset": 0,
+    "price_array": [
+      52,
+      65,
+      85,
+      100
+    ],
+    "slots": 1,
+    "timestamp": "20191208140717",
+    "price_per_slot": 3350,
+    "price_avg": 67
+  },
+  {
+    "name": "7.62x25mm TT LRN",
+    "category": "762x25",
+    "image": "TTLRN.png",
+    "title": "7.62x25mm TT LRN",
+    "pageId": 3831,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/TTLRN.png?version=36d8d559ac5ccd814e6c16d7107e3b70",
+    "filePath": "7_62x25mm_tt_lrn",
+    "marketSearchName": "7.62x25mm TT LRN",
+    "marketPositionOffset": 0,
+    "price_array": [
+      49,
+      54,
+      100
+    ],
+    "slots": 1,
+    "timestamp": "20191208140720",
+    "price_per_slot": 3350,
+    "price_avg": 67
+  },
+  {
+    "name": "7.62x25mm TT LRNPC",
+    "category": "762x25",
+    "image": "TTLRNPC.png",
+    "title": "7.62x25mm TT LRNPC",
+    "pageId": 3832,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/TTLRNPC.png?version=66874f58a563b39616adf3cd772dfda5",
+    "filePath": "7_62x25mm_tt_lrnpc",
+    "marketSearchName": "7.62x25mm TT LRNPC",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70,
+      77,
+      78,
+      80
+    ],
+    "slots": 1,
+    "timestamp": "20191208140723",
+    "price_per_slot": 3750,
+    "price_avg": 75
+  },
+  {
+    "name": "7.62x25mm TT P gl",
+    "category": "762x25",
+    "image": "TTPGL.png",
+    "title": "7.62x25mm TT P gl",
+    "pageId": 3834,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/TTPGL.png?version=4a7d43231c500510809b572d6eda027e",
+    "filePath": "7_62x25mm_tt_p_gl",
+    "marketSearchName": "7.62x25mm TT P gl",
+    "marketPositionOffset": 0,
+    "price_array": [
+      55,
+      97,
+      98
+    ],
+    "slots": 1,
+    "timestamp": "20191208140727",
+    "price_per_slot": 4150,
+    "price_avg": 83
+  },
+  {
+    "name": "7.62x25mm TT Pst gzh",
+    "category": "762x25",
+    "image": "TTPSTGZH.png",
+    "title": "7.62x25mm TT Pst gzh",
+    "pageId": 3836,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/TTPSTGZH.png?version=db9514eac39abb7f9a673dfb3a2b06e1",
+    "filePath": "7_62x25mm_tt_pst_gzh",
+    "marketSearchName": "7.62x25mm TT Pst gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      73,
+      82,
+      91,
+      93
+    ],
+    "slots": 1,
+    "timestamp": "20191208140730",
+    "price_per_slot": 4100,
+    "price_avg": 82
+  },
+  {
+    "name": "7.62x25mm TT PT gzh",
+    "category": "762x25",
+    "image": "TTPTGZH.png",
+    "title": "7.62x25mm TT PT gzh",
+    "pageId": 3838,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/TTPTGZH.png?version=8f9c5a6cf1c08116a0c2420cf0fd678a",
+    "filePath": "7_62x25mm_tt_pt_gzh",
+    "marketSearchName": "7.62x25mm TT PT gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      66,
+      70,
+      95,
+      100
+    ],
+    "slots": 1,
+    "timestamp": "20191208140733",
+    "price_per_slot": 3850,
+    "price_avg": 77
+  },
+  {
+    "name": "7.62x39 mm BP",
+    "category": "762x39",
+    "image": "7.62x39BP.png",
+    "title": "7.62x39 mm BP",
+    "pageId": 7037,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4a/7.62x39BP.png",
+    "filePath": "7_62x39_mm_bp",
+    "marketSearchName": "7.62x39 mm BP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      507,
+      509,
+      510,
+      517,
+      518,
+      519,
+      520,
+      520,
+      520,
+      520,
+      520,
+      520
+    ],
+    "slots": 1,
+    "timestamp": "20191208140449",
+    "price_per_slot": 30480,
+    "price_avg": 508
+  },
+  {
+    "name": "7.62x39 mm HP",
+    "category": "762x39",
+    "image": "7.62x39HP.png",
+    "title": "7.62x39 mm HP",
+    "pageId": 7043,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/7.62x39HP.png",
+    "filePath": "7_62x39_mm_hp",
+    "marketSearchName": "7.62x39 mm HP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      62,
+      65,
+      66,
+      67,
+      81,
+      81,
+      81,
+      82,
+      92
+    ],
+    "slots": 1,
+    "timestamp": "20191208140453",
+    "price_per_slot": 3840,
+    "price_avg": 64
+  },
+  {
+    "name": "7.62x39 mm PS",
+    "category": "762x39",
+    "image": "7.62x39PS.png",
+    "title": "7.62x39 mm PS",
+    "pageId": 3802,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/7.62x39PS.png",
+    "filePath": "7_62x39_mm_ps",
+    "marketSearchName": "7.62x39 mm PS",
+    "marketPositionOffset": 0,
+    "price_array": [
+      85,
+      85,
+      87,
+      90,
+      91,
+      96,
+      108,
+      110,
+      150,
+      220,
+      220
+    ],
+    "slots": 1,
+    "timestamp": "20191208140456",
+    "price_per_slot": 5100,
+    "price_avg": 85
+  },
+  {
+    "name": "7.62x39 mm T45M",
+    "category": "762x39",
+    "image": "7.62x39T45M.png",
+    "title": "7.62x39 mm T45M",
+    "pageId": 7036,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/7.62x39T45M.png",
+    "filePath": "7_62x39_mm_t45m",
+    "marketSearchName": "7.62x39 mm T45M",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70,
+      76,
+      189,
+      190,
+      199,
+      214,
+      215,
+      219,
+      220,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140459",
+    "price_per_slot": 6660,
+    "price_avg": 111
+  },
+  {
+    "name": "7.62x39 mm US",
+    "category": "762x39",
+    "image": "7.62x39US.png",
+    "title": "7.62x39 mm US",
+    "pageId": 7038,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/7.62x39US.png",
+    "filePath": "7_62x39_mm_us",
+    "marketSearchName": "7.62x39 mm US",
+    "marketPositionOffset": 0,
+    "price_array": [
+      140,
+      150,
+      154,
+      174
+    ],
+    "slots": 1,
+    "timestamp": "20191208140502",
+    "price_per_slot": 8880,
+    "price_avg": 148
+  },
+  {
+    "name": "7.62x51 mm M61",
+    "category": "762x51",
+    "image": "M61ICON.png",
+    "title": "7.62x51 mm M61",
+    "pageId": 7489,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/M61ICON.png?version=64083bc1554a9c38b3cae37f63fc5a46",
+    "filePath": "7_62x51_mm_m61",
+    "marketSearchName": "7.62x51 mm M61",
+    "marketPositionOffset": 0,
+    "price_array": [
+      844,
+      845,
+      848,
+      870,
+      875,
+      880,
+      888,
+      889,
+      889,
+      890,
+      890
+    ],
+    "slots": 1,
+    "timestamp": "20191208140505",
+    "price_per_slot": 33800,
+    "price_avg": 845
+  },
+  {
+    "name": "7.62x51 mm M62",
+    "category": "762x51",
+    "image": "M62ICON.png",
+    "title": "7.62x51 mm M62",
+    "pageId": 7490,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/M62ICON.png?version=12e68658b06114fe25f951e8bb5fc199",
+    "filePath": "7_62x51_mm_m62",
+    "marketSearchName": "7.62x51 mm M62",
+    "marketPositionOffset": 0,
+    "price_array": [
+      437,
+      438,
+      439,
+      546,
+      547,
+      548,
+      548,
+      555,
+      556,
+      562,
+      570,
+      584,
+      585
+    ],
+    "slots": 1,
+    "timestamp": "20191208140509",
+    "price_per_slot": 17520,
+    "price_avg": 438
+  },
+  {
+    "name": "7.62x51 mm M80",
+    "category": "762x51",
+    "image": "M80ICON.png",
+    "title": "7.62x51 mm M80",
+    "pageId": 7045,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/M80ICON.png?version=31613b599bd38c4d92010035be2af0fc",
+    "filePath": "7_62x51_mm_m80",
+    "marketSearchName": "7.62x51 mm M80",
+    "marketPositionOffset": 0,
+    "price_array": [
+      237,
+      241,
+      245,
+      246,
+      247,
+      248,
+      248,
+      248,
+      250,
+      250,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140512",
+    "price_per_slot": 9640,
+    "price_avg": 241
+  },
+  {
+    "name": "7.62x54R 7N1 Sniper cartridge",
+    "category": "762x54",
+    "image": "7N1ICON.png",
+    "title": "7.62x54R 7N1 Sniper cartridge",
+    "pageId": 5948,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/7N1ICON.png?version=2945bdfeaab966c63761abdb87d7218d",
+    "filePath": "7_62x54r_7n1_sniper_cartridge",
+    "marketSearchName": "7.62x54R 7N1 Sniper cartridge",
+    "marketPositionOffset": 0,
+    "price_array": [
+      322,
+      599,
+      599,
+      600,
+      600,
+      600,
+      600,
+      604,
+      605,
+      610,
+      613,
+      614,
+      614
+    ],
+    "slots": 1,
+    "timestamp": "20191208140515",
+    "price_per_slot": 20240,
+    "price_avg": 506
+  },
+  {
+    "name": "7.62x54R LPS Gzh",
+    "category": "762x54",
+    "image": "LPSGZHICON.png",
+    "title": "7.62x54R LPS Gzh",
+    "pageId": 6561,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/LPSGZHICON.png?version=d4d0b86625e54fe31d334fec2b6cd251",
+    "filePath": "7_62x54r_lps_gzh",
+    "marketSearchName": "7.62x54R LPS Gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      179,
+      179,
+      180,
+      180,
+      180,
+      180,
+      198,
+      199,
+      200,
+      200,
+      210,
+      224
+    ],
+    "slots": 1,
+    "timestamp": "20191208140518",
+    "price_per_slot": 7160,
+    "price_avg": 179
+  },
+  {
+    "name": "7.62x54R SNB",
+    "category": "762x54",
+    "image": "SNBICON.png",
+    "title": "7.62x54R SNB",
+    "pageId": 5949,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/SNBICON.png?version=95dc9486b9875f2227008ad171917790",
+    "filePath": "7_62x54r_snb",
+    "marketSearchName": "7.62x54R SNB",
+    "marketPositionOffset": 0,
+    "price_array": [
+      430,
+      454,
+      455,
+      460,
+      487,
+      490,
+      494,
+      495,
+      495,
+      496,
+      497
+    ],
+    "slots": 1,
+    "timestamp": "20191208140521",
+    "price_per_slot": 17840,
+    "price_avg": 446
+  },
+  {
+    "name": "9x18 mm PM 9 BZT gzh",
+    "category": "9x18",
+    "image": "9x189BZTGZH.png",
+    "title": "9x18 mm PM 9 BZT gzh",
+    "pageId": 3841,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/9x189BZTGZH.png?version=c0a9b6acebe33f4fb1dfe2bdbe3b9f8e",
+    "filePath": "9x18_mm_pm_9_bzt_gzh",
+    "marketSearchName": "9x18 mm PM 9 BZT gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      68,
+      72,
+      82,
+      85,
+      87,
+      92,
+      95,
+      410
+    ],
+    "slots": 1,
+    "timestamp": "20191208140736",
+    "price_per_slot": 3700,
+    "price_avg": 74
+  },
+  {
+    "name": "9x18 mm PM 9 P gzh",
+    "category": "9x18",
+    "image": "9x189PGZH.png",
+    "title": "9x18 mm PM 9 P gzh",
+    "pageId": 3844,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/9x189PGZH.png?version=45149c9f6a75cfd0b55cb880b6609524",
+    "filePath": "9x18_mm_pm_9_p_gzh",
+    "marketSearchName": "9x18 mm PM 9 P gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      13,
+      16,
+      140
+    ],
+    "slots": 1,
+    "timestamp": "20191208140739",
+    "price_per_slot": 2800,
+    "price_avg": 56
+  },
+  {
+    "name": "9x18 mm PM PBM",
+    "category": "9x18",
+    "image": "9x18PBM.png",
+    "title": "9x18 mm PM PBM",
+    "pageId": 3847,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/9x18PBM.png?version=dad69bdeae32e528c4bca4560557f487",
+    "filePath": "9x18_mm_pm_pbm",
+    "marketSearchName": "9x18 mm PM PBM",
+    "marketPositionOffset": 0,
+    "price_array": [
+      74,
+      109,
+      110,
+      127,
+      129,
+      130,
+      134
+    ],
+    "slots": 1,
+    "timestamp": "20191208140743",
+    "price_per_slot": 4850,
+    "price_avg": 97
+  },
+  {
+    "name": "9x18 mm PM PMM",
+    "category": "9x18",
+    "image": "9x18PMM.png",
+    "title": "9x18 mm PM PMM",
+    "pageId": 3850,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/9x18PMM.png?version=fe5b27d1b0e3aaa3da127c5cadcf9098",
+    "filePath": "9x18_mm_pm_pmm",
+    "marketSearchName": "9x18 mm PM PMM",
+    "marketPositionOffset": 0,
+    "price_array": [
+      120,
+      145,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      159,
+      160,
+      195,
+      199
+    ],
+    "slots": 1,
+    "timestamp": "20191208140746",
+    "price_per_slot": 6800,
+    "price_avg": 136
+  },
+  {
+    "name": "9x18 mm PM PPe gzh",
+    "category": "9x18",
+    "image": "9x18PPEGZH.png",
+    "title": "9x18 mm PM PPe gzh",
+    "pageId": 3852,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/9x18PPEGZH.png?version=d09f5ffc066fe1b910699750a53f2634",
+    "filePath": "9x18_mm_pm_ppe_gzh",
+    "marketSearchName": "9x18 mm PM PPe gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      54,
+      88
+    ],
+    "slots": 1,
+    "timestamp": "20191208140749",
+    "price_per_slot": 3550,
+    "price_avg": 71
+  },
+  {
+    "name": "9x18 mm PM PPT gzh",
+    "category": "9x18",
+    "image": "9x18PPTGZH.png",
+    "title": "9x18 mm PM PPT gzh",
+    "pageId": 3853,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/9x18PPTGZH.png?version=d854bdeb2bdd53839ce307e4ee0de3de",
+    "filePath": "9x18_mm_pm_ppt_gzh",
+    "marketSearchName": "9x18 mm PM PPT gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      45,
+      89
+    ],
+    "slots": 1,
+    "timestamp": "20191208140752",
+    "price_per_slot": 3350,
+    "price_avg": 67
+  },
+  {
+    "name": "9x18 mm PM PRS gs",
+    "category": "9x18",
+    "image": "9x18PRSGS.png",
+    "title": "9x18 mm PM PRS gs",
+    "pageId": 3854,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/9x18PRSGS.png?version=5a76d7e7f646f2ecdc1bed337779bccb",
+    "filePath": "9x18_mm_pm_prs_gs",
+    "marketSearchName": "9x18 mm PM PRS gs",
+    "marketPositionOffset": 0,
+    "price_array": [
+      41
+    ],
+    "slots": 1,
+    "timestamp": "20191208140755",
+    "price_per_slot": 2050,
+    "price_avg": 41
+  },
+  {
+    "name": "9x18 mm PM PS gs PPO",
+    "category": "9x18",
+    "image": "9x18PSGSPPO.png",
+    "title": "9x18 mm PM PS gs PPO",
+    "pageId": 3856,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/9x18PSGSPPO.png?version=2985bcca8e511f3e112bcc30f03614c0",
+    "filePath": "9x18_mm_pm_ps_gs_ppo",
+    "marketSearchName": "9x18 mm PM PS gs PPO",
+    "marketPositionOffset": 0,
+    "price_array": [
+      31
+    ],
+    "slots": 1,
+    "timestamp": "20191208140759",
+    "price_per_slot": 1550,
+    "price_avg": 31
+  },
+  {
+    "name": "9x18 mm PM PSO gzh",
+    "category": "9x18",
+    "image": "9x18PSOGZH.png",
+    "title": "9x18 mm PM PSO gzh",
+    "pageId": 3859,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/9x18PSOGZH.png?version=8eba89487c4f829e2c40b40ed6bfc1d1",
+    "filePath": "9x18_mm_pm_pso_gzh",
+    "marketSearchName": "9x18 mm PM PSO gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23,
+      61,
+      63
+    ],
+    "slots": 1,
+    "timestamp": "20191208140802",
+    "price_per_slot": 2450,
+    "price_avg": 49
+  },
+  {
+    "name": "9x18 mm PM Pst gzh",
+    "category": "9x18",
+    "image": "9x18PSTGZH.png",
+    "title": "9x18 mm PM Pst gzh",
+    "pageId": 3862,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/9x18PSTGZH.png?version=4e44fe3442e1393c5fbf012d00909487",
+    "filePath": "9x18_mm_pm_pst_gzh",
+    "marketSearchName": "9x18 mm PM Pst gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      47,
+      59,
+      78,
+      79,
+      80
+    ],
+    "slots": 1,
+    "timestamp": "20191208140805",
+    "price_per_slot": 3050,
+    "price_avg": 61
+  },
+  {
+    "name": "9x18 mm PM PSV",
+    "category": "9x18",
+    "image": "9x18PSV.png",
+    "title": "9x18 mm PM PSV",
+    "pageId": 3865,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/9x18PSV.png?version=08dc415336367a1dfbb7463dfd7a7070",
+    "filePath": "9x18_mm_pm_psv",
+    "marketSearchName": "9x18 mm PM PSV",
+    "marketPositionOffset": 0,
+    "price_array": [
+      71,
+      144
+    ],
+    "slots": 1,
+    "timestamp": "20191208140808",
+    "price_per_slot": 5350,
+    "price_avg": 107
+  },
+  {
+    "name": "9x18 PM mm RG028 gzh",
+    "category": "9x18",
+    "image": "9x18RG028GZH.png",
+    "title": "9x18 PM mm RG028 gzh",
+    "pageId": 3866,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/9x18RG028GZH.png?version=d0d4422ab8bfb99fdfcc55f6ccd271bf",
+    "filePath": "9x18_pm_mm_rg028_gzh",
+    "marketSearchName": "9x18 PM mm RG028 gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      82,
+      103,
+      119,
+      120,
+      122
+    ],
+    "slots": 1,
+    "timestamp": "20191208140811",
+    "price_per_slot": 5050,
+    "price_avg": 101
+  },
+  {
+    "name": "9x18 mm PM SP7 gzh",
+    "category": "9x18",
+    "image": "9x18SP7GZH.png",
+    "title": "9x18 mm PM SP7 gzh",
+    "pageId": 3867,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/59/9x18SP7GZH.png?version=368a4d974f99cc6950f62cd1c62316f1",
+    "filePath": "9x18_mm_pm_sp7_gzh",
+    "marketSearchName": "9x18 mm PM SP7 gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      147,
+      193,
+      194,
+      199
+    ],
+    "slots": 1,
+    "timestamp": "20191208140815",
+    "price_per_slot": 8900,
+    "price_avg": 178
+  },
+  {
+    "name": "9x18 mm PM SP8 gzh",
+    "category": "9x18",
+    "image": "9x18SP8GZH.png",
+    "title": "9x18 mm PM SP8 gzh",
+    "pageId": 3868,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/9x18SP8GZH.png?version=0fb7dc74c125200775fd556574dbb3da",
+    "filePath": "9x18_mm_pm_sp8_gzh",
+    "marketSearchName": "9x18 mm PM SP8 gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      66,
+      126
+    ],
+    "slots": 1,
+    "timestamp": "20191208140818",
+    "price_per_slot": 4800,
+    "price_avg": 96
+  },
+  {
+    "name": "9x21 mm SP10",
+    "category": "9x21",
+    "image": "9x21sp10.png",
+    "title": "9x21 mm SP10",
+    "pageId": 7389,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/9x21sp10.png?version=8adaa5036d90a3d401ae045255adb80e",
+    "filePath": "9x21_mm_sp10",
+    "marketSearchName": "9x21 mm SP10",
+    "marketPositionOffset": 0,
+    "price_array": [
+      146,
+      181,
+      182,
+      183,
+      185,
+      219,
+      229,
+      230,
+      240,
+      247,
+      248,
+      249,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140254",
+    "price_per_slot": 8450,
+    "price_avg": 169
+  },
+  {
+    "name": "9x21 mm SP11",
+    "category": "9x21",
+    "image": "9x21sp11.png",
+    "title": "9x21 mm SP11",
+    "pageId": 7390,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/9x21sp11.png?version=cb4c29e7ea431fa06b9a23ab83d03ec8",
+    "filePath": "9x21_mm_sp11",
+    "marketSearchName": "9x21 mm SP11",
+    "marketPositionOffset": 0,
+    "price_array": [
+      156,
+      186,
+      187,
+      188
+    ],
+    "slots": 1,
+    "timestamp": "20191208140257",
+    "price_per_slot": 8800,
+    "price_avg": 176
+  },
+  {
+    "name": "9x21 mm SP12",
+    "category": "9x21",
+    "image": "9x21sp12.png",
+    "title": "9x21 mm SP12",
+    "pageId": 7391,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/9x21sp12.png?version=df1f083cad7d01a62f7c53c96e041e84",
+    "filePath": "9x21_mm_sp12",
+    "marketSearchName": "9x21 mm SP12",
+    "marketPositionOffset": 0,
+    "price_array": [
+      205,
+      250,
+      257,
+      258,
+      259,
+      260,
+      265
+    ],
+    "slots": 1,
+    "timestamp": "20191208140300",
+    "price_per_slot": 11850,
+    "price_avg": 237
+  },
+  {
+    "name": "9x21 mm SP13",
+    "category": "9x21",
+    "image": "9x21sp13.png",
+    "title": "9x21 mm SP13",
+    "pageId": 7392,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/9x21sp13.png?version=f4538792fa82d46ad18181ac443c1684",
+    "filePath": "9x21_mm_sp13",
+    "marketSearchName": "9x21 mm SP13",
+    "marketPositionOffset": 0,
+    "price_array": [
+      251,
+      333,
+      335,
+      338,
+      339,
+      340,
+      349
+    ],
+    "slots": 1,
+    "timestamp": "20191208140303",
+    "price_per_slot": 15300,
+    "price_avg": 306
+  },
+  {
+    "name": "9x39 mm 7N9 SPP",
+    "category": "9x39",
+    "image": "7n9icon.png",
+    "title": "9x39 mm 7N9 SPP",
+    "pageId": 12389,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/7n9icon.png?version=0391843a48d3953ba832ff11ff6c5cad",
+    "filePath": "9x39_mm_7n9_spp",
+    "marketSearchName": "9x39 mm 7N9 SPP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      391,
+      422,
+      423,
+      423,
+      424,
+      425,
+      425,
+      425,
+      425,
+      427,
+      428,
+      428
+    ],
+    "slots": 1,
+    "timestamp": "20191208140525",
+    "price_per_slot": 20600,
+    "price_avg": 412
+  },
+  {
+    "name": "9x39 mm 7N12 BP",
+    "category": "9x39",
+    "image": "7n12icon.png",
+    "title": "9x39 mm 7N12 BP",
+    "pageId": 12387,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/76/7n12icon.png?version=891814b118a55578afca6cf04d91b47b",
+    "filePath": "9x39_mm_7n12_bp",
+    "marketSearchName": "9x39 mm 7N12 BP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1000,
+      1000,
+      1030,
+      1040,
+      1047,
+      1048,
+      1049,
+      1050,
+      1074,
+      1075,
+      1100,
+      1150
+    ],
+    "slots": 1,
+    "timestamp": "20191208140528",
+    "price_per_slot": 50500,
+    "price_avg": 1010
+  },
+  {
+    "name": "9x39 mm SP-5",
+    "category": "9x39",
+    "image": "SP5ICON.png",
+    "title": "9x39 mm SP-5",
+    "pageId": 3871,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b8/SP5ICON.png?version=8aa68917f281e60854500afe0f4bf5d3",
+    "filePath": "9x39_mm_sp_5",
+    "marketSearchName": "9x39 mm SP-5",
+    "marketPositionOffset": 0,
+    "price_array": [
+      167,
+      176,
+      177,
+      180,
+      208,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140531",
+    "price_per_slot": 8650,
+    "price_avg": 173
+  },
+  {
+    "name": "9x39 mm SP-6",
+    "category": "9x39",
+    "image": "SP6ICON.png",
+    "title": "9x39 mm SP-6",
+    "pageId": 3873,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/SP6ICON.png?version=4b94a6bb5f4284d33dc049692010f6bc",
+    "filePath": "9x39_mm_sp_6",
+    "marketSearchName": "9x39 mm SP-6",
+    "marketPositionOffset": 0,
+    "price_array": [
+      291,
+      301,
+      304,
+      304,
+      304,
+      305,
+      307,
+      307,
+      307,
+      309,
+      310,
+      311
+    ],
+    "slots": 1,
+    "timestamp": "20191208140534",
+    "price_per_slot": 14900,
+    "price_avg": 298
+  },
+  {
     "name": "Ops-Core Fast GUNSIGHT Mandible",
     "category": "additional_armor",
     "image": "Mandible.png",
@@ -428,6 +3356,816 @@
     "timestamp": "20191207010923",
     "price_per_slot": 12916,
     "price_avg": 25833
+  },
+  {
+    "name": "Mystery Ranch Blackjack 50 backpack (multicam)",
+    "category": "backpacks",
+    "image": "Mystery Ranch Blackjack 50 backpack icon.png",
+    "title": "Mystery Ranch Blackjack 50 backpack (multicam)",
+    "pageId": 12522,
+    "size": {
+      "width": "5",
+      "height": "7"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6c/Mystery_Ranch_Blackjack_50_backpack_icon.png?version=ffb5c4fc76d9bf129d60faff235778b7",
+    "filePath": "mystery_ranch_blackjack_50_backpack__multicam_",
+    "marketSearchName": "Mystery Ranch Blackjack 50 backpack (multicam)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      179000,
+      180000,
+      182420,
+      184999,
+      185000,
+      190000,
+      190000,
+      199000,
+      199995,
+      199998,
+      199999,
+      200000,
+      200000,
+      201000
+    ],
+    "slots": 35,
+    "timestamp": "20191208141847",
+    "price_per_slot": 5156,
+    "price_avg": 180473
+  },
+  {
+    "name": "SSO \"Attack 2\" raid backpack",
+    "category": "backpacks",
+    "image": "AttackInventory.PNG",
+    "title": "SSO \"Attack 2\" raid backpack",
+    "pageId": 9565,
+    "size": {
+      "width": "5",
+      "height": "7"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d5/AttackInventory.PNG?version=0f908f6a4a3db9b677a5eeb3fa941a21",
+    "filePath": "sso__attack_2__raid_backpack",
+    "marketSearchName": "SSO \"Attack 2\" raid backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      50000,
+      56500,
+      59995,
+      59995,
+      59997,
+      59999,
+      60000,
+      60000,
+      60000,
+      60000,
+      60000,
+      60000
+    ],
+    "slots": 35,
+    "timestamp": "20191208141851",
+    "price_per_slot": 1585,
+    "price_avg": 55498
+  },
+  {
+    "name": "Pilgrim tourist backpack",
+    "category": "backpacks",
+    "image": "Pilgrim Backpack icon.png",
+    "title": "Pilgrim tourist backpack",
+    "pageId": 6111,
+    "size": {
+      "width": "5",
+      "height": "7"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fe/Pilgrim_Backpack_icon.png?version=3bd3b2619dfbbfa661ff19b6651fa277",
+    "filePath": "pilgrim_tourist_backpack",
+    "marketSearchName": "Pilgrim tourist backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      39500,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000
+    ],
+    "slots": 35,
+    "timestamp": "20191208141854",
+    "price_per_slot": 1138,
+    "price_avg": 39833
+  },
+  {
+    "name": "3V G Paratus 3-Day Operator's Tactical Backpack",
+    "category": "backpacks",
+    "image": "3V G Paratus icon.png",
+    "title": "3V G Paratus 3-Day Operator's Tactical Backpack",
+    "pageId": 12570,
+    "size": {
+      "width": "5",
+      "height": "7"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/92/3V_G_Paratus_icon.png?version=d218873fb1e3673c9a63932ba04d6dbd",
+    "filePath": "3v_g_paratus_3_day_operator_s_tactical_backpack",
+    "marketSearchName": "3V G Paratus 3-Day Operator's Tactical Backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      45000,
+      48000,
+      49000,
+      50000,
+      50000,
+      50000,
+      50000,
+      50000,
+      50000,
+      50000,
+      56000,
+      57000,
+      57999
+    ],
+    "slots": 35,
+    "timestamp": "20191208141857",
+    "price_per_slot": 1352,
+    "price_avg": 47333
+  },
+  {
+    "name": "Oakley Mechanism heavy duty backpack (black)",
+    "category": "backpacks",
+    "image": "Oakley Mechanism icon.png",
+    "title": "Oakley Mechanism heavy duty backpack (black)",
+    "pageId": 15590,
+    "size": {
+      "width": "5",
+      "height": "5"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5b/Oakley_Mechanism_icon.png?version=8f0aa9d0da3cbc9ebfd692aa02847883",
+    "filePath": "oakley_mechanism_heavy_duty_backpack__black_",
+    "marketSearchName": "Oakley Mechanism heavy duty backpack (black)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      40698,
+      45000,
+      46999,
+      47500,
+      48000,
+      49000,
+      49971,
+      49972,
+      50000,
+      50000,
+      50000,
+      50000,
+      51000,
+      53000
+    ],
+    "slots": 25,
+    "timestamp": "20191208141901",
+    "price_per_slot": 1769,
+    "price_avg": 44232
+  },
+  {
+    "name": "Camelbak Tri-Zip Backpack",
+    "category": "backpacks",
+    "image": "Tri-Zip Backpack.png",
+    "title": "Camelbak Tri-Zip Backpack",
+    "pageId": 4159,
+    "size": {
+      "width": "5",
+      "height": "6"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/Tri-Zip_Backpack.png",
+    "filePath": "camelbak_tri_zip_backpack",
+    "marketSearchName": "Camelbak Tri-Zip Backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      35000,
+      35000,
+      35500,
+      35500,
+      35999,
+      36000,
+      36000,
+      36000,
+      36500,
+      36999,
+      37572
+    ],
+    "slots": 30,
+    "timestamp": "20191208141904",
+    "price_per_slot": 1172,
+    "price_avg": 35166
+  },
+  {
+    "name": "Ana tactical Beta 2 battle backpack",
+    "category": "backpacks",
+    "image": "Beta2 outside.png",
+    "title": "Ana tactical Beta 2 battle backpack",
+    "pageId": 10803,
+    "size": {
+      "width": "5",
+      "height": "5"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/Beta2_outside.png?version=e7c3d588d0395b282306bd294883370a",
+    "filePath": "ana_tactical_beta_2_battle_backpack",
+    "marketSearchName": "Ana tactical Beta 2 battle backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      50000,
+      55000,
+      55555,
+      55555,
+      55800,
+      55999,
+      59000,
+      59999,
+      60000,
+      60000,
+      60000,
+      60000,
+      60000
+    ],
+    "slots": 25,
+    "timestamp": "20191208141907",
+    "price_per_slot": 2140,
+    "price_avg": 53518
+  },
+  {
+    "name": "Wartech Berkut VV-102 backpack",
+    "category": "backpacks",
+    "image": "Wartech Berkut VV-102 backpack icon.png",
+    "title": "Wartech Berkut VV-102 backpack",
+    "pageId": 13918,
+    "size": {
+      "width": "4",
+      "height": "5"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/56/Wartech_Berkut_VV-102_backpack_icon.png",
+    "filePath": "wartech_berkut_vv_102_backpack",
+    "marketSearchName": "Wartech Berkut VV-102 backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18000,
+      20160,
+      20999,
+      21000,
+      21000,
+      21000,
+      22000,
+      22000,
+      22000,
+      30000,
+      30000
+    ],
+    "slots": 20,
+    "timestamp": "20191208141911",
+    "price_per_slot": 985,
+    "price_avg": 19719
+  },
+  {
+    "name": "Scav Backpack",
+    "category": "backpacks",
+    "image": "ScavBP Icon.png",
+    "title": "Scav Backpack",
+    "pageId": 4163,
+    "size": {
+      "width": "4",
+      "height": "5"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/34/ScavBP_Icon.png?version=51e3e62a11f93e3569a4a8b6e3cf767f",
+    "filePath": "scav_backpack",
+    "marketSearchName": "Scav Backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15000,
+      15000,
+      15000,
+      15450,
+      15500,
+      15744,
+      16999,
+      17999,
+      18000,
+      18000
+    ],
+    "slots": 20,
+    "timestamp": "20191208141914",
+    "price_per_slot": 750,
+    "price_avg": 15000
+  },
+  {
+    "name": "Flyye MBSS Backpack",
+    "category": "backpacks",
+    "image": "Flyye MBSS Backpack.png",
+    "title": "Flyye MBSS Backpack",
+    "pageId": 4158,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/Flyye_MBSS_Backpack.png?version=2af28f12628b7fcb19d8d13db77d1670",
+    "filePath": "flyye_mbss_backpack",
+    "marketSearchName": "Flyye MBSS Backpack",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9999,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10500,
+      10777,
+      11000,
+      11000,
+      11000,
+      11111
+    ],
+    "slots": 16,
+    "timestamp": "20191208141917",
+    "price_per_slot": 624,
+    "price_avg": 9999
+  },
+  {
+    "name": "Duffle bag",
+    "category": "backpacks",
+    "image": "Duffel icon.png",
+    "title": "Duffle bag",
+    "pageId": 4166,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1f/Duffel_icon.png?version=bc04b452c4b1fae15d521728318d4cf4",
+    "filePath": "duffle_bag",
+    "marketSearchName": "Duffle bag",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2698,
+      4300,
+      5000,
+      5695,
+      5698,
+      6699,
+      6700,
+      6800,
+      7900,
+      8000,
+      8700
+    ],
+    "slots": 12,
+    "timestamp": "20191208141921",
+    "price_per_slot": 333,
+    "price_avg": 3999
+  },
+  {
+    "name": "Transformer Bag",
+    "category": "backpacks",
+    "image": "T-Bag icon.png",
+    "title": "Transformer Bag",
+    "pageId": 4167,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/T-Bag_icon.png",
+    "filePath": "transformer_bag",
+    "marketSearchName": "Transformer Bag",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3999,
+      4000,
+      4999,
+      5000,
+      5000,
+      8999,
+      9999,
+      11000,
+      11999
+    ],
+    "slots": 9,
+    "timestamp": "20191208141924",
+    "price_per_slot": 481,
+    "price_avg": 4332
+  },
+  {
+    "name": "VKBO army bag",
+    "category": "backpacks",
+    "image": "armybagicon.png",
+    "title": "VKBO army bag",
+    "pageId": 9566,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/35/Armybagicon.png?version=8048cf2ee7c211dba48b52a93df1c80e",
+    "filePath": "vkbo_army_bag",
+    "marketSearchName": "VKBO army bag",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3900,
+      8500,
+      10000,
+      11000,
+      12000
+    ],
+    "slots": 12,
+    "timestamp": "20191208141927",
+    "price_per_slot": 622,
+    "price_avg": 7466
+  },
+  {
+    "name": "Tactical sling bag",
+    "category": "backpacks",
+    "image": "SlingBackPackIcon.png",
+    "title": "Tactical sling bag",
+    "pageId": 9567,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/01/SlingBackPackIcon.png?version=6785a31626ef7b05dfdc7218ab30c9c4",
+    "filePath": "tactical_sling_bag",
+    "marketSearchName": "Tactical sling bag",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1890,
+      1936,
+      1980,
+      2396
+    ],
+    "slots": 9,
+    "timestamp": "20191208141931",
+    "price_per_slot": 215,
+    "price_avg": 1935
+  },
+  {
+    "name": "Scav Vest",
+    "category": "chest_rigs",
+    "image": "Scav_Vest_icon.png",
+    "title": "Scav Vest",
+    "pageId": 4156,
+    "size": {
+      "width": "2",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/Scav_Vest_icon.png?version=20c2858653b433cdfaca2d864ec2ffa4",
+    "filePath": "scav_vest",
+    "marketSearchName": "Scav Vest",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4283,
+      5000,
+      5000,
+      5260,
+      5269,
+      5459,
+      5600,
+      5600,
+      5700,
+      5700,
+      5750,
+      5995,
+      5995,
+      5995
+    ],
+    "slots": 6,
+    "timestamp": "20191208142425",
+    "price_per_slot": 793,
+    "price_avg": 4761
+  },
+  {
+    "name": "SOE Micro Rig",
+    "category": "chest_rigs",
+    "image": "SOEicon.png",
+    "title": "SOE Micro Rig",
+    "pageId": 15337,
+    "size": {
+      "width": "2",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/SOEicon.png?version=889a1a3adb865dc78d32bdf957ae141b",
+    "filePath": "soe_micro_rig",
+    "marketSearchName": "SOE Micro Rig",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10080
+    ],
+    "slots": 6,
+    "timestamp": "20191208142429",
+    "price_per_slot": 1680,
+    "price_avg": 10080
+  },
+  {
+    "name": "Wartech gear rig (TV-109, TV-106)",
+    "category": "chest_rigs",
+    "image": "Wartech_gear_rig_icon.png",
+    "title": "Wartech gear rig (TV-109, TV-106)",
+    "pageId": 6120,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/57/Wartech_gear_rig_icon.png?version=26ab005c0a33efaad8a5d04c6ccb6931",
+    "filePath": "wartech_gear_rig__tv_109__tv_106_",
+    "marketSearchName": "Wartech gear rig (TV-109, TV-106)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      13000,
+      13199,
+      13200,
+      13999,
+      14599,
+      14811,
+      14975,
+      14999,
+      15000,
+      15000,
+      16000,
+      16000,
+      16500,
+      16666
+    ],
+    "slots": 9,
+    "timestamp": "20191208142432",
+    "price_per_slot": 1459,
+    "price_avg": 13133
+  },
+  {
+    "name": "UMTBS 6sh112 Scout-Sniper",
+    "category": "chest_rigs",
+    "image": "Scout Sniper rig icon.png",
+    "title": "UMTBS 6sh112 Scout-Sniper",
+    "pageId": 5244,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a6/Scout_Sniper_rig_icon.png?version=350a7143101c3f30de9701a538091525",
+    "filePath": "umtbs_6sh112_scout_sniper",
+    "marketSearchName": "UMTBS 6sh112 Scout-Sniper",
+    "marketPositionOffset": 0,
+    "price_array": [
+      14000,
+      14400,
+      14444,
+      14500,
+      14996,
+      14997,
+      14999,
+      14999,
+      15000,
+      15000,
+      15000,
+      16000,
+      16000,
+      16000
+    ],
+    "slots": 12,
+    "timestamp": "20191208142435",
+    "price_per_slot": 1190,
+    "price_avg": 14281
+  },
+  {
+    "name": "Haley Strategic D3CRX Chest Harness",
+    "category": "chest_rigs",
+    "image": "D3CRX Icon.PNG",
+    "title": "Haley Strategic D3CRX Chest Harness",
+    "pageId": 15588,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6e/D3CRX_Icon.PNG?version=dc85b08fee7a6e80b8cbe5735fb743ef",
+    "filePath": "haley_strategic_d3crx_chest_harness",
+    "marketSearchName": "Haley Strategic D3CRX Chest Harness",
+    "marketPositionOffset": 0,
+    "price_array": [
+      27000,
+      27374,
+      31999,
+      32000,
+      33999,
+      34000,
+      35000,
+      35443,
+      35444
+    ],
+    "slots": 9,
+    "timestamp": "20191208142439",
+    "price_per_slot": 3199,
+    "price_avg": 28791
+  },
+  {
+    "name": "Triton M43-A Chest Harness",
+    "category": "chest_rigs",
+    "image": "Triton M43-A Chest Harness icon.png",
+    "title": "Triton M43-A Chest Harness",
+    "pageId": 13917,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/Triton_M43-A_Chest_Harness_icon.png",
+    "filePath": "triton_m43_a_chest_harness",
+    "marketSearchName": "Triton M43-A Chest Harness",
+    "marketPositionOffset": 0,
+    "price_array": [
+      19499,
+      20000,
+      20000,
+      20000,
+      20900,
+      21977,
+      22000,
+      22000,
+      22000,
+      22500,
+      24500,
+      24500,
+      25000,
+      25000
+    ],
+    "slots": 12,
+    "timestamp": "20191208142442",
+    "price_per_slot": 1652,
+    "price_avg": 19833
+  },
+  {
+    "name": "Blackhawk! Commando Chest Harness",
+    "category": "chest_rigs",
+    "image": "Blackhawk! commando icon.gif",
+    "title": "Blackhawk! Commando Chest Harness",
+    "pageId": 10776,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Blackhawk%21_commando_icon.gif",
+    "filePath": "blackhawk__commando_chest_harness",
+    "marketSearchName": "Blackhawk! Commando Chest Harness",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23398,
+      23399,
+      23500,
+      23999,
+      24999,
+      25000,
+      25000,
+      25000,
+      26500,
+      26999,
+      26999,
+      27000,
+      27000,
+      29000
+    ],
+    "slots": 12,
+    "timestamp": "20191208142445",
+    "price_per_slot": 1952,
+    "price_avg": 23432
+  },
+  {
+    "name": "BlackRock chest rig",
+    "category": "chest_rigs",
+    "image": "Blackrock_Icon.png",
+    "title": "BlackRock chest rig",
+    "pageId": 4155,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ac/Blackrock_Icon.png?version=d99c347c63eec67fe30da55256a8e27b",
+    "filePath": "blackrock_chest_rig",
+    "marketSearchName": "BlackRock chest rig",
+    "marketPositionOffset": 0,
+    "price_array": [
+      32750,
+      34444,
+      34999,
+      35000,
+      35000,
+      35888,
+      36000,
+      36900,
+      37000,
+      37000,
+      37899,
+      38000,
+      38000,
+      385301
+    ],
+    "slots": 12,
+    "timestamp": "20191208142449",
+    "price_per_slot": 2838,
+    "price_avg": 34064
+  },
+  {
+    "name": "Wartech MK3 chest rig (TV-104)",
+    "category": "chest_rigs",
+    "image": "Mk3.PNG",
+    "title": "Wartech MK3 chest rig (TV-104)",
+    "pageId": 9564,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Mk3.PNG?version=75249027bb92df3281ca7601afc524e5",
+    "filePath": "wartech_mk3_chest_rig__tv_104_",
+    "marketSearchName": "Wartech MK3 chest rig (TV-104)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23000,
+      27000,
+      28500,
+      28700,
+      28888,
+      29000,
+      29111,
+      29300,
+      29420,
+      29500,
+      29500,
+      30000,
+      30000,
+      30000
+    ],
+    "slots": 12,
+    "timestamp": "20191208142452",
+    "price_per_slot": 2180,
+    "price_avg": 26166
+  },
+  {
+    "name": "ANA Tactical Alpha chest rig",
+    "category": "chest_rigs",
+    "image": "Alpha Rig icon.png",
+    "title": "ANA Tactical Alpha chest rig",
+    "pageId": 6215,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/Alpha_Rig_icon.png?version=dbe943b21fe0eff9177a8d168ad2274b",
+    "filePath": "ana_tactical_alpha_chest_rig",
+    "marketSearchName": "ANA Tactical Alpha chest rig",
+    "marketPositionOffset": 0,
+    "price_array": [
+      29000,
+      30000,
+      30000,
+      30000,
+      30500,
+      31555,
+      32000,
+      33000,
+      33000,
+      33000,
+      34443,
+      34444,
+      34999,
+      35000
+    ],
+    "slots": 16,
+    "timestamp": "20191208142455",
+    "price_per_slot": 1854,
+    "price_avg": 29666
+  },
+  {
+    "name": "Belt-A + Belt-B gear rig",
+    "category": "chest_rigs",
+    "image": "Belt-A Belt-B gear rig icon.png",
+    "title": "Belt-A + Belt-B gear rig",
+    "pageId": 12665,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/db/Belt-A_Belt-B_gear_rig_icon.png",
+    "filePath": "belt_a___belt_b_gear_rig",
+    "marketSearchName": "Belt-A + Belt-B gear rig",
+    "marketPositionOffset": 0,
+    "price_array": [
+      38799,
+      39900,
+      39999,
+      39999,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000
+    ],
+    "slots": 16,
+    "timestamp": "20191208142459",
+    "price_per_slot": 2472,
+    "price_avg": 39566
   },
   {
     "name": "Belomo PK-06 reflex sight",
@@ -10060,21 +13798,22 @@
     "marketSearchName": "Folder with intelligence",
     "marketPositionOffset": 0,
     "price_array": [
-      46000,
-      47800,
-      48000,
-      48999,
-      48999,
-      49888,
-      50000,
-      50000,
-      50000,
-      50000
+      52000,
+      52000,
+      52222,
+      53999,
+      54000,
+      54000,
+      54800,
+      54898,
+      55000,
+      57900,
+      57999
     ],
     "slots": 2,
-    "timestamp": "20191208013403",
-    "price_per_slot": 23849,
-    "price_avg": 47699
+    "timestamp": "20191208141054",
+    "price_per_slot": 26037,
+    "price_avg": 52074
   },
   {
     "name": "Matches",
@@ -10091,24 +13830,24 @@
     "marketSearchName": "Matches",
     "marketPositionOffset": 0,
     "price_array": [
-      4800,
-      5000,
-      5000,
-      5399,
-      5400,
-      5499,
-      5500,
       5900,
-      5987,
-      5996,
-      5996,
-      5997,
-      6000
+      5999,
+      5999,
+      6000,
+      6000,
+      6250,
+      6500,
+      7000,
+      8500,
+      8500,
+      8888,
+      14000,
+      17300
     ],
     "slots": 1,
-    "timestamp": "20191208013406",
-    "price_per_slot": 5049,
-    "price_avg": 5049
+    "timestamp": "20191208141057",
+    "price_per_slot": 5966,
+    "price_avg": 5966
   },
   {
     "name": "Paracord",
@@ -10125,21 +13864,21 @@
     "marketSearchName": "Paracord",
     "marketPositionOffset": 0,
     "price_array": [
-      100000,
-      100000,
-      110000,
-      110000,
-      110000,
-      115000,
-      115000,
-      119500,
-      119999,
-      120000
+      130000,
+      130000,
+      130000,
+      133333,
+      134900,
+      135999,
+      138000,
+      138000,
+      140000,
+      140000
     ],
     "slots": 2,
-    "timestamp": "20191208013409",
-    "price_per_slot": 52500,
-    "price_avg": 105000
+    "timestamp": "20191208141100",
+    "price_per_slot": 65000,
+    "price_avg": 130000
   },
   {
     "name": "Corrugated hose",
@@ -10156,14 +13895,13 @@
     "marketSearchName": "Corrugated hose",
     "marketPositionOffset": 0,
     "price_array": [
-      47500,
-      48420,
-      48800
+      49998,
+      49999
     ],
     "slots": 2,
-    "timestamp": "20191208013412",
-    "price_per_slot": 24120,
-    "price_avg": 48240
+    "timestamp": "20191208141104",
+    "price_per_slot": 24999,
+    "price_avg": 49998
   },
   {
     "name": "Crickent lighter",
@@ -10180,24 +13918,24 @@
     "marketSearchName": "Crickent lighter",
     "marketPositionOffset": 0,
     "price_array": [
-      3000,
-      3222,
+      3888,
+      3900,
+      3999,
       4000,
-      4000,
+      4434,
+      4444,
       4500,
-      4650,
-      4700,
-      4749,
-      4999,
+      4500,
+      4599,
+      4699,
+      4990,
       5000,
-      6500,
-      7000,
-      7999
+      5000
     ],
     "slots": 1,
-    "timestamp": "20191208013415",
-    "price_per_slot": 3555,
-    "price_avg": 3555
+    "timestamp": "20191208141107",
+    "price_per_slot": 3929,
+    "price_avg": 3929
   },
   {
     "name": "A pack of nails",
@@ -10214,14 +13952,18 @@
     "marketSearchName": "A pack of nails",
     "marketPositionOffset": 0,
     "price_array": [
-      28000,
-      28000,
-      28000
+      34000,
+      34000,
+      34000,
+      34999,
+      35000,
+      35000,
+      35000
     ],
     "slots": 1,
-    "timestamp": "20191208013418",
-    "price_per_slot": 28000,
-    "price_avg": 28000
+    "timestamp": "20191208141110",
+    "price_per_slot": 34000,
+    "price_avg": 34000
   },
   {
     "name": "A pack of screws",
@@ -10238,21 +13980,17 @@
     "marketSearchName": "A pack of screws",
     "marketPositionOffset": 0,
     "price_array": [
-      12500,
-      12900,
-      13000,
-      13000,
-      13450,
-      13500,
-      13999,
-      14999,
-      14999,
-      15000
+      10999,
+      11500,
+      12000,
+      12000,
+      12200,
+      12200
     ],
     "slots": 1,
-    "timestamp": "20191208013421",
-    "price_per_slot": 12850,
-    "price_avg": 12850
+    "timestamp": "20191208141114",
+    "price_per_slot": 11499,
+    "price_avg": 11499
   },
   {
     "name": "Screw nut",
@@ -10269,21 +14007,14 @@
     "marketSearchName": "Screw nut",
     "marketPositionOffset": 0,
     "price_array": [
-      17499,
-      18000,
-      18500,
-      18500,
-      18888,
-      18900,
-      18900,
-      18977,
-      18999,
-      19000
+      14999,
+      15000,
+      17000
     ],
     "slots": 1,
-    "timestamp": "20191208013424",
-    "price_per_slot": 18124,
-    "price_avg": 18124
+    "timestamp": "20191208141117",
+    "price_per_slot": 15666,
+    "price_avg": 15666
   },
   {
     "name": "Bolts",
@@ -10300,12 +14031,12 @@
     "marketSearchName": "Bolts",
     "marketPositionOffset": 0,
     "price_array": [
-      21000
+      22000
     ],
     "slots": 1,
-    "timestamp": "20191208013427",
-    "price_per_slot": 21000,
-    "price_avg": 21000
+    "timestamp": "20191208141120",
+    "price_per_slot": 22000,
+    "price_avg": 22000
   },
   {
     "name": "Piece of plexiglas",
@@ -10322,25 +14053,22 @@
     "marketSearchName": "Piece of plexiglas",
     "marketPositionOffset": 0,
     "price_array": [
-      7899,
-      7990,
-      7999,
-      8000,
+      8999,
       9000,
-      9000,
-      9469,
-      9474,
-      9799,
-      9800,
-      9898,
-      9990,
       9999,
-      9999
+      9999,
+      9999,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000
     ],
     "slots": 1,
-    "timestamp": "20191208013430",
-    "price_per_slot": 7972,
-    "price_avg": 7972
+    "timestamp": "20191208141124",
+    "price_per_slot": 9332,
+    "price_avg": 9332
   },
   {
     "name": "Zibbo lighter",
@@ -10357,24 +14085,23 @@
     "marketSearchName": "Zibbo lighter",
     "marketPositionOffset": 0,
     "price_array": [
-      13000,
-      13900,
-      14000,
-      14399,
-      14450,
-      14499,
-      14500,
-      14999,
-      15000,
-      15000,
-      15000,
-      15000,
-      15000
+      7999,
+      8000,
+      8500,
+      8500,
+      8850,
+      8900,
+      9000,
+      12000,
+      12000,
+      12000,
+      12000,
+      13000
     ],
     "slots": 1,
-    "timestamp": "20191208013433",
-    "price_per_slot": 13824,
-    "price_avg": 13824
+    "timestamp": "20191208141127",
+    "price_per_slot": 8166,
+    "price_avg": 8166
   },
   {
     "name": "Apollon Soyuz cigarettes",
@@ -10391,24 +14118,23 @@
     "marketSearchName": "Apollon Soyuz cigarettes",
     "marketPositionOffset": 0,
     "price_array": [
-      4000,
-      4399,
-      4400,
-      4400,
-      4998,
+      4444,
+      4499,
       4999,
       4999,
       5000,
       5000,
       5000,
       5000,
-      5000,
-      5250
+      5500,
+      6000,
+      6000,
+      6000
     ],
     "slots": 1,
-    "timestamp": "20191208013436",
-    "price_per_slot": 4299,
-    "price_avg": 4299
+    "timestamp": "20191208141130",
+    "price_per_slot": 4647,
+    "price_avg": 4647
   },
   {
     "name": "Malboro Cigarettes",
@@ -10425,24 +14151,23 @@
     "marketSearchName": "Malboro Cigarettes",
     "marketPositionOffset": 0,
     "price_array": [
-      2500,
-      3333,
+      1234,
+      1999,
+      3000,
+      3800,
+      3850,
+      3900,
       4000,
       4000,
-      4399,
-      4400,
-      4500,
-      4500,
-      4999,
-      5000,
-      5000,
-      5000,
-      5000
+      4099,
+      4444,
+      4444,
+      4500
     ],
     "slots": 1,
-    "timestamp": "20191208013439",
-    "price_per_slot": 3458,
-    "price_avg": 3458
+    "timestamp": "20191208141134",
+    "price_per_slot": 2077,
+    "price_avg": 2077
   },
   {
     "name": "Wilston cigarettes",
@@ -10459,25 +14184,23 @@
     "marketSearchName": "Wilston cigarettes",
     "marketPositionOffset": 0,
     "price_array": [
-      5000,
-      5900,
-      5987,
-      6000,
+      6400,
       6500,
-      6599,
+      6500,
       7000,
       7000,
-      7000,
+      7400,
       7500,
-      7999,
-      8897,
-      8900,
-      8950
+      7500,
+      8000,
+      8000,
+      8000,
+      8500
     ],
     "slots": 1,
-    "timestamp": "20191208013442",
-    "price_per_slot": 5721,
-    "price_avg": 5721
+    "timestamp": "20191208141137",
+    "price_per_slot": 6466,
+    "price_avg": 6466
   },
   {
     "name": "Strike Cigarettes",
@@ -10494,23 +14217,24 @@
     "marketSearchName": "Strike Cigarettes",
     "marketPositionOffset": 0,
     "price_array": [
-      5222,
       5998,
       5999,
       6000,
-      6000,
-      6000,
-      6000,
-      6200,
+      6250,
+      6300,
+      6500,
+      6500,
+      6600,
       6700,
-      6900,
-      7000,
-      7000
+      6700,
+      6999,
+      7650,
+      8000
     ],
     "slots": 1,
-    "timestamp": "20191208013445",
-    "price_per_slot": 5804,
-    "price_avg": 5804
+    "timestamp": "20191208141140",
+    "price_per_slot": 5999,
+    "price_avg": 5999
   },
   {
     "name": "Horse figurine",
@@ -10527,14 +14251,14 @@
     "marketSearchName": "Horse figurine",
     "marketPositionOffset": 0,
     "price_array": [
-      8000,
-      9200,
+      8500,
+      9000,
       9500,
-      9500,
-      9998,
-      9999,
-      9999,
-      9999,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
       10000,
       10000,
       10000,
@@ -10542,9 +14266,9 @@
       10000
     ],
     "slots": 2,
-    "timestamp": "20191208013448",
-    "price_per_slot": 4525,
-    "price_avg": 9050
+    "timestamp": "20191208141144",
+    "price_per_slot": 4500,
+    "price_avg": 9000
   },
   {
     "name": "Cat figurine",
@@ -10561,25 +14285,24 @@
     "marketSearchName": "Cat figurine",
     "marketPositionOffset": 0,
     "price_array": [
-      36000,
-      36000,
-      36000,
-      36000,
-      36700,
-      36908,
-      37500,
-      37699,
       38000,
       38000,
       38000,
-      38000,
-      38900,
-      38950
+      38444,
+      38888,
+      38888,
+      38999,
+      39999,
+      40000,
+      40000,
+      40000,
+      40000,
+      40000
     ],
     "slots": 3,
-    "timestamp": "20191208013451",
-    "price_per_slot": 12000,
-    "price_avg": 36000
+    "timestamp": "20191208141147",
+    "price_per_slot": 12666,
+    "price_avg": 38000
   },
   {
     "name": "Bronze lion",
@@ -10596,21 +14319,22 @@
     "marketSearchName": "Bronze lion",
     "marketPositionOffset": 0,
     "price_array": [
-      174999,
-      179000,
-      179999,
+      168999,
+      169900,
+      170000,
+      170000,
+      170000,
+      170000,
+      170000,
+      170000,
       180000,
-      180000,
-      180000,
-      180000,
-      180000,
-      180000,
-      182000
+      185000,
+      185000
     ],
     "slots": 6,
-    "timestamp": "20191208013453",
-    "price_per_slot": 29749,
-    "price_avg": 178499
+    "timestamp": "20191208141150",
+    "price_per_slot": 28272,
+    "price_avg": 169633
   },
   {
     "name": "Wooden clock",
@@ -10627,24 +14351,25 @@
     "marketSearchName": "Wooden clock",
     "marketPositionOffset": 0,
     "price_array": [
-      47300,
-      47399,
-      47400,
-      47450,
-      47500,
-      47500,
-      47500,
-      47500,
-      47500,
-      47800,
-      47800,
-      47800,
-      47850
+      46900,
+      47000,
+      48000,
+      48000,
+      48000,
+      48999,
+      49000,
+      49000,
+      50000,
+      50000,
+      50000,
+      50000,
+      53187,
+      54499
     ],
     "slots": 4,
-    "timestamp": "20191208013456",
-    "price_per_slot": 11846,
-    "price_avg": 47387
+    "timestamp": "20191208141154",
+    "price_per_slot": 11825,
+    "price_avg": 47300
   },
   {
     "name": "Gas analyzer",
@@ -10661,19 +14386,21 @@
     "marketSearchName": "Gas analyzer",
     "marketPositionOffset": 0,
     "price_array": [
+      14000,
+      15000,
+      17000,
+      17999,
+      18000,
+      18000,
+      18500,
+      22999,
       23000,
-      23000,
-      23000,
-      23000,
-      23000,
-      23000,
-      23000,
-      23000
+      24000
     ],
     "slots": 2,
-    "timestamp": "20191208013459",
-    "price_per_slot": 11500,
-    "price_avg": 23000
+    "timestamp": "20191208141157",
+    "price_per_slot": 7666,
+    "price_avg": 15333
   },
   {
     "name": "SSD drive",
@@ -10690,23 +14417,20 @@
     "marketSearchName": "SSD drive",
     "marketPositionOffset": 0,
     "price_array": [
-      70000,
-      70000,
+      71000,
+      71000,
+      71999,
+      71999,
       72000,
-      74000,
-      74000,
-      74000,
-      74999,
-      75000,
-      75000,
-      75000,
-      75000,
+      73000,
+      74888,
+      74998,
       75000
     ],
     "slots": 1,
-    "timestamp": "20191208013502",
-    "price_per_slot": 71500,
-    "price_avg": 71500
+    "timestamp": "20191208141201",
+    "price_per_slot": 71333,
+    "price_avg": 71333
   },
   {
     "name": "SAS drive",
@@ -10723,25 +14447,25 @@
     "marketSearchName": "SAS drive",
     "marketPositionOffset": 0,
     "price_array": [
-      24999,
+      24000,
       25000,
+      25500,
       25555,
+      26000,
       26999,
-      27000,
-      27000,
-      27000,
-      27400,
-      27500,
-      27700,
-      27777,
+      27999,
       28000,
-      28699,
+      28000,
+      28260,
+      28500,
+      29000,
+      29998,
       29999
     ],
     "slots": 1,
-    "timestamp": "20191208013505",
-    "price_per_slot": 25638,
-    "price_avg": 25638
+    "timestamp": "20191208141204",
+    "price_per_slot": 24833,
+    "price_avg": 24833
   },
   {
     "name": "Military COFDM wireless Signal Transmitter",
@@ -10758,24 +14482,24 @@
     "marketSearchName": "Military COFDM wireless Signal Transmitter",
     "marketPositionOffset": 0,
     "price_array": [
-      110000,
-      110000,
-      110000,
-      110000,
-      110999,
-      111111,
-      111999,
-      112000,
-      112999,
-      113000,
-      114998,
-      114999,
-      114999
+      117000,
+      118000,
+      118000,
+      119999,
+      120000,
+      120000,
+      124999,
+      125000,
+      127999,
+      128000,
+      128000,
+      130000,
+      130000
     ],
     "slots": 2,
-    "timestamp": "20191208013508",
-    "price_per_slot": 55000,
-    "price_avg": 110000
+    "timestamp": "20191208141207",
+    "price_per_slot": 58833,
+    "price_avg": 117666
   },
   {
     "name": "UHF RFID Reader",
@@ -10792,24 +14516,25 @@
     "marketSearchName": "UHF RFID Reader",
     "marketPositionOffset": 0,
     "price_array": [
-      96000,
-      97999,
-      97999,
-      98000,
-      98000,
-      125000,
-      130000,
-      130000,
-      135000,
-      138888,
-      139000,
-      139999,
-      140000
+      89999,
+      90000,
+      93420,
+      95000,
+      98888,
+      99000,
+      100000,
+      100000,
+      100000,
+      100000,
+      100000,
+      105000,
+      109900,
+      109999
     ],
     "slots": 1,
-    "timestamp": "20191208013511",
-    "price_per_slot": 97499,
-    "price_avg": 97499
+    "timestamp": "20191208141210",
+    "price_per_slot": 91139,
+    "price_avg": 91139
   },
   {
     "name": "VPX Flash Storage Module",
@@ -10826,24 +14551,21 @@
     "marketSearchName": "VPX Flash Storage Module",
     "marketPositionOffset": 0,
     "price_array": [
-      420000,
-      435555,
-      449999,
-      450000,
-      450000,
-      450000,
-      460000,
-      474000,
-      475000,
-      479999,
-      480000,
-      480000,
-      489000
+      444444,
+      490000,
+      493000,
+      494000,
+      499990,
+      499999,
+      499999,
+      500000,
+      500000,
+      500000
     ],
     "slots": 1,
-    "timestamp": "20191208013514",
-    "price_per_slot": 438888,
-    "price_avg": 438888
+    "timestamp": "20191208141214",
+    "price_per_slot": 475814,
+    "price_avg": 475814
   },
   {
     "name": "Virtex programmable processor",
@@ -10860,21 +14582,21 @@
     "marketSearchName": "Virtex programmable processor",
     "marketPositionOffset": 0,
     "price_array": [
-      699999,
-      699999,
-      699999,
-      700000,
-      700000,
-      700700,
-      708000,
-      710000,
-      710000,
-      719999
+      540000,
+      569999,
+      570000,
+      574999,
+      579998,
+      579999,
+      579999,
+      597000,
+      598000,
+      598000
     ],
     "slots": 1,
-    "timestamp": "20191208013517",
-    "price_per_slot": 699999,
-    "price_avg": 699999
+    "timestamp": "20191208141217",
+    "price_per_slot": 559999,
+    "price_avg": 559999
   },
   {
     "name": "Capacitors",
@@ -10891,23 +14613,21 @@
     "marketSearchName": "Capacitors",
     "marketPositionOffset": 0,
     "price_array": [
-      8000,
-      8200,
-      8300,
-      8499,
-      8500,
-      8999,
+      8320,
+      8498,
+      8900,
+      8995,
       9000,
       9000,
       9000,
-      9000,
-      9000,
-      9200
+      9400,
+      9400,
+      9498
     ],
     "slots": 1,
-    "timestamp": "20191208013520",
-    "price_per_slot": 8249,
-    "price_avg": 8249
+    "timestamp": "20191208141220",
+    "price_per_slot": 8572,
+    "price_avg": 8572
   },
   {
     "name": "Wires",
@@ -10924,17 +14644,18 @@
     "marketSearchName": "Wires",
     "marketPositionOffset": 0,
     "price_array": [
-      8500,
-      8888,
-      8900,
-      8999,
-      8999,
-      9000
+      9800,
+      9898,
+      9899,
+      9899,
+      9900,
+      9900,
+      9911
     ],
     "slots": 1,
-    "timestamp": "20191208013523",
-    "price_per_slot": 8821,
-    "price_avg": 8821
+    "timestamp": "20191208141224",
+    "price_per_slot": 9865,
+    "price_avg": 9865
   },
   {
     "name": "Broken GPhone X",
@@ -10951,25 +14672,24 @@
     "marketSearchName": "Broken GPhone X",
     "marketPositionOffset": 0,
     "price_array": [
-      23000,
-      23998,
-      23999,
       24000,
       24000,
+      24300,
+      24444,
+      24500,
+      24999,
       25000,
       25000,
       25000,
       25000,
       25999,
-      25999,
-      26000,
       26000,
       26000
     ],
     "slots": 1,
-    "timestamp": "20191208013526",
-    "price_per_slot": 23749,
-    "price_avg": 23749
+    "timestamp": "20191208141227",
+    "price_per_slot": 24100,
+    "price_avg": 24100
   },
   {
     "name": "WD-40 400ml",
@@ -10986,24 +14706,24 @@
     "marketSearchName": "WD-40 400ml",
     "marketPositionOffset": 0,
     "price_array": [
-      9999,
-      10000,
-      15500,
-      15555,
-      17000,
-      17000,
-      18900,
-      19000,
-      19000,
-      20000,
-      26500,
-      26500,
-      27000
+      12900,
+      12999,
+      13000,
+      13000,
+      14000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      16666
     ],
     "slots": 2,
-    "timestamp": "20191208013529",
-    "price_per_slot": 6381,
-    "price_avg": 12763
+    "timestamp": "20191208141230",
+    "price_per_slot": 6483,
+    "price_avg": 12966
   },
   {
     "name": "WD-40 100ml.|WD-40 100ml",
@@ -11020,25 +14740,24 @@
     "marketSearchName": "WD-40 100ml",
     "marketPositionOffset": 0,
     "price_array": [
+      11000,
+      11199,
+      11200,
+      11400,
       11500,
+      11500,
+      11999,
       12000,
-      12399,
-      12400,
-      12450,
-      13499,
-      13500,
-      13500,
-      14000,
-      14889,
-      14996,
-      15000,
-      15000,
-      15000
+      12499,
+      12500,
+      12500,
+      13000,
+      13000
     ],
     "slots": 1,
-    "timestamp": "20191208013532",
-    "price_per_slot": 12074,
-    "price_avg": 12074
+    "timestamp": "20191208141234",
+    "price_per_slot": 11133,
+    "price_avg": 11133
   },
   {
     "name": "AA Battery",
@@ -11055,25 +14774,24 @@
     "marketSearchName": "AA Battery",
     "marketPositionOffset": 0,
     "price_array": [
-      4000,
-      4499,
-      4500,
-      4500,
-      4899,
-      4969,
-      4998,
-      4999,
-      4999,
-      4999,
-      5000,
-      5000,
-      5000,
-      5000
+      6000,
+      6000,
+      6000,
+      6200,
+      6500,
+      7000,
+      7298,
+      7777,
+      7900,
+      7967,
+      8000,
+      8000,
+      8000
     ],
     "slots": 1,
-    "timestamp": "20191208013535",
-    "price_per_slot": 4374,
-    "price_avg": 4374
+    "timestamp": "20191208141237",
+    "price_per_slot": 6000,
+    "price_avg": 6000
   },
   {
     "name": "D Size Battery",
@@ -11090,24 +14808,25 @@
     "marketSearchName": "D Size Battery",
     "marketPositionOffset": 0,
     "price_array": [
-      7399,
-      7499,
-      7500,
-      7900,
-      7910,
-      7999,
-      7999,
-      8000,
-      8000,
-      8000,
-      8000,
-      8000,
-      8100
+      9700,
+      9800,
+      9999,
+      9999,
+      9999,
+      10000,
+      10000,
+      10000,
+      10000,
+      10500,
+      12994,
+      12999,
+      13000,
+      13000
     ],
     "slots": 1,
-    "timestamp": "20191208013538",
-    "price_per_slot": 7574,
-    "price_avg": 7574
+    "timestamp": "20191208141240",
+    "price_per_slot": 9833,
+    "price_avg": 9833
   },
   {
     "name": "Car battery",
@@ -11124,23 +14843,21 @@
     "marketSearchName": "Car battery",
     "marketPositionOffset": 0,
     "price_array": [
+      42000,
+      48888,
+      49000,
+      49000,
+      49000,
+      49123,
+      49999,
+      49999,
       50000,
-      54000,
-      57000,
-      58000,
-      58885,
-      59000,
-      59000,
-      59000,
-      59974,
-      60000,
-      60000,
-      60000
+      50000
     ],
     "slots": 6,
-    "timestamp": "20191208013541",
-    "price_per_slot": 9125,
-    "price_avg": 54750
+    "timestamp": "20191208141244",
+    "price_per_slot": 7771,
+    "price_avg": 46629
   },
   {
     "name": "Spark plug",
@@ -11157,21 +14874,25 @@
     "marketSearchName": "Spark plug",
     "marketPositionOffset": 0,
     "price_array": [
-      9200,
-      9250,
-      9500,
-      9999,
       10000,
-      10000,
-      10000,
-      10998,
+      10500,
+      10900,
+      10999,
       11000,
-      11500
+      11000,
+      11500,
+      11500,
+      12000,
+      13900,
+      13998,
+      14000,
+      14000,
+      14000
     ],
     "slots": 1,
-    "timestamp": "20191208013544",
-    "price_per_slot": 9487,
-    "price_avg": 9487
+    "timestamp": "20191208141247",
+    "price_per_slot": 10466,
+    "price_avg": 10466
   },
   {
     "name": "Energy-saving lamp",
@@ -11188,23 +14909,23 @@
     "marketSearchName": "Energy-saving lamp",
     "marketPositionOffset": 0,
     "price_array": [
+      8000,
+      9000,
+      9250,
+      9999,
+      9999,
+      9999,
       10000,
-      10888,
-      10900,
-      11000,
-      11000,
-      11900,
-      11998,
-      11998,
-      11999,
-      11999,
-      12000,
-      12000
+      10000,
+      10000,
+      10000,
+      10999,
+      10999
     ],
     "slots": 1,
-    "timestamp": "20191208013547",
-    "price_per_slot": 10697,
-    "price_avg": 10697
+    "timestamp": "20191208141250",
+    "price_per_slot": 8750,
+    "price_avg": 8750
   },
   {
     "name": "Ultraviolet lamp",
@@ -11221,23 +14942,23 @@
     "marketSearchName": "Ultraviolet lamp",
     "marketPositionOffset": 0,
     "price_array": [
-      7000,
       8500,
       8500,
-      8599,
-      8888,
-      8950,
+      8500,
+      8500,
       9000,
-      9000,
-      9000,
-      9000,
-      9000,
-      9000
+      9123,
+      9124,
+      9125,
+      9299,
+      9300,
+      9400,
+      9449
     ],
     "slots": 1,
-    "timestamp": "20191208013550",
-    "price_per_slot": 8149,
-    "price_avg": 8149
+    "timestamp": "20191208141254",
+    "price_per_slot": 8500,
+    "price_avg": 8500
   },
   {
     "name": "Geiger-Muller counter",
@@ -11254,23 +14975,22 @@
     "marketSearchName": "Geiger-Muller counter",
     "marketPositionOffset": 0,
     "price_array": [
-      12500,
-      12999,
-      12999,
-      13000,
-      13000,
-      13000,
-      13333,
-      13500,
+      13499,
+      13950,
+      13999,
       14000,
-      14994,
-      14995,
-      14999
+      14000,
+      14000,
+      14000,
+      14000,
+      14000,
+      14000,
+      14000
     ],
     "slots": 2,
-    "timestamp": "20191208013553",
-    "price_per_slot": 6437,
-    "price_avg": 12874
+    "timestamp": "20191208141257",
+    "price_per_slot": 6908,
+    "price_avg": 13816
   },
   {
     "name": "Broken GPhone",
@@ -11287,23 +15007,22 @@
     "marketSearchName": "Broken GPhone",
     "marketPositionOffset": 0,
     "price_array": [
-      12500,
-      12900,
-      14000,
-      14998,
-      14999,
-      14999,
-      14999,
-      15000,
-      15000,
-      15000,
-      15000,
-      15000
+      16500,
+      17000,
+      17200,
+      17250,
+      17500,
+      17500,
+      18000,
+      18000,
+      18000,
+      18900,
+      18999
     ],
     "slots": 1,
-    "timestamp": "20191208013556",
-    "price_per_slot": 13599,
-    "price_avg": 13599
+    "timestamp": "20191208141300",
+    "price_per_slot": 16900,
+    "price_avg": 16900
   },
   {
     "name": "CPU Fan",
@@ -11320,17 +15039,20 @@
     "marketSearchName": "CPU Fan",
     "marketPositionOffset": 0,
     "price_array": [
+      10999,
+      11000,
+      12222,
       13000,
-      13666,
-      13899,
-      13900,
-      13900,
-      13995
+      13000,
+      13000,
+      13500,
+      13500,
+      13800
     ],
     "slots": 1,
-    "timestamp": "20191208013559",
-    "price_per_slot": 13616,
-    "price_avg": 13616
+    "timestamp": "20191208141304",
+    "price_per_slot": 11407,
+    "price_avg": 11407
   },
   {
     "name": "PC CPU",
@@ -11347,23 +15069,23 @@
     "marketSearchName": "PC CPU",
     "marketPositionOffset": 0,
     "price_array": [
-      10400,
-      10500,
-      10500,
-      10500,
-      10531,
-      10700,
-      10750,
-      10799,
+      9999,
+      10000,
+      10000,
       10800,
       10890,
       10900,
-      10995
+      10900,
+      10990,
+      10995,
+      10998,
+      10999,
+      10999
     ],
     "slots": 1,
-    "timestamp": "20191208013602",
-    "price_per_slot": 10475,
-    "price_avg": 10475
+    "timestamp": "20191208141307",
+    "price_per_slot": 9999,
+    "price_avg": 9999
   },
   {
     "name": "DVD drive",
@@ -11380,24 +15102,20 @@
     "marketSearchName": "DVD drive",
     "marketPositionOffset": 0,
     "price_array": [
+      5999,
       6400,
       6500,
-      6666,
-      6999,
-      7000,
-      7000,
-      7000,
-      7100,
-      7250,
-      7999,
-      8000,
-      8000,
-      8000
+      6500,
+      6500,
+      6700,
+      6798,
+      6799,
+      6950
     ],
     "slots": 2,
-    "timestamp": "20191208013605",
-    "price_per_slot": 3320,
-    "price_avg": 6641
+    "timestamp": "20191208141310",
+    "price_per_slot": 3149,
+    "price_avg": 6299
   },
   {
     "name": "RAM",
@@ -11414,18 +15132,23 @@
     "marketSearchName": "RAM",
     "marketPositionOffset": 7,
     "price_array": [
-      18450,
-      18500,
-      18500,
-      19000,
-      19000,
-      19000,
-      19500
+      16344,
+      20000,
+      20999,
+      20999,
+      21000,
+      28888,
+      30000,
+      30000,
+      30420,
+      34500,
+      34999,
+      50000
     ],
     "slots": 1,
-    "timestamp": "20191208013608",
-    "price_per_slot": 18612,
-    "price_avg": 18612
+    "timestamp": "20191208141314",
+    "price_per_slot": 19114,
+    "price_avg": 19114
   },
   {
     "name": "Power supply unit",
@@ -11442,20 +15165,17 @@
     "marketSearchName": "Power supply unit",
     "marketPositionOffset": 0,
     "price_array": [
-      42000,
-      44443,
+      43999,
+      44000,
       44444,
-      44998,
-      44999,
-      44999,
-      44999,
-      44999,
-      44999
+      44700,
+      44700,
+      44888
     ],
     "slots": 4,
-    "timestamp": "20191208013610",
-    "price_per_slot": 10992,
-    "price_avg": 43971
+    "timestamp": "20191208141317",
+    "price_per_slot": 11036,
+    "price_avg": 44147
   },
   {
     "name": "Printed circuit board",
@@ -11472,20 +15192,25 @@
     "marketSearchName": "Printed circuit board",
     "marketPositionOffset": 0,
     "price_array": [
-      11234,
-      11500,
-      11900,
+      11000,
+      11700,
       12000,
       12000,
-      12000,
-      12900,
       12999,
-      12999
+      13399,
+      13400,
+      13450,
+      13497,
+      13500,
+      13775,
+      13776,
+      13776,
+      13777
     ],
     "slots": 1,
-    "timestamp": "20191208013613",
-    "price_per_slot": 11658,
-    "price_avg": 11658
+    "timestamp": "20191208141320",
+    "price_per_slot": 11566,
+    "price_avg": 11566
   },
   {
     "name": "Graphics card",
@@ -11502,13 +15227,17 @@
     "marketSearchName": "Graphics card",
     "marketPositionOffset": 0,
     "price_array": [
-      259999,
-      260000
+      279998,
+      279999,
+      279999,
+      280000,
+      280000,
+      280000
     ],
     "slots": 2,
-    "timestamp": "20191208013616",
-    "price_per_slot": 129999,
-    "price_avg": 259999
+    "timestamp": "20191208141324",
+    "price_per_slot": 139999,
+    "price_avg": 279998
   },
   {
     "name": "Powercord",
@@ -11525,21 +15254,15 @@
     "marketSearchName": "Powercord",
     "marketPositionOffset": 0,
     "price_array": [
-      19250,
-      19999,
-      20000,
-      21000,
-      21500,
-      21989,
-      22333,
-      22500,
-      22500,
-      22888
+      18000,
+      23000,
+      23000,
+      23000
     ],
     "slots": 2,
-    "timestamp": "20191208013619",
-    "price_per_slot": 10031,
-    "price_avg": 20062
+    "timestamp": "20191208141327",
+    "price_per_slot": 10666,
+    "price_avg": 21333
   },
   {
     "name": "Insulating tape",
@@ -11556,20 +15279,17 @@
     "marketSearchName": "Insulating tape",
     "marketPositionOffset": 0,
     "price_array": [
-      16598,
-      16599,
-      17000,
-      17699,
-      17800,
-      17850,
-      17899,
-      18000,
-      18000
+      14999,
+      15000,
+      15000,
+      15900,
+      15999,
+      16900
     ],
     "slots": 1,
-    "timestamp": "20191208013622",
-    "price_per_slot": 16974,
-    "price_avg": 16974
+    "timestamp": "20191208141330",
+    "price_per_slot": 14999,
+    "price_avg": 14999
   },
   {
     "name": "Duct tape",
@@ -11586,23 +15306,22 @@
     "marketSearchName": "Duct tape",
     "marketPositionOffset": 0,
     "price_array": [
-      9500,
-      9950,
-      9997,
-      9999,
-      10666,
-      12000,
-      12500,
-      12999,
+      11999,
       13000,
-      13777,
-      13888,
-      13900
+      14499,
+      14999,
+      15000,
+      15000,
+      15000,
+      15000,
+      16000,
+      17000,
+      17999
     ],
     "slots": 1,
-    "timestamp": "20191208013625",
-    "price_per_slot": 9861,
-    "price_avg": 9861
+    "timestamp": "20191208141334",
+    "price_per_slot": 13166,
+    "price_avg": 13166
   },
   {
     "name": "Construction measuring tape",
@@ -11619,24 +15338,24 @@
     "marketSearchName": "Construction measuring tape",
     "marketPositionOffset": 0,
     "price_array": [
-      10000,
-      20000,
-      10000,
-      10000,
-      10000,
-      10000,
-      10000,
-      10999,
-      11000,
-      11000,
-      11000,
-      11000,
-      12000
+      4000,
+      4000,
+      4000,
+      4000,
+      4000,
+      4750,
+      4999,
+      4999,
+      4999,
+      5000,
+      5000,
+      5000,
+      5000
     ],
     "slots": 1,
-    "timestamp": "20191208013628",
-    "price_per_slot": 12500,
-    "price_avg": 12500
+    "timestamp": "20191208141337",
+    "price_per_slot": 4000,
+    "price_avg": 4000
   },
   {
     "name": "Toothpaste",
@@ -11653,25 +15372,23 @@
     "marketSearchName": "Toothpaste",
     "marketPositionOffset": 0,
     "price_array": [
+      4700,
+      4700,
+      4800,
+      4800,
       5000,
       5000,
-      5400,
-      5400,
-      5499,
-      5550,
-      5750,
-      5898,
-      5999,
-      6000,
-      6000,
-      6222,
+      6500,
       7000,
-      8888
+      8888,
+      12500,
+      15000,
+      22000
     ],
     "slots": 1,
-    "timestamp": "20191208013631",
-    "price_per_slot": 5200,
-    "price_avg": 5200
+    "timestamp": "20191208141340",
+    "price_per_slot": 4733,
+    "price_avg": 4733
   },
   {
     "name": "USB Adapter",
@@ -11688,19 +15405,23 @@
     "marketSearchName": "USB Adapter",
     "marketPositionOffset": 0,
     "price_array": [
-      6900,
-      6900,
-      6900,
-      6900,
-      6900,
-      6999,
-      7000,
-      10000
+      2259,
+      4000,
+      4499,
+      4500,
+      4800,
+      4950,
+      4999,
+      5000,
+      5000,
+      6000,
+      6500,
+      6666
     ],
     "slots": 1,
-    "timestamp": "20191208013634",
-    "price_per_slot": 6900,
-    "price_avg": 6900
+    "timestamp": "20191208141344",
+    "price_per_slot": 3586,
+    "price_avg": 3586
   },
   {
     "name": "T-Shaped Plug",
@@ -11717,21 +15438,22 @@
     "marketSearchName": "T-Shaped Plug",
     "marketPositionOffset": 0,
     "price_array": [
-      9800,
-      9850,
-      9890,
-      9899,
-      9900,
-      9999,
-      10000,
-      10000,
-      10000,
-      10500
+      5999,
+      5999,
+      6000,
+      6100,
+      6111,
+      6950,
+      7000,
+      7900,
+      7999,
+      8000,
+      8500
     ],
     "slots": 1,
-    "timestamp": "20191208013637",
-    "price_per_slot": 9859,
-    "price_avg": 9859
+    "timestamp": "20191208141347",
+    "price_per_slot": 5999,
+    "price_avg": 5999
   },
   {
     "name": "Printer paper",
@@ -11748,13 +15470,13 @@
     "marketSearchName": "Printer paper",
     "marketPositionOffset": 0,
     "price_array": [
-      8000,
-      8500,
       9000,
+      9000,
+      9333,
+      9800,
+      9998,
       9999,
       9999,
-      10000,
-      10000,
       10000,
       10000,
       10000,
@@ -11763,9 +15485,9 @@
       10000
     ],
     "slots": 2,
-    "timestamp": "20191208013640",
-    "price_per_slot": 4437,
-    "price_avg": 8874
+    "timestamp": "20191208141350",
+    "price_per_slot": 4555,
+    "price_avg": 9111
   },
   {
     "name": "Screwdriver",
@@ -11782,25 +15504,24 @@
     "marketSearchName": "Screwdriver",
     "marketPositionOffset": 0,
     "price_array": [
-      7777,
-      7999,
-      8000,
-      8000,
-      8400,
-      8500,
-      8999,
-      9000,
-      9000,
-      9000,
-      9999,
-      10000,
-      10000,
-      10000
+      3499,
+      4000,
+      4000,
+      4000,
+      4050,
+      4100,
+      4200,
+      4250,
+      4300,
+      4400,
+      4500,
+      4900,
+      4998
     ],
     "slots": 1,
-    "timestamp": "20191208013643",
-    "price_per_slot": 7944,
-    "price_avg": 7944
+    "timestamp": "20191208141354",
+    "price_per_slot": 3833,
+    "price_avg": 3833
   },
   {
     "name": "Wrench",
@@ -11817,18 +15538,20 @@
     "marketSearchName": "Wrench",
     "marketPositionOffset": 0,
     "price_array": [
-      14000,
-      17500,
+      13949,
+      15000,
       18000,
-      18000,
-      18888,
-      19420,
-      19980
+      18900,
+      18999,
+      19000,
+      19200,
+      19500,
+      19500
     ],
     "slots": 1,
-    "timestamp": "20191208013646",
-    "price_per_slot": 16875,
-    "price_avg": 16875
+    "timestamp": "20191208141357",
+    "price_per_slot": 15649,
+    "price_avg": 15649
   },
   {
     "name": "Pliers",
@@ -11845,24 +15568,20 @@
     "marketSearchName": "Pliers",
     "marketPositionOffset": 0,
     "price_array": [
-      7499,
-      7499,
-      7500,
-      7500,
-      7500,
-      7500,
-      7550,
-      7800,
-      8000,
-      8000,
-      8000,
-      8000,
-      8000
+      5000,
+      6000,
+      6000,
+      6700,
+      6799,
+      6899,
+      6999,
+      7000,
+      7000
     ],
     "slots": 1,
-    "timestamp": "20191208013649",
-    "price_per_slot": 7499,
-    "price_avg": 7499
+    "timestamp": "20191208141400",
+    "price_per_slot": 5666,
+    "price_avg": 5666
   },
   {
     "name": "Electric drill",
@@ -11879,19 +15598,21 @@
     "marketSearchName": "Electric drill",
     "marketPositionOffset": 0,
     "price_array": [
-      29000,
+      25000,
+      27000,
       30000,
-      33900,
-      34000,
-      34000,
-      34000,
-      34000,
-      34000
+      30999,
+      32000,
+      32000,
+      32000,
+      33999,
+      33999,
+      34500
     ],
     "slots": 4,
-    "timestamp": "20191208013652",
-    "price_per_slot": 7931,
-    "price_avg": 31725
+    "timestamp": "20191208141404",
+    "price_per_slot": 6833,
+    "price_avg": 27333
   },
   {
     "name": "Antique vase",
@@ -11908,21 +15629,23 @@
     "marketSearchName": "Antique vase",
     "marketPositionOffset": 0,
     "price_array": [
-      62900,
-      63800,
-      63999,
-      63999,
-      64000,
-      64000,
-      64000,
-      64700,
-      64999,
-      65000
+      51000,
+      52000,
+      55000,
+      55000,
+      56000,
+      56000,
+      57999,
+      58555,
+      59000,
+      59888,
+      59999,
+      59999
     ],
     "slots": 4,
-    "timestamp": "20191208013655",
-    "price_per_slot": 15918,
-    "price_avg": 63674
+    "timestamp": "20191208141407",
+    "price_per_slot": 13166,
+    "price_avg": 52666
   },
   {
     "name": "Antique teapot",
@@ -11939,22 +15662,21 @@
     "marketSearchName": "Antique teapot",
     "marketPositionOffset": 0,
     "price_array": [
-      36000,
-      36444,
-      36500,
-      36999,
       37000,
-      37000,
-      37000,
-      37500,
-      37500,
-      37500,
-      38000
+      38888,
+      40000,
+      40000,
+      41000,
+      41509,
+      42000,
+      42000,
+      42000,
+      42000
     ],
     "slots": 2,
-    "timestamp": "20191208013658",
-    "price_per_slot": 18242,
-    "price_avg": 36485
+    "timestamp": "20191208141410",
+    "price_per_slot": 19314,
+    "price_avg": 38629
   },
   {
     "name": "Silver Badge",
@@ -11971,25 +15693,24 @@
     "marketSearchName": "Silver Badge",
     "marketPositionOffset": 0,
     "price_array": [
-      45400,
-      45450,
+      35000,
+      45221,
+      45222,
+      45300,
       45489,
-      45490,
       45499,
       45500,
-      45500,
-      45516,
-      45555,
+      45899,
+      45900,
+      45999,
       46000,
       46000,
-      46000,
-      47000,
-      48000
+      90000
     ],
     "slots": 1,
-    "timestamp": "20191208013701",
-    "price_per_slot": 45457,
-    "price_avg": 45457
+    "timestamp": "20191208141414",
+    "price_per_slot": 41814,
+    "price_avg": 41814
   },
   {
     "name": "Chainlet",
@@ -12006,24 +15727,23 @@
     "marketSearchName": "Chainlet",
     "marketPositionOffset": 0,
     "price_array": [
-      5500,
-      5500,
-      5500,
-      5669,
-      5800,
-      5899,
-      5900,
-      5999,
-      6000,
-      6354,
-      6713,
-      6800,
-      7000
+      7900,
+      7999,
+      8000,
+      8000,
+      8000,
+      8190,
+      8299,
+      8300,
+      8499,
+      8500,
+      8500,
+      8690
     ],
     "slots": 1,
-    "timestamp": "20191208013704",
-    "price_per_slot": 5542,
-    "price_avg": 5542
+    "timestamp": "20191208141417",
+    "price_per_slot": 7966,
+    "price_avg": 7966
   },
   {
     "name": "Golden neck chain",
@@ -12040,21 +15760,21 @@
     "marketSearchName": "Golden neck chain",
     "marketPositionOffset": 0,
     "price_array": [
+      29999,
       32000,
-      32000,
-      33999,
-      34000,
-      34000,
-      34000,
-      34500,
-      34995,
-      34999,
-      34999
+      34888,
+      39000,
+      39100,
+      39199,
+      39200,
+      39300,
+      39300,
+      39389
     ],
     "slots": 1,
-    "timestamp": "20191208013707",
-    "price_per_slot": 32999,
-    "price_avg": 32999
+    "timestamp": "20191208141420",
+    "price_per_slot": 32295,
+    "price_avg": 32295
   },
   {
     "name": "Physical bitcoin",
@@ -12071,18 +15791,20 @@
     "marketSearchName": "Physical bitcoin",
     "marketPositionOffset": 0,
     "price_array": [
-      118500,
-      118999,
-      119420,
+      119000,
+      119999,
+      119999,
+      600000,
+      120000,
       120000,
       120000,
       120000,
       120000
     ],
     "slots": 1,
-    "timestamp": "20191208013710",
-    "price_per_slot": 119229,
-    "price_avg": 119229
+    "timestamp": "20191208141424",
+    "price_per_slot": 119666,
+    "price_avg": 119666
   },
   {
     "name": "Damaged hard drive",
@@ -12099,18 +15821,20 @@
     "marketSearchName": "Damaged hard drive",
     "marketPositionOffset": 0,
     "price_array": [
-      13900,
-      14700,
-      14750,
-      14900,
-      14998,
-      15000,
-      15000
+      16000,
+      16700,
+      16900,
+      16980,
+      16989,
+      16989,
+      16990,
+      17000,
+      17000
     ],
     "slots": 2,
-    "timestamp": "20191208013713",
-    "price_per_slot": 7281,
-    "price_avg": 14562
+    "timestamp": "20191208141427",
+    "price_per_slot": 8266,
+    "price_avg": 16533
   },
   {
     "name": "Magnet",
@@ -12127,19 +15851,24 @@
     "marketSearchName": "Magnet",
     "marketPositionOffset": 0,
     "price_array": [
-      280000,
-      300000,
-      480000,
-      500000,
-      500000,
-      500000,
-      510000,
-      600000
+      15000,
+      15500,
+      15500,
+      15999,
+      15999,
+      16000,
+      16000,
+      16000,
+      16000,
+      16000,
+      16000,
+      16000,
+      16999
     ],
     "slots": 1,
-    "timestamp": "20191208013716",
-    "price_per_slot": 390000,
-    "price_avg": 390000
+    "timestamp": "20191208141430",
+    "price_per_slot": 15333,
+    "price_avg": 15333
   },
   {
     "name": "Paid AntiRoach",
@@ -12156,14 +15885,25 @@
     "marketSearchName": "Paid AntiRoach",
     "marketPositionOffset": 0,
     "price_array": [
+      9000,
+      11999,
+      12000,
+      12000,
+      12000,
+      12000,
       13000,
-      13000,
-      13500
+      13500,
+      13999,
+      14000,
+      14000,
+      14000,
+      14900,
+      14900
     ],
     "slots": 2,
-    "timestamp": "20191208013719",
-    "price_per_slot": 6583,
-    "price_avg": 13166
+    "timestamp": "20191208141434",
+    "price_per_slot": 5499,
+    "price_avg": 10999
   },
   {
     "name": "Clin wiper",
@@ -12180,24 +15920,25 @@
     "marketSearchName": "Clin wiper",
     "marketPositionOffset": 0,
     "price_array": [
+      6200,
+      6333,
+      6400,
+      6499,
       6500,
+      6900,
+      6999,
       7000,
-      7500,
-      7999,
+      7000,
+      7000,
+      7000,
       8000,
-      8000,
-      8000,
-      8250,
-      8360,
-      8499,
-      8500,
-      8500,
-      8999
+      8900,
+      9000
     ],
     "slots": 2,
-    "timestamp": "20191208013722",
-    "price_per_slot": 3624,
-    "price_avg": 7249
+    "timestamp": "20191208141437",
+    "price_per_slot": 3155,
+    "price_avg": 6311
   },
   {
     "name": "Portable defibrillator",
@@ -12214,24 +15955,24 @@
     "marketSearchName": "Portable defibrillator",
     "marketPositionOffset": 0,
     "price_array": [
-      104000,
-      105000,
-      110000,
+      109000,
+      109999,
+      110554,
+      110555,
       110999,
-      111000,
-      112000,
-      113000,
-      114000,
-      115000,
-      115000,
-      119000,
-      120000,
-      120000
+      112111,
+      115999,
+      116000,
+      116899,
+      116999,
+      117000,
+      117000,
+      118000
     ],
     "slots": 1,
-    "timestamp": "20191208013725",
-    "price_per_slot": 107499,
-    "price_avg": 107499
+    "timestamp": "20191208141440",
+    "price_per_slot": 109851,
+    "price_avg": 109851
   },
   {
     "name": "LEDX Skin Transilluminator",
@@ -12249,20 +15990,20 @@
     "marketPositionOffset": 0,
     "price_array": [
       1150000,
+      1150000,
+      1169898,
+      1169899,
+      1173899,
+      1175000,
       1180000,
-      1200000,
-      1200000,
-      1230000,
-      1236900,
-      1236999,
-      1244444,
-      1249999,
-      1250000
+      1180000,
+      1188888,
+      1199569
     ],
     "slots": 1,
-    "timestamp": "20191208013728",
-    "price_per_slot": 1182500,
-    "price_avg": 1182500
+    "timestamp": "20191208141444",
+    "price_per_slot": 1156632,
+    "price_avg": 1156632
   },
   {
     "name": "Saline solution",
@@ -12279,20 +16020,15 @@
     "marketSearchName": "Saline solution",
     "marketPositionOffset": 0,
     "price_array": [
-      28888,
-      30000,
-      32000,
-      37500,
-      37777,
-      38000,
-      38999,
-      39000,
-      39000
+      40500,
+      42000,
+      44444,
+      44980
     ],
     "slots": 1,
-    "timestamp": "20191208013730",
-    "price_per_slot": 32097,
-    "price_avg": 32097
+    "timestamp": "20191208141447",
+    "price_per_slot": 42314,
+    "price_avg": 42314
   },
   {
     "name": "Medical bloodset",
@@ -12309,22 +16045,22 @@
     "marketSearchName": "Medical bloodset",
     "marketPositionOffset": 0,
     "price_array": [
-      24000,
-      25000,
-      27000,
-      29500,
-      32000,
-      33000,
-      34000,
-      35000,
-      35000,
-      35555,
-      36000
+      25900,
+      28997,
+      28999,
+      29000,
+      29420,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      31000
     ],
     "slots": 1,
-    "timestamp": "20191208013733",
-    "price_per_slot": 26375,
-    "price_avg": 26375
+    "timestamp": "20191208141450",
+    "price_per_slot": 27965,
+    "price_avg": 27965
   },
   {
     "name": "Hydrogen peroxide",
@@ -12341,23 +16077,23 @@
     "marketSearchName": "Hydrogen peroxide",
     "marketPositionOffset": 0,
     "price_array": [
-      9000,
-      9100,
-      9200,
-      9480,
-      9499,
-      9499,
-      9499,
-      9500,
-      9500,
-      9500,
-      9500,
-      9500
+      6999,
+      7998,
+      8000,
+      8800,
+      9300,
+      9348,
+      9349,
+      9350,
+      9390,
+      9400,
+      9400,
+      9400
     ],
     "slots": 1,
-    "timestamp": "20191208013736",
-    "price_per_slot": 9195,
-    "price_avg": 9195
+    "timestamp": "20191208141454",
+    "price_per_slot": 7665,
+    "price_avg": 7665
   },
   {
     "name": "Ox bleach",
@@ -12374,21 +16110,21 @@
     "marketSearchName": "Ox bleach",
     "marketPositionOffset": 0,
     "price_array": [
+      12456,
+      12499,
       12500,
+      12850,
+      12900,
+      12900,
+      12999,
       13000,
       13000,
-      13000,
-      13500,
-      13500,
-      13500,
-      13997,
-      13998,
-      13999
+      13000
     ],
     "slots": 2,
-    "timestamp": "20191208013739",
-    "price_per_slot": 6437,
-    "price_avg": 12875
+    "timestamp": "20191208141457",
+    "price_per_slot": 6242,
+    "price_avg": 12485
   },
   {
     "name": "Shustrilo sealing foam",
@@ -12405,22 +16141,17 @@
     "marketSearchName": "Shustrilo sealing foam",
     "marketPositionOffset": 0,
     "price_array": [
-      18888,
-      21500,
-      22000,
-      22111,
-      23500,
-      25000,
-      28000,
-      29999,
-      34000,
-      34998,
-      35000
+      46999,
+      50000,
+      51000,
+      53333,
+      55555,
+      55555
     ],
     "slots": 3,
-    "timestamp": "20191208013742",
-    "price_per_slot": 7041,
-    "price_avg": 21124
+    "timestamp": "20191208141500",
+    "price_per_slot": 16444,
+    "price_avg": 49333
   },
   {
     "name": "Xenomorph sealing foam",
@@ -12437,24 +16168,19 @@
     "marketSearchName": "Xenomorph sealing foam",
     "marketPositionOffset": 0,
     "price_array": [
-      8900,
-      9988,
-      11999,
-      12000,
-      12000,
-      14000,
-      14000,
-      14990,
-      15000,
-      15000,
-      15000,
-      16500,
-      16500
+      16699,
+      16750,
+      16900,
+      16900,
+      16900,
+      16990,
+      16999,
+      16999
     ],
     "slots": 3,
-    "timestamp": "20191208013745",
-    "price_per_slot": 3573,
-    "price_avg": 10721
+    "timestamp": "20191208141504",
+    "price_per_slot": 5594,
+    "price_avg": 16783
   },
   {
     "name": "Sodium bicarbonate",
@@ -12471,22 +16197,19 @@
     "marketSearchName": "Sodium bicarbonate",
     "marketPositionOffset": 0,
     "price_array": [
-      18000,
-      19900,
-      19999,
-      20000,
-      21000,
-      22300,
-      22400,
-      22500,
-      23000,
-      23000,
-      23333
+      27000,
+      27420,
+      27500,
+      27999,
+      28000,
+      28000,
+      29888,
+      32500
     ],
     "slots": 1,
-    "timestamp": "20191208013748",
-    "price_per_slot": 19474,
-    "price_avg": 19474
+    "timestamp": "20191208141507",
+    "price_per_slot": 27306,
+    "price_avg": 27306
   },
   {
     "name": "Soap",
@@ -12503,25 +16226,24 @@
     "marketSearchName": "Soap",
     "marketPositionOffset": 0,
     "price_array": [
-      8000,
-      8889,
-      8890,
-      8900,
-      9000,
-      9000,
-      9000,
-      9000,
-      9000,
-      9000,
-      9000,
-      9000,
-      9000,
-      9100
+      10000,
+      10069,
+      10500,
+      10999,
+      11000,
+      11000,
+      11000,
+      11000,
+      11499,
+      11999,
+      12000,
+      12000,
+      12999
     ],
     "slots": 1,
-    "timestamp": "20191208013751",
-    "price_per_slot": 8669,
-    "price_avg": 8669
+    "timestamp": "20191208141510",
+    "price_per_slot": 10189,
+    "price_avg": 10189
   },
   {
     "name": "Toilet paper",
@@ -12538,24 +16260,24 @@
     "marketSearchName": "Toilet paper",
     "marketPositionOffset": 0,
     "price_array": [
-      6000,
-      6000,
-      6000,
-      6000,
-      6100,
-      6500,
-      6950,
-      7000,
-      7000,
-      7000,
-      7050,
-      7100,
-      7150
+      7500,
+      7500,
+      7500,
+      7500,
+      7500,
+      7500,
+      7500,
+      7600,
+      7777,
+      7999,
+      8000,
+      8000,
+      8000
     ],
     "slots": 1,
-    "timestamp": "20191208013754",
-    "price_per_slot": 6000,
-    "price_avg": 6000
+    "timestamp": "20191208141514",
+    "price_per_slot": 7500,
+    "price_avg": 7500
   },
   {
     "name": "5L propane tank",
@@ -12572,19 +16294,23 @@
     "marketSearchName": "5L propane tank",
     "marketPositionOffset": 0,
     "price_array": [
-      29000,
-      30000,
-      32000,
-      36000,
-      39000,
-      39500,
-      40000,
-      40000
+      45000,
+      45000,
+      48999,
+      48999,
+      48999,
+      49500,
+      49888,
+      49950,
+      49999,
+      49999,
+      49999,
+      50000
     ],
     "slots": 4,
-    "timestamp": "20191208013757",
-    "price_per_slot": 7937,
-    "price_avg": 31750
+    "timestamp": "20191208141517",
+    "price_per_slot": 11583,
+    "price_avg": 46333
   },
   {
     "name": "Fuel conditioner",
@@ -12601,16 +16327,22 @@
     "marketSearchName": "Fuel conditioner",
     "marketPositionOffset": 0,
     "price_array": [
-      94000,
-      94200,
+      93000,
+      93999,
+      94999,
+      94999,
+      95000,
+      95000,
+      95000,
+      95000,
       95000,
       95000,
       95000
     ],
     "slots": 2,
-    "timestamp": "20191208013800",
-    "price_per_slot": 47275,
-    "price_avg": 94550
+    "timestamp": "20191208141520",
+    "price_per_slot": 46999,
+    "price_avg": 93999
   },
   {
     "name": "Heat-exchange alkali surface washer",
@@ -12627,23 +16359,24 @@
     "marketSearchName": "Heat-exchange alkali surface washer",
     "marketPositionOffset": 0,
     "price_array": [
-      9000,
-      11100,
-      11111,
-      11200,
-      11850,
-      11900,
-      11997,
-      11999,
+      10000,
+      11000,
+      11400,
+      11500,
       12000,
       12000,
-      12000,
-      12000
+      12498,
+      12500,
+      12500,
+      13500,
+      13750,
+      13999,
+      14000
     ],
     "slots": 2,
-    "timestamp": "20191208013803",
-    "price_per_slot": 5301,
-    "price_avg": 10602
+    "timestamp": "20191208141524",
+    "price_per_slot": 5400,
+    "price_avg": 10800
   },
   {
     "name": "Dry fuel",
@@ -12660,21 +16393,20 @@
     "marketSearchName": "Dry fuel",
     "marketPositionOffset": 0,
     "price_array": [
-      40000,
-      44000,
-      52000,
-      54444,
-      65000,
-      69000,
-      70000,
-      70000,
-      70000,
-      70000
+      54999,
+      54999,
+      55000,
+      55000,
+      55000,
+      55555,
+      55999,
+      56000,
+      56000
     ],
     "slots": 1,
-    "timestamp": "20191208013806",
-    "price_per_slot": 47611,
-    "price_avg": 47611
+    "timestamp": "20191208141527",
+    "price_per_slot": 54999,
+    "price_avg": 54999
   },
   {
     "name": "A set of tools",
@@ -12691,16 +16423,17 @@
     "marketSearchName": "A set of tools",
     "marketPositionOffset": 0,
     "price_array": [
-      38000,
-      40000,
-      41000,
-      41000,
-      46000
+      44999,
+      45000,
+      45000,
+      45000,
+      45000,
+      45000
     ],
     "slots": 4,
-    "timestamp": "20191208013809",
-    "price_per_slot": 10000,
-    "price_avg": 40000
+    "timestamp": "20191208141530",
+    "price_per_slot": 11249,
+    "price_avg": 44999
   },
   {
     "name": "Rechargeable battery",
@@ -12717,22 +16450,21 @@
     "marketSearchName": "Rechargeable battery",
     "marketPositionOffset": 0,
     "price_array": [
-      15000,
-      15500,
+      16999,
+      16999,
       17000,
       17000,
-      17000,
-      17000,
-      17800,
-      17950,
-      17999,
+      17400,
+      17400,
+      17500,
+      17500,
       18000,
       18000
     ],
     "slots": 1,
-    "timestamp": "20191208013812",
-    "price_per_slot": 16125,
-    "price_avg": 16125
+    "timestamp": "20191208141534",
+    "price_per_slot": 16999,
+    "price_avg": 16999
   },
   {
     "name": "Air filter for gas mask",
@@ -12749,23 +16481,22 @@
     "marketSearchName": "Air filter for gas mask",
     "marketPositionOffset": 0,
     "price_array": [
-      24000,
-      24000,
-      24900,
-      25000,
-      28000,
-      28000,
-      28001,
-      29000,
-      29000,
-      29499,
-      29500,
-      29500
+      19499,
+      22000,
+      22000,
+      22500,
+      22998,
+      22999,
+      23000,
+      23000,
+      23999,
+      23999,
+      24000
     ],
     "slots": 2,
-    "timestamp": "20191208013815",
-    "price_per_slot": 12237,
-    "price_avg": 24475
+    "timestamp": "20191208141537",
+    "price_per_slot": 10583,
+    "price_avg": 21166
   },
   {
     "name": "Secure Flash drive",
@@ -12783,19 +16514,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       64000,
-      65000,
-      65000,
-      65000,
-      67000,
-      67999,
-      70000,
-      72000,
-      73900
+      65000
     ],
     "slots": 1,
-    "timestamp": "20191208013818",
-    "price_per_slot": 64750,
-    "price_avg": 64750
+    "timestamp": "20191208141540",
+    "price_per_slot": 64500,
+    "price_avg": 64500
   },
   {
     "name": "Coffee Majaica",
@@ -12812,21 +16536,24 @@
     "marketSearchName": "Coffee Majaica",
     "marketPositionOffset": 0,
     "price_array": [
-      29999,
-      29999,
-      30000,
-      30000,
-      30000,
-      30000,
-      30000,
-      30000,
-      30000,
-      30000
+      22000,
+      22900,
+      22999,
+      23000,
+      23500,
+      24000,
+      24999,
+      25000,
+      25000,
+      25000,
+      25999,
+      26000,
+      28000
     ],
     "slots": 1,
-    "timestamp": "20191208013821",
-    "price_per_slot": 29999,
-    "price_avg": 29999
+    "timestamp": "20191208141544",
+    "price_per_slot": 22633,
+    "price_avg": 22633
   },
   {
     "name": "Ophthalmoscope",
@@ -12843,23 +16570,24 @@
     "marketSearchName": "Ophthalmoscope",
     "marketPositionOffset": 0,
     "price_array": [
-      84000,
-      84399,
-      86500,
-      87000,
-      87700,
-      88000,
-      88000,
-      89000,
-      89000,
+      85000,
+      89999,
       90000,
+      90900,
+      94949,
+      94999,
       95000,
-      95000
+      95000,
+      95000,
+      95000,
+      96850,
+      98000,
+      98765
     ],
     "slots": 1,
-    "timestamp": "20191208013824",
-    "price_per_slot": 85474,
-    "price_avg": 85474
+    "timestamp": "20191208141547",
+    "price_per_slot": 88333,
+    "price_avg": 88333
   },
   {
     "name": "Pliers Elite",
@@ -12876,25 +16604,22 @@
     "marketSearchName": "Pliers Elite",
     "marketPositionOffset": 0,
     "price_array": [
-      14444,
-      15696,
-      16000,
-      16666,
-      17000,
-      17000,
-      17500,
-      18000,
-      18498,
-      18499,
-      18500,
-      18887,
-      18888,
-      18900
+      18999,
+      19499,
+      19500,
+      19989,
+      19989,
+      20000,
+      20000,
+      20000,
+      20000,
+      20000,
+      20000
     ],
     "slots": 1,
-    "timestamp": "20191208013827",
-    "price_per_slot": 15701,
-    "price_avg": 15701
+    "timestamp": "20191208141550",
+    "price_per_slot": 19332,
+    "price_avg": 19332
   },
   {
     "name": "Powerbank",
@@ -12911,22 +16636,22 @@
     "marketSearchName": "Powerbank",
     "marketPositionOffset": 0,
     "price_array": [
-      25000,
-      28888,
-      29000,
+      27500,
+      28500,
+      28500,
+      28800,
       29000,
       29500,
+      29999,
       30000,
       30000,
       30000,
-      30000,
-      32999,
-      33000
+      30000
     ],
     "slots": 1,
-    "timestamp": "20191208013830",
-    "price_per_slot": 27972,
-    "price_avg": 27972
+    "timestamp": "20191208141554",
+    "price_per_slot": 28166,
+    "price_avg": 28166
   },
   {
     "name": "42nd Signature Blend English Tea",
@@ -12943,22 +16668,25 @@
     "marketSearchName": "42nd Signature Blend English Tea",
     "marketPositionOffset": 0,
     "price_array": [
-      22900,
+      18000,
+      18000,
+      19888,
+      20000,
+      20088,
+      20116,
+      20999,
+      22000,
+      22000,
+      22999,
       23000,
       23000,
-      23333,
-      23999,
-      24000,
-      24000,
-      24000,
-      24000,
-      24000,
-      24500
+      23000,
+      23000
     ],
     "slots": 1,
-    "timestamp": "20191208013833",
-    "price_per_slot": 23058,
-    "price_avg": 23058
+    "timestamp": "20191208141557",
+    "price_per_slot": 18629,
+    "price_avg": 18629
   },
   {
     "name": "Golden rooster",
@@ -12975,25 +16703,24 @@
     "marketSearchName": "Golden rooster",
     "marketPositionOffset": 0,
     "price_array": [
-      67500,
-      67988,
+      67983,
+      67984,
+      67985,
+      67990,
+      67993,
       67994,
-      67995,
-      67995,
-      67996,
-      67997,
-      67997,
-      67998,
       67999,
       67999,
-      67999,
-      67999,
+      68000,
+      68000,
+      68000,
+      68000,
       68000
     ],
     "slots": 4,
-    "timestamp": "20191208013836",
-    "price_per_slot": 16967,
-    "price_avg": 67869
+    "timestamp": "20191208141600",
+    "price_per_slot": 16996,
+    "price_avg": 67984
   },
   {
     "name": "Roler submariner gold wrist watch",
@@ -13010,24 +16737,22 @@
     "marketSearchName": "Roler submariner gold wrist watch",
     "marketPositionOffset": 0,
     "price_array": [
-      80000,
-      87880,
-      88000,
-      88000,
-      88888,
+      83999,
+      84000,
+      84999,
       89000,
       90000,
-      90000,
-      92000,
-      92998,
-      94000,
-      95000,
-      95000
+      99500,
+      99999,
+      99999,
+      100000,
+      100000,
+      103000
     ],
     "slots": 1,
-    "timestamp": "20191208013839",
-    "price_per_slot": 85970,
-    "price_avg": 85970
+    "timestamp": "20191208141604",
+    "price_per_slot": 84332,
+    "price_avg": 84332
   },
   {
     "name": "Battered antique Book",
@@ -13044,17 +16769,19 @@
     "marketSearchName": "Battered antique Book",
     "marketPositionOffset": 0,
     "price_array": [
-      50000,
-      50000,
-      51500,
-      52666,
-      53000,
-      54000
+      54897,
+      54898,
+      54899,
+      54998,
+      54998,
+      54999,
+      54999,
+      54999
     ],
     "slots": 2,
-    "timestamp": "20191208013842",
-    "price_per_slot": 25520,
-    "price_avg": 51041
+    "timestamp": "20191208141607",
+    "price_per_slot": 27449,
+    "price_avg": 54898
   },
   {
     "name": "FireKlean gun lube",
@@ -13071,24 +16798,24 @@
     "marketSearchName": "FireKlean gun lube",
     "marketPositionOffset": 0,
     "price_array": [
-      69978,
-      69989,
-      88000,
-      89000,
-      90000,
-      95000,
-      100000,
-      100000,
-      150000,
-      200000,
-      200000,
-      200000,
-      284900
+      36420,
+      39000,
+      39999,
+      40000,
+      40000,
+      40000,
+      42999,
+      43000,
+      43000,
+      43998,
+      43999,
+      44000,
+      44444
     ],
     "slots": 1,
-    "timestamp": "20191208013845",
-    "price_per_slot": 79241,
-    "price_avg": 79241
+    "timestamp": "20191208141611",
+    "price_per_slot": 38473,
+    "price_avg": 38473
   },
   {
     "name": "Old firesteel",
@@ -13105,25 +16832,22 @@
     "marketSearchName": "Old firesteel",
     "marketPositionOffset": 0,
     "price_array": [
-      39999,
       40000,
-      40000,
-      40000,
-      40144,
+      40420,
       40500,
-      40999,
-      40999,
       41000,
-      41000,
-      41000,
-      41000,
-      41000,
-      41111
+      41400,
+      41500,
+      42000,
+      43210,
+      45000,
+      48888,
+      50000
     ],
     "slots": 1,
-    "timestamp": "20191208013848",
-    "price_per_slot": 39999,
-    "price_avg": 39999
+    "timestamp": "20191208141614",
+    "price_per_slot": 40306,
+    "price_avg": 40306
   },
   {
     "name": "Deadlyslob's beard oil",
@@ -13140,25 +16864,24 @@
     "marketSearchName": "Deadlyslob's beard oil",
     "marketPositionOffset": 0,
     "price_array": [
-      54000,
-      56000,
-      56495,
-      56500,
+      56499,
+      56599,
+      56599,
       56600,
-      56699,
+      56777,
+      56799,
+      56800,
+      56800,
+      56949,
+      56950,
+      56969,
       56999,
-      57000,
-      57000,
-      57000,
-      57999,
-      58000,
-      60000,
-      60000
+      56999
     ],
     "slots": 1,
-    "timestamp": "20191208013850",
-    "price_per_slot": 55748,
-    "price_avg": 55748
+    "timestamp": "20191208141617",
+    "price_per_slot": 56565,
+    "price_avg": 56565
   },
   {
     "name": "Golden 1GPhone",
@@ -13176,22 +16899,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       40900,
+      40900,
       40950,
-      40995,
+      40984,
+      40985,
+      40988,
+      40989,
+      40990,
+      40994,
       40996,
-      40998,
-      40998,
       40999,
       40999,
-      41000,
-      41000,
-      41000,
-      41000
+      40999,
+      40999
     ],
     "slots": 1,
-    "timestamp": "20191208013853",
-    "price_per_slot": 40960,
-    "price_avg": 40960
+    "timestamp": "20191208141621",
+    "price_per_slot": 40916,
+    "price_avg": 40916
   },
   {
     "name": "Tetriz portable game",
@@ -13209,23 +16934,23 @@
     "marketPositionOffset": 0,
     "price_array": [
       114000,
+      114000,
+      114000,
+      114000,
+      114000,
+      114444,
+      114999,
       115000,
-      115115,
-      115500,
-      116000,
-      116000,
-      118000,
-      118000,
-      118000,
-      118988,
-      119000,
-      119500,
-      119989
+      115000,
+      115000,
+      115000,
+      115000,
+      115000
     ],
     "slots": 2,
-    "timestamp": "20191208013856",
-    "price_per_slot": 57451,
-    "price_avg": 114903
+    "timestamp": "20191208141624",
+    "price_per_slot": 57000,
+    "price_avg": 114000
   },
   {
     "name": "Chain with Prokill medallion",
@@ -13242,23 +16967,19 @@
     "marketSearchName": "Chain with Prokill medallion",
     "marketPositionOffset": 0,
     "price_array": [
-      130000,
-      130000,
-      130000,
-      130000,
       130999,
       131000,
-      131999,
-      132999,
-      133332,
-      135999,
+      133333,
+      134000,
+      135000,
       136000,
-      137000
+      137998,
+      138000
     ],
     "slots": 1,
-    "timestamp": "20191208013859",
-    "price_per_slot": 130000,
-    "price_avg": 130000
+    "timestamp": "20191208141627",
+    "price_per_slot": 131777,
+    "price_avg": 131777
   },
   {
     "name": "Nippers",
@@ -13275,23 +16996,23 @@
     "marketSearchName": "Nippers",
     "marketPositionOffset": 0,
     "price_array": [
-      9899,
-      9990,
-      10000,
-      10000,
-      10000,
-      10000,
-      10420,
-      11450,
+      11000,
+      11899,
       11999,
       12000,
-      12500,
-      12999
+      12000,
+      12000,
+      12000,
+      12000,
+      12100,
+      12200,
+      12225,
+      12500
     ],
     "slots": 1,
-    "timestamp": "20191208013902",
-    "price_per_slot": 9972,
-    "price_avg": 9972
+    "timestamp": "20191208141631",
+    "price_per_slot": 11632,
+    "price_avg": 11632
   },
   {
     "name": "Metal cutting scissors",
@@ -13308,23 +17029,22 @@
     "marketSearchName": "Metal cutting scissors",
     "marketPositionOffset": 0,
     "price_array": [
-      37000,
-      39888,
-      39999,
-      39999,
       40000,
-      43000,
-      43500,
-      44000,
-      44000,
+      41500,
       44000,
       44444,
-      44444
+      44500,
+      44999,
+      45000,
+      45900,
+      46000,
+      48000,
+      49000
     ],
     "slots": 2,
-    "timestamp": "20191208013905",
-    "price_per_slot": 19610,
-    "price_avg": 39221
+    "timestamp": "20191208141634",
+    "price_per_slot": 20916,
+    "price_avg": 41833
   },
   {
     "name": "Handdrill",
@@ -13341,21 +17061,23 @@
     "marketSearchName": "Handdrill",
     "marketPositionOffset": 0,
     "price_array": [
+      44000,
+      44899,
+      44900,
+      44998,
+      44999,
       45000,
       45000,
       45000,
       45000,
-      45000,
-      45000,
-      45000,
-      45000,
-      45000,
-      45000
+      45500,
+      45666,
+      45999
     ],
     "slots": 6,
-    "timestamp": "20191208013908",
-    "price_per_slot": 7500,
-    "price_avg": 45000
+    "timestamp": "20191208141637",
+    "price_per_slot": 7433,
+    "price_avg": 44599
   },
   {
     "name": "6-STEN-140-M military battery",
@@ -13372,21 +17094,23 @@
     "marketSearchName": "6-STEN-140-M military battery",
     "marketPositionOffset": 0,
     "price_array": [
+      280000,
+      286666,
+      289999,
+      290000,
+      290000,
+      290000,
+      293999,
+      295000,
+      299998,
+      299999,
       300000,
-      300000,
-      310000,
-      310000,
-      319520,
-      319999,
-      320000,
-      320000,
-      320000,
-      321098
+      300000
     ],
     "slots": 8,
-    "timestamp": "20191208013911",
-    "price_per_slot": 38125,
-    "price_avg": 305000
+    "timestamp": "20191208141641",
+    "price_per_slot": 35694,
+    "price_avg": 285555
   },
   {
     "name": "NIXXOR lens",
@@ -13403,15 +17127,19 @@
     "marketSearchName": "NIXXOR lens",
     "marketPositionOffset": 0,
     "price_array": [
-      29999,
-      30000,
-      34000,
-      34999
+      31900,
+      37000,
+      38000,
+      43000,
+      44000,
+      44444,
+      44444,
+      45000
     ],
     "slots": 1,
-    "timestamp": "20191208013914",
-    "price_per_slot": 32249,
-    "price_avg": 32249
+    "timestamp": "20191208141644",
+    "price_per_slot": 35633,
+    "price_avg": 35633
   },
   {
     "name": "Expeditionary fuel tank",
@@ -13428,16 +17156,20 @@
     "marketSearchName": "Expeditionary fuel tank",
     "marketPositionOffset": 0,
     "price_array": [
-      58999,
-      59990,
-      60000,
-      60000,
-      60000
+      64999,
+      65000,
+      69000,
+      69900,
+      69999,
+      70000,
+      70000,
+      70000,
+      70000
     ],
     "slots": 4,
-    "timestamp": "20191208013917",
-    "price_per_slot": 14936,
-    "price_avg": 59747
+    "timestamp": "20191208141647",
+    "price_per_slot": 16583,
+    "price_avg": 66333
   },
   {
     "name": "Metal fuel tank",
@@ -13454,24 +17186,25 @@
     "marketSearchName": "Metal fuel tank",
     "marketPositionOffset": 0,
     "price_array": [
-      11999,
-      12345,
-      19999,
-      20000,
-      20000,
-      20000,
-      20500,
-      20666,
-      22000,
-      22111,
-      23500,
-      24000,
-      24444
+      7800,
+      15000,
+      15000,
+      15000,
+      16999,
+      17000,
+      17500,
+      17777,
+      18000,
+      18000,
+      18900,
+      19000,
+      19000,
+      19000
     ],
     "slots": 6,
-    "timestamp": "20191208013920",
-    "price_per_slot": 2680,
-    "price_avg": 16085
+    "timestamp": "20191208141651",
+    "price_per_slot": 2100,
+    "price_avg": 12600
   },
   {
     "name": "FP-100 filter absorber",
@@ -13488,24 +17221,24 @@
     "marketSearchName": "FP-100 filter absorber",
     "marketPositionOffset": 0,
     "price_array": [
-      150000,
-      150000,
-      159000,
-      160000,
-      160000,
-      170000,
-      174999,
-      175000,
-      175000,
-      175000,
-      175000,
-      175000,
-      179992
+      190000,
+      190000,
+      192000,
+      195000,
+      195000,
+      195000,
+      195000,
+      198999,
+      199000,
+      199500,
+      199900,
+      199999,
+      199999
     ],
     "slots": 9,
-    "timestamp": "20191208013923",
-    "price_per_slot": 17194,
-    "price_avg": 154750
+    "timestamp": "20191208141654",
+    "price_per_slot": 21185,
+    "price_avg": 190666
   },
   {
     "name": "Electric motor",
@@ -13522,21 +17255,13 @@
     "marketSearchName": "Electric motor",
     "marketPositionOffset": 0,
     "price_array": [
-      31900,
-      34000,
-      34000,
-      34000,
-      34444,
-      34500,
-      34500,
-      35000,
-      35000,
-      35000
+      39999,
+      40000
     ],
     "slots": 4,
-    "timestamp": "20191208013926",
-    "price_per_slot": 8368,
-    "price_avg": 33475
+    "timestamp": "20191208141657",
+    "price_per_slot": 9999,
+    "price_avg": 39999
   },
   {
     "name": "Broken LCD",
@@ -13553,23 +17278,23 @@
     "marketSearchName": "Broken LCD",
     "marketPositionOffset": 0,
     "price_array": [
-      14000,
-      15000,
-      15666,
-      15777,
-      16000,
-      16998,
-      16999,
-      16999,
-      16999,
+      12900,
+      15555,
+      16420,
+      16450,
+      16490,
+      16500,
       17000,
-      17000,
-      17000
+      17500,
+      17800,
+      17999,
+      17999,
+      18000
     ],
     "slots": 2,
-    "timestamp": "20191208013929",
-    "price_per_slot": 7555,
-    "price_avg": 15110
+    "timestamp": "20191208141701",
+    "price_per_slot": 7479,
+    "price_avg": 14958
   },
   {
     "name": "Working LCD",
@@ -13586,20 +17311,24 @@
     "marketSearchName": "Working LCD",
     "marketPositionOffset": 0,
     "price_array": [
+      25666,
+      28000,
+      28500,
+      28999,
       29000,
       29000,
-      29000,
-      29000,
-      29000,
-      29000,
-      29000,
-      29000,
-      29990
+      29998,
+      29999,
+      29999,
+      29999,
+      30000,
+      30000,
+      30000
     ],
     "slots": 2,
-    "timestamp": "20191208013932",
-    "price_per_slot": 14500,
-    "price_avg": 29000
+    "timestamp": "20191208141704",
+    "price_per_slot": 13694,
+    "price_avg": 27388
   },
   {
     "name": "GP coin",
@@ -13616,21 +17345,23 @@
     "marketSearchName": "GP coin",
     "marketPositionOffset": 0,
     "price_array": [
-      31000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      31500,
       32000,
-      33000,
-      34995,
-      35000,
-      36000,
-      36998,
-      37000,
-      37998,
-      37999
+      32000,
+      32000,
+      33000
     ],
     "slots": 1,
-    "timestamp": "20191208013935",
-    "price_per_slot": 32748,
-    "price_avg": 32748
+    "timestamp": "20191208141707",
+    "price_per_slot": 30000,
+    "price_avg": 30000
   },
   {
     "name": "Water filter",
@@ -13647,18 +17378,21 @@
     "marketSearchName": "Water filter",
     "marketPositionOffset": 0,
     "price_array": [
-      51999,
-      54000,
-      55846,
-      56300,
-      57000,
-      58988,
-      59999
+      60000,
+      62500,
+      63900,
+      63999,
+      63999,
+      64000,
+      64400,
+      64997,
+      64997,
+      64998
     ],
     "slots": 2,
-    "timestamp": "20191208013938",
-    "price_per_slot": 27268,
-    "price_avg": 54536
+    "timestamp": "20191208141711",
+    "price_per_slot": 31066,
+    "price_avg": 62133
   },
   {
     "name": "Gunpowder \"Kite\"",
@@ -13675,21 +17409,15 @@
     "marketSearchName": "Gunpowder \"Kite\"",
     "marketPositionOffset": 0,
     "price_array": [
-      12000,
-      12900,
-      12996,
-      13000,
-      13000,
-      13000,
-      13000,
-      13000,
-      13000,
-      13499
+      12500,
+      12999,
+      13999,
+      14000
     ],
     "slots": 2,
-    "timestamp": "20191208013941",
-    "price_per_slot": 6362,
-    "price_avg": 12724
+    "timestamp": "20191208141714",
+    "price_per_slot": 6583,
+    "price_avg": 13166
   },
   {
     "name": "Gunpowder \"Eagle\"",
@@ -13706,23 +17434,18 @@
     "marketSearchName": "Gunpowder \"Eagle\"",
     "marketPositionOffset": 0,
     "price_array": [
-      40995,
+      40000,
       41000,
-      41999,
+      41000,
       42000,
-      42000,
-      42000,
-      42000,
-      42000,
-      42000,
-      42000,
-      42000,
-      42000
+      43000,
+      43500,
+      43850
     ],
     "slots": 2,
-    "timestamp": "20191208013944",
-    "price_per_slot": 20749,
-    "price_avg": 41498
+    "timestamp": "20191208141717",
+    "price_per_slot": 20333,
+    "price_avg": 40666
   },
   {
     "name": "Gunpowder \"Hawk\"",
@@ -13739,23 +17462,22 @@
     "marketSearchName": "Gunpowder \"Hawk\"",
     "marketPositionOffset": 0,
     "price_array": [
+      18900,
+      18999,
+      19250,
+      19999,
       20000,
       20000,
       20000,
       20000,
-      20369,
-      20400,
-      20400,
-      20420,
-      20999,
-      22000,
-      22000,
-      22500
+      20000,
+      20000,
+      20000
     ],
     "slots": 2,
-    "timestamp": "20191208013947",
-    "price_per_slot": 10000,
-    "price_avg": 20000
+    "timestamp": "20191208141721",
+    "price_per_slot": 9524,
+    "price_avg": 19049
   },
   {
     "name": "Pile of meds",
@@ -13772,23 +17494,16 @@
     "marketSearchName": "Pile of meds",
     "marketPositionOffset": 0,
     "price_array": [
-      11999,
       12000,
       13000,
       13000,
       13000,
-      14000,
-      15000,
-      15000,
-      15000,
-      16000,
-      16666,
-      16900
+      13000
     ],
     "slots": 1,
-    "timestamp": "20191208013950",
-    "price_per_slot": 12499,
-    "price_avg": 12499
+    "timestamp": "20191208141724",
+    "price_per_slot": 12666,
+    "price_avg": 12666
   },
   {
     "name": "Disposable syringe",
@@ -13805,21 +17520,22 @@
     "marketSearchName": "Disposable syringe",
     "marketPositionOffset": 0,
     "price_array": [
-      26666,
-      28500,
-      28500,
-      30000,
-      30000,
-      30999,
-      33333,
-      35000,
-      35999,
-      37999
+      30997,
+      32000,
+      32999,
+      33000,
+      33000,
+      33420,
+      33900,
+      33999,
+      33999,
+      34000,
+      34000
     ],
     "slots": 1,
-    "timestamp": "20191208013953",
-    "price_per_slot": 28416,
-    "price_avg": 28416
+    "timestamp": "20191208141727",
+    "price_per_slot": 31998,
+    "price_avg": 31998
   },
   {
     "name": "Phased array element",
@@ -13836,23 +17552,21 @@
     "marketSearchName": "Phased array element",
     "marketPositionOffset": 0,
     "price_array": [
-      400000,
-      400000,
-      400000,
-      400000,
-      400000,
-      400000,
-      400000,
-      400000,
-      400000,
-      402715,
-      410000,
-      415000
+      368666,
+      369000,
+      379000,
+      380000,
+      380000,
+      388888,
+      389000,
+      390000,
+      399996,
+      399997
     ],
     "slots": 4,
-    "timestamp": "20191208013956",
-    "price_per_slot": 100000,
-    "price_avg": 400000
+    "timestamp": "20191208141731",
+    "price_per_slot": 93055,
+    "price_avg": 372222
   },
   {
     "name": "Military circuit board",
@@ -13869,6 +17583,7 @@
     "marketSearchName": "Military circuit board",
     "marketPositionOffset": 0,
     "price_array": [
+      28500,
       29999,
       29999,
       29999,
@@ -13878,12 +17593,15 @@
       30000,
       30000,
       30000,
-      30000
+      30000,
+      30000,
+      31000,
+      31000
     ],
     "slots": 1,
-    "timestamp": "20191208013959",
-    "price_per_slot": 29999,
-    "price_avg": 29999
+    "timestamp": "20191208141734",
+    "price_per_slot": 29499,
+    "price_avg": 29499
   },
   {
     "name": "Military thermal vision module Iridium",
@@ -13900,25 +17618,25 @@
     "marketSearchName": "Military thermal vision module Iridium",
     "marketPositionOffset": 0,
     "price_array": [
-      60996,
-      60997,
-      60998,
-      60999,
-      60999,
-      60999,
+      60799,
+      60899,
+      60900,
       61000,
       61000,
       61000,
       61000,
-      61000,
-      61000,
-      61000,
-      61000
+      61500,
+      61500,
+      61500,
+      61999,
+      62222,
+      63333,
+      64000
     ],
     "slots": 1,
-    "timestamp": "20191208014002",
-    "price_per_slot": 60997,
-    "price_avg": 60997
+    "timestamp": "20191208141737",
+    "price_per_slot": 60866,
+    "price_avg": 60866
   },
   {
     "name": "Military gyrotachometer",
@@ -13935,24 +17653,24 @@
     "marketSearchName": "Military gyrotachometer",
     "marketPositionOffset": 0,
     "price_array": [
-      45500,
+      46464,
+      46489,
       46500,
       46500,
-      46666,
-      46999,
-      47000,
-      47000,
-      47000,
-      47000,
-      47900,
-      47999,
-      48000,
-      49000
+      46500,
+      46500,
+      46500,
+      46500,
+      46500,
+      46500,
+      46500,
+      46500,
+      46655
     ],
     "slots": 2,
-    "timestamp": "20191208014005",
-    "price_per_slot": 23145,
-    "price_avg": 46291
+    "timestamp": "20191208141741",
+    "price_per_slot": 23242,
+    "price_avg": 46484
   },
   {
     "name": "Weapon parts",
@@ -13969,23 +17687,22 @@
     "marketSearchName": "Weapon parts",
     "marketPositionOffset": 0,
     "price_array": [
-      9999,
-      10990,
-      10990,
-      10999,
       11000,
       11000,
-      11000,
-      11500,
-      11750,
-      12500,
-      13500,
-      13700
+      11111,
+      11111,
+      11200,
+      11399,
+      11998,
+      11999,
+      11999,
+      11999,
+      12000
     ],
     "slots": 2,
-    "timestamp": "20191208014007",
-    "price_per_slot": 5372,
-    "price_avg": 10744
+    "timestamp": "20191208141744",
+    "price_per_slot": 5518,
+    "price_avg": 11037
   },
   {
     "name": "Round pliers",
@@ -14002,24 +17719,23 @@
     "marketSearchName": "Round pliers",
     "marketPositionOffset": 0,
     "price_array": [
-      6800,
-      6999,
-      7000,
-      7500,
-      7900,
-      8500,
-      8500,
-      8500,
-      8888,
-      9790,
-      9799,
-      9998,
-      9998
+      4400,
+      4400,
+      4444,
+      4500,
+      4799,
+      4800,
+      4999,
+      4999,
+      5000,
+      5999,
+      6950,
+      7000
     ],
     "slots": 1,
-    "timestamp": "20191208014010",
-    "price_per_slot": 7074,
-    "price_avg": 7074
+    "timestamp": "20191208141747",
+    "price_per_slot": 4414,
+    "price_avg": 4414
   },
   {
     "name": "OFZ 30x160mm shell",
@@ -14036,22 +17752,18 @@
     "marketSearchName": "OFZ 30",
     "marketPositionOffset": 0,
     "price_array": [
-      67750,
-      68899,
-      69999,
       70000,
-      72889,
-      78999,
-      79990,
-      79999,
-      79999,
-      79999,
-      79999
+      72000,
+      72000,
+      74444,
+      74600,
+      74899,
+      74999
     ],
     "slots": 2,
-    "timestamp": "20191208014013",
-    "price_per_slot": 34581,
-    "price_avg": 69162
+    "timestamp": "20191208141751",
+    "price_per_slot": 35666,
+    "price_avg": 71333
   },
   {
     "name": "Military cable",
@@ -14068,23 +17780,18 @@
     "marketSearchName": "Military cable",
     "marketPositionOffset": 0,
     "price_array": [
-      31000,
-      31211,
-      32000,
-      33000,
-      34333,
-      34500,
-      35000,
-      35000,
-      35000,
-      35000,
-      35500,
-      36000
+      35999,
+      40000,
+      44999,
+      44999,
+      45000,
+      45000,
+      50000
     ],
     "slots": 2,
-    "timestamp": "20191208014016",
-    "price_per_slot": 15901,
-    "price_avg": 31802
+    "timestamp": "20191208141754",
+    "price_per_slot": 20166,
+    "price_avg": 40332
   },
   {
     "name": "Military power filter",
@@ -14101,21 +17808,23 @@
     "marketSearchName": "Military power filter",
     "marketPositionOffset": 0,
     "price_array": [
-      41000,
-      42500,
-      43000,
-      43000,
-      44999,
-      45000,
-      46747,
-      47000,
-      47000,
-      48000
+      46000,
+      46000,
+      47998,
+      47999,
+      48000,
+      48000,
+      48400,
+      48999,
+      49000,
+      49999,
+      49999,
+      49999
     ],
     "slots": 1,
-    "timestamp": "20191208014019",
-    "price_per_slot": 42375,
-    "price_avg": 42375
+    "timestamp": "20191208141757",
+    "price_per_slot": 46666,
+    "price_avg": 46666
   },
   {
     "name": "Pressure gauge",
@@ -14132,23 +17841,20 @@
     "marketSearchName": "Pressure gauge",
     "marketPositionOffset": 0,
     "price_array": [
-      140000,
-      149999,
-      149999,
-      150000,
-      150000,
-      150000,
-      150000,
-      151000,
-      155000,
-      160000,
-      160000,
-      160000
+      170000,
+      174444,
+      174999,
+      175000,
+      177000,
+      178000,
+      178900,
+      178999,
+      179000
     ],
     "slots": 2,
-    "timestamp": "20191208014022",
-    "price_per_slot": 73749,
-    "price_avg": 147499
+    "timestamp": "20191208141801",
+    "price_per_slot": 86573,
+    "price_avg": 173147
   },
   {
     "name": "Analog thermometer",
@@ -14165,20 +17871,20 @@
     "marketSearchName": "Analog thermometer",
     "marketPositionOffset": 0,
     "price_array": [
-      56500,
-      56500,
-      56800,
-      56998,
-      56999,
-      56999,
-      57000,
-      57000,
-      57000
+      57999,
+      57999,
+      57999,
+      58000,
+      58000,
+      58000,
+      58000,
+      58000,
+      58000
     ],
     "slots": 2,
-    "timestamp": "20191208014025",
-    "price_per_slot": 28349,
-    "price_avg": 56699
+    "timestamp": "20191208141804",
+    "price_per_slot": 28999,
+    "price_avg": 57999
   },
   {
     "name": "Light bulb",
@@ -14195,18 +17901,17 @@
     "marketSearchName": "Light bulb",
     "marketPositionOffset": 0,
     "price_array": [
+      15000,
       16000,
-      16500,
-      17999,
-      18999,
-      19000,
-      19000,
-      19000
+      17000,
+      17000,
+      17000,
+      17800
     ],
     "slots": 1,
-    "timestamp": "20191208014028",
-    "price_per_slot": 17374,
-    "price_avg": 17374
+    "timestamp": "20191208141807",
+    "price_per_slot": 16000,
+    "price_avg": 16000
   },
   {
     "name": "Radiator helix",
@@ -14223,23 +17928,21 @@
     "marketSearchName": "Radiator helix",
     "marketPositionOffset": 0,
     "price_array": [
-      16000,
-      16000,
-      16780,
-      17000,
-      17988,
       18000,
       18000,
-      18000,
-      19000,
-      19000,
-      19429,
-      19500
+      19999,
+      20000,
+      20000,
+      20000,
+      20000,
+      20499,
+      20500,
+      20900
     ],
     "slots": 1,
-    "timestamp": "20191208014031",
-    "price_per_slot": 16445,
-    "price_avg": 16445
+    "timestamp": "20191208141811",
+    "price_per_slot": 18666,
+    "price_avg": 18666
   },
   {
     "name": "Gold skull ring",
@@ -14256,22 +17959,25 @@
     "marketSearchName": "Gold skull ring",
     "marketPositionOffset": 0,
     "price_array": [
-      48498,
-      48499,
-      48500,
-      48887,
-      48999,
-      49000,
-      49799,
-      50000,
-      50000,
-      50000,
-      50000
+      40000,
+      40999,
+      44000,
+      44999,
+      45000,
+      45000,
+      45000,
+      45000,
+      45999,
+      46000,
+      46000,
+      46000,
+      46000,
+      46000
     ],
     "slots": 1,
-    "timestamp": "20191208014034",
-    "price_per_slot": 48596,
-    "price_avg": 48596
+    "timestamp": "20191208141814",
+    "price_per_slot": 41666,
+    "price_avg": 41666
   },
   {
     "name": "Technical documentation",
@@ -14288,25 +17994,22 @@
     "marketSearchName": "Technical documentation",
     "marketPositionOffset": 0,
     "price_array": [
+      4000,
+      4911,
       5000,
       6000,
-      8500,
+      6000,
+      8000,
+      8000,
       9000,
-      9000,
-      9500,
-      11111,
-      12000,
-      13000,
-      13000,
-      16999,
-      17000,
-      18000,
-      18999
+      10000,
+      10000,
+      15000
     ],
     "slots": 2,
-    "timestamp": "20191208014037",
-    "price_per_slot": 3562,
-    "price_avg": 7125
+    "timestamp": "20191208141817",
+    "price_per_slot": 2318,
+    "price_avg": 4637
   },
   {
     "name": "Schaman shampoo",
@@ -14323,25 +18026,23 @@
     "marketSearchName": "Schaman shampoo",
     "marketPositionOffset": 0,
     "price_array": [
-      6299,
-      6500,
-      6750,
-      6850,
-      7000,
-      7000,
-      7000,
-      7000,
-      7500,
-      7990,
-      7998,
       8000,
-      8000,
-      8996
+      9999,
+      10000,
+      10000,
+      11000,
+      11900,
+      12000,
+      12000,
+      12000,
+      12000,
+      12500,
+      12800
     ],
     "slots": 2,
-    "timestamp": "20191208014040",
-    "price_per_slot": 3299,
-    "price_avg": 6599
+    "timestamp": "20191208141821",
+    "price_per_slot": 4666,
+    "price_avg": 9333
   },
   {
     "name": "Ortodontox toothpaste",
@@ -14358,25 +18059,23 @@
     "marketSearchName": "Ortodontox toothpaste",
     "marketPositionOffset": 0,
     "price_array": [
-      5222,
-      5555,
-      5888,
-      5999,
-      6000,
-      6000,
-      6000,
-      7000,
-      7000,
-      7900,
-      7998,
-      7999,
-      8000,
-      8000
+      15800,
+      16000,
+      17400,
+      17500,
+      17700,
+      17770,
+      17776,
+      17777,
+      18000,
+      18000,
+      18666,
+      19899
     ],
     "slots": 1,
-    "timestamp": "20191208014043",
-    "price_per_slot": 5666,
-    "price_avg": 5666
+    "timestamp": "20191208141824",
+    "price_per_slot": 16400,
+    "price_avg": 16400
   },
   {
     "name": "Long flat screwdriver",
@@ -14393,25 +18092,25 @@
     "marketSearchName": "Long flat screwdriver",
     "marketPositionOffset": 0,
     "price_array": [
-      5999,
-      6000,
-      6500,
-      7000,
-      7777,
-      8000,
-      8900,
-      8900,
-      8900,
-      8999,
-      8999,
-      9000,
-      9200,
-      9420
+      9500,
+      9500,
+      9500,
+      9900,
+      9990,
+      9998,
+      9999,
+      9999,
+      9999,
+      9999,
+      9999,
+      10000,
+      10000,
+      10000
     ],
     "slots": 2,
-    "timestamp": "20191208014046",
-    "price_per_slot": 3187,
-    "price_avg": 6374
+    "timestamp": "20191208141827",
+    "price_per_slot": 4750,
+    "price_avg": 9500
   },
   {
     "name": "Flat screwdriver",
@@ -14428,16 +18127,23 @@
     "marketSearchName": "Flat screwdriver",
     "marketPositionOffset": 1,
     "price_array": [
-      13000,
+      1950,
+      8888,
+      8999,
+      10000,
+      10999,
+      11000,
+      12000,
+      12000,
+      12199,
+      12222,
       13420,
-      14800,
-      14999,
-      15000
+      14200
     ],
     "slots": 1,
-    "timestamp": "20191208014049",
-    "price_per_slot": 14054,
-    "price_avg": 14054
+    "timestamp": "20191208141831",
+    "price_per_slot": 6612,
+    "price_avg": 6612
   },
   {
     "name": "Phase control relay",
@@ -14454,21 +18160,16 @@
     "marketSearchName": "Phase control relay",
     "marketPositionOffset": 0,
     "price_array": [
-      19399,
       20000,
-      21000,
-      21990,
-      22000,
-      22000,
-      22999,
-      23249,
-      23800,
-      23999
+      21980,
+      21995,
+      21999,
+      21999
     ],
     "slots": 1,
-    "timestamp": "20191208014052",
-    "price_per_slot": 20597,
-    "price_avg": 20597
+    "timestamp": "20191208141834",
+    "price_per_slot": 21325,
+    "price_avg": 21325
   },
   {
     "name": "Silicone tube",
@@ -14485,21 +18186,18 @@
     "marketSearchName": "Silicone tube",
     "marketPositionOffset": 0,
     "price_array": [
-      14500,
-      14998,
-      14999,
-      14999,
-      15000,
-      15000,
-      15000,
-      15900,
-      16000,
-      16000
+      14000,
+      16499,
+      16500,
+      16998,
+      16999,
+      16999,
+      16999
     ],
     "slots": 1,
-    "timestamp": "20191208014055",
-    "price_per_slot": 14874,
-    "price_avg": 14874
+    "timestamp": "20191208141837",
+    "price_per_slot": 15666,
+    "price_avg": 15666
   },
   {
     "name": "Diary",
@@ -14516,25 +18214,25 @@
     "marketSearchName": "Diary",
     "marketPositionOffset": 1,
     "price_array": [
-      29000,
-      30000,
-      35000,
-      38000,
-      38999,
-      39000,
-      39000,
-      39420,
+      33000,
+      34000,
+      39500,
       40000,
-      43000,
-      44444,
-      44444,
-      44888,
-      45000
+      40000,
+      40000,
+      40000,
+      40000,
+      41498,
+      41499,
+      41500,
+      41999,
+      42000,
+      42000
     ],
     "slots": 2,
-    "timestamp": "20191208014058",
-    "price_per_slot": 16500,
-    "price_avg": 33000
+    "timestamp": "20191208141841",
+    "price_per_slot": 17750,
+    "price_avg": 35500
   },
   {
     "name": "Slim diary",
@@ -14551,24 +18249,25 @@
     "marketSearchName": "Slim diary",
     "marketPositionOffset": 0,
     "price_array": [
-      50000,
+      53333,
+      53999,
+      54000,
+      55000,
+      55554,
       55555,
+      57900,
+      58000,
+      59900,
+      59999,
       60000,
-      60000,
-      61400,
-      61500,
-      61998,
-      61999,
-      62000,
-      64000,
-      64200,
-      64444,
-      66500
+      60999,
+      61000,
+      62000
     ],
     "slots": 1,
-    "timestamp": "20191208014101",
-    "price_per_slot": 56388,
-    "price_avg": 56388
+    "timestamp": "20191208141844",
+    "price_per_slot": 53777,
+    "price_avg": 53777
   },
   {
     "name": "Analgin painkillers",

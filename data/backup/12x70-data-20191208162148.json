@@ -1,0 +1,457 @@
+[
+  {
+    "name": "12/70 5.25mm Buckshot",
+    "category": "12x70",
+    "image": "1270525BuckshotIcon.png",
+    "title": "12/70 5.25mm Buckshot",
+    "pageId": 14964,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/1270525BuckshotIcon.png?version=ec432abad4c585d0a2fef0593b6ddb96",
+    "filePath": "12_70_5_25mm_buckshot",
+    "marketSearchName": "12/70 5.25mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      36
+    ],
+    "slots": 1,
+    "timestamp": "20191208140557",
+    "price_per_slot": 720,
+    "price_avg": 36
+  },
+  {
+    "name": "12x70 6.5 mm \"Express\" Buckshot",
+    "category": "12x70",
+    "image": "127065ExpressBuckshotIcon.png",
+    "title": "12x70 6.5 mm \"Express\" Buckshot",
+    "pageId": 14966,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bf/127065ExpressBuckshotIcon.png?version=33aad161f2058a500b1219c037cb5673",
+    "filePath": "12x70_6_5_mm__express__buckshot",
+    "marketSearchName": "12x70 6.5 mm \"Express\" Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      40,
+      51
+    ],
+    "slots": 1,
+    "timestamp": "20191208140600",
+    "price_per_slot": 900,
+    "price_avg": 45
+  },
+  {
+    "name": "12x70 7mm Buckshot",
+    "category": "12x70",
+    "image": "12x70BUCKSHOT.png",
+    "title": "12x70 7mm Buckshot",
+    "pageId": 3800,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/12x70BUCKSHOT.png?version=401d4d5417f566a07fb0ec470a80f6a5",
+    "filePath": "12x70_7mm_buckshot",
+    "marketSearchName": "12x70 7mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      29,
+      30,
+      31,
+      31,
+      32,
+      32,
+      33,
+      35
+    ],
+    "slots": 1,
+    "timestamp": "20191208140603",
+    "price_per_slot": 600,
+    "price_avg": 30
+  },
+  {
+    "name": "12/70 8.5 mm \"Magnum\" Buckshot",
+    "category": "12x70",
+    "image": "127065ExpressMagnumIcon.png",
+    "title": "12/70 8.5 mm \"Magnum\" Buckshot",
+    "pageId": 14970,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/127065ExpressMagnumIcon.png?version=092ae04253629db99172be47648a0e0e",
+    "filePath": "12_70_8_5_mm__magnum__buckshot",
+    "marketSearchName": "12/70 8.5 mm \"Magnum\" Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      51,
+      54,
+      75,
+      97,
+      98,
+      99,
+      100,
+      116,
+      117,
+      118,
+      119,
+      124,
+      150,
+      151
+    ],
+    "slots": 1,
+    "timestamp": "20191208140606",
+    "price_per_slot": 1200,
+    "price_avg": 60
+  },
+  {
+    "name": "12/70 AP-20 Slug",
+    "category": "12x70",
+    "image": "12-70 AP-20 icon.png",
+    "title": "12/70 AP-20 Slug",
+    "pageId": 14975,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/12-70_AP-20_icon.png",
+    "filePath": "12_70_ap_20_slug",
+    "marketSearchName": "12/70 AP-20 Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      298,
+      300,
+      305,
+      305,
+      309,
+      310,
+      311,
+      329,
+      329,
+      330,
+      340
+    ],
+    "slots": 1,
+    "timestamp": "20191208140609",
+    "price_per_slot": 6020,
+    "price_avg": 301
+  },
+  {
+    "name": "12/70 Dual Sabot Slug",
+    "category": "12x70",
+    "image": "12-70 Dual Sabot icon.png",
+    "title": "12/70 Dual Sabot Slug",
+    "pageId": 14971,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/12-70_Dual_Sabot_icon.png",
+    "filePath": "12_70_dual_sabot_slug",
+    "marketSearchName": "12/70 Dual Sabot Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70,
+      110,
+      200,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140613",
+    "price_per_slot": 2520,
+    "price_avg": 126
+  },
+  {
+    "name": "12/70 Flechette",
+    "category": "12x70",
+    "image": "12-70 Flechette icon.png",
+    "title": "12/70 Flechette",
+    "pageId": 14973,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/12-70_Flechette_icon.png",
+    "filePath": "12_70_flechette",
+    "marketSearchName": "12/70 Flechette",
+    "marketPositionOffset": 0,
+    "price_array": [
+      77,
+      110,
+      117,
+      120,
+      122,
+      123,
+      125,
+      129,
+      130,
+      139,
+      145,
+      147,
+      149,
+      170
+    ],
+    "slots": 1,
+    "timestamp": "20191208140616",
+    "price_per_slot": 2020,
+    "price_avg": 101
+  },
+  {
+    "name": "12/70 FTX Custom LIte Slug",
+    "category": "12x70",
+    "image": "FTX_Slug_Icon.png",
+    "title": "12/70 FTX Custom LIte Slug",
+    "pageId": 14976,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/FTX_Slug_Icon.png?version=4e9d327f2b6da97099c482a992013bb6",
+    "filePath": "12_70_ftx_custom_lite_slug",
+    "marketSearchName": "12/70 FTX Custom LIte Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      73,
+      110,
+      149
+    ],
+    "slots": 1,
+    "timestamp": "20191208140619",
+    "price_per_slot": 2200,
+    "price_avg": 110
+  },
+  {
+    "name": "12/70 Grizzly 40 Slug",
+    "category": "12x70",
+    "image": "1270Grizzly40SlugIcon.png",
+    "title": "12/70 Grizzly 40 Slug",
+    "pageId": 14977,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/00/1270Grizzly40SlugIcon.png?version=ad706d56f2690292234c9ead09cfbdc9",
+    "filePath": "12_70_grizzly_40_slug",
+    "marketSearchName": "12/70 Grizzly 40 Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      68,
+      98,
+      99,
+      150
+    ],
+    "slots": 1,
+    "timestamp": "20191208140622",
+    "price_per_slot": 1760,
+    "price_avg": 88
+  },
+  {
+    "name": "12/70 HP Slug Copper Sabot Premier",
+    "category": "12x70",
+    "image": "12x70SLUG CSP-icon.png",
+    "title": "12/70 HP Slug Copper Sabot Premier",
+    "pageId": 15130,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/12x70SLUG_CSP-icon.png",
+    "filePath": "12_70_hp_slug_copper_sabot_premier",
+    "marketSearchName": "12/70 HP Slug Copper Sabot Premier",
+    "marketPositionOffset": 0,
+    "price_array": [
+      84,
+      169
+    ],
+    "slots": 1,
+    "timestamp": "20191208140626",
+    "price_per_slot": 2520,
+    "price_avg": 126
+  },
+  {
+    "name": "12/70 HP Slug \"SuperFormance\"",
+    "category": "12x70",
+    "image": "12-70 HP SF icon.png",
+    "title": "12/70 HP Slug \"SuperFormance\"",
+    "pageId": 14981,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/12-70_HP_SF_icon.png",
+    "filePath": "12_70_hp_slug__superformance_",
+    "marketSearchName": "12/70 HP Slug \"SuperFormance\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      216,
+      220,
+      222,
+      224,
+      225,
+      228,
+      231,
+      247,
+      250,
+      250,
+      250
+    ],
+    "slots": 1,
+    "timestamp": "20191208140629",
+    "price_per_slot": 4380,
+    "price_avg": 219
+  },
+  {
+    "name": "12x70 Led slug",
+    "category": "12x70",
+    "image": "12x70SLUG.png",
+    "title": "12x70 Led slug",
+    "pageId": 3874,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/12x70SLUG.png?version=48964cc9a68ade085b853d7126575805",
+    "filePath": "12x70_led_slug",
+    "marketSearchName": "12x70 Led slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      38,
+      39,
+      39,
+      40,
+      40,
+      45,
+      58,
+      58,
+      59,
+      61,
+      73
+    ],
+    "slots": 1,
+    "timestamp": "20191208140632",
+    "price_per_slot": 760,
+    "price_avg": 38
+  },
+  {
+    "name": "12/70 \"Poleva-3\" Slug",
+    "category": "12x70",
+    "image": "Poleva3_Icon.png",
+    "title": "12/70 \"Poleva-3\" Slug",
+    "pageId": 14978,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/Poleva3_Icon.png?version=5af876856b6b779bb3b24c1b858a0834",
+    "filePath": "12_70__poleva_3__slug",
+    "marketSearchName": "12/70 \"Poleva-3\" Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      53,
+      53,
+      55
+    ],
+    "slots": 1,
+    "timestamp": "20191208140635",
+    "price_per_slot": 1060,
+    "price_avg": 53
+  },
+  {
+    "name": "12/70 \"Poleva-6u\" Slug",
+    "category": "12x70",
+    "image": "1270Poleva6SlugIcon.png",
+    "title": "12/70 \"Poleva-6u\" Slug",
+    "pageId": 14979,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/1270Poleva6SlugIcon.png?version=caf2b5f9c25473f08458893699893076",
+    "filePath": "12_70__poleva_6u__slug",
+    "marketSearchName": "12/70 \"Poleva-6u\" Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      70,
+      80,
+      112,
+      114,
+      115,
+      119,
+      120,
+      128,
+      130,
+      140
+    ],
+    "slots": 1,
+    "timestamp": "20191208140638",
+    "price_per_slot": 1740,
+    "price_avg": 87
+  },
+  {
+    "name": "12x70 RIP",
+    "category": "12x70",
+    "image": "12x70ripicon.png",
+    "title": "12x70 RIP",
+    "pageId": 12275,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8a/12x70ripicon.png?version=868e62d7b2af6ec36a950ffc13636c4a",
+    "filePath": "12x70_rip",
+    "marketSearchName": "12x70 RIP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      819,
+      820,
+      840,
+      845,
+      897,
+      933,
+      950,
+      950
+    ],
+    "slots": 1,
+    "timestamp": "20191208140642",
+    "price_per_slot": 16520,
+    "price_avg": 826
+  },
+  {
+    "name": "12x70 shell with .50 BMG bullet",
+    "category": "12x70",
+    "image": "12-70 .50 BMG icon.png",
+    "title": "12x70 shell with .50 BMG bullet",
+    "pageId": 15131,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/12-70_.50_BMG_icon.png",
+    "filePath": "12x70_shell_with__50_bmg_bullet",
+    "marketSearchName": "12x70 shell with .50 BMG bullet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      228,
+      229,
+      230,
+      232,
+      240,
+      245,
+      250,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255
+    ],
+    "slots": 1,
+    "timestamp": "20191208140645",
+    "price_per_slot": 4580,
+    "price_avg": 229
+  }
+]

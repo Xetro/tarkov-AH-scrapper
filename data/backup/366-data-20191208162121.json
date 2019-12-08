@@ -1,0 +1,84 @@
+[
+  {
+    "name": ".366 TKM EKO",
+    "category": "366",
+    "image": "EKOICON.png",
+    "title": ".366 TKM EKO",
+    "pageId": 6486,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/EKOICON.png?version=d2fd02a6ae40373798a1e66a9f34ef06",
+    "filePath": "_366_tkm_eko",
+    "marketSearchName": ".366 TKM EKO",
+    "marketPositionOffset": 0,
+    "price_array": [
+      87,
+      104,
+      107,
+      108,
+      109,
+      110,
+      111,
+      160
+    ],
+    "slots": 1,
+    "timestamp": "20191208140537",
+    "price_per_slot": 4950,
+    "price_avg": 99
+  },
+  {
+    "name": ".366 TKM FMJ",
+    "category": "366",
+    "image": "TKFMJICON.png",
+    "title": ".366 TKM FMJ",
+    "pageId": 6489,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/TKFMJICON.png?version=659366170283b184dcf26bf6edd92535",
+    "filePath": "_366_tkm_fmj",
+    "marketSearchName": ".366 TKM FMJ",
+    "marketPositionOffset": 0,
+    "price_array": [
+      87,
+      104,
+      107,
+      108,
+      109,
+      110,
+      111,
+      160
+    ],
+    "slots": 1,
+    "timestamp": "20191208140541",
+    "price_per_slot": 4950,
+    "price_avg": 99
+  },
+  {
+    "name": ".366 TKM Geksa",
+    "category": "366",
+    "image": "GEKSAICON.png",
+    "title": ".366 TKM Geksa",
+    "pageId": 7048,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/GEKSAICON.png?version=3d1741ab737eaae1b13271f5bb9ca919",
+    "filePath": "_366_tkm_geksa",
+    "marketSearchName": ".366 TKM Geksa",
+    "marketPositionOffset": 0,
+    "price_array": [
+      59,
+      298,
+      398
+    ],
+    "slots": 1,
+    "timestamp": "20191208140544",
+    "price_per_slot": 12550,
+    "price_avg": 251
+  }
+]

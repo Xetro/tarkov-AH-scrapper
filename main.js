@@ -10,6 +10,45 @@ const glob = require('glob');
 const writeFile = (fileName, data) => util.promisify(fs.writeFile)(fileName, data);
 const readFile = (fileName) => util.promisify(fs.readFile)(fileName, 'utf-8');
 
+const ammunition = {
+    categories: [
+        "762x25",
+        "9x18",
+        "9x19",
+        "9x21",
+        "46x30",
+        "57x28",
+        "545x39",
+        "556x45",
+        "762x39",
+        "762x51",
+        "762x54",
+        "9x39",
+        "366",
+        "127x55",
+        "12x70",
+        "20x70",
+      ],
+    stacks: {
+        "762x25": 50,
+        "9x18": 50,
+        "9x19": 50,
+        "9x21": 50,
+        "46x30": 70,
+        "57x28": 60,
+        "545x39": 60,
+        "556x45": 60,
+        "762x39": 60,
+        "762x51": 40,
+        "762x54": 40,
+        "9x39": 50,
+        "366": 50,
+        "127x55": 30,
+        "12x70": 20,
+        "20x70": 20
+    }
+}
+
 let args = process.argv.slice(2);
 
 const allCategories = async () => {
@@ -87,7 +126,13 @@ const runOCR = async (category) => {
         }
 
         const slots = item.size.width * item.size.height;
-        const price_per_slot = Math.floor(price_avg / slots);
+        let price_per_slot;
+
+        if (ammunition.categories.includes(item.category)) {
+            price_per_slot = Math.floor(price_avg * ammunition.stacks[item.category]);
+        } else {
+            price_per_slot = Math.floor(price_avg / slots);
+        }
 
         const timestampRegex = /_(\d+).png/;
         const timestamp = fullFilePath.match(timestampRegex)[1];

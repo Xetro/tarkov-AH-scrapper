@@ -86,8 +86,8 @@
     "price_array": [],
     "slots": 1,
     "timestamp": "20191207020311",
-    "price_per_slot": null,
-    "price_avg": null
+    "price_per_slot": 0,
+    "price_avg": 0
   },
   {
     "name": "Key to utility room of power substation",
