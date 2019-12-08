@@ -580,5 +580,175 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 0
+    },
+    "backpacks": {
+        "name": "backpacks",
+        "searchExceptions" : {   },
+        "positionExceptions": {  },
+        "usePages": [1],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "762x25": {
+        "name": "7.62x25mm_Tokarev",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "9x18": {
+        "name": "9x18mm_Makarov",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "9x19": {
+        "name": "9x19mm_Parabellum",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "9x21": {
+        "name": "9x21mm_Gyurza",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "46x30": {
+        "name": "4.6x30mm_HK",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "57x28": {
+        "name": "5.7x28mm_FN",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "545x39": {
+        "name": "5.45x39mm",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "556x45": {
+        "name": "5.56x45mm_NATO",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "762x39": {
+        "name": "7.62x39mm",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "762x51": {
+        "name": "7.62x51mm_NATO",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "762x54": {
+        "name": "7.62x54mmR",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "9x39": {
+        "name": "9x39mm",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 3
+    },
+    "366": {
+        "name": ".366_TKM",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "127x55": {
+        "name": "12.7x55mm_STs-130",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "12x70": {
+        "name": "12x70mm",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "20x70": {
+        "name": "20x70mm",
+        "searchExceptions" : { },
+        "positionExceptions": { },
+        "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
     }
 }
