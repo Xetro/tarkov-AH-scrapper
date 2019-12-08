@@ -41,7 +41,9 @@
     "eyewear": {
         "name": "eyewear",
         "searchExceptions" : {},
-        "positionExceptions": {},
+        "positionExceptions": {
+            "Anti-fragmentation glasses": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
