@@ -1,0 +1,47 @@
+[
+  {
+    "name": "7.62x51 mm M61",
+    "category": "762x51",
+    "image": "M61ICON.png",
+    "title": "7.62x51 mm M61",
+    "pageId": 7489,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/M61ICON.png?version=64083bc1554a9c38b3cae37f63fc5a46",
+    "filePath": "7_62x51_mm_m61",
+    "marketSearchName": "7.62x51 mm M61",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "7.62x51 mm M62",
+    "category": "762x51",
+    "image": "M62ICON.png",
+    "title": "7.62x51 mm M62",
+    "pageId": 7490,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/M62ICON.png?version=12e68658b06114fe25f951e8bb5fc199",
+    "filePath": "7_62x51_mm_m62",
+    "marketSearchName": "7.62x51 mm M62",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "7.62x51 mm M80",
+    "category": "762x51",
+    "image": "M80ICON.png",
+    "title": "7.62x51 mm M80",
+    "pageId": 7045,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/M80ICON.png?version=31613b599bd38c4d92010035be2af0fc",
+    "filePath": "7_62x51_mm_m80",
+    "marketSearchName": "7.62x51 mm M80",
+    "marketPositionOffset": 0
+  }
+]

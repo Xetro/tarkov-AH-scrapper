@@ -11,7 +11,8 @@ const REQ_DELAY = 200;
 const wikitextRegex = {
   0: /\!\s?\[\[(.*?)\]\]/g,
   1: /\s?\[\[(.*?)\]\]/g,
-  2: /[!|\|]\[\[(.*?)\]\]/g
+  2: /[!|\|]\[\[(.*?)\]\]/g,
+  3: /\s?\[\[([F9].*?)\]\]/g
 };
 
 const getItemsFromCategory = async (categoryName, categoryData) => {

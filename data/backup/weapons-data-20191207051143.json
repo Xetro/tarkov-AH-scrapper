@@ -2108,18 +2108,12 @@
     "marketSearchName": "PM (t) 9x18PM pistol",
     "marketPositionOffset": 0,
     "price_array": [
-      55999,
-      57000,
-      60000,
-      68000,
-      80000,
-      90000,
-      100000
+      10000
     ],
     "slots": 2,
     "timestamp": "20191207000459",
-    "price_per_slot": 28833,
-    "price_avg": 57666
+    "price_per_slot": 5000,
+    "price_avg": 10000
   },
   {
     "name": "PM pistol",
@@ -2194,25 +2188,12 @@
     "marketSearchName": "TT pistol 7.62x25 TT",
     "marketPositionOffset": 1,
     "price_array": [
-      64969,
-      65000,
-      66665,
-      66666,
-      68950,
-      69000,
-      69000,
-      70000,
-      70000,
-      70000,
-      70000,
-      70000,
-      70000,
-      70000
+ 8800
     ],
     "slots": 2,
     "timestamp": "20191207000510",
-    "price_per_slot": 32772,
-    "price_avg": 65544
+    "price_per_slot": 4400,
+    "price_avg": 8800
   },
   {
     "name": "TT pistol (gold)",

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "9x39 mm 7N9 SPP",
+    "category": "9x39",
+    "image": "7n9icon.png",
+    "title": "9x39 mm 7N9 SPP",
+    "pageId": 12389,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/7n9icon.png?version=0391843a48d3953ba832ff11ff6c5cad",
+    "filePath": "9x39_mm_7n9_spp",
+    "marketSearchName": "9x39 mm 7N9 SPP",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "9x39 mm 7N12 BP",
+    "category": "9x39",
+    "image": "7n12icon.png",
+    "title": "9x39 mm 7N12 BP",
+    "pageId": 12387,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/76/7n12icon.png?version=891814b118a55578afca6cf04d91b47b",
+    "filePath": "9x39_mm_7n12_bp",
+    "marketSearchName": "9x39 mm 7N12 BP",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "9x39 mm SP-5",
+    "category": "9x39",
+    "image": "SP5ICON.png",
+    "title": "9x39 mm SP-5",
+    "pageId": 3871,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b8/SP5ICON.png?version=8aa68917f281e60854500afe0f4bf5d3",
+    "filePath": "9x39_mm_sp_5",
+    "marketSearchName": "9x39 mm SP-5",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "9x39 mm SP-6",
+    "category": "9x39",
+    "image": "SP6ICON.png",
+    "title": "9x39 mm SP-6",
+    "pageId": 3873,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/SP6ICON.png?version=4b94a6bb5f4284d33dc049692010f6bc",
+    "filePath": "9x39_mm_sp_6",
+    "marketSearchName": "9x39 mm SP-6",
+    "marketPositionOffset": 0
+  }
+]

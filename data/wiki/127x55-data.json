@@ -1,0 +1,47 @@
+[
+  {
+    "name": "12.7x55 mm PS12",
+    "category": "127x55",
+    "image": "12.7x55 PS12 icon.png",
+    "title": "12.7x55 mm PS12",
+    "pageId": 14959,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/12.7x55_PS12_icon.png",
+    "filePath": "12_7x55_mm_ps12",
+    "marketSearchName": "12.7x55 mm PS12",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "12.7x55 mm PS12A",
+    "category": "127x55",
+    "image": "12.7x55 PS12A icon.png",
+    "title": "12.7x55 mm PS12A",
+    "pageId": 14962,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/12.7x55_PS12A_icon.png",
+    "filePath": "12_7x55_mm_ps12a",
+    "marketSearchName": "12.7x55 mm PS12A",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "12.7x55 mm PS12B",
+    "category": "127x55",
+    "image": "12.7x55 PS12B icon.png",
+    "title": "12.7x55 mm PS12B",
+    "pageId": 14963,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/12.7x55_PS12B_icon.png",
+    "filePath": "12_7x55_mm_ps12b",
+    "marketSearchName": "12.7x55 mm PS12B",
+    "marketPositionOffset": 0
+  }
+]
