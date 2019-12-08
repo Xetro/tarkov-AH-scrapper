@@ -2762,12 +2762,12 @@
     "marketSearchName": "Original Austrian foregrip for a FAL",
     "marketPositionOffset": 0,
     "price_array": [
-      2479656
+      2496
     ],
     "slots": 2,
     "timestamp": "20191207221136",
-    "price_per_slot": 1239828,
-    "price_avg": 2479656
+    "price_per_slot": 1248,
+    "price_avg": 2496
   },
   {
     "name": "DSA Belgian style foregrip for a FAL",
@@ -7007,8 +7007,8 @@
     "price_array": [],
     "slots": 1,
     "timestamp": "20191207020311",
-    "price_per_slot": null,
-    "price_avg": null
+    "price_per_slot": 0,
+    "price_avg": 0
   },
   {
     "name": "Key to utility room of power substation",
