@@ -149,7 +149,8 @@ const runOCR = async (category) => {
         }, []);
 
         try {
-            await writeFile(`./data/data.json`, JSON.stringify(finalData, null, 2));
+            const timestamp = moment().format('YYYYMMDDHHmmss');
+            await writeFile(`./data/data-${timestamp}.json`, JSON.stringify(finalData, null, 2));
             console.log('File writen');
         } catch (error) {
             console.log(error);
