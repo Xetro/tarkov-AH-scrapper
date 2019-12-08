@@ -62,7 +62,10 @@
     },
     "chest_rigs": {
         "name": "chest_rigs",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "Belt-A + Belt-B gear rig": "Belt-A",
+            "Blackhawk! Commando Chest Harness": "Blackhawk"
+        },
         "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
@@ -596,7 +599,9 @@
     "762x25": {
         "name": "7.62x25mm_Tokarev",
         "searchExceptions" : { },
-        "positionExceptions": { },
+        "positionExceptions": {
+            "7.62x25mm TT LRN": 1
+        },
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -665,8 +670,12 @@
     },
     "556x45": {
         "name": "5.56x45mm_NATO",
-        "searchExceptions" : { },
-        "positionExceptions": { },
+        "searchExceptions" : { 
+            "5.56x45 mm Warmage": "Warmage"
+        },
+        "positionExceptions": {
+            "5.56x45 mm M855": 1
+        },
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -715,8 +724,14 @@
     },
     "366": {
         "name": ".366_TKM",
-        "searchExceptions" : { },
-        "positionExceptions": { },
+        "searchExceptions" : {
+            ".366 TKM EKO": "EKO",
+            ".366 TKM FMJ": ".366 ",
+            ".366 TKM Geksa": "Geksa"
+        },
+        "positionExceptions": {
+            ".366 TKM FMJ": 1
+        },
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,

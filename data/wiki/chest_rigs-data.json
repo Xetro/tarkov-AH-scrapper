@@ -101,7 +101,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b7/Blackhawk%21_commando_icon.gif",
     "filePath": "blackhawk__commando_chest_harness",
-    "marketSearchName": "Blackhawk! Commando Chest Harness",
+    "marketSearchName": "Blackhawk",
     "marketPositionOffset": 0
   },
   {
@@ -161,7 +161,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/db/Belt-A_Belt-B_gear_rig_icon.png",
     "filePath": "belt_a___belt_b_gear_rig",
-    "marketSearchName": "Belt-A + Belt-B gear rig",
+    "marketSearchName": "Belt-A",
     "marketPositionOffset": 0
   }
 ]
