@@ -11,7 +11,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/EKOICON.png?version=d2fd02a6ae40373798a1e66a9f34ef06",
     "filePath": "_366_tkm_eko",
-    "marketSearchName": ".366 TKM EKO",
+    "marketSearchName": "EKO",
     "marketPositionOffset": 0
   },
   {
@@ -26,7 +26,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/TKFMJICON.png?version=659366170283b184dcf26bf6edd92535",
     "filePath": "_366_tkm_fmj",
-    "marketSearchName": ".366 TKM FMJ",
+    "marketSearchName": ".366 ",
     "marketPositionOffset": 0
   },
   {
@@ -41,7 +41,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/GEKSAICON.png?version=3d1741ab737eaae1b13271f5bb9ca919",
     "filePath": "_366_tkm_geksa",
-    "marketSearchName": ".366 TKM Geksa",
+    "marketSearchName": "Geksa",
     "marketPositionOffset": 0
   }
 ]

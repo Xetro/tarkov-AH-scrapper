@@ -42,7 +42,7 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/M855ICON.png?version=e1cb167bc23ee29663751c12f5d7ae01",
     "filePath": "5_56x45_mm_m855",
     "marketSearchName": "5.56x45 mm M855",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 1
   },
   {
     "name": "5.56x45 mm M855A1",
@@ -131,7 +131,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/556warmageicon.png?version=e19c0ac6b97c181786859d8ea9dae1e2",
     "filePath": "5_56x45_mm_warmage",
-    "marketSearchName": "5.56x45 mm Warmage",
+    "marketSearchName": "Warmage",
     "marketPositionOffset": 0
   }
 ]
