@@ -287,12 +287,41 @@
     },
     "stocks_chassis": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Regular VPO-101 \"Vepr Hunter\" stock": "Regular VPO-101 \"Vepr Hunter\" stock",
+            "M14 M14ALCS(MOD. 0) stock (buttstock)": "M14 M14ALCS(MOD. 0) stock",
+            "AK74/AK100 PT Lock": "AK74/",
+            "ME adapter for AK": "ME adapter for",
+            "UBR GEN2 stock": "UBR GEN2",
+            "AKS-74/AKS-74U PT Lock": "AKS-74/",
+            "Izhmash SOK-12 AK type stock": "type stock",
+            "Izhmash wooden AKM stock (6P1 Sb.5)": "Izhmash wooden",
+            "Izhmash polymer AK-74 stock (6P20 Sb.7)": "Izhmash polymer",
+            "Plastic pistol grip for MP-133/153": "Plastic pistol grip for",
+            "Troy M7A1 PDW stock": "Troy M7A1 PDW blk",
+            "Early produced SIG collapsing/telescoping MCX/MPX stock": "SIG collaps",
+            "Izhmash wooden AK-74 stock (6P20 Sb.5)": "Izhmash wooden",
+            "CAA AKTS AK-74 Buffer Tube for AK and compatable (foldable)": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
+            "HK End Cap Stock for MP5 Kurz": "HK End Cap Stock for MP5"
+
+        },
+        "positionExceptions": {
+            "M14 M14ALCS(MOD. 0) stock": 1,
+            "Regular Mosin rifle stock": 1,
+            "Izhmash wooden AKM stock (6P1 Sb.5)": 1,
+            "CAA AKTS AK-74 Buffer Tube for AK and compatable": 1
+        },
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [
+            17,
+            25,
+            26,
+            49,
+            56,
+            61
+        ],
         "useRegex": 1,
         "additionalRegex": "Stocks & chassis(.|\n)+"
     },
