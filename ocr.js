@@ -23,9 +23,6 @@ const processImage = async (fileName, filePath) => {
 
   console.log(`Reading image characters...`);
   const text = worker.recognize(processedImgPath, 'bender');
-  if (fileName === 'silencerco_salvo_12_sound_suppressor') {
-    console.log('TEXT: ', text);
-  }
   let price_array = text.replace(/[^\S\r\n]/g, '').split('\n').filter(string => string.length);
 
   price_array = price_array.map(price => price.slice(0, -1));
