@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Ops-Core FAST RAC Headset",
+    "category": "headsets",
+    "image": "Rac.png",
+    "title": "Ops-Core FAST RAC Headset",
+    "pageId": 7983,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/Rac.png?version=ca97364b8e2361cd0d68738ae1c5e40c",
+    "filePath": "ops_core_fast_rac_headset",
+    "marketSearchName": "Ops-Core FAST RAC Headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      31000,
+      34800,
+      34811,
+      35000,
+      35950
+    ],
+    "slots": 2,
+    "timestamp": "20191208012137",
+    "price_per_slot": 16951,
+    "price_avg": 33902
+  },
+  {
+    "name": "Peltor ComTac 2 headset",
+    "category": "headsets",
+    "image": "Comtac icon.png",
+    "title": "Peltor ComTac 2 headset",
+    "pageId": 4180,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/65/Comtac_icon.png?version=f05c105dcecd7835c3512bf8c8b29e6a",
+    "filePath": "peltor_comtac_2_headset",
+    "marketSearchName": "Peltor ComTac 2 headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18595,
+      19000,
+      20000,
+      21999,
+      25000,
+      25000,
+      25888,
+      26000,
+      27000,
+      29900,
+      30000,
+      31998
+    ],
+    "slots": 4,
+    "timestamp": "20191208012140",
+    "price_per_slot": 4974,
+    "price_avg": 19898
+  },
+  {
+    "name": "MSA Sordin Supreme PRO-X/L active headphones",
+    "category": "headsets",
+    "image": "SordinIcon.png",
+    "title": "MSA Sordin Supreme PRO-X/L active headphones",
+    "pageId": 9555,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/82/SordinIcon.png?version=839ae557ca0068adc1e314ce7af2e8ad",
+    "filePath": "msa_sordin_supreme_pro_x_l_active_headphones",
+    "marketSearchName": "MSA Sordin Supreme PRO-X/L active headphones",
+    "marketPositionOffset": 0,
+    "price_array": [
+      24312,
+      28000,
+      34000,
+      35000,
+      38999,
+      38999,
+      39000,
+      39999,
+      40000,
+      41000,
+      42000,
+      42000
+    ],
+    "slots": 4,
+    "timestamp": "20191208012144",
+    "price_per_slot": 7582,
+    "price_avg": 30328
+  },
+  {
+    "name": "GSSh-01 active headset",
+    "category": "headsets",
+    "image": "gssh.png",
+    "title": "GSSh-01 active headset",
+    "pageId": 10781,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Gssh.png?version=33b9b961303955558112c7d6f0bd4385",
+    "filePath": "gssh_01_active_headset",
+    "marketSearchName": "GSSh-01 active headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10000,
+      10998,
+      11000,
+      11000,
+      11890,
+      11899,
+      11990,
+      11999,
+      12000,
+      12000,
+      12398,
+      12399
+    ],
+    "slots": 4,
+    "timestamp": "20191208012148",
+    "price_per_slot": 2687,
+    "price_avg": 10749
+  },
+  {
+    "name": "Peltor Tactical Sport headset",
+    "category": "headsets",
+    "image": "PeltorTacticalSporticon.png",
+    "title": "Peltor Tactical Sport headset",
+    "pageId": 12854,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0c/PeltorTacticalSporticon.png?version=f817878fcba5c7ee1a331e10a5d5dc0f",
+    "filePath": "peltor_tactical_sport_headset",
+    "marketSearchName": "Peltor Tactical Sport headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      26999,
+      26999,
+      27000,
+      27500,
+      28000,
+      28000,
+      28900,
+      28999,
+      29000,
+      29000,
+      29999,
+      30000,
+      30000
+    ],
+    "slots": 4,
+    "timestamp": "20191208012152",
+    "price_per_slot": 6781,
+    "price_avg": 27124
+  }
+]
