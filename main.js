@@ -77,8 +77,8 @@ const runOCR = async (category) => {
         });
 
         let price_avg;
-        if (item.price_array.length > 3) {
-            const sliced = item.price_array.slice(0, 4);
+        if (item.price_array.length > 2) {
+            const sliced = item.price_array.slice(0, 3);
             const sum = sliced.reduce((acc, val) => acc + val, 0);
             price_avg = Math.floor(sum / sliced.length);
         } else {
@@ -149,7 +149,8 @@ const runOCR = async (category) => {
         }, []);
 
         try {
-            await writeFile(`./data/data.json`, JSON.stringify(finalData, null, 2));
+            const timestamp = moment().format('YYYYMMDDHHmmss');
+            await writeFile(`./data/data-${timestamp}.json`, JSON.stringify(finalData, null, 2));
             console.log('File writen');
         } catch (error) {
             console.log(error);
