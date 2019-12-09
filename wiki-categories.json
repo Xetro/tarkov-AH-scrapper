@@ -121,7 +121,10 @@
     },
     "tactical_combo_devices": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "2IRS Klesch flashlight + laser designator": "2IRS Klesch flashlight",
+            "2P Klesch flashlight + laser designator": "2P Klesch flashlight"
+        },
         "positionExceptions": {},
         "usePages": [1],
         "nameIndex": 1,

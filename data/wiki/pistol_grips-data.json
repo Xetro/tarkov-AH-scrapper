@@ -258,11 +258,11 @@
     "name": "Regular \"DS Arms\" pistol grip for SA-58",
     "category": "pistol_grips",
     "image": "SA58_Regular_Icon.png",
-    "title": "DS Arms SA-58 7.62x51",
-    "pageId": 10694,
+    "title": "Regular \"DS Arms\" pistol grip for SA-58",
+    "pageId": 11497,
     "size": {
-      "width": "5",
-      "height": "2"
+      "width": "1",
+      "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/SA58_Regular_Icon.png?version=1b7a29c33d83af9b678eac52a374ffe7",
     "filePath": "regular__ds_arms__pistol_grip_for_sa_58",

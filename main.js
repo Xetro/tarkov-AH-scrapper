@@ -103,17 +103,9 @@ const runOCR = async (category) => {
 
         item.price_array = await ocr.processImage(item.filePath, fullFilePath);
 
-        item.price_array = item.price_array.map((price, index) => {
-            if (item.price_array[index + 1]) {
-                let currentPriceLength = price.length;
-                let nextPriceLength = item.price_array[index + 1].length;
-                if (nextPriceLength < currentPriceLength ) {
-                    const difference = nextPriceLength - currentPriceLength;
-                    price = price.slice(0, difference);
-                }
-            }
-            return parseInt(price);
-        });
+        item = correctPriceErrors(item);
+
+        item.price_array = item.price_array.map(price => parseInt(price));
 
         let price_avg;
         if (item.price_array.length > 2) {
@@ -156,6 +148,26 @@ const runOCR = async (category) => {
     }
     console.log('return ', category);
     return;
+}
+
+const correctPriceErrors = (item) => {
+    let checkForErrors = true;
+    while (checkForErrors) {
+        checkForErrors = false;
+        item.price_array = item.price_array.map((price, index) => {
+            if (item.price_array[index + 1]) {
+                let currentPriceLength = price.length;
+                let nextPriceLength = item.price_array[index + 1].length;
+                if (nextPriceLength < currentPriceLength ) {
+                    const difference = nextPriceLength - currentPriceLength;
+                    price = price.slice(0, difference);
+                    checkForErrors = true;
+                }
+            }
+            return price;
+        });
+    }
+    return item;
 }
 
 (async () => {

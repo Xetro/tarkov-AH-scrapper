@@ -14,32 +14,45 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #ifWinActive, ahk_exe EscapeFromTarkov.exe
 
 *~F2::
-JSONpath := "../data/wiki/thermal_vision_devices-data.json"
-FileRead, JSONString, %JSONpath%
 
-parsedJSON := JSON.Load(JSONString)
+Categories := ["medical", "assault_scopes", "compact_reflex_sights", "scopes", "special_scopes", "reflex_sights"]
 
-
-for k, v in parsedJSON
+for index, category in Categories
 {
-	offset := (33*v.marketPositionOffset)
-	y := (170+offset)
-	MouseMove, 150, 120
-	sleep 200
-	Click 
-	sleep 500
-	Send, % v.marketSearchName
-	sleep 600
-	MouseMove, 150, %y%
-	Click 
-	filename := v.filePath
-	timestamp := A_now
-	prePath := "../data/images/raw/"
-	extension := ".png"
-	fullPath = %prePath%%filename%_%timestamp%%extension%
-	sleep 900
-	CaptureScreen(0,"true", fullPath)
-	sleep 400
+
+	JSONpath = ../data/wiki/%category%-data.json
+	FileRead, JSONString, %JSONpath%
+
+	parsedJSON := JSON.Load(JSONString)
+
+
+	for k, v in parsedJSON
+	{
+		search := v.marketSearchName
+		offset := (33*v.marketPositionOffset)
+		y := (170+offset)
+		MouseMove, 150, 120
+		sleep 400
+		Click 
+		sleep 400
+		Send, %search%
+		If (search = "Pachmayr tactical rubber grip" or search = "Magazine")
+		{
+			sleep 4000
+		}
+		sleep 800
+		MouseMove, 150, %y%
+		Click 
+		filename := v.filePath
+		timestamp := A_now
+		prePath := "../data/images/raw/"
+		extension := ".png"
+		fullPath = %prePath%%filename%_%timestamp%%extension%
+		sleep 1100
+		CaptureScreen(0,"true", fullPath)
+		sleep 400
+
+	}
 
 }
 
