@@ -47,7 +47,7 @@ for index, category in Categories
 		timestamp := A_now
 		prePath := "../data/images/raw/"
 		extension := ".png"
-		fullPath = %prePath%%filename%_%timestamp%%extension%
+		fullPath = %prePath%%filename%--%timestamp%%extension%
 		sleep 1100
 		CaptureScreen(0,"true", fullPath)
 		sleep 400

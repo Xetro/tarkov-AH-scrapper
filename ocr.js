@@ -16,7 +16,6 @@ const processImage = async (fileName, filePath) => {
 
   console.log('Starting image processing...');
 
-
   const processedImgPath = `./data/images/processed/${fileName}.png`;
 
   await prepareImage(processedImgPath, filePath);

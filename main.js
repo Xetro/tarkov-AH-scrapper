@@ -99,7 +99,7 @@ const runOCR = async (category) => {
 
     let JSONwithPrices = await Promise.all(JSONData.map(async item => {
 
-        const fullFilePath = glob.sync(`./data/images/raw/${item.filePath}_*.png`)[0];
+        const fullFilePath = glob.sync(`./data/images/raw/${item.filePath}--*.png`)[0];
 
         item.price_array = await ocr.processImage(item.filePath, fullFilePath);
 
@@ -126,7 +126,7 @@ const runOCR = async (category) => {
             price_per_slot = Math.floor(price_avg / slots);
         }
 
-        const timestampRegex = /_(\d+).png/;
+        const timestampRegex = /--(\d+).png/;
         const timestamp = fullFilePath.match(timestampRegex)[1];
 
         return {
