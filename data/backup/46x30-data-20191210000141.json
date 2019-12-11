@@ -1,0 +1,123 @@
+[
+  {
+    "name": "4.6x30mm Action SX",
+    "category": "46x30",
+    "image": "4.6x30ActionIcon.png",
+    "title": "4.6x30mm Action SX",
+    "pageId": 11788,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/4.6x30ActionIcon.png",
+    "filePath": "4_6x30mm_action_sx",
+    "marketSearchName": "4.6x30mm Action SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      90,
+      93,
+      95,
+      97,
+      98,
+      99,
+      102,
+      114,
+      128,
+      140,
+      400,
+      450
+    ],
+    "slots": 1,
+    "timestamp": "20191210004859",
+    "price_per_slot": 6440,
+    "price_avg": 92
+  },
+  {
+    "name": "4.6x30mm AP SX",
+    "category": "46x30",
+    "image": "4.6x30APenIcon.png",
+    "title": "4.6x30mm AP SX",
+    "pageId": 11789,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/4.6x30APenIcon.png",
+    "filePath": "4_6x30mm_ap_sx",
+    "marketSearchName": "4.6x30mm AP SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      467,
+      469,
+      470,
+      474,
+      475,
+      476,
+      477,
+      478,
+      485,
+      490,
+      490,
+      495
+    ],
+    "slots": 1,
+    "timestamp": "20191210004903",
+    "price_per_slot": 32760,
+    "price_avg": 468
+  },
+  {
+    "name": "4.6x30mm FMJ SX",
+    "category": "46x30",
+    "image": "4.6x30FMJIcon.png",
+    "title": "4.6x30mm FMJ SX",
+    "pageId": 11790,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/4.6x30FMJIcon.png",
+    "filePath": "4_6x30mm_fmj_sx",
+    "marketSearchName": "4.6x30mm FMJ SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      300
+    ],
+    "slots": 1,
+    "timestamp": "20191210004906",
+    "price_per_slot": 21000,
+    "price_avg": 300
+  },
+  {
+    "name": "4.6x30mm Subsonic SX",
+    "category": "46x30",
+    "image": "4.6x30SubsonicIcon.png",
+    "title": "4.6x30mm Subsonic SX",
+    "pageId": 11791,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3c/4.6x30SubsonicIcon.png",
+    "filePath": "4_6x30mm_subsonic_sx",
+    "marketSearchName": "4.6x30mm Subsonic SX",
+    "marketPositionOffset": 0,
+    "price_array": [
+      169,
+      195,
+      196,
+      197,
+      198,
+      199,
+      201,
+      202,
+      215,
+      217,
+      218,
+      298
+    ],
+    "slots": 1,
+    "timestamp": "20191210004909",
+    "price_per_slot": 13020,
+    "price_avg": 186
+  }
+]

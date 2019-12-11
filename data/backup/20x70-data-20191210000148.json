@@ -1,0 +1,206 @@
+[
+  {
+    "name": "20/70 5.6mm Buckshot",
+    "category": "20x70",
+    "image": "20x70BUCKSHOT_56.png",
+    "title": "20/70 5.6mm Buckshot",
+    "pageId": 14982,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/20x70BUCKSHOT_56.png?version=704fa11d8d71b69cd5d3effea3053e2a",
+    "filePath": "20_70_5_6mm_buckshot",
+    "marketSearchName": "20/70 5.6mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      20,
+      21
+    ],
+    "slots": 1,
+    "timestamp": "20191210005250",
+    "price_per_slot": 400,
+    "price_avg": 20
+  },
+  {
+    "name": "20/70 6.2mm Buckshot",
+    "category": "20x70",
+    "image": "207062mmBuckshotIcon.png",
+    "title": "20/70 6.2mm Buckshot",
+    "pageId": 14984,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/207062mmBuckshotIcon.png?version=eb37794f841871d8cbcbd045d5dea0f6",
+    "filePath": "20_70_6_2mm_buckshot",
+    "marketSearchName": "20/70 6.2mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      31
+    ],
+    "slots": 1,
+    "timestamp": "20191210005253",
+    "price_per_slot": 620,
+    "price_avg": 31
+  },
+  {
+    "name": "20/70 7.3mm Buckshot",
+    "category": "20x70",
+    "image": "20x70BUCKSHOT 73.png",
+    "title": "20/70 7.3mm Buckshot",
+    "pageId": 14985,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/20x70BUCKSHOT_73.png?version=b34571d5c95384f9f70c9a34b61a9ccf",
+    "filePath": "20_70_7_3mm_buckshot",
+    "marketSearchName": "20/70 7.3mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      39
+    ],
+    "slots": 1,
+    "timestamp": "20191210005257",
+    "price_per_slot": 780,
+    "price_avg": 39
+  },
+  {
+    "name": "20x70 7.5mm Buckshot",
+    "category": "20x70",
+    "image": "20x70BUCKSHOT.png",
+    "title": "20x70 7.5mm Buckshot",
+    "pageId": 7333,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ab/20x70BUCKSHOT.png?version=4027520ec789199964a807285b032614",
+    "filePath": "20x70_7_5mm_buckshot",
+    "marketSearchName": "20x70 7.5mm Buckshot",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23,
+      24,
+      25,
+      25,
+      26,
+      32,
+      2220
+    ],
+    "slots": 1,
+    "timestamp": "20191210005300",
+    "price_per_slot": 480,
+    "price_avg": 24
+  },
+  {
+    "name": "20/70 Devastator Slug",
+    "category": "20x70",
+    "image": "2070DevastatorSlugIcon.png",
+    "title": "20/70 Devastator Slug",
+    "pageId": 14986,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/2070DevastatorSlugIcon.png?version=0eeff98f4601409877ee3852b6adcb1f",
+    "filePath": "20_70_devastator_slug",
+    "marketSearchName": "20/70 Devastator Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      184,
+      264,
+      265,
+      268,
+      269,
+      270,
+      283,
+      284,
+      299,
+      300,
+      380,
+      448,
+      449,
+      450
+    ],
+    "slots": 1,
+    "timestamp": "20191210005303",
+    "price_per_slot": 4740,
+    "price_avg": 237
+  },
+  {
+    "name": "20/70 Slug \"Poleva-3\"",
+    "category": "20x70",
+    "image": "70x20SLUG_poleva3-icon.png",
+    "title": "20/70 Slug \"Poleva-3\"",
+    "pageId": 14987,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/70x20SLUG_poleva3-icon.png",
+    "filePath": "20_70_slug__poleva_3_",
+    "marketSearchName": "20/70 Slug \"Poleva-3\"",
+    "marketPositionOffset": 0,
+    "price_array": [
+      49,
+      63,
+      75,
+      89,
+      100
+    ],
+    "slots": 1,
+    "timestamp": "20191210005307",
+    "price_per_slot": 1240,
+    "price_avg": 62
+  },
+  {
+    "name": "20/70 Slug Poleva-6u",
+    "category": "20x70",
+    "image": "70x20SLUG poleva6u-icon.png",
+    "title": "20/70 Slug Poleva-6u",
+    "pageId": 14989,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/70x20SLUG_poleva6u-icon.png",
+    "filePath": "20_70_slug_poleva_6u",
+    "marketSearchName": "20/70 Slug Poleva-6u",
+    "marketPositionOffset": 0,
+    "price_array": [
+      67,
+      69,
+      70,
+      100
+    ],
+    "slots": 1,
+    "timestamp": "20191210005310",
+    "price_per_slot": 1360,
+    "price_avg": 68
+  },
+  {
+    "name": "20/70 Star Slug",
+    "category": "20x70",
+    "image": "20-70 Star Slug icon.png",
+    "title": "20/70 Star Slug",
+    "pageId": 15126,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/20-70_Star_Slug_icon.png",
+    "filePath": "20_70_star_slug",
+    "marketSearchName": "20/70 Star Slug",
+    "marketPositionOffset": 0,
+    "price_array": [
+      83,
+      166
+    ],
+    "slots": 1,
+    "timestamp": "20191210005313",
+    "price_per_slot": 2480,
+    "price_avg": 124
+  }
+]

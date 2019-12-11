@@ -87,6 +87,38 @@ const singleCategory = async (category) => {
     return;
 }
 
+const takeFromOld = async (category, name) => {
+    const backups = glob.sync(`./data/backup/${category}-data-*.json`);
+    console.log('BACKUPS: ', backups);
+    if (!backups.length) {
+         console.log('NO BACKUPS - RETURNING 0: ');
+        return 0;
+    }
+
+    let index = 0;
+    let foundItem;
+    while (index < backups.length) {
+        let backup = await readFile(backups[index]);
+        backup = JSON.parse(backup);
+        const item = backup.find(item => item.name === name);
+
+        if (item) {
+            foundItem = item;
+            console.log('ITEM FOUND: ', foundItem.name, froundItem.timestamp);
+            break;
+        }
+
+        index = index + 1;
+    }
+
+    if (foundItem) {
+        console.log('RETURNING ITEM: ', foundItem.name);
+        return foundItem;
+    }
+    console.log('ITEM NOT FOUND RETURNING 0');
+    return 0;
+}
+
 const runOCR = async (category) => {
     
     if (!categories[category]) {
@@ -102,6 +134,18 @@ const runOCR = async (category) => {
         const fullFilePath = glob.sync(`./data/images/raw/${item.filePath}--*.png`)[0];
 
         item.price_array = await ocr.processImage(item.filePath, fullFilePath);
+
+        if (!item.price_array) {
+            let old = await takeFromOld(category, item.name);
+
+            if (old === 0) {
+                console.log('OLD IS  0');
+                item.price_array = [0];
+            } else {
+                console.log('OLD IS', old.name);
+                return old;
+            }
+        }
 
         item = correctPriceErrors(item);
 
@@ -192,14 +236,22 @@ const correctPriceErrors = (item) => {
         }
         return;
     } else if (args.length && args[0] === 'final') {
-        let JSONArray = fs.readdirSync('./data/final/');
 
-        const finalData = JSONArray.reduce((acc, fileName) => {
+        let finalFilePaths = []
+        
+        Object.keys(categories).forEach((category) => {
+            let foundPaths = glob.sync(`./data/@(backup|final)/${category}-*.json`);
+            if (!foundPaths.length) {
+                return;
+            }
 
-            console.log(fileName);
+            foundPaths = foundPaths.sort((a, b) => b.slice(-19, -5) - a.slice(-19, -5));
 
-            let data = fs.readFileSync('./data/final/' + fileName, 'utf-8');
-            console.log(data);
+            finalFilePaths.push(foundPaths[0]);
+        });
+
+        const finalData = finalFilePaths.reduce((acc, fileName) => {
+            let data = fs.readFileSync(fileName, 'utf-8');
             data = JSON.parse(data);
             data.forEach(item => acc.push(item));
             return acc;

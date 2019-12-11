@@ -1,0 +1,180 @@
+[
+  {
+    "name": "9x19 mm AP 6.3",
+    "category": "9x19",
+    "image": "9x19ap.png",
+    "title": "9x19 mm AP 6.3",
+    "pageId": 13735,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c6/9x19ap.png?version=a18bb172aeb1fc0e9a21fd07c89c3cc3",
+    "filePath": "9x19_mm_ap_6_3",
+    "marketSearchName": "9x19 mm AP 6.3",
+    "marketPositionOffset": 0,
+    "price_array": [
+      322,
+      323,
+      324,
+      325,
+      325,
+      325,
+      329,
+      330,
+      339,
+      340,
+      349,
+      350,
+      350,
+      358
+    ],
+    "slots": 1,
+    "timestamp": "20191210004826",
+    "price_per_slot": 16150,
+    "price_avg": 323
+  },
+  {
+    "name": "9x19 mm Green Tracer",
+    "category": "9x19",
+    "image": "9x19 mm Green Tracer Icon.png",
+    "title": "9x19 mm Green Tracer",
+    "pageId": 13261,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/9x19_mm_Green_Tracer_Icon.png?version=455633cf34d4b2a41aae5ba75297d02b",
+    "filePath": "9x19_mm_green_tracer",
+    "marketSearchName": "9x19 mm Green Tracer",
+    "marketPositionOffset": 0,
+    "price_array": [
+      68
+    ],
+    "slots": 1,
+    "timestamp": "20191210004829",
+    "price_per_slot": 3400,
+    "price_avg": 68
+  },
+  {
+    "name": "9x19 mm Luger CCI",
+    "category": "9x19",
+    "image": "9x19cgi.png",
+    "title": "9x19 mm Luger CCI",
+    "pageId": 7368,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/9x19cgi.png?version=b0176a3f277dd4b7797ecfb6553d9a73",
+    "filePath": "9x19_mm_luger_cci",
+    "marketSearchName": "9x19 mm Luger CCI",
+    "marketPositionOffset": 0,
+    "price_array": [
+      350,
+      381,
+      386,
+      386,
+      387,
+      388,
+      388,
+      400,
+      417,
+      420,
+      424,
+      425
+    ],
+    "slots": 1,
+    "timestamp": "20191210004832",
+    "price_per_slot": 18600,
+    "price_avg": 372
+  },
+  {
+    "name": "9x19 mm PSO gzh",
+    "category": "9x19",
+    "image": "9x19pso.png",
+    "title": "9x19 mm PSO gzh",
+    "pageId": 7024,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/9x19pso.png?version=5da56d420507826c99270f2ade1c5cbe",
+    "filePath": "9x19_mm_pso_gzh",
+    "marketSearchName": "9x19 mm PSO gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      50,
+      51,
+      55,
+      60,
+      64,
+      24000,
+      48999
+    ],
+    "slots": 1,
+    "timestamp": "20191210004836",
+    "price_per_slot": 2600,
+    "price_avg": 52
+  },
+  {
+    "name": "9x19 mm Pst gzh",
+    "category": "9x19",
+    "image": "9x19pst.png",
+    "title": "9x19 mm Pst gzh",
+    "pageId": 3807,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/9x19pst.png?version=5ccfa6cb580d8353331600e513fff6b1",
+    "filePath": "9x19_mm_pst_gzh",
+    "marketSearchName": "9x19 mm Pst gzh",
+    "marketPositionOffset": 0,
+    "price_array": [
+      65,
+      65,
+      72,
+      73,
+      80
+    ],
+    "slots": 1,
+    "timestamp": "20191210004839",
+    "price_per_slot": 3350,
+    "price_avg": 67
+  },
+  {
+    "name": "9x19 mm RIP",
+    "category": "9x19",
+    "image": "9x19ripicon.png",
+    "title": "9x19 mm RIP",
+    "pageId": 12270,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/9x19ripicon.png?version=65a5196d5730adf115ad5b54bec9589c",
+    "filePath": "9x19_mm_rip",
+    "marketSearchName": "9x19 mm RIP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      519,
+      539,
+      540,
+      544,
+      553,
+      554,
+      555,
+      560,
+      568,
+      570,
+      580,
+      580,
+      600
+    ],
+    "slots": 1,
+    "timestamp": "20191210004842",
+    "price_per_slot": 26600,
+    "price_avg": 532
+  }
+]

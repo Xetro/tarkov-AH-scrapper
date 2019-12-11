@@ -1,0 +1,281 @@
+[
+  {
+    "name": "5.56x45 mm 55 FMJ",
+    "category": "556x45",
+    "image": "55FMJICON.png",
+    "title": "5.56x45 mm 55 FMJ",
+    "pageId": 7051,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/55FMJICON.png?version=aae188d9d870c248ad4559a149fbd147",
+    "filePath": "5_56x45_mm_55_fmj",
+    "marketSearchName": "5.56x45 mm 55 FMJ",
+    "marketPositionOffset": 0,
+    "price_array": [
+      87,
+      106,
+      107,
+      108,
+      109,
+      110,
+      119,
+      120
+    ],
+    "slots": 1,
+    "timestamp": "20191210005016",
+    "price_per_slot": 6000,
+    "price_avg": 100
+  },
+  {
+    "name": "5.56x45 mm 55 HP",
+    "category": "556x45",
+    "image": "55HPICON.png",
+    "title": "5.56x45 mm 55 HP",
+    "pageId": 7035,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/53/55HPICON.png?version=7f161fc76901752ff4c39e7d5fcecaa4",
+    "filePath": "5_56x45_mm_55_hp",
+    "marketSearchName": "5.56x45 mm 55 HP",
+    "marketPositionOffset": 0,
+    "price_array": [
+      60,
+      78,
+      79,
+      80,
+      82,
+      90,
+      90,
+      98,
+      99
+    ],
+    "slots": 1,
+    "timestamp": "20191210005020",
+    "price_per_slot": 4320,
+    "price_avg": 72
+  },
+  {
+    "name": "5.56x45 mm M855",
+    "category": "556x45",
+    "image": "M855ICON.png",
+    "title": "5.56x45 mm M855",
+    "pageId": 6618,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/M855ICON.png?version=e1cb167bc23ee29663751c12f5d7ae01",
+    "filePath": "5_56x45_mm_m855",
+    "marketSearchName": "5.56x45 mm M855",
+    "marketPositionOffset": 1,
+    "price_array": [
+      119,
+      122,
+      123,
+      124,
+      124,
+      124,
+      124,
+      124,
+      125,
+      125,
+      126,
+      126,
+      126
+    ],
+    "slots": 1,
+    "timestamp": "20191210005023",
+    "price_per_slot": 7260,
+    "price_avg": 121
+  },
+  {
+    "name": "5.56x45 mm M855A1",
+    "category": "556x45",
+    "image": "M855A1ICON.png",
+    "title": "5.56x45 mm M855A1",
+    "pageId": 7050,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5f/M855A1ICON.png?version=ee94011166b08cd2c9c60f79a2a17f0a",
+    "filePath": "5_56x45_mm_m855a1",
+    "marketSearchName": "5.56x45 mm M855A1",
+    "marketPositionOffset": 0,
+    "price_array": [
+      200,
+      358,
+      358,
+      359,
+      385,
+      392,
+      394,
+      396,
+      400,
+      400,
+      414,
+      414
+    ],
+    "slots": 1,
+    "timestamp": "20191210005026",
+    "price_per_slot": 18300,
+    "price_avg": 305
+  },
+  {
+    "name": "5.56x45 mm M856",
+    "category": "556x45",
+    "image": "M856ICON.png",
+    "title": "5.56x45 mm M856",
+    "pageId": 7052,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/M856ICON.png?version=a2c1c07ef3ef4ccf4691d5f40e4dee12",
+    "filePath": "5_56x45_mm_m856",
+    "marketSearchName": "5.56x45 mm M856",
+    "marketPositionOffset": 0,
+    "price_array": [
+      162,
+      163,
+      167,
+      168,
+      169,
+      170,
+      175,
+      176,
+      177,
+      179,
+      179,
+      10000
+    ],
+    "slots": 1,
+    "timestamp": "20191210005030",
+    "price_per_slot": 9840,
+    "price_avg": 164
+  },
+  {
+    "name": "5.56x45 mm M856A1",
+    "category": "556x45",
+    "image": "M856A1ICON.png",
+    "title": "5.56x45 mm M856A1",
+    "pageId": 7053,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/M856A1ICON.png?version=456547d70ce954f544f9bf228267b6f2",
+    "filePath": "5_56x45_mm_m856a1",
+    "marketSearchName": "5.56x45 mm M856A1",
+    "marketPositionOffset": 0,
+    "price_array": [
+      425,
+      430,
+      452,
+      453,
+      454,
+      455,
+      467,
+      470,
+      474,
+      475,
+      476,
+      490
+    ],
+    "slots": 1,
+    "timestamp": "20191210005033",
+    "price_per_slot": 26100,
+    "price_avg": 435
+  },
+  {
+    "name": "5.56x45 mm M995",
+    "category": "556x45",
+    "image": "M995ICON.png",
+    "title": "5.56x45 mm M995",
+    "pageId": 7055,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b6/M995ICON.png?version=49a32af1fc51d728700e3481eead9a73",
+    "filePath": "5_56x45_mm_m995",
+    "marketSearchName": "5.56x45 mm M995",
+    "marketPositionOffset": 0,
+    "price_array": [
+      900,
+      910,
+      914,
+      915,
+      922,
+      923,
+      924,
+      924,
+      924,
+      925,
+      925
+    ],
+    "slots": 1,
+    "timestamp": "20191210005036",
+    "price_per_slot": 54480,
+    "price_avg": 908
+  },
+  {
+    "name": "5.56x45 mm Mk 255 Mod 0",
+    "category": "556x45",
+    "image": "MK255ICON.png",
+    "title": "5.56x45 mm Mk 255 Mod 0",
+    "pageId": 7054,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/MK255ICON.png?version=11a6556f760ee133045f83e66037bb99",
+    "filePath": "5_56x45_mm_mk_255_mod_0",
+    "marketSearchName": "5.56x45 mm Mk 255 Mod 0",
+    "marketPositionOffset": 0,
+    "price_array": [
+      150,
+      150,
+      161,
+      162
+    ],
+    "slots": 1,
+    "timestamp": "20191210005040",
+    "price_per_slot": 9180,
+    "price_avg": 153
+  },
+  {
+    "name": "5.56x45 mm Warmage",
+    "category": "556x45",
+    "image": "556warmageicon.png",
+    "title": "5.56x45 mm Warmage",
+    "pageId": 12272,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/556warmageicon.png?version=e19c0ac6b97c181786859d8ea9dae1e2",
+    "filePath": "5_56x45_mm_warmage",
+    "marketSearchName": "Warmage",
+    "marketPositionOffset": 0,
+    "price_array": [
+      645,
+      647,
+      648,
+      650,
+      680,
+      699,
+      780,
+      789,
+      790
+    ],
+    "slots": 1,
+    "timestamp": "20191210005043",
+    "price_per_slot": 38760,
+    "price_avg": 646
+  }
+]

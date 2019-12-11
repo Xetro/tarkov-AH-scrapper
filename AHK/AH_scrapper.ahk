@@ -15,7 +15,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 *~F2::
 
-Categories := ["medical", "assault_scopes", "compact_reflex_sights", "scopes", "special_scopes", "reflex_sights"]
+Categories := ["foregrips", "pistol_grips", "handguards", "tactical_combo_devices", "stocks_chassis"]      
 
 for index, category in Categories
 {
@@ -48,9 +48,9 @@ for index, category in Categories
 		prePath := "../data/images/raw/"
 		extension := ".png"
 		fullPath = %prePath%%filename%--%timestamp%%extension%
-		sleep 1100
+		sleep 1200
 		CaptureScreen(0,"true", fullPath)
-		sleep 400
+		sleep 600
 
 	}
 
