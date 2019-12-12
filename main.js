@@ -88,12 +88,13 @@ const singleCategory = async (category) => {
 }
 
 const takeFromOld = async (category, name) => {
-    const backups = glob.sync(`./data/backup/${category}-data-*.json`);
+    let backups = glob.sync(`./data/backup/${category}-data-*.json`);
     console.log('BACKUPS: ', backups);
     if (!backups.length) {
          console.log('NO BACKUPS - RETURNING 0: ');
         return 0;
     }
+    backups = backups.sort((a, b) => b.slice(-19, -5) - a.slice(-19, -5));
 
     let index = 0;
     let foundItem;
@@ -104,7 +105,7 @@ const takeFromOld = async (category, name) => {
 
         if (item) {
             foundItem = item;
-            console.log('ITEM FOUND: ', foundItem.name, froundItem.timestamp);
+            console.log('ITEM FOUND: ', foundItem.name, foundItem.timestamp);
             break;
         }
 
@@ -171,7 +172,13 @@ const runOCR = async (category) => {
         }
 
         const timestampRegex = /--(\d+).png/;
-        const timestamp = fullFilePath.match(timestampRegex)[1];
+
+        let timestamp;
+        if (fullFilePath) {
+            timestamp = fullFilePath.match(timestampRegex)[1];
+        } else {
+            timestamp = moment().format('YYYYMMDDHHmmss');
+        }
 
         return {
             ...item,
@@ -256,6 +263,15 @@ const correctPriceErrors = (item) => {
             data.forEach(item => acc.push(item));
             return acc;
         }, []);
+
+        finalData.forEach((item) => {
+            if (!Object.keys(item)[10]) {
+                console.log(Object.keys(item));
+                console.log('undefined key: ', item);
+            } else if (!item["price_array"].length) {
+                console.log('EMPTY ARRAY: ', item);
+            }
+        });
 
         try {
             const timestamp = moment().format('YYYYMMDDHHmmss');

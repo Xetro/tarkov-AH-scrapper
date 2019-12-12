@@ -36,7 +36,7 @@ const prepareImage = async (processedImgPath, filePath) => {
     if (fs.existsSync(filePath)) {
       const execString = `convert` + ' ' +
       filePath + ' ' +
-      `-crop 186x1020+2920+140` + ' ' +
+      `-crop 190x1025+1215+40` + ' ' +
       `-colorspace Gray ` + ' ' +
       `-channel Gray` + ' ' +
       `-threshold 50%` + ' ' +
