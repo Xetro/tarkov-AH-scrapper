@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Tactical glasses",
+    "category": "eyewear",
+    "image": "Tactical_Glasses_icon.png",
+    "title": "Tactical glasses",
+    "pageId": 4176,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/Tactical_Glasses_icon.png?version=c54b518e62203ce7e0a03e3f833a3605",
+    "filePath": "tactical_glasses",
+    "marketSearchName": "Tactical glasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1700,
+      1753,
+      2000,
+      2170,
+      3000,
+      4000,
+      4999,
+      6000,
+      7000
+    ],
+    "slots": 2,
+    "timestamp": "20191211180319",
+    "price_per_slot": 908,
+    "price_avg": 1817
+  },
+  {
+    "name": "Anti-fragmentation glasses",
+    "category": "eyewear",
+    "image": "Anti-fragmentation goggles icon.png",
+    "title": "Anti-fragmentation glasses",
+    "pageId": 6081,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Anti-fragmentation_goggles_icon.png",
+    "filePath": "anti_fragmentation_glasses",
+    "marketSearchName": "Anti-fragmentation glasses",
+    "marketPositionOffset": 1,
+    "price_array": [
+      9000,
+      10990,
+      10999,
+      11000,
+      12100,
+      12200,
+      12222
+    ],
+    "slots": 2,
+    "timestamp": "20191211180321",
+    "price_per_slot": 5164,
+    "price_avg": 10329
+  },
+  {
+    "name": "6B34 Anti-fragmentation glasses",
+    "category": "eyewear",
+    "image": "6b34_glasses_icon.png",
+    "title": "6B34 Anti-fragmentation glasses",
+    "pageId": 10737,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/6b34_glasses_icon.png?version=917d09780c6741ab6e0ad66ce8d44e86",
+    "filePath": "6b34_anti_fragmentation_glasses",
+    "marketSearchName": "6B34 Anti-fragmentation glasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2893,
+      3400,
+      3500,
+      3999,
+      4998
+    ],
+    "slots": 2,
+    "timestamp": "20191211180324",
+    "price_per_slot": 1632,
+    "price_avg": 3264
+  },
+  {
+    "name": "Round frame sunglasses",
+    "category": "eyewear",
+    "image": "Round_frame_sunglasses_icon.png",
+    "title": "Round frame sunglasses",
+    "pageId": 9556,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/Round_frame_sunglasses_icon.png?version=be8cabe9fc0aa0c15ecfb3b0f1b7d73d",
+    "filePath": "round_frame_sunglasses",
+    "marketSearchName": "Round frame sunglasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9899,
+      9900,
+      10000,
+      10000,
+      11000,
+      11000,
+      11999,
+      12000,
+      12500,
+      12999,
+      12999,
+      13000,
+      13500,
+      13999
+    ],
+    "slots": 2,
+    "timestamp": "20191208012550",
+    "price_per_slot": 4974,
+    "price_avg": 9949
+  },
+  {
+    "name": "Dundukk sport sunglasses",
+    "category": "eyewear",
+    "image": "Dundukk sport sunglasses icon.png",
+    "title": "Dundukk sport sunglasses",
+    "pageId": 9557,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/Dundukk_sport_sunglasses_icon.png?version=13f3ab3736490f1119efe2be06a907bd",
+    "filePath": "dundukk_sport_sunglasses",
+    "marketSearchName": "Dundukk sport sunglasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2000,
+      2130,
+      2637,
+      3000,
+      4000,
+      6000,
+      6990,
+      8000
+    ],
+    "slots": 2,
+    "timestamp": "20191211180330",
+    "price_per_slot": 1127,
+    "price_avg": 2255
+  },
+  {
+    "name": "SI M Frame safety glasses",
+    "category": "eyewear",
+    "image": "SIMcion.png",
+    "title": "SI M Frame safety glasses",
+    "pageId": 12782,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/SIMcion.png?version=4c5cb6f87aee5e07a4f86cd665ac3da1",
+    "filePath": "si_m_frame_safety_glasses",
+    "marketSearchName": "SI M Frame safety glasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6900,
+      7000
+    ],
+    "slots": 2,
+    "timestamp": "20191211180332",
+    "price_per_slot": 3475,
+    "price_avg": 6950
+  },
+  {
+    "name": "Pyramex Proximity safety glasses",
+    "category": "eyewear",
+    "image": "Pyramexicon.png",
+    "title": "Pyramex Proximity safety glasses",
+    "pageId": 12734,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/Pyramexicon.png?version=fe39ac08c84c4b8f858b0de316eb19b0",
+    "filePath": "pyramex_proximity_safety_glasses",
+    "marketSearchName": "Pyramex Proximity safety glasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3360,
+      4998
+    ],
+    "slots": 2,
+    "timestamp": "20191211180335",
+    "price_per_slot": 2089,
+    "price_avg": 4179
+  },
+  {
+    "name": "RayBench Hipster Reserve sunglasses",
+    "category": "eyewear",
+    "image": "RayBench_Hipster_Reserve_Sunglasses_icon.png",
+    "title": "RayBench Hipster Reserve sunglasses",
+    "pageId": 9558,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/RayBench_Hipster_Reserve_Sunglasses_icon.png?version=4ae4e4faf26ff08f4ad274d8328e7775",
+    "filePath": "raybench_hipster_reserve_sunglasses",
+    "marketSearchName": "RayBench Hipster Reserve sunglasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6400,
+      6500,
+      6500,
+      6500,
+      6700,
+      6999,
+      7000,
+      7900,
+      7999,
+      8888,
+      9000,
+      9500,
+      9900,
+      10000
+    ],
+    "slots": 2,
+    "timestamp": "20191211180338",
+    "price_per_slot": 3233,
+    "price_avg": 6466
+  },
+  {
+    "name": "RayBench Aviator glasses|RayBench Aviator Glasses",
+    "category": "eyewear",
+    "image": "Aviator Sunglasses icon.png",
+    "title": "RayBench Aviator glasses",
+    "pageId": 15601,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/Aviator_Sunglasses_icon.png?version=57eb1ed5ff4a84df272bd15d9247c0f4",
+    "filePath": "raybench_aviator_glasses_raybench_aviator_glasses",
+    "marketSearchName": "RayBench Aviator glasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5900,
+      5999,
+      6000,
+      6000,
+      6000,
+      6200,
+      6500,
+      6969,
+      8500,
+      8700,
+      8999,
+      9000,
+      9000
+    ],
+    "slots": 2,
+    "timestamp": "20191211180341",
+    "price_per_slot": 2983,
+    "price_avg": 5966
+  },
+  {
+    "name": "Crossbow tactical glasses",
+    "category": "eyewear",
+    "image": "Crossbow_tactical_glasses_icon.png",
+    "title": "Crossbow tactical glasses",
+    "pageId": 15593,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/25/Crossbow_tactical_glasses_icon.png?version=fff483a636f27dadb654b84035280a12",
+    "filePath": "crossbow_tactical_glasses",
+    "marketSearchName": "Crossbow tactical glasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3675,
+      5000
+    ],
+    "slots": 2,
+    "timestamp": "20191211180343",
+    "price_per_slot": 2168,
+    "price_avg": 4337
+  },
+  {
+    "name": "Gascan glasses",
+    "category": "eyewear",
+    "image": "Gascan icon.JPG",
+    "title": "Gascan glasses",
+    "pageId": 15598,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/99/Gascan_icon.JPG?version=ddff814e5155a10a6180777f603451b6",
+    "filePath": "gascan_glasses",
+    "marketSearchName": "Gascan glasses",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4500,
+      5199,
+      5300,
+      5500,
+      5880,
+      6666,
+      11000,
+      13000
+    ],
+    "slots": 2,
+    "timestamp": "20191211180346",
+    "price_per_slot": 2499,
+    "price_avg": 4999
+  }
+]

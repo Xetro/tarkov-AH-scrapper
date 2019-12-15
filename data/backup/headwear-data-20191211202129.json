@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "Armasight NVG mask",
+    "category": "headwear",
+    "image": "Armasight NVG Mask Icon.png",
+    "title": "Armasight NVG mask",
+    "pageId": 12563,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/Armasight_NVG_Mask_Icon.png?version=0a4bad23289c5fbb1a9b69f0581a37fe",
+    "filePath": "armasight_nvg_mask",
+    "marketSearchName": "Armasight NVG mask",
+    "marketPositionOffset": 0,
+    "price_array": [
+      20055,
+      30000,
+      45000,
+      55000,
+      120000,
+      120000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180047",
+    "price_per_slot": 7921,
+    "price_avg": 31685
+  },
+  {
+    "name": "Wilcox Skull Lock head mount",
+    "category": "headwear",
+    "image": "slockicon.png",
+    "title": "Wilcox Skull Lock head mount",
+    "pageId": 4177,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f2/Slockicon.png?version=a5b4ddadadb5a83257bbc9531f7fc6ac",
+    "filePath": "wilcox_skull_lock_head_mount",
+    "marketSearchName": "Wilcox Skull Lock head mount",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15432,
+      17000,
+      17850,
+      18000,
+      18000,
+      18999,
+      21500,
+      38080,
+      89999,
+      123000,
+      123000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180050",
+    "price_per_slot": 4190,
+    "price_avg": 16760
+  },
+  {
+    "name": "Kolpak-1S riot helmet",
+    "category": "headwear",
+    "image": "Kolpak-1S Icon.png",
+    "title": "Kolpak-1S riot helmet",
+    "pageId": 5992,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c3/Kolpak-1S_Icon.png",
+    "filePath": "kolpak_1s_riot_helmet",
+    "marketSearchName": "Kolpak-1S riot helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      5000,
+      5500,
+      7697,
+      9000,
+      9111,
+      10000,
+      10000,
+      10000,
+      11000,
+      11111,
+      11500,
+      12000,
+      18000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180053",
+    "price_per_slot": 1516,
+    "price_avg": 6065
+  },
+  {
+    "name": "SHPM Firefighter's helmet",
+    "category": "headwear",
+    "image": "SHPM Firefighter's helmet icon.png",
+    "title": "SHPM Firefighter's helmet",
+    "pageId": 12807,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/SHPM_Firefighter%27s_helmet_icon.png",
+    "filePath": "shpm_firefighter_s_helmet",
+    "marketSearchName": "SHPM Firefighter's helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7000,
+      9500,
+      12000,
+      17000,
+      20000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180056",
+    "price_per_slot": 2375,
+    "price_avg": 9500
+  },
+  {
+    "name": "PSH-97 \"Djeta\" helmet",
+    "category": "headwear",
+    "image": "PSH-97 -Jeta- helmet Icon.png",
+    "title": "PSH-97 \"Djeta\" helmet",
+    "pageId": 12735,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/PSH-97_-Jeta-_helmet_Icon.png",
+    "filePath": "psh_97__djeta__helmet",
+    "marketSearchName": "PSH-97 \"Djeta\" helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      11999,
+      12000,
+      12000,
+      12000,
+      12000,
+      12049,
+      12049,
+      15000,
+      15000,
+      15000,
+      18000,
+      45000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180058",
+    "price_per_slot": 2999,
+    "price_avg": 11999
+  },
+  {
+    "name": "UNTAR helmet",
+    "category": "headwear",
+    "image": "UNTARHelmetIcon.png",
+    "title": "UNTAR helmet",
+    "pageId": 9536,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/UNTARHelmetIcon.png?version=7728832f2522eb3690d1a5bf8d420cb0",
+    "filePath": "untar_helmet",
+    "marketSearchName": "UNTAR helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      19999,
+      19999,
+      20000,
+      21000,
+      21000,
+      21000,
+      23333,
+      23666,
+      25000,
+      25500
+    ],
+    "slots": 4,
+    "timestamp": "20191211180101",
+    "price_per_slot": 4999,
+    "price_avg": 19999
+  },
+  {
+    "name": "6B47 Ratnik-BSh Helmet",
+    "category": "headwear",
+    "image": "6B47_Icon.gif",
+    "title": "6B47 Ratnik-BSh Helmet",
+    "pageId": 8129,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/6B47_Icon.gif?version=5ef781bfe4344fda631710f77cb0cd25",
+    "filePath": "6b47_ratnik_bsh_helmet",
+    "marketSearchName": "6B47 Ratnik-BSh Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      26000,
+      29850,
+      29999,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000,
+      30000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180104",
+    "price_per_slot": 7154,
+    "price_avg": 28616
+  },
+  {
+    "name": "SSh-68 helmet (1968 steel helmet)",
+    "category": "headwear",
+    "image": "SSH-68Icon.png",
+    "title": "SSh-68 helmet (1968 steel helmet)",
+    "pageId": 12260,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/aa/SSH-68Icon.png",
+    "filePath": "ssh_68_helmet__1968_steel_helmet_",
+    "marketSearchName": "SSh-68 helmet (1968 steel helmet)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      12000,
+      14500,
+      14500,
+      14800,
+      17777,
+      17850,
+      17999,
+      18000,
+      18000,
+      18000,
+      18000,
+      18000,
+      18000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180107",
+    "price_per_slot": 3416,
+    "price_avg": 13666
+  },
+  {
+    "name": "LZSh light helmet",
+    "category": "headwear",
+    "image": "LZSh light helmet icon.png",
+    "title": "LZSh light helmet",
+    "pageId": 10721,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/LZSh_light_helmet_icon.png?version=f0f980c59f58063630bd02470bdd3c5e",
+    "filePath": "lzsh_light_helmet",
+    "marketSearchName": "LZSh light helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      50000,
+      52219,
+      53333,
+      53444,
+      53500,
+      54998,
+      54999,
+      60000,
+      60000,
+      73470,
+      79000,
+      85000,
+      99998,
+      99999
+    ],
+    "slots": 4,
+    "timestamp": "20191211180110",
+    "price_per_slot": 12962,
+    "price_avg": 51850
+  },
+  {
+    "name": "Kiver-M Helmet",
+    "category": "headwear",
+    "image": "Kiver-M Helmet icon.png",
+    "title": "Kiver-M Helmet",
+    "pageId": 4142,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/Kiver-M_Helmet_icon.png",
+    "filePath": "kiver_m_helmet",
+    "marketSearchName": "Kiver-M Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      29000,
+      29000,
+      30000,
+      30000,
+      30000,
+      30000,
+      31111,
+      31200,
+      32000,
+      32600,
+      32681,
+      33000,
+      34000,
+      40000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180112",
+    "price_per_slot": 7333,
+    "price_avg": 29333
+  },
+  {
+    "name": "DEVTAC Ronin ballistic helmet",
+    "category": "headwear",
+    "image": "DEVTAC Ronin ballistic helmet Icon.png",
+    "title": "DEVTAC Ronin ballistic helmet",
+    "pageId": 10823,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/DEVTAC_Ronin_ballistic_helmet_Icon.png?version=b215f1800270a48b638e6d456d29781c",
+    "filePath": "devtac_ronin_ballistic_helmet",
+    "marketSearchName": "DEVTAC Ronin ballistic helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      110000,
+      115000,
+      120000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180115",
+    "price_per_slot": 28750,
+    "price_avg": 115000
+  },
+  {
+    "name": "SSSh-95 Sfera-S (Sphere-S)",
+    "category": "headwear",
+    "image": "SFERAHelmetIcon.png",
+    "title": "SSSh-95 Sfera-S (Sphere-S)",
+    "pageId": 9537,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/SFERAHelmetIcon.png?version=b7e99bb28b08c5fa95b474a4727a9de8",
+    "filePath": "sssh_95_sfera_s__sphere_s_",
+    "marketSearchName": "SSSh-95 Sfera-S (Sphere-S)",
+    "marketPositionOffset": 0,
+    "price_array": [
+      50000,
+      50000,
+      51000,
+      52000,
+      52000,
+      52000,
+      52000,
+      55000,
+      57000,
+      57900,
+      57999,
+      58000,
+      58000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180118",
+    "price_per_slot": 12583,
+    "price_avg": 50333
+  },
+  {
+    "name": "MSA ACH TC-2001 MICH Series Helmet",
+    "category": "headwear",
+    "image": "MICH Icon.PNG",
+    "title": "MSA ACH TC-2001 MICH Series Helmet",
+    "pageId": 15591,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/MICH_Icon.PNG?version=ddba3a832f2e36bf0593205907938b7d",
+    "filePath": "msa_ach_tc_2001_mich_series_helmet",
+    "marketSearchName": "MSA ACH TC-2001 MICH Series Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      55000,
+      56600,
+      56666,
+      57000,
+      57999,
+      62000,
+      62999,
+      65000,
+      70500,
+      135000,
+      150000,
+      182000,
+      299420
+    ],
+    "slots": 4,
+    "timestamp": "20191211180120",
+    "price_per_slot": 14022,
+    "price_avg": 56088
+  },
+  {
+    "name": "MSA ACH TC-2002 MICH Series Helmet",
+    "category": "headwear",
+    "image": "MICH Icon 2002.PNG",
+    "title": "MSA ACH TC-2002 MICH Series Helmet",
+    "pageId": 15592,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/MICH_Icon_2002.PNG?version=df6eafabc86fec7e56b5a75f021f608c",
+    "filePath": "msa_ach_tc_2002_mich_series_helmet",
+    "marketSearchName": "MSA ACH TC-2002 MICH Series Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      60200,
+      60400,
+      60497,
+      60498,
+      60999,
+      61899,
+      61980,
+      82000,
+      250000,
+      323420
+    ],
+    "slots": 4,
+    "timestamp": "20191211180123",
+    "price_per_slot": 15091,
+    "price_avg": 60365
+  },
+  {
+    "name": "Highcom Striker ACHHC IIIA helmet",
+    "category": "headwear",
+    "image": "ACHHC_Icon.gif",
+    "title": "Highcom Striker ACHHC IIIA helmet",
+    "pageId": 10830,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/ACHHC_Icon.gif?version=97cd5cb91cd9a579e486b2dbf2caba0b",
+    "filePath": "highcom_striker_achhc_iiia_helmet",
+    "marketSearchName": "Highcom Striker ACHHC IIIA black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      44900,
+      48999,
+      49999,
+      50000,
+      51000,
+      52000,
+      54444,
+      55555,
+      57929,
+      59999,
+      60000,
+      60000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180126",
+    "price_per_slot": 11991,
+    "price_avg": 47966
+  },
+  {
+    "name": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "category": "headwear",
+    "image": "FASTMT_Icon.gif",
+    "title": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "pageId": 7442,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/FASTMT_Icon.gif?version=f71fe14f7611a81794305c375d1b8c59",
+    "filePath": "ops_core_fast_mt_super_high_cut_helmet",
+    "marketSearchName": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      115724,
+      125000,
+      129999,
+      145000,
+      146444,
+      146500,
+      148000,
+      150000,
+      165000,
+      169999,
+      170000,
+      172000,
+      173000,
+      174111
+    ],
+    "slots": 4,
+    "timestamp": "20191211180129",
+    "price_per_slot": 30893,
+    "price_avg": 123574
+  },
+  {
+    "name": "ZSh-1-2M helmet",
+    "category": "headwear",
+    "image": "ZSH-1-2M_Icon.gif",
+    "title": "ZSh-1-2M helmet",
+    "pageId": 9542,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0d/ZSH-1-2M_Icon.gif",
+    "filePath": "zsh_1_2m_helmet",
+    "marketSearchName": "ZSh-1-2M helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      40000,
+      40000,
+      42221,
+      42888,
+      45000,
+      50000,
+      51144,
+      52222,
+      53000,
+      55000,
+      55400,
+      55555,
+      56000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180132",
+    "price_per_slot": 10185,
+    "price_avg": 40740
+  },
+  {
+    "name": "Highcom Striker ULACH IIIA helmet",
+    "category": "headwear",
+    "image": "ULACH_Icon.gif",
+    "title": "Highcom Striker ULACH IIIA helmet",
+    "pageId": 10825,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bb/ULACH_Icon.gif?version=ddee78d230773da1727d8f50e87518c1",
+    "filePath": "highcom_striker_ulach_iiia_helmet",
+    "marketSearchName": "Highcom Striker ULACH IIIA black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      65000,
+      70000,
+      73900,
+      73999,
+      75000,
+      75000,
+      77000,
+      78800,
+      78800,
+      79000,
+      89969
+    ],
+    "slots": 4,
+    "timestamp": "20191211180134",
+    "price_per_slot": 17408,
+    "price_avg": 69633
+  },
+  {
+    "name": "Crye Precision Airframe Tan",
+    "category": "headwear",
+    "image": "Crye Precision Airframe Tan Icon.png",
+    "title": "Crye Precision Airframe Tan",
+    "pageId": 12820,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Crye_Precision_Airframe_Tan_Icon.png?version=c1eca57eef1834c1fc45c0afe400fabc",
+    "filePath": "crye_precision_airframe_tan",
+    "marketSearchName": "Crye Precision Airframe Tan",
+    "marketPositionOffset": 0,
+    "price_array": [
+      144999,
+      145000,
+      150000,
+      155000,
+      155000,
+      156411,
+      170000,
+      199000,
+      199911,
+      200000,
+      200000,
+      220000,
+      225000,
+      225000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180137",
+    "price_per_slot": 36666,
+    "price_avg": 146666
+  },
+  {
+    "name": "BNTI LSHZ-2DTM Helmet",
+    "category": "headwear",
+    "image": "LZHZ-2DTMIcon.png",
+    "title": "BNTI LSHZ-2DTM Helmet",
+    "pageId": 15602,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/50/LZHZ-2DTMIcon.png",
+    "filePath": "bnti_lshz_2dtm_helmet",
+    "marketSearchName": "BNTI LSHZ-2DTM Helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      121131,
+      139999,
+      145000,
+      150000,
+      150000,
+      150000,
+      165000,
+      175000,
+      179999,
+      200000,
+      210000,
+      269999
+    ],
+    "slots": 4,
+    "timestamp": "20191211180140",
+    "price_per_slot": 33844,
+    "price_avg": 135376
+  },
+  {
+    "name": "Maska 1Sch helmet",
+    "category": "headwear",
+    "image": "Maska 1Sch helmet icon.gif",
+    "title": "Maska 1Sch helmet",
+    "pageId": 12499,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/Maska_1Sch_helmet_icon.gif?version=6549a0138228745103f297fd0e27c18d",
+    "filePath": "maska_1sch_helmet",
+    "marketSearchName": "Maska 1Sch helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      97500,
+      98000,
+      99000,
+      100000,
+      130000,
+      135000,
+      135555,
+      139000,
+      140000,
+      140000,
+      140000,
+      140000,
+      141000,
+      142000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180143",
+    "price_per_slot": 24541,
+    "price_avg": 98166
+  },
+  {
+    "name": "Altyn helmet",
+    "category": "headwear",
+    "image": "AltynHelmetIcon.png",
+    "title": "Altyn helmet",
+    "pageId": 9538,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/AltynHelmetIcon.png?version=74a4bd60e82016c1745f397ad66658a7",
+    "filePath": "altyn_helmet",
+    "marketSearchName": "Altyn helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      107999,
+      110000,
+      118000,
+      118777,
+      120000,
+      120000,
+      130000,
+      130000,
+      134000,
+      135000,
+      135000,
+      135000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180145",
+    "price_per_slot": 27999,
+    "price_avg": 111999
+  },
+  {
+    "name": "Vulkan-5 (LShZ-5) heavy helmet",
+    "category": "headwear",
+    "image": "Vulkan-5 (LShZ-5) heavy helmet icon.png",
+    "title": "Vulkan-5 (LShZ-5) heavy helmet",
+    "pageId": 13947,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/30/Vulkan-5_%28LShZ-5%29_heavy_helmet_icon.png",
+    "filePath": "vulkan_5__lshz_5__heavy_helmet",
+    "marketSearchName": "Vulkan-5 (LShZ-5) heavy helmet",
+    "marketPositionOffset": 0,
+    "price_array": [
+      194000,
+      199000,
+      200000,
+      200000,
+      200000,
+      200000,
+      200069,
+      219000,
+      220000,
+      220000,
+      220000,
+      230000,
+      239999,
+      244444
+    ],
+    "slots": 4,
+    "timestamp": "20191211180148",
+    "price_per_slot": 49416,
+    "price_avg": 197666
+  },
+  {
+    "name": "Kinda cowboy hat",
+    "category": "headwear",
+    "image": "Cow_boy_hat_icon.png",
+    "title": "Kinda cowboy hat",
+    "pageId": 9546,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Cow_boy_hat_icon.png?version=014a8d20f2ed773438e774072a355d99",
+    "filePath": "kinda_cowboy_hat",
+    "marketSearchName": "Kinda cowboy hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      13000,
+      15000,
+      15000,
+      16000,
+      16850,
+      17111,
+      17995
+    ],
+    "slots": 4,
+    "timestamp": "20191211180151",
+    "price_per_slot": 3583,
+    "price_avg": 14333
+  },
+  {
+    "name": "Ushanka ear-flap cap",
+    "category": "headwear",
+    "image": "Ushanka_icon.png",
+    "title": "Ushanka ear-flap cap",
+    "pageId": 5997,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b8/Ushanka_icon.png?version=31e19523ffb51043ccf8ee3fc7ab3415",
+    "filePath": "ushanka_ear_flap_cap",
+    "marketSearchName": "Ushanka ear-flap cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18000,
+      21000,
+      24000,
+      24400,
+      24999,
+      25000,
+      25000,
+      25500
+    ],
+    "slots": 4,
+    "timestamp": "20191211180154",
+    "price_per_slot": 5250,
+    "price_avg": 21000
+  },
+  {
+    "name": "Miltec panama hat",
+    "category": "headwear",
+    "image": "Panama Icon.png",
+    "title": "Miltec panama hat",
+    "pageId": 10822,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/63/Panama_Icon.png?version=d169e029833bd94c0b35774d0fd59cf0",
+    "filePath": "miltec_panama_hat",
+    "marketSearchName": "Miltec panama hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2279,
+      6500,
+      6799
+    ],
+    "slots": 4,
+    "timestamp": "20191211180156",
+    "price_per_slot": 1298,
+    "price_avg": 5192
+  },
+  {
+    "name": "\"Door Kicker\" Boonie hat",
+    "category": "headwear",
+    "image": "Door kicker boonie hat icon.png",
+    "title": "\"Door Kicker\" Boonie hat",
+    "pageId": 14998,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/Door_kicker_boonie_hat_icon.png?version=5a3cb2cb6b4e2356556aff6514e2f2e4",
+    "filePath": "_door_kicker__boonie_hat",
+    "marketSearchName": "\"Door Kicker\" Boonie hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      23000,
+      24995,
+      25000,
+      25900,
+      26000,
+      26999,
+      27000,
+      27609,
+      29999,
+      30000,
+      31000,
+      37000,
+      40000,
+      40000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180159",
+    "price_per_slot": 6082,
+    "price_avg": 24331
+  },
+  {
+    "name": "Beanie",
+    "category": "headwear",
+    "image": "Knitcap icon.png",
+    "title": "Beanie",
+    "pageId": 4149,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/Knitcap_icon.png?version=8af289d29b78573484488cdd06bde9db",
+    "filePath": "beanie",
+    "marketSearchName": "Beanie",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1391,
+      40000
+    ],
+    "slots": 1,
+    "timestamp": "20191211180202",
+    "price_per_slot": 20695,
+    "price_avg": 20695
+  },
+  {
+    "name": "Kotton beanie",
+    "category": "headwear",
+    "image": "Kotton Beanie icon.png",
+    "title": "Kotton beanie",
+    "pageId": 11914,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/Kotton_Beanie_icon.png?version=19cfef6ff7c1a45a268b9aa76ca805d3",
+    "filePath": "kotton_beanie",
+    "marketSearchName": "Kotton beanie",
+    "marketPositionOffset": 0,
+    "price_array": [
+      16000,
+      16000,
+      16099,
+      16100,
+      16200,
+      16250,
+      16420,
+      16499,
+      16500,
+      16500,
+      17000,
+      17500,
+      18000,
+      18500
+    ],
+    "slots": 1,
+    "timestamp": "20191211180205",
+    "price_per_slot": 16033,
+    "price_avg": 16033
+  },
+  {
+    "name": "Army cap",
+    "category": "headwear",
+    "image": "Army cap icon.png",
+    "title": "Army cap",
+    "pageId": 6023,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/65/Army_cap_icon.png?version=56998678443f02122fc53724f92f7987",
+    "filePath": "army_cap",
+    "marketSearchName": "Army cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1000,
+      2000,
+      2499,
+      3000,
+      3200,
+      5290,
+      7777,
+      10000,
+      18999
+    ],
+    "slots": 1,
+    "timestamp": "20191211180207",
+    "price_per_slot": 1833,
+    "price_avg": 1833
+  },
+  {
+    "name": "Baseball cap",
+    "category": "headwear",
+    "image": "Baseball_cap_icon.png",
+    "title": "Baseball cap",
+    "pageId": 4144,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f7/Baseball_cap_icon.png?version=720769920e4e7166683ba82ce87d76d1",
+    "filePath": "baseball_cap",
+    "marketSearchName": "Baseball cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1000
+    ],
+    "slots": 1,
+    "timestamp": "20191211180210",
+    "price_per_slot": 1000,
+    "price_avg": 1000
+  },
+  {
+    "name": "Police cap",
+    "category": "headwear",
+    "image": "policeicon.png",
+    "title": "Police cap",
+    "pageId": 9547,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/Policeicon.png?version=1ffb3bdc038f2900f7c8f4817c76cb03",
+    "filePath": "police_cap",
+    "marketSearchName": "Police cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10000
+    ],
+    "slots": 1,
+    "timestamp": "20191211180213",
+    "price_per_slot": 10000,
+    "price_avg": 10000
+  },
+  {
+    "name": "Tactical fleece hat",
+    "category": "headwear",
+    "image": "fleecicon.png",
+    "title": "Tactical fleece hat",
+    "pageId": 9548,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/Fleecicon.png?version=dd7a0b93d8777bf12f0da45135304dc0",
+    "filePath": "tactical_fleece_hat",
+    "marketSearchName": "Tactical fleece hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3800,
+      4000,
+      4060,
+      4069,
+      4599,
+      4700,
+      4736,
+      8000,
+      30000
+    ],
+    "slots": 1,
+    "timestamp": "20191211180215",
+    "price_per_slot": 3953,
+    "price_avg": 3953
+  },
+  {
+    "name": "UX PRO Beanie",
+    "category": "headwear",
+    "image": "uxproicon.png",
+    "title": "UX PRO Beanie",
+    "pageId": 9549,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/Uxproicon.png?version=22b1f38ecee4c648f708ab5a7f6a673c",
+    "filePath": "ux_pro_beanie",
+    "marketSearchName": "UX PRO Beanie",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2146,
+      2222,
+      8000,
+      9000
+    ],
+    "slots": 1,
+    "timestamp": "20191211180218",
+    "price_per_slot": 4122,
+    "price_avg": 4122
+  },
+  {
+    "name": "USEC baseball cap",
+    "category": "headwear",
+    "image": "USECCapIcon.png",
+    "title": "USEC baseball cap",
+    "pageId": 9552,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/71/USECCapIcon.png?version=3b9c45c1cf5afc7b3ac0277d7afe3553",
+    "filePath": "usec_baseball_cap",
+    "marketSearchName": "USEC baseball cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1725
+    ],
+    "slots": 1,
+    "timestamp": "20191211180221",
+    "price_per_slot": 1725,
+    "price_avg": 1725
+  },
+  {
+    "name": "BEAR baseball cap",
+    "category": "headwear",
+    "image": "BEARCapIcon.png",
+    "title": "BEAR baseball cap",
+    "pageId": 9551,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/BEARCapIcon.png?version=d8b2fcbbabad36507960dc55231e205a",
+    "filePath": "bear_baseball_cap",
+    "marketSearchName": "BEAR baseball cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1500,
+      1813
+    ],
+    "slots": 1,
+    "timestamp": "20191211180224",
+    "price_per_slot": 1656,
+    "price_avg": 1656
+  },
+  {
+    "name": "USEC baseball cap black",
+    "category": "headwear",
+    "image": "Black_USEC_Cap_Icon.png",
+    "title": "USEC baseball cap black",
+    "pageId": 10820,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/Black_USEC_Cap_Icon.png?version=74aa043a78d0c2998e26e65455356c31",
+    "filePath": "usec_baseball_cap_black",
+    "marketSearchName": "USEC baseball cap black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1819
+    ],
+    "slots": 1,
+    "timestamp": "20191211180226",
+    "price_per_slot": 1819,
+    "price_avg": 1819
+  },
+  {
+    "name": "BEAR baseball cap black",
+    "category": "headwear",
+    "image": "Black_BEAR_Cap_Icon.png",
+    "title": "BEAR baseball cap black",
+    "pageId": 10819,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/Black_BEAR_Cap_Icon.png?version=97952eb0b66279493716567672ffd99b",
+    "filePath": "bear_baseball_cap_black",
+    "marketSearchName": "BEAR baseball cap black",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1919
+    ],
+    "slots": 1,
+    "timestamp": "20191211180229",
+    "price_per_slot": 1919,
+    "price_avg": 1919
+  },
+  {
+    "name": "EmerCom cap",
+    "category": "headwear",
+    "image": "emercomicon.png",
+    "title": "EmerCom cap",
+    "pageId": 9550,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/Emercomicon.png?version=e5635461383c352e60b03d9bce65c481",
+    "filePath": "emercom_cap",
+    "marketSearchName": "EmerCom cap",
+    "marketPositionOffset": 0,
+    "price_array": [
+      1880
+    ],
+    "slots": 1,
+    "timestamp": "20191209181740",
+    "price_per_slot": 1880,
+    "price_avg": 1880
+  },
+  {
+    "name": "Pompon hat",
+    "category": "headwear",
+    "image": "pompon hat icon.png",
+    "title": "Pompon hat",
+    "pageId": 10789,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b5/Pompon_hat_icon.png?version=fb9d399ff00814781dad70cee6d90fe7",
+    "filePath": "pompon_hat",
+    "marketSearchName": "Pompon hat",
+    "marketPositionOffset": 0,
+    "price_array": [
+      6000,
+      6999,
+      7000,
+      7300,
+      7500,
+      8000,
+      10101,
+      10750,
+      21990
+    ],
+    "slots": 1,
+    "timestamp": "20191211180235",
+    "price_per_slot": 6666,
+    "price_avg": 6666
+  },
+  {
+    "name": "Bandana",
+    "category": "headwear",
+    "image": "bandana icon.png",
+    "title": "Bandana",
+    "pageId": 10821,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Bandana_icon.png?version=3ae704b9cc940faafba751f6ef540100",
+    "filePath": "bandana",
+    "marketSearchName": "Bandana",
+    "marketPositionOffset": 0,
+    "price_array": [
+      2095,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191211180237",
+    "price_per_slot": 3547,
+    "price_avg": 3547
+  },
+  {
+    "name": "Ski hat with holes for eyes",
+    "category": "headwear",
+    "image": "ShmaskaIcon.png",
+    "title": "Ski hat with holes for eyes",
+    "pageId": 9559,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/ShmaskaIcon.png?version=2c551061043c7e207a5efc88d075c980",
+    "filePath": "ski_hat_with_holes_for_eyes",
+    "marketSearchName": "Ski hat with holes for eyes",
+    "marketPositionOffset": 0,
+    "price_array": [
+      8000,
+      12999,
+      13000,
+      13000,
+      13499,
+      13500,
+      13999,
+      13999,
+      13999,
+      14000,
+      14444,
+      14999
+    ],
+    "slots": 1,
+    "timestamp": "20191211180240",
+    "price_per_slot": 11333,
+    "price_avg": 11333
+  }
+]

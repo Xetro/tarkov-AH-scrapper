@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Ops-Core FAST RAC Headset",
+    "category": "headsets",
+    "image": "Rac.png",
+    "title": "Ops-Core FAST RAC Headset",
+    "pageId": 7983,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/Rac.png?version=ca97364b8e2361cd0d68738ae1c5e40c",
+    "filePath": "ops_core_fast_rac_headset",
+    "marketSearchName": "Ops-Core FAST RAC Headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      27777,
+      28000,
+      29000,
+      29999,
+      33900,
+      34000,
+      34666,
+      34900,
+      34999,
+      35555,
+      36450,
+      36451,
+      36499
+    ],
+    "slots": 2,
+    "timestamp": "20191211180349",
+    "price_per_slot": 14129,
+    "price_avg": 28259
+  },
+  {
+    "name": "Peltor ComTac 2 headset",
+    "category": "headsets",
+    "image": "Comtac icon.png",
+    "title": "Peltor ComTac 2 headset",
+    "pageId": 4180,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/65/Comtac_icon.png?version=f05c105dcecd7835c3512bf8c8b29e6a",
+    "filePath": "peltor_comtac_2_headset",
+    "marketSearchName": "Peltor ComTac 2 headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18595,
+      21111,
+      21495,
+      21500,
+      21888,
+      22000,
+      22000,
+      23000,
+      23022,
+      23998,
+      25000,
+      27000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180352",
+    "price_per_slot": 5100,
+    "price_avg": 20400
+  },
+  {
+    "name": "MSA Sordin Supreme PRO-X/L active headphones",
+    "category": "headsets",
+    "image": "SordinIcon.png",
+    "title": "MSA Sordin Supreme PRO-X/L active headphones",
+    "pageId": 9555,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/82/SordinIcon.png?version=839ae557ca0068adc1e314ce7af2e8ad",
+    "filePath": "msa_sordin_supreme_pro_x_l_active_headphones",
+    "marketSearchName": "MSA Sordin Supreme PRO-X/L active headphones",
+    "marketPositionOffset": 0,
+    "price_array": [
+      24312,
+      27000,
+      28990,
+      29000,
+      33999,
+      33999,
+      33999,
+      34999,
+      35000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180354",
+    "price_per_slot": 6691,
+    "price_avg": 26767
+  },
+  {
+    "name": "GSSh-01 active headset",
+    "category": "headsets",
+    "image": "gssh.png",
+    "title": "GSSh-01 active headset",
+    "pageId": 10781,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Gssh.png?version=33b9b961303955558112c7d6f0bd4385",
+    "filePath": "gssh_01_active_headset",
+    "marketSearchName": "GSSh-01 active headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9998,
+      10000,
+      11998,
+      11998,
+      11999,
+      12450,
+      12499,
+      12499,
+      12500,
+      12500,
+      12561
+    ],
+    "slots": 4,
+    "timestamp": "20191211180357",
+    "price_per_slot": 2666,
+    "price_avg": 10665
+  },
+  {
+    "name": "Peltor Tactical Sport headset",
+    "category": "headsets",
+    "image": "PeltorTacticalSporticon.png",
+    "title": "Peltor Tactical Sport headset",
+    "pageId": 12854,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0c/PeltorTacticalSporticon.png?version=f817878fcba5c7ee1a331e10a5d5dc0f",
+    "filePath": "peltor_tactical_sport_headset",
+    "marketSearchName": "Peltor Tactical Sport headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      26000,
+      26000,
+      26666,
+      27500,
+      28000,
+      28500,
+      29000,
+      29500,
+      30000,
+      30000,
+      30000,
+      30000
+    ],
+    "slots": 4,
+    "timestamp": "20191211180400",
+    "price_per_slot": 6555,
+    "price_avg": 26222
+  }
+]

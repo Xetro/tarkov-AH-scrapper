@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Factory exit key",
+    "category": "keys_factory",
+    "image": "Factory key icon.png",
+    "title": "Factory exit key",
+    "pageId": 4029,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Factory_key_icon.png?version=459982fbc47d60275ae9b1280070a510",
+    "filePath": "factory_exit_key",
+    "marketSearchName": "Factory exit key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      135000,
+      149000,
+      157998,
+      157998,
+      160000
+    ],
+    "slots": 1,
+    "timestamp": "20191214142446",
+    "price_per_slot": 147332,
+    "price_avg": 147332
+  },
+  {
+    "name": "Door key",
+    "category": "keys_factory",
+    "image": "Door key Icon.png",
+    "title": "Door key",
+    "pageId": 4062,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
+    "filePath": "door_key",
+    "marketSearchName": "Door key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3000,
+      5000,
+      5000,
+      5400,
+      5555,
+      6669,
+      6853,
+      7500,
+      7500,
+      9000,
+      13000,
+      15000,
+      25000
+    ],
+    "slots": 1,
+    "timestamp": "20191214142450",
+    "price_per_slot": 4333,
+    "price_avg": 4333
+  },
+  {
+    "name": "Door key (alternative)",
+    "category": "keys_factory",
+    "image": "Door key Icon.png",
+    "title": "Door key (alternative)",
+    "pageId": 7219,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
+    "filePath": "door_key__alternative_",
+    "marketSearchName": "Door key",
+    "marketPositionOffset": 1,
+    "price_array": [
+      3750,
+      3999,
+      4000,
+      4000,
+      4000,
+      4100,
+      4150,
+      4200,
+      4250,
+      4300,
+      4600,
+      4800,
+      4888,
+      6667
+    ],
+    "slots": 1,
+    "timestamp": "20191214142454",
+    "price_per_slot": 3916,
+    "price_avg": 3916
+  }
+]

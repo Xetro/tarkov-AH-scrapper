@@ -14,13 +14,14 @@
     "marketSearchName": "Lancer OEM 14 inch M-LOK foregrip for MPX",
     "marketPositionOffset": 0,
     "price_array": [
-      15400,
-      17499
+      15285,
+      15286,
+      16999
     ],
     "slots": 2,
-    "timestamp": "20191211011200",
-    "price_per_slot": 8224,
-    "price_avg": 16449
+    "timestamp": "20191212213021",
+    "price_per_slot": 7928,
+    "price_avg": 15856
   },
   {
     "name": "Troy Industries 13\" M-LOK foregrip for 416A5",
@@ -37,17 +38,16 @@
     "marketSearchName": "Troy Industries 13\" M-LOK foregrip for 416A5",
     "marketPositionOffset": 0,
     "price_array": [
-      20000,
-      20000,
       21999,
-      22110,
-      22111,
-      22111
+      22000,
+      22500,
+      22998,
+      22999
     ],
     "slots": 3,
-    "timestamp": "20191211011204",
-    "price_per_slot": 6888,
-    "price_avg": 20666
+    "timestamp": "20191212213023",
+    "price_per_slot": 7388,
+    "price_avg": 22166
   },
   {
     "name": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
@@ -64,17 +64,17 @@
     "marketSearchName": "Strike Industries CRUX 15\" M-LOK foregrip for 416A5",
     "marketPositionOffset": 0,
     "price_array": [
-      23111,
-      23400,
+      22991,
+      23000,
+      23000,
       23450,
-      23456,
       24000,
       24900
     ],
     "slots": 3,
-    "timestamp": "20191211011207",
-    "price_per_slot": 7773,
-    "price_avg": 23320
+    "timestamp": "20191212213025",
+    "price_per_slot": 7665,
+    "price_avg": 22997
   },
   {
     "name": "HK MRS 14\" keymod foregrip for 416A5",
@@ -92,18 +92,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       14456,
-      16490,
-      16498,
-      16499,
-      16998,
-      17500,
-      19000,
-      20000
+      24880,
+      24888,
+      24990,
+      24998,
+      24999
     ],
     "slots": 3,
-    "timestamp": "20191211011211",
-    "price_per_slot": 5271,
-    "price_avg": 15814
+    "timestamp": "20191212213028",
+    "price_per_slot": 7136,
+    "price_avg": 21408
   },
   {
     "name": "Zenit B-10 AK Handguard",
@@ -120,18 +118,17 @@
     "marketSearchName": "Zenit B-10 AK Handguard",
     "marketPositionOffset": 0,
     "price_array": [
-      5495,
       5610,
-      6610,
-      8400,
-      8500,
-      9999,
-      10000
+      6777,
+      6998,
+      6999,
+      7000,
+      7400
     ],
     "slots": 1,
-    "timestamp": "20191211011214",
-    "price_per_slot": 5905,
-    "price_avg": 5905
+    "timestamp": "20191212213030",
+    "price_per_slot": 6461,
+    "price_avg": 6461
   },
   {
     "name": "SAI 10\" QD Rail foregrip for AR15",
@@ -148,17 +145,24 @@
     "marketSearchName": "SAI 10\" QD Rail foregrip for AR15",
     "marketPositionOffset": 0,
     "price_array": [
+      23900,
+      23999,
+      24000,
+      24999,
+      25900,
+      25999,
+      26700,
+      26891,
       26892,
-      26969,
-      27500,
-      27764,
-      27765,
-      27789
+      26998,
+      27000,
+      27000,
+      27248
     ],
     "slots": 2,
-    "timestamp": "20191211011218",
-    "price_per_slot": 13560,
-    "price_avg": 27120
+    "timestamp": "20191212213032",
+    "price_per_slot": 11983,
+    "price_avg": 23966
   },
   {
     "name": "Midwest 10.5 inch M-LOK foregrip for MPX",
@@ -175,24 +179,21 @@
     "marketSearchName": "Midwest 10.5 inch M-LOK foregrip for MPX",
     "marketPositionOffset": 0,
     "price_array": [
+      8000,
+      8000,
+      8000,
+      8100,
       8500,
-      8799,
-      8888,
-      8999,
-      9400,
-      9500,
-      9994,
-      9995,
-      9999,
+      8899,
+      8900,
+      9000,
       10000,
-      13000,
-      14000,
-      15000
+      10000
     ],
     "slots": 2,
-    "timestamp": "20191211011222",
-    "price_per_slot": 4364,
-    "price_avg": 8729
+    "timestamp": "20191212213034",
+    "price_per_slot": 4000,
+    "price_avg": 8000
   },
   {
     "name": "Midwest 4.5 inch M-LOK foregrip for MPX",
@@ -233,16 +234,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       15080,
-      17990,
       17999,
-      18000,
-      19969,
-      19999
+      18500,
+      19000
     ],
     "slots": 2,
-    "timestamp": "20191211011229",
-    "price_per_slot": 8511,
-    "price_avg": 17023
+    "timestamp": "20191212213038",
+    "price_per_slot": 8596,
+    "price_avg": 17193
   },
   {
     "name": "Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems",
@@ -347,24 +346,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       31428,
-      32750,
-      32800,
-      32883,
-      33450,
-      33800,
-      33990,
-      34275,
-      34279,
-      34280,
-      34289,
-      34299,
-      34428,
-      34479
+      34980,
+      35888
     ],
     "slots": 3,
-    "timestamp": "20191211011243",
-    "price_per_slot": 10775,
-    "price_avg": 32326
+    "timestamp": "20191212213047",
+    "price_per_slot": 11366,
+    "price_avg": 34098
   },
   {
     "name": "Midwest 6.5 inch M-LOK foregrip for MPX",
@@ -381,22 +369,18 @@
     "marketSearchName": "Midwest 6.5 inch M-LOK foregrip for MPX",
     "marketPositionOffset": 0,
     "price_array": [
-      5400,
-      5500,
-      5600,
-      5600,
-      5999,
       6000,
+      6000,
+      6000,
+      6999,
       7000,
       7000,
-      16000,
-      16500,
-      17999
+      9880
     ],
     "slots": 2,
-    "timestamp": "20191211011247",
-    "price_per_slot": 2750,
-    "price_avg": 5500
+    "timestamp": "20191212213049",
+    "price_per_slot": 3000,
+    "price_avg": 6000
   },
   {
     "name": "Midwest 9\" M-LOK foregrip for 416A5",
@@ -413,25 +397,25 @@
     "marketSearchName": "Midwest 9\" M-LOK foregrip for 416A5",
     "marketPositionOffset": 0,
     "price_array": [
-      15956,
-      16000,
-      17500,
-      17999,
-      17999,
-      18000,
-      19000,
-      19000,
-      19499,
-      19500,
-      20000,
-      25000,
-      30000,
-      30000
+      8999,
+      10000,
+      10999,
+      11000,
+      11000,
+      11800,
+      12000,
+      12500,
+      12998,
+      12999,
+      13000,
+      13000,
+      14000,
+      15999
     ],
     "slots": 2,
-    "timestamp": "20191211011250",
-    "price_per_slot": 8242,
-    "price_avg": 16485
+    "timestamp": "20191212213051",
+    "price_per_slot": 4999,
+    "price_avg": 9999
   },
   {
     "name": "Magpul Zhukov-U HAND GUARD for AK",
@@ -566,24 +550,24 @@
     "marketSearchName": "VLTOR CMRD Keymod handguard for AK",
     "marketPositionOffset": 0,
     "price_array": [
-      33900,
-      33993,
-      33994,
-      33995,
-      34000,
-      34100,
-      34111,
-      34200,
-      34299,
-      34300,
-      34699,
-      34700,
-      34782
+      34555,
+      35490,
+      35499,
+      35499,
+      35500,
+      35550,
+      35888,
+      36000,
+      36000,
+      36998,
+      36999,
+      36999,
+      37997
     ],
     "slots": 2,
-    "timestamp": "20191211011309",
-    "price_per_slot": 16981,
-    "price_avg": 33962
+    "timestamp": "20191212213102",
+    "price_per_slot": 17590,
+    "price_avg": 35181
   },
   {
     "name": "HK quadrail handguard for 416-compatible systems",
@@ -600,15 +584,25 @@
     "marketSearchName": "HK quadrail handguard for 416-compatible systems",
     "marketPositionOffset": 0,
     "price_array": [
-      11000,
-      13000,
-      13500,
-      14000
+      7280,
+      7290,
+      7300,
+      7399,
+      7400,
+      7497,
+      7498,
+      7991,
+      17900,
+      18000,
+      20000,
+      20000,
+      22000,
+      26666
     ],
     "slots": 2,
-    "timestamp": "20191211011312",
-    "price_per_slot": 6250,
-    "price_avg": 12500
+    "timestamp": "20191212213104",
+    "price_per_slot": 3645,
+    "price_avg": 7290
   },
   {
     "name": "HK quadrail handguard with a flip-up sight for 416-compatible systems",
@@ -647,21 +641,17 @@
     "marketSearchName": "HK extended quadrail handguard for 416-compatible systems",
     "marketPositionOffset": 0,
     "price_array": [
-      11175,
-      13968,
-      13969,
-      14000,
-      14290,
+      11752,
+      12999,
+      13500,
+      13900,
       14299,
-      14440,
-      15300,
-      15897,
-      15900
+      14440
     ],
     "slots": 3,
-    "timestamp": "20191211011319",
-    "price_per_slot": 4345,
-    "price_avg": 13037
+    "timestamp": "20191212213108",
+    "price_per_slot": 4250,
+    "price_avg": 12750
   },
   {
     "name": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
@@ -678,16 +668,14 @@
     "marketSearchName": "DS Arms Quad Rail Full Lenght foregrip for SA-58",
     "marketPositionOffset": 0,
     "price_array": [
-      15199,
-      15200,
-      15300,
-      15500,
-      20000
+      14500,
+      15000,
+      15200
     ],
     "slots": 2,
-    "timestamp": "20191211011323",
-    "price_per_slot": 7616,
-    "price_avg": 15233
+    "timestamp": "20191212213110",
+    "price_per_slot": 7450,
+    "price_avg": 14900
   },
   {
     "name": "Vltor CASV FAS foregrip for FAL",
@@ -704,20 +692,17 @@
     "marketSearchName": "Vltor CASV FAS foregrip for FAL",
     "marketPositionOffset": 0,
     "price_array": [
-      14200,
-      14400,
+      14300,
+      14992,
       14993,
       14994,
-      15000,
-      15000,
       16232,
-      16935,
       19700
     ],
     "slots": 2,
-    "timestamp": "20191211011327",
-    "price_per_slot": 7265,
-    "price_avg": 14531
+    "timestamp": "20191212213112",
+    "price_per_slot": 7380,
+    "price_avg": 14761
   },
   {
     "name": "Vltor CASV FAL foregrip for FAL",
@@ -734,17 +719,21 @@
     "marketSearchName": "Vltor CASV FAL foregrip for FAL",
     "marketPositionOffset": 0,
     "price_array": [
+      17506,
+      17598,
+      17599,
+      18700,
+      18749,
+      18788,
+      22420,
       22499,
-      22499,
-      22500,
-      22554,
       22555,
       22600
     ],
     "slots": 2,
-    "timestamp": "20191211011330",
-    "price_per_slot": 11249,
-    "price_avg": 22499
+    "timestamp": "20191212213115",
+    "price_per_slot": 8783,
+    "price_avg": 17567
   },
   {
     "name": "Original Austrian foregrip for a FAL",
@@ -761,12 +750,15 @@
     "marketSearchName": "Original Austrian foregrip for a FAL",
     "marketPositionOffset": 0,
     "price_array": [
-      2500
+      2300,
+      2496,
+      2500,
+      4999
     ],
     "slots": 2,
-    "timestamp": "20191211011334",
-    "price_per_slot": 1250,
-    "price_avg": 2500
+    "timestamp": "20191212213117",
+    "price_per_slot": 1216,
+    "price_avg": 2432
   },
   {
     "name": "DSA Belgian style foregrip for a FAL",
@@ -783,13 +775,12 @@
     "marketSearchName": "DSA Belgian style foregrip for a FAL",
     "marketPositionOffset": 0,
     "price_array": [
-      3123,
-      10000
+      3123
     ],
     "slots": 2,
-    "timestamp": "20191211011337",
-    "price_per_slot": 3280,
-    "price_avg": 6561
+    "timestamp": "20191212213119",
+    "price_per_slot": 1561,
+    "price_avg": 3123
   },
   {
     "name": "Aim sport Universal M-LOK foregrip for FAL",
@@ -807,13 +798,15 @@
     "marketPositionOffset": 0,
     "price_array": [
       5704,
-      7695,
-      7704
+      7598,
+      7599,
+      7704,
+      10000
     ],
     "slots": 2,
-    "timestamp": "20191211011341",
-    "price_per_slot": 3517,
-    "price_avg": 7034
+    "timestamp": "20191212213121",
+    "price_per_slot": 3483,
+    "price_avg": 6967
   },
   {
     "name": "Aim sport Universal keymod foregrip for FAL",
@@ -831,16 +824,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       5035,
-      6410,
-      6411,
-      6500,
-      6500,
+      6695,
+      6750,
+      6750,
+      7000,
       7000
     ],
     "slots": 2,
-    "timestamp": "20191211011345",
-    "price_per_slot": 2976,
-    "price_avg": 5952
+    "timestamp": "20191212213123",
+    "price_per_slot": 3080,
+    "price_avg": 6160
   },
   {
     "name": "Hexagon handguard for AK",
@@ -857,12 +850,19 @@
     "marketSearchName": "Hexagon handguard for AK",
     "marketPositionOffset": 0,
     "price_array": [
-      37000
+      31000,
+      32700,
+      32800,
+      32950,
+      32996,
+      32997,
+      32998,
+      32999
     ],
     "slots": 2,
-    "timestamp": "20191211011348",
-    "price_per_slot": 18500,
-    "price_avg": 37000
+    "timestamp": "20191212213125",
+    "price_per_slot": 16083,
+    "price_avg": 32166
   },
   {
     "name": "DS Arms quad rail foregrip for SA-58",
@@ -879,21 +879,19 @@
     "marketSearchName": "DS Arms quad rail foregrip for SA-58",
     "marketPositionOffset": 0,
     "price_array": [
-      39999,
-      40000,
-      41111,
-      48000,
-      49000,
-      49000,
-      50000,
-      52000,
-      53000,
-      55000
+      45000,
+      46999,
+      47000,
+      53999,
+      56500,
+      58000,
+      64000,
+      79999
     ],
     "slots": 2,
-    "timestamp": "20191211011352",
-    "price_per_slot": 20185,
-    "price_avg": 40370
+    "timestamp": "20191212213127",
+    "price_per_slot": 23166,
+    "price_avg": 46333
   },
   {
     "name": "Handguard MK 10 for use with AR-15 and compatible",
@@ -965,14 +963,13 @@
     "marketSearchName": "Strike industries TRAX 2",
     "marketPositionOffset": 0,
     "price_array": [
-      12200,
       12250,
       12500
     ],
     "slots": 1,
-    "timestamp": "20191211011403",
-    "price_per_slot": 12316,
-    "price_avg": 12316
+    "timestamp": "20191212213134",
+    "price_per_slot": 12375,
+    "price_avg": 12375
   },
   {
     "name": "Colt M4 Length handguard for AR-15 and compatibles",
@@ -990,15 +987,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       2469,
-      5000,
+      6000,
+      6000,
+      6999,
       7000,
-      7400,
-      7450,
-      7500,
-      7900
+      7000,
+      7000,
+      11800
     ],
     "slots": 2,
-    "timestamp": "20191211011406",
+    "timestamp": "20191212213136",
     "price_per_slot": 2411,
     "price_avg": 4823
   },
@@ -1017,25 +1015,23 @@
     "marketSearchName": "XRSU47SU Tactical Handguard for AKS-74U",
     "marketPositionOffset": 0,
     "price_array": [
-      21999,
+      20999,
+      22000,
       22973,
       22974,
-      24150,
-      24150,
-      24150,
-      24900,
-      24999,
+      24888,
       25000,
       25000,
       25000,
-      25000,
-      25000,
-      25555
+      25554,
+      25555,
+      28000,
+      28955
     ],
     "slots": 2,
-    "timestamp": "20191211011410",
-    "price_per_slot": 11324,
-    "price_avg": 22648
+    "timestamp": "20191212213138",
+    "price_per_slot": 10995,
+    "price_avg": 21990
   },
   {
     "name": "MP5 TL-99 Aluminum handguard",
@@ -1053,13 +1049,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       8112,
-      9112,
-      14999
+      9109,
+      9110,
+      9112
     ],
     "slots": 2,
-    "timestamp": "20191211011413",
-    "price_per_slot": 5370,
-    "price_avg": 10741
+    "timestamp": "20191212213140",
+    "price_per_slot": 4388,
+    "price_avg": 8777
   },
   {
     "name": "MP5 Wide Tropical Polymer handguard",
@@ -1076,17 +1073,19 @@
     "marketSearchName": "MP5 Wide Tropical Polymer handguard",
     "marketPositionOffset": 0,
     "price_array": [
-      2250,
-      2290,
-      2300,
+      1999,
+      2000,
+      2000,
       2500,
-      2800,
-      2800
+      3000,
+      3000,
+      3954,
+      6000
     ],
     "slots": 2,
-    "timestamp": "20191211011417",
-    "price_per_slot": 1140,
-    "price_avg": 2280
+    "timestamp": "20191212213142",
+    "price_per_slot": 999,
+    "price_avg": 1999
   },
   {
     "name": "Wooden AK-74 handguard (6P20 Sb.6)",
@@ -1104,16 +1103,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       834,
-      2500,
-      11111,
-      12500,
-      15000,
-      55000
+      1042
     ],
     "slots": 1,
-    "timestamp": "20191211011421",
-    "price_per_slot": 4815,
-    "price_avg": 4815
+    "timestamp": "20191212213145",
+    "price_per_slot": 938,
+    "price_avg": 938
   },
   {
     "name": "Magpul MOE AKM HAND GUARD for AK",
@@ -1193,23 +1188,15 @@
     "price_array": [
       829,
       1056,
-      5000,
-      6000,
-      6000,
-      6500,
-      7000,
-      8000,
-      8500,
-      9000,
-      9000,
-      10000,
-      10000,
-      12000
+      2000,
+      2000,
+      2990,
+      3000
     ],
     "slots": 1,
-    "timestamp": "20191211011432",
-    "price_per_slot": 2295,
-    "price_avg": 2295
+    "timestamp": "20191212213151",
+    "price_per_slot": 1295,
+    "price_avg": 1295
   },
   {
     "name": "Wooden AK-74 handguard (6P1 Sb.6-1)",
@@ -1248,13 +1235,12 @@
     "marketSearchName": "Wooden VPO-136 handguard",
     "marketPositionOffset": 0,
     "price_array": [
-      866,
-      1042
+      866
     ],
     "slots": 1,
-    "timestamp": "20191211011439",
-    "price_per_slot": 954,
-    "price_avg": 954
+    "timestamp": "20191212213155",
+    "price_per_slot": 866,
+    "price_avg": 866
   },
   {
     "name": "Krebs Custom UFM Keymod System handguard for AKM",
@@ -1271,23 +1257,25 @@
     "marketSearchName": "Krebs Custom UFM Keymod System handguard for AKM",
     "marketPositionOffset": 0,
     "price_array": [
-      11000,
       13000,
-      13000,
-      13500,
+      13333,
+      13999,
       14000,
-      14800,
-      14999,
+      14000,
       15000,
       15000,
-      15000,
-      23997,
-      36000
+      15555,
+      17900,
+      18000,
+      18000,
+      19000,
+      19000,
+      19999
     ],
     "slots": 2,
-    "timestamp": "20191211011442",
-    "price_per_slot": 6166,
-    "price_avg": 12333
+    "timestamp": "20191212213158",
+    "price_per_slot": 6722,
+    "price_avg": 13444
   },
   {
     "name": "MP5SD Polymer handguard",
@@ -1304,24 +1292,17 @@
     "marketSearchName": "MP5SD Polymer handguard",
     "marketPositionOffset": 0,
     "price_array": [
-      6499,
-      6500,
-      6500,
-      7080,
-      7085,
-      7086,
-      7087,
-      7088,
-      7089,
-      7600,
-      7793,
-      7994,
-      7996
+      7999,
+      9500,
+      10000,
+      13333,
+      28000,
+      28000
     ],
     "slots": 2,
-    "timestamp": "20191211011446",
-    "price_per_slot": 3249,
-    "price_avg": 6499
+    "timestamp": "20191212213200",
+    "price_per_slot": 4583,
+    "price_avg": 9166
   },
   {
     "name": "Izhmekh MP-133 Beechwood forestock",
@@ -1338,16 +1319,13 @@
     "marketSearchName": "Izhmekh MP-133 Beechwood forestock",
     "marketPositionOffset": 0,
     "price_array": [
-      6700,
-      6900,
-      6900,
-      7000,
-      7999
+      4994,
+      6000
     ],
     "slots": 2,
-    "timestamp": "20191211011450",
-    "price_per_slot": 3416,
-    "price_avg": 6833
+    "timestamp": "20191212213202",
+    "price_per_slot": 2748,
+    "price_avg": 5497
   },
   {
     "name": "B-11 AKS-74U Handguard",
@@ -1365,23 +1343,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       5610,
-      8749,
-      8750,
-      8899,
-      8900,
-      8995,
-      8997,
-      9000,
-      9440,
-      9450,
-      9476,
-      9499,
-      9500
+      6960,
+      6999,
+      7000,
+      7000,
+      7100,
+      7199,
+      7200,
+      7350,
+      7380,
+      7390,
+      7399,
+      7500,
+      7500
     ],
     "slots": 1,
-    "timestamp": "20191211011453",
-    "price_per_slot": 7703,
-    "price_avg": 7703
+    "timestamp": "20191212213204",
+    "price_per_slot": 6523,
+    "price_avg": 6523
   },
   {
     "name": "Handguard SIG MPX Gen. 1 for MPX",
@@ -1422,13 +1401,18 @@
     "marketSearchName": "Remington Arms handguard for a R11 RSASS",
     "marketPositionOffset": 0,
     "price_array": [
-      24542,
+      28999,
+      30000,
+      34469,
+      34900,
+      35000,
+      39990,
       40000
     ],
     "slots": 2,
-    "timestamp": "20191211011501",
-    "price_per_slot": 16135,
-    "price_avg": 32271
+    "timestamp": "20191212213208",
+    "price_per_slot": 15578,
+    "price_avg": 31156
   },
   {
     "name": "Handguard War Sport LVOA-C blk. for use with AR-15 and compatible",
@@ -1532,15 +1516,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       11066,
-      13774,
-      13776,
+      12000,
       13777,
       14000
     ],
     "slots": 2,
-    "timestamp": "20191211011515",
-    "price_per_slot": 6436,
-    "price_avg": 12872
+    "timestamp": "20191212213217",
+    "price_per_slot": 6140,
+    "price_avg": 12281
   },
   {
     "name": "Polymer AK-74 foregrip (6P20 Sb.9)",
@@ -1558,12 +1541,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       1063,
-      3000
+      1329,
+      4500
     ],
     "slots": 1,
-    "timestamp": "20191211011519",
-    "price_per_slot": 2031,
-    "price_avg": 2031
+    "timestamp": "20191212213219",
+    "price_per_slot": 2297,
+    "price_avg": 2297
   },
   {
     "name": "SOK-12 polymer handguard Sb.7-1",
@@ -1581,13 +1565,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       1425,
-      2999,
+      3322,
       3333
     ],
     "slots": 1,
-    "timestamp": "20191211011522",
-    "price_per_slot": 2585,
-    "price_avg": 2585
+    "timestamp": "20191212213221",
+    "price_per_slot": 2693,
+    "price_avg": 2693
   },
   {
     "name": "SOK-12 aluminum handguard MTU002 Short Top",
@@ -1605,14 +1589,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       8143,
-      13000,
-      15000,
-      15000
+      9990,
+      10999,
+      11000,
+      11000,
+      11111,
+      11698,
+      11699,
+      11799,
+      11999,
+      11999,
+      12000,
+      12499,
+      12500
     ],
     "slots": 2,
-    "timestamp": "20191211011526",
-    "price_per_slot": 6023,
-    "price_avg": 12047
+    "timestamp": "20191212213223",
+    "price_per_slot": 4855,
+    "price_avg": 9710
   },
   {
     "name": "CAA RS47 foregrip for AK-compatible systems",
@@ -1629,22 +1623,24 @@
     "marketSearchName": "CAA RS47 foregrip for AK-compatible systems",
     "marketPositionOffset": 0,
     "price_array": [
-      13700,
-      13800,
+      13333,
+      13500,
+      13500,
+      13500,
+      13600,
+      13649,
+      13650,
       13900,
-      14333,
-      14390,
-      14444,
+      13985,
+      14000,
       14500,
-      14500,
-      14700,
-      14800,
-      17888
+      14888,
+      15490
     ],
     "slots": 1,
-    "timestamp": "20191211011530",
-    "price_per_slot": 13800,
-    "price_avg": 13800
+    "timestamp": "20191212213225",
+    "price_per_slot": 13444,
+    "price_avg": 13444
   },
   {
     "name": "B-10M foregrip and rail mount B-19",
@@ -1662,24 +1658,23 @@
     "marketPositionOffset": 0,
     "price_array": [
       14394,
-      15794,
-      15795,
-      15796,
-      15797,
+      15450,
+      15500,
+      15700,
       15798,
       15799,
       15800,
-      15888,
-      15995,
       16000,
-      16320,
-      16322,
-      16333
+      16394,
+      16750,
+      16987,
+      17500,
+      17500
     ],
     "slots": 1,
-    "timestamp": "20191211011533",
-    "price_per_slot": 15327,
-    "price_avg": 15327
+    "timestamp": "20191212213228",
+    "price_per_slot": 15114,
+    "price_avg": 15114
   },
   {
     "name": "Wooden AKS-74U Handguard (6P26 Sb.6)",
@@ -1753,20 +1748,20 @@
     "marketPositionOffset": 0,
     "price_array": [
       9333,
+      9698,
+      9699,
       9700,
-      9928,
-      9930,
-      9933,
-      9989,
-      9995,
-      9999,
-      12994,
-      15000
+      9990,
+      10000,
+      13333,
+      20420,
+      20420,
+      23000
     ],
     "slots": 2,
-    "timestamp": "20191211011544",
-    "price_per_slot": 4826,
-    "price_avg": 9653
+    "timestamp": "20191212213234",
+    "price_per_slot": 4788,
+    "price_avg": 9576
   },
   {
     "name": "Fab Defence PR870 forestock",
@@ -1784,12 +1779,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       2216,
-      4444
+      3111,
+      3300
     ],
     "slots": 2,
-    "timestamp": "20191211011548",
-    "price_per_slot": 1665,
-    "price_avg": 3330
+    "timestamp": "20191212213236",
+    "price_per_slot": 1437,
+    "price_avg": 2875
   },
   {
     "name": "Magpul MOE M870 forestock",
@@ -1839,12 +1835,13 @@
     "marketSearchName": "Speedfeed short M870 forestock",
     "marketPositionOffset": 0,
     "price_array": [
-      1459
+      1459,
+      3000
     ],
     "slots": 2,
-    "timestamp": "20191211011555",
-    "price_per_slot": 729,
-    "price_avg": 1459
+    "timestamp": "20191212213241",
+    "price_per_slot": 1114,
+    "price_avg": 2229
   },
   {
     "name": "Polymer AK-100 series foregrip",
@@ -1862,17 +1859,17 @@
     "marketPositionOffset": 0,
     "price_array": [
       1375,
-      1950,
-      1995,
-      3200,
-      3500,
-      4443,
-      18000
+      1719,
+      2600,
+      2666,
+      2999,
+      3000,
+      3300
     ],
     "slots": 1,
-    "timestamp": "20191211011559",
-    "price_per_slot": 1773,
-    "price_avg": 1773
+    "timestamp": "20191212213243",
+    "price_per_slot": 1898,
+    "price_avg": 1898
   },
   {
     "name": "Polymer ASh-12 foregrip",
@@ -1893,7 +1890,7 @@
       2000
     ],
     "slots": 1,
-    "timestamp": "20191211011602",
+    "timestamp": "20191212213245",
     "price_per_slot": 1531,
     "price_avg": 1531
   },
@@ -1987,23 +1984,24 @@
     "marketSearchName": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
     "marketPositionOffset": 0,
     "price_array": [
+      11000,
+      12000,
+      13000,
+      13000,
+      14865,
+      14900,
+      15000,
+      15000,
       15000,
       15999,
-      16986,
-      16987,
-      17500,
-      17771,
-      18000,
-      18999,
-      19000,
-      20000,
-      20000,
-      24000
+      16000,
+      17350,
+      17400
     ],
     "slots": 2,
-    "timestamp": "20191211011617",
-    "price_per_slot": 7997,
-    "price_avg": 15995
+    "timestamp": "20191212213253",
+    "price_per_slot": 6000,
+    "price_avg": 12000
   },
   {
     "name": "URX 3.1 10.75\" handguard for AR15",
@@ -2020,14 +2018,15 @@
     "marketSearchName": "URX 3.1 10.75\" handguard for AR15",
     "marketPositionOffset": 0,
     "price_array": [
-      22710,
-      22898,
-      22999
+      23500,
+      23589,
+      23799,
+      23999
     ],
     "slots": 2,
-    "timestamp": "20191211011620",
-    "price_per_slot": 11434,
-    "price_avg": 22869
+    "timestamp": "20191212213256",
+    "price_per_slot": 11814,
+    "price_avg": 23629
   },
   {
     "name": "URX 3 8\" handguard for AR15",
@@ -2044,13 +2043,14 @@
     "marketSearchName": "URX 3 8\" handguard for AR15",
     "marketPositionOffset": 0,
     "price_array": [
-      21499,
-      21699
+      23333,
+      23500,
+      23710
     ],
     "slots": 2,
-    "timestamp": "20191211011624",
-    "price_per_slot": 10799,
-    "price_avg": 21599
+    "timestamp": "20191212213258",
+    "price_per_slot": 11757,
+    "price_avg": 23514
   },
   {
     "name": "Alfa Arms Goliaf AKS-74U Handguard",
@@ -2067,20 +2067,19 @@
     "marketSearchName": "Alfa Arms Goliaf AKS-74U Handguard",
     "marketPositionOffset": 0,
     "price_array": [
-      5401,
       5402,
-      7000,
-      7777,
-      8600,
-      8670,
-      8670,
-      8690,
+      9498,
+      9499,
+      9685,
+      9686,
+      9688,
+      19000,
       20000
     ],
     "slots": 1,
-    "timestamp": "20191211011627",
-    "price_per_slot": 5934,
-    "price_avg": 5934
+    "timestamp": "20191212213300",
+    "price_per_slot": 8133,
+    "price_avg": 8133
   },
   {
     "name": "PTR Tri-Rail MP5 handguard",
@@ -2098,12 +2097,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       10608,
-      15000
+      11999,
+      13450
     ],
     "slots": 2,
-    "timestamp": "20191211011631",
-    "price_per_slot": 6402,
-    "price_avg": 12804
+    "timestamp": "20191212213302",
+    "price_per_slot": 6009,
+    "price_avg": 12019
   },
   {
     "name": "TDI AKM-L handguard for AK",
@@ -2120,19 +2120,24 @@
     "marketSearchName": "TDI AKM-L handguard for AK",
     "marketPositionOffset": 0,
     "price_array": [
+      4535,
       4536,
-      4998,
       4999,
       5000,
+      6800,
+      6999,
+      7000,
+      7400,
+      7499,
+      7500,
+      8997,
       9000,
-      9499,
-      9500,
-      100000
+      9500
     ],
     "slots": 1,
-    "timestamp": "20191211011635",
-    "price_per_slot": 4844,
-    "price_avg": 4844
+    "timestamp": "20191212213304",
+    "price_per_slot": 4690,
+    "price_avg": 4690
   },
   {
     "name": "Wooden CAF WASR 10-63 handguard",
@@ -2149,23 +2154,24 @@
     "marketSearchName": "Wooden CAF WASR 10-63 handguard",
     "marketPositionOffset": 0,
     "price_array": [
-      6000,
-      7000,
       7000,
       8000,
-      9000,
-      11999,
-      12000,
-      14000,
-      14000,
+      8500,
+      9999,
+      10000,
+      14999,
+      15000,
+      15000,
       18000,
-      19999,
-      20000
+      26000,
+      26998,
+      27000,
+      30000
     ],
     "slots": 1,
-    "timestamp": "20191211011638",
-    "price_per_slot": 6666,
-    "price_avg": 6666
+    "timestamp": "20191212213306",
+    "price_per_slot": 7833,
+    "price_avg": 7833
   },
   {
     "name": "Lone Star Ion Lite handguard for AR-15 and compatible",
@@ -2182,23 +2188,17 @@
     "marketSearchName": "Lone Star Ion Lite handguard for AR-15 and compatible",
     "marketPositionOffset": 0,
     "price_array": [
-      34999,
-      34999,
-      37997,
-      39000,
-      39499,
-      40000,
-      40000,
-      43990,
-      47000,
-      47999,
-      50000,
-      53000,
-      55549
+      26666,
+      27490,
+      27500,
+      28000,
+      37000,
+      37890,
+      37997
     ],
     "slots": 3,
-    "timestamp": "20191211011642",
-    "price_per_slot": 11999,
-    "price_avg": 35998
+    "timestamp": "20191212213308",
+    "price_per_slot": 9072,
+    "price_avg": 27218
   }
 ]

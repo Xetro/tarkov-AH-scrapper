@@ -275,7 +275,7 @@ const correctPriceErrors = (item) => {
 
         try {
             const timestamp = moment().format('YYYYMMDDHHmmss');
-            await writeFile(`./data/data-${timestamp}.json`, JSON.stringify(finalData, null, 2));
+            await writeFile(`./data/data-${timestamp}.json`, JSON.stringify(finalData));
             console.log('File writen');
         } catch (error) {
             console.log(error);

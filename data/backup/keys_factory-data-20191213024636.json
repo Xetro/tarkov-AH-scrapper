@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Factory exit key",
+    "category": "keys_factory",
+    "image": "Factory key icon.png",
+    "title": "Factory exit key",
+    "pageId": 4029,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/Factory_key_icon.png?version=459982fbc47d60275ae9b1280070a510",
+    "filePath": "factory_exit_key",
+    "marketSearchName": "Factory exit key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      159000,
+      159500,
+      159750,
+      159998,
+      159999,
+      159999,
+      159999,
+      159999,
+      160000,
+      160000,
+      160000,
+      160000
+    ],
+    "slots": 1,
+    "timestamp": "20191213013049",
+    "price_per_slot": 159416,
+    "price_avg": 159416
+  },
+  {
+    "name": "Door key",
+    "category": "keys_factory",
+    "image": "Door key Icon.png",
+    "title": "Door key",
+    "pageId": 4062,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
+    "filePath": "door_key",
+    "marketSearchName": "Door key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      3000,
+      4000,
+      4000,
+      4599,
+      5000,
+      5000,
+      5000,
+      5000,
+      6000,
+      7500,
+      7500,
+      7999,
+      9000,
+      10000
+    ],
+    "slots": 1,
+    "timestamp": "20191213013053",
+    "price_per_slot": 3666,
+    "price_avg": 3666
+  },
+  {
+    "name": "Door key (alternative)",
+    "category": "keys_factory",
+    "image": "Door key Icon.png",
+    "title": "Door key (alternative)",
+    "pageId": 7219,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/77/Door_key_Icon.png?version=07e130a0746a7ec768afd09f75eb332b",
+    "filePath": "door_key__alternative_",
+    "marketSearchName": "Door key",
+    "marketPositionOffset": 1,
+    "price_array": [
+      5000,
+      5300,
+      5499,
+      5500,
+      5500,
+      5900,
+      6000,
+      6000,
+      6500,
+      7999,
+      8999,
+      10000,
+      20000,
+      20000
+    ],
+    "slots": 1,
+    "timestamp": "20191213013056",
+    "price_per_slot": 5266,
+    "price_avg": 5266
+  }
+]

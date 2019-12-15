@@ -12,7 +12,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/10.6Inch416BarrelIcon.png",
     "filePath": "10_6__barrel_for_416a5_and_compatible_5_56x45",
     "marketSearchName": "10.6\" barrel for 416A5 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      35000
+    ],
+    "slots": 2,
+    "timestamp": "20191215204100",
+    "price_per_slot": 17500,
+    "price_avg": 35000
   },
   {
     "name": "10.5\" 9x19 barrel for MPX",
@@ -27,7 +34,16 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/89/10.5BarrelMPXIcon.png",
     "filePath": "10_5__9x19_barrel_for_mpx",
     "marketSearchName": "10.5\" 9x19 barrel for MPX",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      17799,
+      17800,
+      17887
+    ],
+    "slots": 3,
+    "timestamp": "20191215204104",
+    "price_per_slot": 5942,
+    "price_avg": 17828
   },
   {
     "name": "406mm barrel for MDR and compatible 5.56x45",
@@ -42,7 +58,16 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/406mm_barrel_for_MDR_and_compatible_5.56x45_icon.png",
     "filePath": "406mm_barrel_for_mdr_and_compatible_5_56x45",
     "marketSearchName": "406mm barrel for MDR and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      58000,
+      59999,
+      70000
+    ],
+    "slots": 3,
+    "timestamp": "20191215204108",
+    "price_per_slot": 20888,
+    "price_avg": 62666
   },
   {
     "name": "14\" 9x19 barrel for MPX",
@@ -57,7 +82,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/36/14_MPX_Icon.png?version=629f90d84ae828ec2708ba7dccfc2f43",
     "filePath": "14__9x19_barrel_for_mpx",
     "marketSearchName": "14\" 9x19 barrel for MPX",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      14437,
+      14438,
+      14440,
+      14443
+    ],
+    "slots": 3,
+    "timestamp": "20191215204112",
+    "price_per_slot": 4812,
+    "price_avg": 14438
   },
   {
     "name": "406mm Molot barrel for AR-15 and compatible 5.56x45",
@@ -72,7 +107,27 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3a/406mmMolotBarrelicon.png?version=4b7e62aeada6e55da99fcbf5d4951fa4",
     "filePath": "406mm_molot_barrel_for_ar_15_and_compatible_5_56x45",
     "marketSearchName": "406mm Molot barrel for AR-15 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      17000,
+      17000,
+      17400,
+      17496,
+      17800,
+      17999,
+      18000,
+      18000,
+      18500,
+      19000,
+      19998,
+      20000,
+      20900,
+      25000
+    ],
+    "slots": 3,
+    "timestamp": "20191215204115",
+    "price_per_slot": 5711,
+    "price_avg": 17133
   },
   {
     "name": "20\" barrel for a Remington M700 7.62x51 NATO",
@@ -87,7 +142,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/20inM700Barrelicon.png?version=6850c19329616aa231e90adce71bfd6d",
     "filePath": "20__barrel_for_a_remington_m700_7_62x51_nato",
     "marketSearchName": "20\" barrel for a Remington M700 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      22000,
+      23088
+    ],
+    "slots": 3,
+    "timestamp": "20191215204119",
+    "price_per_slot": 7514,
+    "price_avg": 22544
   },
   {
     "name": "26\" barrel for a Remington M700 7.62x51 NATO",
@@ -102,7 +165,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/26inM700Barrelicon.png?version=2b6996af270aa22f00bd0e2850badeab",
     "filePath": "26__barrel_for_a_remington_m700_7_62x51_nato",
     "marketSearchName": "26\" barrel for a Remington M700 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      20000,
+      20000,
+      25000,
+      34000,
+      35000,
+      35900
+    ],
+    "slots": 4,
+    "timestamp": "20191215204123",
+    "price_per_slot": 5416,
+    "price_avg": 21666
   },
   {
     "name": "Sawn off 200mm Mosin barrel",
@@ -117,7 +192,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/SawnOff200mmMosinBarrelicon.png?version=299793ca804e530fbbb4ee56ec36c2b6",
     "filePath": "sawn_off_200mm_mosin_barrel",
     "marketSearchName": "Sawn off 200mm Mosin barrel",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      2142,
+      5500
+    ],
+    "slots": 2,
+    "timestamp": "20191215204127",
+    "price_per_slot": 1910,
+    "price_avg": 3821
   },
   {
     "name": "Sawn off 220mm Mosin barrel",
@@ -132,7 +215,26 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/SawnOff220mmMosinBarrelCustomicon.png?version=a086a2ddb652b38e15b928079cb88dea",
     "filePath": "sawn_off_220mm_mosin_barrel",
     "marketSearchName": "Sawn off 220mm Mosin barrel",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      14999,
+      15000,
+      18000,
+      19000,
+      19500,
+      22000,
+      22500,
+      24400,
+      24500,
+      25000,
+      25000,
+      27000,
+      29950
+    ],
+    "slots": 2,
+    "timestamp": "20191215204130",
+    "price_per_slot": 7999,
+    "price_avg": 15999
   },
   {
     "name": "Regular 514mm Mosin carabine barrel",
@@ -147,7 +249,18 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/ba/514mmMosinBarrelicon.png?version=67a10503201d629edeca4e8d6ab9ecdd",
     "filePath": "regular_514mm_mosin_carabine_barrel",
     "marketSearchName": "Regular 514mm Mosin carabine barrel",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      3999,
+      7777,
+      7995,
+      7998,
+      7999
+    ],
+    "slots": 3,
+    "timestamp": "20191215204134",
+    "price_per_slot": 2196,
+    "price_avg": 6590
   },
   {
     "name": "15\" barrel for RPK-16 and compatible 5.45x39",
@@ -162,7 +275,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/15_barrel_for_RPK-16_and_compatible_5.45x39_icon.png",
     "filePath": "15__barrel_for_rpk_16_and_compatible_5_45x39",
     "marketSearchName": "15\" barrel for RPK-16 and compatible 5.45x39",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      12688
+    ],
+    "slots": 2,
+    "timestamp": "20191215204138",
+    "price_per_slot": 6344,
+    "price_avg": 12688
   },
   {
     "name": "22\" barrel for RPK-16 and compatible 5.45x39",
@@ -177,7 +297,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/69/22_barrel_for_RPK-16_and_compatible_5.45x39_icon.png",
     "filePath": "22__barrel_for_rpk_16_and_compatible_5_45x39",
     "marketSearchName": "22\" barrel for RPK-16 and compatible 5.45x39",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      17992
+    ],
+    "slots": 3,
+    "timestamp": "20191215204142",
+    "price_per_slot": 5997,
+    "price_avg": 17992
   },
   {
     "name": "11\" barrel for 416A5 and compatible 5.56x45",
@@ -192,7 +319,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/78/11inchhk416icon.png?version=6306ce4ef9ade810aea0d99074dbb5ea",
     "filePath": "11__barrel_for_416a5_and_compatible_5_56x45",
     "marketSearchName": "11\" barrel for 416A5 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      16999,
+      17200,
+      17200,
+      18000,
+      18000,
+      19000,
+      25096,
+      26000
+    ],
+    "slots": 2,
+    "timestamp": "20191215204146",
+    "price_per_slot": 8566,
+    "price_avg": 17133
   },
   {
     "name": "14.5\" barrel for 416A5 and compatible 5.56x45",
@@ -207,7 +348,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/14.5inchhk416barrelicon.png",
     "filePath": "14_5__barrel_for_416a5_and_compatible_5_56x45",
     "marketSearchName": "14.5\" barrel for 416A5 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      18999,
+      19000,
+      19000,
+      19111,
+      19500,
+      23000
+    ],
+    "slots": 3,
+    "timestamp": "20191215204149",
+    "price_per_slot": 6333,
+    "price_avg": 18999
   },
   {
     "name": "16.5\" barrel for 416A5 and compatible 5.56x45",
@@ -222,7 +375,16 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/16.5inchhk416barrelicon.png",
     "filePath": "16_5__barrel_for_416a5_and_compatible_5_56x45",
     "marketSearchName": "16.5\" barrel for 416A5 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      34840,
+      39990,
+      39999
+    ],
+    "slots": 3,
+    "timestamp": "20191215204153",
+    "price_per_slot": 12758,
+    "price_avg": 38276
   },
   {
     "name": "20\" barrel for 416A5 and compatible 5.56x45",
@@ -237,7 +399,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/20inchhk416barrelicon.png?version=34ac967750ac806ee6d6c36889bf1a4c",
     "filePath": "20__barrel_for_416a5_and_compatible_5_56x45",
     "marketSearchName": "20\" barrel for 416A5 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      40581,
+      40582,
+      41998,
+      41999,
+      42499,
+      42500
+    ],
+    "slots": 4,
+    "timestamp": "20191215204157",
+    "price_per_slot": 10263,
+    "price_avg": 41053
   },
   {
     "name": "11\" barrel for SA-58 7.62x51",
@@ -252,7 +426,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4d/SA58_11Inch_Icon.png?version=fcb52ce020f2aea85df3429310b8fa50",
     "filePath": "11__barrel_for_sa_58_7_62x51",
     "marketSearchName": "11\" barrel for SA-58 7.62x51",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      23000,
+      24271,
+      29777,
+      29888,
+      30000,
+      35000
+    ],
+    "slots": 2,
+    "timestamp": "20191215204201",
+    "price_per_slot": 12841,
+    "price_avg": 25682
   },
   {
     "name": "16\" barrel for SA-58 7.62x51",
@@ -267,7 +453,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0b/16_Fal_Icon.png?version=2da2d0c4a85e1719c4ebcdb527a98573",
     "filePath": "16__barrel_for_sa_58_7_62x51",
     "marketSearchName": "16\" barrel for SA-58 7.62x51",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      28493,
+      42999
+    ],
+    "slots": 3,
+    "timestamp": "20191215204204",
+    "price_per_slot": 11915,
+    "price_avg": 35746
   },
   {
     "name": "21\" barrel for SA-58 7.62x51",
@@ -282,7 +476,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/21in_Fal_Barrel_icon.png?version=8c9beaa840280b3e1ece7bc1472e3aa9",
     "filePath": "21__barrel_for_sa_58_7_62x51",
     "marketSearchName": "21\" barrel for SA-58 7.62x51",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      32999,
+      80000
+    ],
+    "slots": 4,
+    "timestamp": "20191215204208",
+    "price_per_slot": 14124,
+    "price_avg": 56499
   },
   {
     "name": "22\" barrel for a M1A 7.62x51 NATO",
@@ -297,7 +499,25 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d2/22inchbarrelm1icon.png?version=def075cf3d27efaef294ecc5e339b79e",
     "filePath": "22__barrel_for_a_m1a_7_62x51_nato",
     "marketSearchName": "22\" barrel for a M1A 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      25436,
+      27790,
+      27798,
+      27799,
+      27900,
+      27950,
+      27971,
+      27974,
+      27990,
+      28000,
+      28279,
+      30436
+    ],
+    "slots": 5,
+    "timestamp": "20191215204212",
+    "price_per_slot": 5401,
+    "price_avg": 27008
   },
   {
     "name": "Regular 730mm Mosin barrel",
@@ -312,7 +532,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/730mm_Mosin_Icon.png?version=d2a1e560d9cb83eb12173f8295551012",
     "filePath": "regular_730mm_mosin_barrel",
     "marketSearchName": "Regular 730mm Mosin barrel",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      22000,
+      29000,
+      29000,
+      30000
+    ],
+    "slots": 4,
+    "timestamp": "20191215204216",
+    "price_per_slot": 6666,
+    "price_avg": 26666
   },
   {
     "name": "16\" barrel for a M1A 7.62x51 NATO",
@@ -327,7 +557,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/16inchbarrelm1icon.png?version=9162db401680a3579e12a80196426ecb",
     "filePath": "16__barrel_for_a_m1a_7_62x51_nato",
     "marketSearchName": "16\" barrel for a M1A 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      13999,
+      14000,
+      15000,
+      15500,
+      16224,
+      20280,
+      25176,
+      32000
+    ],
+    "slots": 4,
+    "timestamp": "20191215204219",
+    "price_per_slot": 3583,
+    "price_avg": 14333
   },
   {
     "name": "18\" barrel for a AR-10 and compatible 7.62x51 NATO",
@@ -342,7 +586,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e8/18inchrsassicon.png?version=41befcca1128b58096a7c76ec43e0d5a",
     "filePath": "18__barrel_for_a_ar_10_and_compatible_7_62x51_nato",
     "marketSearchName": "18\" barrel for a AR-10 and compatible 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      37999,
+      38000,
+      39000,
+      40000
+    ],
+    "slots": 4,
+    "timestamp": "20191215204223",
+    "price_per_slot": 9583,
+    "price_avg": 38333
   },
   {
     "name": "510mm barrel for MP-133 12ga",
@@ -357,7 +611,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c0/510mmmp133normal.png?version=541a61a4c405d61e4fcf021c950f8b0c",
     "filePath": "510mm_barrel_for_mp_133_12ga",
     "marketSearchName": "510mm barrel for MP-133 12ga",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      4087,
+      10969,
+      11000,
+      42000
+    ],
+    "slots": 3,
+    "timestamp": "20191215204227",
+    "price_per_slot": 2895,
+    "price_avg": 8685
   },
   {
     "name": "500mm .308 barrel for DVL-10",
@@ -372,7 +636,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/500mmdvl.png?version=2cb54d6d895c2fe0d96576dd87cd6962",
     "filePath": "500mm__308_barrel_for_dvl_10",
     "marketSearchName": "500mm .308 barrel for DVL-10",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      24969,
+      24995,
+      24999,
+      25000,
+      25000,
+      25000,
+      25999,
+      37446
+    ],
+    "slots": 4,
+    "timestamp": "20191215204231",
+    "price_per_slot": 6246,
+    "price_avg": 24987
   },
   {
     "name": "Homespun 121mm 7.62x25 TT barrel with threading",
@@ -387,7 +665,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9b/Ttthreaded.png?version=48e3b7ae6ecfa984bd50d2e70acc3109",
     "filePath": "homespun_121mm_7_62x25_tt_barrel_with_threading",
     "marketSearchName": "Homespun 121mm 7.62x25",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      2235,
+      2321,
+      4948,
+      4950,
+      4950,
+      5000
+    ],
+    "slots": 1,
+    "timestamp": "20191215204235",
+    "price_per_slot": 3168,
+    "price_avg": 3168
   },
   {
     "name": "Threaded barrel for P226 9x19",
@@ -402,7 +692,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/P226thread.png?version=6d88702afe2a1b7f85451e49222545de",
     "filePath": "threaded_barrel_for_p226_9x19",
     "marketSearchName": "Threaded barrel for P226 9x19",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      1950,
+      4199
+    ],
+    "slots": 1,
+    "timestamp": "20191215204238",
+    "price_per_slot": 3074,
+    "price_avg": 3074
   },
   {
     "name": "260mm barrel for AR-15 and compatible 5.56x45",
@@ -417,7 +715,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/22/260mmm4icon.png?version=6b6338fa3da3b393b02396c6c845392c",
     "filePath": "260mm_barrel_for_ar_15_and_compatible_5_56x45",
     "marketSearchName": "260mm barrel for AR-15 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      22222,
+      25900,
+      27000,
+      27750,
+      28997,
+      28998
+    ],
+    "slots": 2,
+    "timestamp": "20191215204242",
+    "price_per_slot": 12520,
+    "price_avg": 25040
   },
   {
     "name": "370mm barrel for AR-15 and compatible 5.56x45",
@@ -432,7 +742,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/370mmm4icon.png?version=f0c15a7d26bae15db76ef68750042d9e",
     "filePath": "370mm_barrel_for_ar_15_and_compatible_5_56x45",
     "marketSearchName": "370mm barrel for AR-15 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      27997,
+      27998,
+      28000,
+      28750,
+      29876,
+      33000
+    ],
+    "slots": 3,
+    "timestamp": "20191215204246",
+    "price_per_slot": 9332,
+    "price_avg": 27998
   },
   {
     "name": "165 mm 9x19 barrel for MPX-SD",
@@ -447,7 +769,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/165mmmpxicon.png?version=234fcef1afd61e0b4c2a5832da6cacc8",
     "filePath": "165_mm_9x19_barrel_for_mpx_sd",
     "marketSearchName": "165 mm 9x19 barrel for MPX-SD",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      5678,
+      6000,
+      6750,
+      6969
+    ],
+    "slots": 2,
+    "timestamp": "20191215204250",
+    "price_per_slot": 3071,
+    "price_avg": 6142
   },
   {
     "name": "203 mm 9x19 barrel for MPX",
@@ -462,7 +794,27 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/45/203mmmpxicon.png?version=5ce1506d58c3bb6edd0548d0c0bfd8d7",
     "filePath": "203_mm_9x19_barrel_for_mpx",
     "marketSearchName": "203 mm 9x19 barrel for MPX",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7499,
+      7500,
+      7999,
+      8000,
+      8000,
+      8500,
+      8547,
+      9000,
+      10000,
+      11500,
+      12000,
+      12000,
+      12999,
+      15000
+    ],
+    "slots": 2,
+    "timestamp": "20191215204253",
+    "price_per_slot": 3833,
+    "price_avg": 7666
   },
   {
     "name": "510mm barrel for MP-133 12ga shotgun with rib",
@@ -477,7 +829,18 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/510mmmp133RIB.png?version=e84202144d09cab148a7452396e328d4",
     "filePath": "510mm_barrel_for_mp_133_12ga_shotgun_with_rib",
     "marketSearchName": "510mm barrel for MP-133 12ga shotgun with rib",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      4101,
+      10000,
+      10999,
+      11400,
+      11500
+    ],
+    "slots": 3,
+    "timestamp": "20191215204257",
+    "price_per_slot": 2788,
+    "price_avg": 8366
   },
   {
     "name": "540mm barrel for MP-133 12ga shotgun",
@@ -492,7 +855,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a5/540mmIcon.png?version=df247f1961078b951e9022c6f2bf54b0",
     "filePath": "540mm_barrel_for_mp_133_12ga_shotgun",
     "marketSearchName": "540mm barrel for MP-133 12ga shotgun",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      3978,
+      11950
+    ],
+    "slots": 3,
+    "timestamp": "20191215204301",
+    "price_per_slot": 2654,
+    "price_avg": 7964
   },
   {
     "name": "540mm barrel for MR-133 12ga shotgun with rib",
@@ -507,7 +878,16 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/07/540mmRibIcon.png?version=6c3b49a5b83530f87086d63135c7df27",
     "filePath": "540mm_barrel_for_mr_133_12ga_shotgun_with_rib",
     "marketSearchName": "540mm barrel for",
-    "marketPositionOffset": 1
+    "marketPositionOffset": 1,
+    "price_array": [
+      4284,
+      10950,
+      11500
+    ],
+    "slots": 3,
+    "timestamp": "20191215204305",
+    "price_per_slot": 2970,
+    "price_avg": 8911
   },
   {
     "name": "610mm barrel for MP-133 12ga shotgun",
@@ -522,7 +902,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b9/610mmmp133normal.png?version=8537a652fe3c7a26c49001eaeddf03a3",
     "filePath": "610mm_barrel_for_mp_133_12ga_shotgun",
     "marketSearchName": "610mm barrel for MP-133 12ga shotgun",
-    "marketPositionOffset": 1
+    "marketPositionOffset": 1,
+    "price_array": [
+      5001,
+      11999
+    ],
+    "slots": 4,
+    "timestamp": "20191215204308",
+    "price_per_slot": 2125,
+    "price_avg": 8500
   },
   {
     "name": "610mm barrel for MP-133 12ga shotgun with rib",
@@ -537,7 +925,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/610mmmp133RIB.png?version=bab6306e9eb10669f93c3bc74a77805d",
     "filePath": "610mm_barrel_for_mp_133_12ga_shotgun_with_rib",
     "marketSearchName": "610mm barrel for MP-133 12ga shotgun with rib",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      5206,
+      11999,
+      14000,
+      20000
+    ],
+    "slots": 4,
+    "timestamp": "20191215204312",
+    "price_per_slot": 2600,
+    "price_avg": 10401
   },
   {
     "name": "660mm barrel for MR-133 12ga shotgun",
@@ -552,7 +950,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/660mmmp133normal.png?version=3409a6529a4d3a077382416e77da1872",
     "filePath": "660mm_barrel_for_mr_133_12ga_shotgun",
     "marketSearchName": "660mm barrel for",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      5106
+    ],
+    "slots": 4,
+    "timestamp": "20191215204316",
+    "price_per_slot": 1276,
+    "price_avg": 5106
   },
   {
     "name": "660mm barrel for MP-133 12ga shotgun with rib",
@@ -567,7 +972,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fc/660mmmp133RIB.png?version=6400aaa903dedb135d33f851d7b2dc49",
     "filePath": "660mm_barrel_for_mp_133_12ga_shotgun_with_rib",
     "marketSearchName": "660mm barrel for MP-133 12ga shotgun with rib",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      5612
+    ],
+    "slots": 4,
+    "timestamp": "20191215204320",
+    "price_per_slot": 1403,
+    "price_avg": 5612
   },
   {
     "name": "710mm barrel for MP-133 12ga shotgun",
@@ -582,7 +994,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/710mmmp133normal.png?version=8736107bac1f48f1073ce55d7a8923e2",
     "filePath": "710mm_barrel_for_mp_133_12ga_shotgun",
     "marketSearchName": "710mm barrel for MP-133 12ga shotgun",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      6246
+    ],
+    "slots": 5,
+    "timestamp": "20191215204323",
+    "price_per_slot": 1249,
+    "price_avg": 6246
   },
   {
     "name": "710mm barrel for MR-133 12ga shotgun with rib",
@@ -597,7 +1016,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b0/710mmmp133RIB.png?version=f8418e885f9807049d18ddd7a5209cc9",
     "filePath": "710mm_barrel_for_mr_133_12ga_shotgun_with_rib",
     "marketSearchName": "710mm barrel for ",
-    "marketPositionOffset": 1
+    "marketPositionOffset": 1,
+    "price_array": [
+      7098,
+      12967
+    ],
+    "slots": 5,
+    "timestamp": "20191215204327",
+    "price_per_slot": 2006,
+    "price_avg": 10032
   },
   {
     "name": "750mm barrel for MP-133 12ga shotgun",
@@ -612,7 +1039,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/12/750mmmp133normal.png?version=1bd2870cb8c13b2747afb676332e5f3c",
     "filePath": "750mm_barrel_for_mp_133_12ga_shotgun",
     "marketSearchName": "750mm barrel for MP-133 12ga shotgun",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7204,
+      14500
+    ],
+    "slots": 5,
+    "timestamp": "20191215204331",
+    "price_per_slot": 2170,
+    "price_avg": 10852
   },
   {
     "name": "750mm barrel for MP-133 12ga shotgun with rib",
@@ -627,7 +1062,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/89/750mmmp133RIB.png?version=5a6498d921aec237db916108f01a6a9b",
     "filePath": "750mm_barrel_for_mp_133_12ga_shotgun_with_rib",
     "marketSearchName": "750mm barrel for MP-133 12ga shotgun with rib",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7834
+    ],
+    "slots": 5,
+    "timestamp": "20191215204335",
+    "price_per_slot": 1566,
+    "price_avg": 7834
   },
   {
     "name": "610 mm barrel for MP-153 12ga shotgun",
@@ -642,7 +1084,16 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1f/610mmmp153.png?version=9ba8cdb9031e7b4d64a001ee89059123",
     "filePath": "610_mm_barrel_for_mp_153_12ga_shotgun",
     "marketSearchName": "610 mm barrel for MP-153 12ga shotgun",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7324,
+      10200,
+      11190
+    ],
+    "slots": 4,
+    "timestamp": "20191215204339",
+    "price_per_slot": 2392,
+    "price_avg": 9571
   },
   {
     "name": "660 mm barrel for MP-153 12ga shotgun",
@@ -657,7 +1108,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/660mmmp153.png?version=640dcec4df7428e265cd1799d2e543a7",
     "filePath": "660_mm_barrel_for_mp_153_12ga_shotgun",
     "marketSearchName": "660 mm barrel for MP-153 12ga shotgun",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7323,
+      11200
+    ],
+    "slots": 4,
+    "timestamp": "20191215204342",
+    "price_per_slot": 2315,
+    "price_avg": 9261
   },
   {
     "name": "750 mm barrel for MP-153 12ga shotgun",
@@ -672,7 +1131,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e2/750mmmp153.png?version=044880696ef7acc322361157bbe3d4b8",
     "filePath": "750_mm_barrel_for_mp_153_12ga_shotgun",
     "marketSearchName": "750 mm barrel for MP-153 12ga shotgun",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7772,
+      10000,
+      10000,
+      10000
+    ],
+    "slots": 5,
+    "timestamp": "20191215204346",
+    "price_per_slot": 1851,
+    "price_avg": 9257
   },
   {
     "name": "112mm barrel for P226 9x19",
@@ -687,7 +1156,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f1/P226standard.png?version=7ad2c51aa158cfc8c53e35cf7bf6294c",
     "filePath": "112mm_barrel_for_p226_9x19",
     "marketSearchName": "112mm barrel for P226 9x19",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      1626
+    ],
+    "slots": 1,
+    "timestamp": "20191215204350",
+    "price_per_slot": 1626,
+    "price_avg": 1626
   },
   {
     "name": "660mm .308 barrel for DVL-10 M2",
@@ -702,7 +1178,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/660mmdvl.png?version=7d7953811d5550c817299f7728417944",
     "filePath": "660mm__308_barrel_for_dvl_10_m2",
     "marketSearchName": "660mm .308 barrel for DVL-10 M2",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      45000,
+      46000,
+      50000,
+      52000
+    ],
+    "slots": 4,
+    "timestamp": "20191215204354",
+    "price_per_slot": 11750,
+    "price_avg": 47000
   },
   {
     "name": "22\" barrel for a AR-10 and compatible 7.62x51 NATO",
@@ -717,7 +1203,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7a/22inchrsassicon.png?version=20641853f24563388f8c1a3433da9a14",
     "filePath": "22__barrel_for_a_ar_10_and_compatible_7_62x51_nato",
     "marketSearchName": "22\" barrel for a AR-10 and compatible 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      43000
+    ],
+    "slots": 5,
+    "timestamp": "20191215204357",
+    "price_per_slot": 8600,
+    "price_avg": 43000
   },
   {
     "name": "710 mm barrel for MP-153 12ga shotgun",
@@ -732,7 +1225,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ef/710mmmp153.png?version=d5e14dd5de11d567625bdb77ff059cf0",
     "filePath": "710_mm_barrel_for_mp_153_12ga_shotgun",
     "marketSearchName": "710 mm barrel for MP-153 12ga shotgun",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7631
+    ],
+    "slots": 5,
+    "timestamp": "20191215204401",
+    "price_per_slot": 1526,
+    "price_avg": 7631
   },
   {
     "name": "Threaded barrel for Glock 9x19 manufactured by Lone Wolf.",
@@ -747,7 +1247,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/Lonewolfbarrel.png?version=84ffae729a0b41a76ae0816a8d127ef9",
     "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_lone_wolf_",
     "marketSearchName": "Threaded barrel for Glock 9x19 manufactured by Lone Wolf.",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      11333
+    ],
+    "slots": 1,
+    "timestamp": "20191215204405",
+    "price_per_slot": 11333,
+    "price_avg": 11333
   },
   {
     "name": "660mm vent rib barrel for M870 12ga",
@@ -762,7 +1269,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/660mmventicon.png?version=f04a7fa0d12e6ab9010120ade60e379c",
     "filePath": "660mm_vent_rib_barrel_for_m870_12ga",
     "marketSearchName": "660mm vent rib barrel for M870 12ga",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      14784,
+      21420
+    ],
+    "slots": 4,
+    "timestamp": "20191215204409",
+    "price_per_slot": 4525,
+    "price_avg": 18102
   },
   {
     "name": "508mm barrel for M870 12ga",
@@ -777,7 +1292,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/508mmm870barrelicon.png?version=f8dc56e84d474e2de151a94b789eb2c9",
     "filePath": "508mm_barrel_for_m870_12ga",
     "marketSearchName": "508mm barrel for M870 12ga",
-    "marketPositionOffset": 1
+    "marketPositionOffset": 1,
+    "price_array": [
+      35600,
+      35700,
+      35800,
+      37500
+    ],
+    "slots": 3,
+    "timestamp": "20191215204412",
+    "price_per_slot": 11900,
+    "price_avg": 35700
   },
   {
     "name": "Basic barrel for Glock 17 9x19",
@@ -792,7 +1317,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/Glockbasic.png?version=d76cfa502eac4abda175b67795064483",
     "filePath": "basic_barrel_for_glock_17_9x19",
     "marketSearchName": "Basic barrel for Glock 17 9x19",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      3150
+    ],
+    "slots": 1,
+    "timestamp": "20191215204416",
+    "price_per_slot": 3150,
+    "price_avg": 3150
   },
   {
     "name": "Cut off 325mm barrel for M870 12ga",
@@ -807,7 +1339,14 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/08/325mmm870barrelicon.png?version=f93b2a6a25eecb14087248a1ed262b78",
     "filePath": "cut_off_325mm_barrel_for_m870_12ga",
     "marketSearchName": "Cut off 325mm barrel for M870 12ga",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      5817
+    ],
+    "slots": 2,
+    "timestamp": "20191215204420",
+    "price_per_slot": 2908,
+    "price_avg": 5817
   },
   {
     "name": "355mm barrel for M870 12ga",
@@ -822,7 +1361,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/355mmm870barrelicon.png?version=e75a27d639009de2081c2ad08d81e96f",
     "filePath": "355mm_barrel_for_m870_12ga",
     "marketSearchName": "355mm barrel for M870 12ga",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      11999,
+      11999
+    ],
+    "slots": 2,
+    "timestamp": "20191215204424",
+    "price_per_slot": 5999,
+    "price_avg": 11999
   },
   {
     "name": "508mm barrel for M870 12ga with a fixed sight",
@@ -837,7 +1384,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/85/508mm_barrel_for_M870_12ga_icon.png?version=04d8ae492584e32183e2963900f89e11",
     "filePath": "508mm_barrel_for_m870_12ga_with_a_fixed_sight",
     "marketSearchName": "508mm barrel for M870 12ga with a fixed sight",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      7996,
+      13499,
+      14500,
+      14888,
+      14900,
+      15000
+    ],
+    "slots": 3,
+    "timestamp": "20191215204427",
+    "price_per_slot": 3999,
+    "price_avg": 11998
   },
   {
     "name": "Threaded barrel for Glock 9x19 manufactured by Double Diamond",
@@ -852,7 +1411,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/49/Doublediamondbarrel.png?version=b67d853a13a8c0d4d55d575d820faab5",
     "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_double_diamond",
     "marketSearchName": "Threaded barrel for Glock 9x19 manufactured by Double Diamond",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      9998,
+      9999
+    ],
+    "slots": 1,
+    "timestamp": "20191215204431",
+    "price_per_slot": 9998,
+    "price_avg": 9998
   },
   {
     "name": "Barrel with compensator for Glock 17 9x19",
@@ -867,7 +1434,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/59/Barrelwithcompensator.png?version=b67d853a13a8c0d4d55d575d820faab5",
     "filePath": "barrel_with_compensator_for_glock_17_9x19",
     "marketSearchName": "Barrel with compensator for Glock 17 9x19",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      5000,
+      6100
+    ],
+    "slots": 1,
+    "timestamp": "20191215204435",
+    "price_per_slot": 5550,
+    "price_avg": 5550
   },
   {
     "name": "Threaded barrel for Glock 9x19 manufactured by Salient Arms",
@@ -882,7 +1457,24 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/58/Glockbarrerlsalientarms.png?version=71636c509fee599743d87894c67fb978",
     "filePath": "threaded_barrel_for_glock_9x19_manufactured_by_salient_arms",
     "marketSearchName": "Threaded barrel for Glock 9x19 manufactured by Salient Arms",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      13999,
+      15000,
+      15999,
+      16000,
+      16000,
+      16000,
+      16000,
+      16000,
+      16300,
+      18999,
+      25000
+    ],
+    "slots": 1,
+    "timestamp": "20191215204439",
+    "price_per_slot": 14999,
+    "price_avg": 14999
   },
   {
     "name": "10.5\" barrel for P90 5.7x28",
@@ -897,7 +1489,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "10_5__barrel_for_p90_5_7x28",
     "marketSearchName": "10.5\" barrel for P90 5.7x28",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      22500,
+      25990,
+      25995,
+      27998,
+      27999,
+      28111,
+      28994,
+      30000
+    ],
+    "slots": 2,
+    "timestamp": "20191215204443",
+    "price_per_slot": 12414,
+    "price_avg": 24828
   },
   {
     "name": "16\" barrel for P90 5.7x28",
@@ -912,7 +1518,17 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "16__barrel_for_p90_5_7x28",
     "marketSearchName": "16\" barrel for P90 5.7x28",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      24084,
+      25332,
+      25333,
+      32900
+    ],
+    "slots": 3,
+    "timestamp": "20191215204446",
+    "price_per_slot": 8305,
+    "price_avg": 24916
   },
   {
     "name": "26\" stainless steel barrel for a Remington M700 7.62x51 NATO",
@@ -927,7 +1543,18 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "26__stainless_steel_barrel_for_a_remington_m700_7_62x51_nato",
     "marketSearchName": "26\" stainless steel barrel for a Remington M700 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      37999,
+      38000,
+      38000,
+      39000,
+      45000
+    ],
+    "slots": 4,
+    "timestamp": "20191215204450",
+    "price_per_slot": 9499,
+    "price_avg": 37999
   },
   {
     "name": "20\" stainless steel barrel for a Remington M700 7.62x51 NATO",
@@ -942,7 +1569,15 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "20__stainless_steel_barrel_for_a_remington_m700_7_62x51_nato",
     "marketSearchName": "20\" stainless steel barrel for a Remington M700 7.62x51 NATO",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      23712,
+      33712
+    ],
+    "slots": 3,
+    "timestamp": "20191215204454",
+    "price_per_slot": 9570,
+    "price_avg": 28712
   },
   {
     "name": "Threaded barrel for Five-seveN 5.7x28",
@@ -957,7 +1592,22 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "threaded_barrel_for_five_seven_5_7x28",
     "marketSearchName": "Threaded barrel for Five-seveN 5.7x28",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      19900,
+      20000,
+      24100,
+      24111,
+      25000,
+      25500,
+      28888,
+      60000,
+      90000
+    ],
+    "slots": 1,
+    "timestamp": "20191215204458",
+    "price_per_slot": 21333,
+    "price_avg": 21333
   },
   {
     "name": "18\" barrel for AR-15 and compatible 5.56x45",
@@ -972,7 +1622,19 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "18__barrel_for_ar_15_and_compatible_5_56x45",
     "marketSearchName": "18\" barrel for AR-15 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      47000,
+      47990,
+      59995,
+      59999,
+      60000,
+      75000
+    ],
+    "slots": 3,
+    "timestamp": "20191215204501",
+    "price_per_slot": 17220,
+    "price_avg": 51661
   },
   {
     "name": "20\" barrel for AR-15 and compatible 5.56x45",
@@ -987,6 +1649,22 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "20__barrel_for_ar_15_and_compatible_5_56x45",
     "marketSearchName": "20\" barrel for AR-15 and compatible 5.56x45",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 0,
+    "price_array": [
+      45998,
+      45999,
+      46666,
+      47990,
+      48000,
+      48998,
+      48999,
+      49190,
+      49200,
+      49420
+    ],
+    "slots": 4,
+    "timestamp": "20191215204505",
+    "price_per_slot": 11555,
+    "price_avg": 46221
   }
 ]

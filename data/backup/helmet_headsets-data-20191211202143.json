@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Ops-Core FAST RAC Headset",
+    "category": "helmet_headsets",
+    "image": "Rac.png",
+    "title": "Ops-Core FAST RAC Headset",
+    "pageId": 7983,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/Rac.png?version=ca97364b8e2361cd0d68738ae1c5e40c",
+    "filePath": "ops_core_fast_rac_headset",
+    "marketSearchName": "Ops-Core FAST RAC Headset",
+    "marketPositionOffset": 0,
+    "price_array": [
+      27777,
+      28000,
+      29000,
+      29999,
+      33900,
+      34000,
+      34666,
+      34900,
+      34999,
+      35555,
+      36450,
+      36451,
+      36499
+    ],
+    "slots": 2,
+    "timestamp": "20191211180349",
+    "price_per_slot": 14129,
+    "price_avg": 28259
+  }
+]

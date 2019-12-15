@@ -14,24 +14,23 @@
     "marketSearchName": "SI Advanced receiver extension buffer tube",
     "marketPositionOffset": 0,
     "price_array": [
-      11999,
-      16300,
-      16994,
-      16995,
-      16996,
-      16999,
-      17299,
-      17398,
-      19787,
-      19788,
-      19800,
-      20000,
-      20500
+      17775,
+      17775,
+      17776,
+      17800,
+      17998,
+      17999,
+      18500,
+      19000,
+      21000,
+      21970,
+      21999,
+      22000
     ],
     "slots": 2,
-    "timestamp": "20191211011736",
-    "price_per_slot": 7548,
-    "price_avg": 15097
+    "timestamp": "20191215211637",
+    "price_per_slot": 8887,
+    "price_avg": 17775
   },
   {
     "name": "SI Viper Mod.1 Stock",
@@ -48,16 +47,14 @@
     "marketSearchName": "SI Viper Mod.1 Stock",
     "marketPositionOffset": 0,
     "price_array": [
-      8841,
+      9300,
       9400,
-      9999,
-      13990,
-      14999
+      14200
     ],
     "slots": 2,
-    "timestamp": "20191211011740",
-    "price_per_slot": 4706,
-    "price_avg": 9413
+    "timestamp": "20191215211640",
+    "price_per_slot": 5483,
+    "price_avg": 10966
   },
   {
     "name": "Polymer stock for SVDS",
@@ -74,25 +71,14 @@
     "marketSearchName": "Polymer stock for SVDS",
     "marketPositionOffset": 0,
     "price_array": [
-      23999,
-      25000,
-      25000,
-      25000,
-      25000,
-      27000,
-      37000,
-      38000,
-      38999,
-      40000,
-      45000,
-      49000,
-      50000,
-      50000
+      42000,
+      44000,
+      45000
     ],
     "slots": 2,
-    "timestamp": "20191208211406",
-    "price_per_slot": 12333,
-    "price_avg": 24666
+    "timestamp": "20191215211644",
+    "price_per_slot": 21833,
+    "price_avg": 43666
   },
   {
     "name": "Regular VPO-101 \"Vepr Hunter\" stock",
@@ -131,22 +117,16 @@
     "marketSearchName": "HK E1 Stock for AR-15 and compatable",
     "marketPositionOffset": 0,
     "price_array": [
-      1449,
-      10450,
-      10483,
-      10485,
-      10486,
-      10487,
-      10496,
-      10497,
-      13400,
-      20000,
-      30000
+      10398,
+      10399,
+      10469,
+      10470,
+      10475
     ],
     "slots": 2,
-    "timestamp": "20191211011751",
-    "price_per_slot": 3730,
-    "price_avg": 7460
+    "timestamp": "20191215211650",
+    "price_per_slot": 5211,
+    "price_avg": 10422
   },
   {
     "name": "PMM \"ULSS\" foldable MCX/MPX stock",
@@ -163,13 +143,14 @@
     "marketSearchName": "PMM \"ULSS\" foldable MCX/MPX stock",
     "marketPositionOffset": 0,
     "price_array": [
+      7221,
       7222,
-      11000
+      9000
     ],
     "slots": 2,
-    "timestamp": "20191211011754",
-    "price_per_slot": 4555,
-    "price_avg": 9111
+    "timestamp": "20191215211653",
+    "price_per_slot": 3907,
+    "price_avg": 7814
   },
   {
     "name": "Maxim Defence CQB collapsing/telescoping MCX/MPX stock",
@@ -186,12 +167,14 @@
     "marketSearchName": "Maxim Defence CQB collapsing/telescoping MCX/MPX stock",
     "marketPositionOffset": 0,
     "price_array": [
-      9999
+      8585,
+      8585,
+      8590
     ],
     "slots": 2,
-    "timestamp": "20191211011758",
-    "price_per_slot": 4999,
-    "price_avg": 9999
+    "timestamp": "20191215211656",
+    "price_per_slot": 4293,
+    "price_avg": 8586
   },
   {
     "name": "Custom cut mosin stock for TOZ-106",
@@ -209,12 +192,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       4947,
+      8995,
       9500
     ],
     "slots": 4,
-    "timestamp": "20191211011801",
-    "price_per_slot": 1805,
-    "price_avg": 7223
+    "timestamp": "20191215211659",
+    "price_per_slot": 1953,
+    "price_avg": 7814
   },
   {
     "name": "ADAR 2-15 wooden stock",
@@ -231,18 +215,22 @@
     "marketSearchName": "ADAR 2-15 wooden stock",
     "marketPositionOffset": 0,
     "price_array": [
-      3799,
+      3769,
+      3890,
       3900,
-      4750,
-      4999,
-      5000,
-      6000,
-      53000
+      3900,
+      3990,
+      4000,
+      4400,
+      4500,
+      5600,
+      6655,
+      9000
     ],
     "slots": 2,
-    "timestamp": "20191208211426",
-    "price_per_slot": 2074,
-    "price_avg": 4149
+    "timestamp": "20191215211702",
+    "price_per_slot": 1926,
+    "price_avg": 3853
   },
   {
     "name": "HK End Cap Stock for MP5",
@@ -260,14 +248,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       2725,
-      6117,
-      8444,
-      8600
+      4500,
+      4999,
+      8444
     ],
     "slots": 1,
-    "timestamp": "20191211011809",
-    "price_per_slot": 5762,
-    "price_avg": 5762
+    "timestamp": "20191215211706",
+    "price_per_slot": 4074,
+    "price_avg": 4074
   },
   {
     "name": "Hogue \"Overmolded ghillie\" stock for Remington Model 700",
@@ -284,15 +272,15 @@
     "marketSearchName": "Hogue \"Overmolded ghillie\" stock for Remington Model 700",
     "marketPositionOffset": 0,
     "price_array": [
-      35000,
-      39999,
-      40000,
-      45000
+      4999,
+      5300,
+      5400,
+      5500
     ],
     "slots": 3,
-    "timestamp": "20191211011812",
-    "price_per_slot": 12777,
-    "price_avg": 38333
+    "timestamp": "20191215211709",
+    "price_per_slot": 1744,
+    "price_avg": 5233
   },
   {
     "name": "Fab Defence buffer tube for AGR-870",
@@ -310,18 +298,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       1156,
-      2450,
-      2999,
-      3049,
-      3060,
-      3100,
-      3500,
-      11000
+      2791,
+      3000
     ],
     "slots": 2,
-    "timestamp": "20191211011816",
-    "price_per_slot": 1100,
-    "price_avg": 2201
+    "timestamp": "20191215211712",
+    "price_per_slot": 1157,
+    "price_avg": 2315
   },
   {
     "name": "Fab Defence GLR-16-S Stock",
@@ -339,17 +322,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       5184,
-      6550,
-      6650,
-      6660,
-      6798,
-      7499,
-      16000
+      6890,
+      6899
     ],
     "slots": 2,
-    "timestamp": "20191211011819",
-    "price_per_slot": 3064,
-    "price_avg": 6128
+    "timestamp": "20191215211715",
+    "price_per_slot": 3162,
+    "price_avg": 6324
   },
   {
     "name": "Mosin carbine stock",
@@ -368,13 +347,17 @@
     "price_array": [
       3387,
       4316,
-      7998,
-      7999
+      4444,
+      7000,
+      7200,
+      7420,
+      7999,
+      8000
     ],
     "slots": 3,
-    "timestamp": "20191211011823",
-    "price_per_slot": 1744,
-    "price_avg": 5233
+    "timestamp": "20191215211718",
+    "price_per_slot": 1349,
+    "price_avg": 4049
   },
   {
     "name": "Mosin rifle sniper carbine stock",
@@ -392,17 +375,15 @@
     "marketPositionOffset": 0,
     "price_array": [
       3652,
-      7300,
-      7400,
-      7500,
-      8000,
-      9999,
-      15000
+      5999,
+      12500,
+      12888,
+      12999
     ],
     "slots": 3,
-    "timestamp": "20191211011827",
-    "price_per_slot": 2039,
-    "price_avg": 6117
+    "timestamp": "20191215211721",
+    "price_per_slot": 2461,
+    "price_avg": 7383
   },
   {
     "name": "Sawn off regular Mosin rifle stock",
@@ -420,13 +401,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       1632,
-      8000,
-      18000
+      1999,
+      3499,
+      3500
     ],
     "slots": 2,
-    "timestamp": "20191211011830",
-    "price_per_slot": 4605,
-    "price_avg": 9210
+    "timestamp": "20191215211724",
+    "price_per_slot": 1188,
+    "price_avg": 2376
   },
   {
     "name": "Sawn off Mosin rifle sniper stock",
@@ -443,15 +425,15 @@
     "marketSearchName": "Sawn off Mosin rifle sniper stock",
     "marketPositionOffset": 0,
     "price_array": [
-      68000,
-      88880,
-      88888,
-      89950
+      95000,
+      99999,
+      100000,
+      100000
     ],
     "slots": 2,
-    "timestamp": "20191211011834",
-    "price_per_slot": 40961,
-    "price_avg": 81922
+    "timestamp": "20191215211728",
+    "price_per_slot": 49166,
+    "price_avg": 98333
   },
   {
     "name": "Izhmash AK-12 regular stock",
@@ -469,15 +451,15 @@
     "marketPositionOffset": 0,
     "price_array": [
       4680,
-      4800,
-      7999,
-      8399,
-      8400
+      7000,
+      10999,
+      11000,
+      177000
     ],
     "slots": 2,
-    "timestamp": "20191211011837",
-    "price_per_slot": 2913,
-    "price_avg": 5826
+    "timestamp": "20191215211737",
+    "price_per_slot": 3779,
+    "price_avg": 7559
   },
   {
     "name": "Izhmash RPK-16 buffer tube",
@@ -495,16 +477,18 @@
     "marketPositionOffset": 0,
     "price_array": [
       3016,
+      4995,
       4998,
       4999,
-      5500,
+      5000,
       5999,
+      25000,
       25000
     ],
     "slots": 2,
-    "timestamp": "20191211011841",
+    "timestamp": "20191215211746",
     "price_per_slot": 2168,
-    "price_avg": 4337
+    "price_avg": 4336
   },
   {
     "name": "ProMag Archangel OPFOR PRS Mosin rifle stock",
@@ -521,23 +505,22 @@
     "marketSearchName": "ProMag Archangel OPFOR PRS Mosin rifle stock",
     "marketPositionOffset": 0,
     "price_array": [
-      24786,
-      25000,
-      25500,
-      25552,
-      25553,
-      25555,
-      25555,
+      24999,
       26000,
-      28888,
-      38990,
-      39000,
-      39969
+      26980,
+      26990,
+      26996,
+      27000,
+      27999,
+      29999,
+      30000,
+      34999,
+      34999
     ],
     "slots": 4,
-    "timestamp": "20191211011845",
-    "price_per_slot": 6273,
-    "price_avg": 25095
+    "timestamp": "20191215211749",
+    "price_per_slot": 6498,
+    "price_avg": 25993
   },
   {
     "name": "ATI Monte Carlo Mosin rifle stock",
@@ -554,19 +537,24 @@
     "marketSearchName": "ATI Monte Carlo Mosin rifle stock",
     "marketPositionOffset": 0,
     "price_array": [
-      19786,
-      19900,
-      20999,
-      22222,
-      22223,
-      22490,
-      24999,
+      14442,
+      14500,
+      15000,
+      15500,
+      15666,
+      16990,
+      17480,
+      17489,
+      17490,
+      17500,
+      17999,
+      25000,
       27786
     ],
     "slots": 4,
-    "timestamp": "20191211011848",
-    "price_per_slot": 5057,
-    "price_avg": 20228
+    "timestamp": "20191215211752",
+    "price_per_slot": 3661,
+    "price_avg": 14647
   },
   {
     "name": "Recoil pad from Aim Sports for Mosin rifle",
@@ -583,24 +571,23 @@
     "marketSearchName": "Recoil pad from Aim Sports for Mosin rifle",
     "marketPositionOffset": 0,
     "price_array": [
-      6499,
+      5555,
+      6400,
+      6476,
+      6477,
       6500,
-      6575,
-      6576,
-      6577,
-      6599,
-      6698,
-      6700,
-      6788,
-      6790,
-      6800,
-      6885,
-      6887
+      6500,
+      6500,
+      6900,
+      7700,
+      7777,
+      8425,
+      8777
     ],
     "slots": 1,
-    "timestamp": "20191211011852",
-    "price_per_slot": 6524,
-    "price_avg": 6524
+    "timestamp": "20191215211755",
+    "price_per_slot": 6143,
+    "price_avg": 6143
   },
   {
     "name": "HK \"Enhanced Tube\" buffer tube",
@@ -618,24 +605,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       5190,
-      6600,
-      6666,
-      7289,
-      7500,
-      7500,
-      7597,
-      7698,
-      7699,
-      7700,
+      7998,
+      7999,
       8000,
-      9199,
-      20000,
-      29999
+      8189,
+      8299,
+      8300,
+      8400,
+      8444,
+      8788,
+      8788,
+      8789,
+      8800,
+      9700
     ],
     "slots": 2,
-    "timestamp": "20191211011856",
-    "price_per_slot": 3076,
-    "price_avg": 6152
+    "timestamp": "20191215211758",
+    "price_per_slot": 3531,
+    "price_avg": 7062
   },
   {
     "name": "HK Slim Line Stock",
@@ -653,12 +640,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       5304,
-      8999
+      5899,
+      6000,
+      11000
     ],
     "slots": 2,
-    "timestamp": "20191211011859",
-    "price_per_slot": 3575,
-    "price_avg": 7151
+    "timestamp": "20191215211802",
+    "price_per_slot": 2867,
+    "price_avg": 5734
   },
   {
     "name": "Polymer stock DSA humpback for SA-58",
@@ -676,20 +665,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       3536,
-      9998,
-      9999,
-      9999,
-      10000,
-      10000,
-      13000,
-      13500,
-      13654,
-      23000
+      4420
     ],
     "slots": 2,
-    "timestamp": "20191211011903",
-    "price_per_slot": 3922,
-    "price_avg": 7844
+    "timestamp": "20191215211805",
+    "price_per_slot": 1989,
+    "price_avg": 3978
   },
   {
     "name": "DSA SPR stock for SA-58",
@@ -706,16 +687,21 @@
     "marketSearchName": "DSA SPR stock for SA-58",
     "marketPositionOffset": 0,
     "price_array": [
-      25800,
-      25994,
-      25995,
+      25200,
+      25201,
+      25300,
+      25499,
+      25500,
+      25599,
+      25600,
+      25998,
       25999,
-      27500
+      38888
     ],
     "slots": 2,
-    "timestamp": "20191211011906",
-    "price_per_slot": 12964,
-    "price_avg": 25929
+    "timestamp": "20191215211808",
+    "price_per_slot": 12616,
+    "price_avg": 25233
   },
   {
     "name": "DSA Folding stock for SA-58",
@@ -732,22 +718,13 @@
     "marketSearchName": "DSA Folding stock for SA-58",
     "marketPositionOffset": 0,
     "price_array": [
-      9999,
-      10000,
-      10000,
-      10000,
-      11000,
-      11111,
-      11500,
-      11999,
-      12000,
-      14000,
+      14300,
       14576
     ],
     "slots": 2,
-    "timestamp": "20191211011910",
-    "price_per_slot": 4999,
-    "price_avg": 9999
+    "timestamp": "20191215211811",
+    "price_per_slot": 7219,
+    "price_avg": 14438
   },
   {
     "name": "DSA BRS stock for SA-58",
@@ -764,24 +741,25 @@
     "marketSearchName": "DSA BRS stock for SA-58",
     "marketPositionOffset": 0,
     "price_array": [
-      10500,
-      10800,
-      11000,
-      11000,
-      11000,
-      11000,
-      13999,
+      13000,
+      14000,
+      14000,
+      14900,
+      14985,
+      14998,
+      14999,
+      14999,
       15000,
+      15000,
+      15555,
       16000,
-      16799,
-      16800,
-      17000,
-      17663
+      19850,
+      25000
     ],
     "slots": 2,
-    "timestamp": "20191211011914",
-    "price_per_slot": 5383,
-    "price_avg": 10766
+    "timestamp": "20191215211814",
+    "price_per_slot": 6833,
+    "price_avg": 13666
   },
   {
     "name": "Magpul PRS 2polymer stock for FAL",
@@ -798,13 +776,22 @@
     "marketSearchName": "Magpul PRS 2polymer stock for FAL",
     "marketPositionOffset": 0,
     "price_array": [
-      11000,
-      19000
+      17900,
+      19500,
+      19800,
+      20000,
+      20000,
+      22898,
+      22899,
+      23000,
+      23000,
+      23000,
+      44320
     ],
     "slots": 2,
-    "timestamp": "20191211011917",
-    "price_per_slot": 7500,
-    "price_avg": 15000
+    "timestamp": "20191215211823",
+    "price_per_slot": 9533,
+    "price_avg": 19066
   },
   {
     "name": "Buffer Tube adapter for SA-58",
@@ -823,16 +810,19 @@
     "price_array": [
       2707,
       3999,
-      4000,
-      4000,
-      5298,
+      4785,
+      4789,
+      4799,
+      4800,
       6298,
-      25000
+      14999,
+      22500,
+      23000
     ],
     "slots": 1,
-    "timestamp": "20191211011921",
-    "price_per_slot": 3568,
-    "price_avg": 3568
+    "timestamp": "20191215211826",
+    "price_per_slot": 3830,
+    "price_avg": 3830
   },
   {
     "name": "Zhukov-S for AK",
@@ -849,25 +839,25 @@
     "marketSearchName": "Zhukov-S for AK",
     "marketPositionOffset": 0,
     "price_array": [
-      20750,
-      20948,
-      20949,
-      20950,
-      20991,
-      20992,
-      20993,
-      20994,
-      20996,
-      20998,
-      20999,
       21000,
       21000,
-      21000
+      21000,
+      21592,
+      21593,
+      21595,
+      21598,
+      21800,
+      21900,
+      21995,
+      21996,
+      21998,
+      21999,
+      22000
     ],
     "slots": 2,
-    "timestamp": "20191211011924",
-    "price_per_slot": 10441,
-    "price_avg": 20882
+    "timestamp": "20191215211830",
+    "price_per_slot": 10500,
+    "price_avg": 21000
   },
   {
     "name": "F93 Pro Stock",
@@ -884,23 +874,19 @@
     "marketSearchName": "F93 Pro Stock",
     "marketPositionOffset": 0,
     "price_array": [
-      1546,
-      12999,
-      13000,
-      13200,
-      13500,
+      10546,
+      13100,
+      13995,
       14000,
-      14444,
-      14800,
-      14800,
-      14999,
-      15000,
-      15000
+      14000,
+      14900,
+      14998,
+      14999
     ],
     "slots": 2,
-    "timestamp": "20191211011928",
-    "price_per_slot": 4590,
-    "price_avg": 9181
+    "timestamp": "20191215211833",
+    "price_per_slot": 6273,
+    "price_avg": 12547
   },
   {
     "name": "EMOD Stock",
@@ -917,16 +903,17 @@
     "marketSearchName": "EMOD Stock",
     "marketPositionOffset": 0,
     "price_array": [
-      12000,
-      14999,
-      15000,
-      15333,
+      9499,
+      9500,
+      10000,
+      10000,
+      14000,
       15700
     ],
     "slots": 2,
-    "timestamp": "20191211011932",
-    "price_per_slot": 6999,
-    "price_avg": 13999
+    "timestamp": "20191215211836",
+    "price_per_slot": 4833,
+    "price_avg": 9666
   },
   {
     "name": "Tapco buffer tube",
@@ -944,16 +931,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       1739,
-      2039,
-      2237,
-      2238,
-      2239,
-      34420
+      3420,
+      4999,
+      6899,
+      43333,
+      44420
     ],
     "slots": 2,
-    "timestamp": "20191211011935",
-    "price_per_slot": 1002,
-    "price_avg": 2005
+    "timestamp": "20191215211839",
+    "price_per_slot": 1693,
+    "price_avg": 3386
   },
   {
     "name": "ADAR buffer tube",
@@ -971,12 +958,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       864,
-      12345
+      19990,
+      25000
     ],
     "slots": 2,
-    "timestamp": "20191211011939",
-    "price_per_slot": 3302,
-    "price_avg": 6604
+    "timestamp": "20191215211842",
+    "price_per_slot": 7642,
+    "price_avg": 15284
   },
   {
     "name": "M1A Archangel stock",
@@ -994,15 +982,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       25857,
-      27500,
-      30000,
-      31994,
-      34995
+      27999
     ],
     "slots": 3,
-    "timestamp": "20191211011942",
-    "price_per_slot": 9261,
-    "price_avg": 27785
+    "timestamp": "20191215211845",
+    "price_per_slot": 8976,
+    "price_avg": 26928
   },
   {
     "name": "M14 M14ALCS(MOD. 0) stock",
@@ -1020,12 +1005,17 @@
     "marketPositionOffset": 1,
     "price_array": [
       14019,
-      23364
+      17000,
+      17999,
+      18999,
+      19850,
+      19999,
+      20000
     ],
     "slots": 3,
-    "timestamp": "20191211011946",
-    "price_per_slot": 6230,
-    "price_avg": 18691
+    "timestamp": "20191215211848",
+    "price_per_slot": 5446,
+    "price_avg": 16339
   },
   {
     "name": "M14 M14ALCS(MOD. 0) stock (buttstock)",
@@ -1042,15 +1032,13 @@
     "marketSearchName": "M14 M14ALCS(MOD. 0) stock",
     "marketPositionOffset": 0,
     "price_array": [
-      9495,
       12455,
-      17500,
-      20499
+      20000
     ],
     "slots": 2,
-    "timestamp": "20191211011950",
-    "price_per_slot": 6575,
-    "price_avg": 13150
+    "timestamp": "20191215211852",
+    "price_per_slot": 8113,
+    "price_avg": 16227
   },
   {
     "name": "LEO stock adapter for M870",
@@ -1068,14 +1056,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       2613,
-      4999,
-      11000,
-      13333
+      4997,
+      4999
     ],
     "slots": 2,
-    "timestamp": "20191211011953",
-    "price_per_slot": 3102,
-    "price_avg": 6204
+    "timestamp": "20191215211855",
+    "price_per_slot": 2101,
+    "price_avg": 4203
   },
   {
     "name": "MC 20-01 stock",
@@ -1095,7 +1082,7 @@
       2503
     ],
     "slots": 4,
-    "timestamp": "20191211011957",
+    "timestamp": "20191215211858",
     "price_per_slot": 625,
     "price_avg": 2503
   },
@@ -1114,14 +1101,15 @@
     "marketSearchName": "Regular Mosin rifle stock",
     "marketPositionOffset": 1,
     "price_array": [
-      6000,
-      6500,
-      8000
+      6750,
+      7000,
+      7500,
+      11996
     ],
     "slots": 4,
-    "timestamp": "20191211012001",
-    "price_per_slot": 1708,
-    "price_avg": 6833
+    "timestamp": "20191215211901",
+    "price_per_slot": 1770,
+    "price_avg": 7083
   },
   {
     "name": "LMT Sopmod stock",
@@ -1139,18 +1127,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       4887,
-      6499,
-      6500,
-      7300,
-      7500,
-      7800,
-      14246,
-      17000
+      8998,
+      8999,
+      10000
     ],
     "slots": 2,
-    "timestamp": "20191211012004",
-    "price_per_slot": 2981,
-    "price_avg": 5962
+    "timestamp": "20191215211904",
+    "price_per_slot": 3814,
+    "price_avg": 7628
   },
   {
     "name": "Troy S.A.S.S. Chassis stock for M14",
@@ -1167,21 +1151,18 @@
     "marketSearchName": "Troy S.A.S.S. Chassis stock for M14",
     "marketPositionOffset": 0,
     "price_array": [
-      35999,
-      36000,
-      37999,
-      40000,
-      40699,
-      40700,
-      40799,
-      40888,
-      40999,
-      41000
+      39000,
+      40666,
+      41000,
+      41293,
+      41294,
+      41297,
+      41300
     ],
     "slots": 3,
-    "timestamp": "20191211012008",
-    "price_per_slot": 12222,
-    "price_avg": 36666
+    "timestamp": "20191215211907",
+    "price_per_slot": 13407,
+    "price_avg": 40222
   },
   {
     "name": "AKM/AK-74 PT Lock",
@@ -1199,24 +1180,23 @@
     "marketPositionOffset": 0,
     "price_array": [
       3445,
-      3999,
-      4000,
-      4900,
-      4998,
+      4400,
+      4500,
+      4789,
       5000,
-      8499,
-      8500,
-      8999,
-      9998,
-      31000,
-      32000,
-      33000,
-      35555
+      5390,
+      5400,
+      5429,
+      5431,
+      6000,
+      6899,
+      7777,
+      26500
     ],
     "slots": 1,
-    "timestamp": "20191211012011",
-    "price_per_slot": 3814,
-    "price_avg": 3814
+    "timestamp": "20191215211910",
+    "price_per_slot": 4115,
+    "price_avg": 4115
   },
   {
     "name": "AK74/AK100 PT Lock",
@@ -1234,17 +1214,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       2931,
+      3547,
+      3550,
+      3553,
+      3600,
+      3850,
       3900,
-      4950,
-      35998,
-      35999,
-      36000,
-      38000
+      3997,
+      4777,
+      5000,
+      5970,
+      6500,
+      28000,
+      28999
     ],
     "slots": 1,
-    "timestamp": "20191211012015",
-    "price_per_slot": 3927,
-    "price_avg": 3927
+    "timestamp": "20191215211914",
+    "price_per_slot": 3342,
+    "price_avg": 3342
   },
   {
     "name": "Polymer stock for AK-74M (6P34 Sb.15)",
@@ -1263,12 +1250,12 @@
     "price_array": [
       1692,
       2114,
-      6315
+      7555
     ],
     "slots": 2,
-    "timestamp": "20191211012019",
-    "price_per_slot": 1686,
-    "price_avg": 3373
+    "timestamp": "20191215211917",
+    "price_per_slot": 1893,
+    "price_avg": 3787
   },
   {
     "name": "IzhMash metal stock for AKS-74 (6P21 Sb.5)",
@@ -1285,12 +1272,13 @@
     "marketSearchName": "IzhMash metal stock for AKS-74 (6P21 Sb.5)",
     "marketPositionOffset": 0,
     "price_array": [
-      0
+      15000,
+      15000
     ],
     "slots": 2,
-    "timestamp": "20191208211632",
-    "price_per_slot": 0,
-    "price_avg": 0
+    "timestamp": "20191215211926",
+    "price_per_slot": 7500,
+    "price_avg": 15000
   },
   {
     "name": "M1A Socom 16 stock",
@@ -1307,20 +1295,21 @@
     "marketSearchName": "M1A Socom 16 stock",
     "marketPositionOffset": 0,
     "price_array": [
-      22000,
-      23333,
+      11111,
+      11999,
+      12000,
+      13000,
+      19999,
       25000,
-      33999,
-      35000,
-      35000,
-      35000,
-      39500,
-      39999
+      38000,
+      40000,
+      50000,
+      65000
     ],
     "slots": 3,
-    "timestamp": "20191211012026",
-    "price_per_slot": 7814,
-    "price_avg": 23444
+    "timestamp": "20191215211929",
+    "price_per_slot": 3901,
+    "price_avg": 11703
   },
   {
     "name": "Fab Defence GL Shock Stock",
@@ -1337,13 +1326,16 @@
     "marketSearchName": "Fab Defence GL Shock Stock",
     "marketPositionOffset": 0,
     "price_array": [
+      9990,
       11201,
-      11588
+      11600,
+      11777,
+      24420
     ],
     "slots": 2,
-    "timestamp": "20191211012029",
-    "price_per_slot": 5697,
-    "price_avg": 11394
+    "timestamp": "20191215211932",
+    "price_per_slot": 5465,
+    "price_avg": 10930
   },
   {
     "name": "MOE Carbine stock",
@@ -1360,20 +1352,18 @@
     "marketSearchName": "MOE Carbine stock",
     "marketPositionOffset": 0,
     "price_array": [
-      7815,
-      7850,
+      7000,
       7999,
-      8350,
       8399,
-      8400,
       8495,
-      8750,
-      74999
+      13000,
+      14986,
+      24650
     ],
     "slots": 2,
-    "timestamp": "20191211012033",
-    "price_per_slot": 3944,
-    "price_avg": 7888
+    "timestamp": "20191215211935",
+    "price_per_slot": 3899,
+    "price_avg": 7799
   },
   {
     "name": "HK A2 Stock",
@@ -1390,18 +1380,12 @@
     "marketSearchName": "HK A2 Stock",
     "marketPositionOffset": 0,
     "price_array": [
-      17900,
-      18892,
-      18899,
-      18900,
-      19900,
-      19911,
-      22000
+      18000
     ],
     "slots": 2,
-    "timestamp": "20191211012037",
-    "price_per_slot": 9281,
-    "price_avg": 18563
+    "timestamp": "20191215211938",
+    "price_per_slot": 9000,
+    "price_avg": 18000
   },
   {
     "name": "Magpul Rubber Butt-Pad for Carbine stock series",
@@ -1418,20 +1402,15 @@
     "marketSearchName": "Magpul Rubber Butt-Pad for Carbine stock series",
     "marketPositionOffset": 0,
     "price_array": [
-      4990,
+      5000,
       5162,
-      5198,
-      5385,
-      5386,
-      6213,
-      19000,
-      20000,
-      22599
+      5355,
+      5399
     ],
     "slots": 1,
-    "timestamp": "20191211012040",
-    "price_per_slot": 5116,
-    "price_avg": 5116
+    "timestamp": "20191215211948",
+    "price_per_slot": 5172,
+    "price_avg": 5172
   },
   {
     "name": "HK A3 old stock model",
@@ -1448,16 +1427,13 @@
     "marketSearchName": "HK A3 old stock model",
     "marketPositionOffset": 0,
     "price_array": [
-      19999,
-      20050,
-      20079,
-      20090,
-      20098
+      23888,
+      23888
     ],
     "slots": 2,
-    "timestamp": "20191211012044",
-    "price_per_slot": 10021,
-    "price_avg": 20042
+    "timestamp": "20191215211951",
+    "price_per_slot": 11944,
+    "price_avg": 23888
   },
   {
     "name": "Magpul PRS GEN2 FDE stock",
@@ -1474,25 +1450,16 @@
     "marketSearchName": "Magpul PRS GEN2 FDE stock",
     "marketPositionOffset": 0,
     "price_array": [
-      11900,
-      12000,
-      12000,
-      12000,
-      12000,
-      13000,
-      13000,
-      13000,
-      13500,
-      13500,
+      14000,
       15000,
-      15000,
-      15000,
-      15500
+      18000,
+      19999,
+      20923
     ],
     "slots": 2,
-    "timestamp": "20191211012047",
-    "price_per_slot": 5983,
-    "price_avg": 11966
+    "timestamp": "20191215212000",
+    "price_per_slot": 7833,
+    "price_avg": 15666
   },
   {
     "name": "High Standard M4SS Stock",
@@ -1509,15 +1476,16 @@
     "marketSearchName": "High Standard M4SS Stock",
     "marketPositionOffset": 0,
     "price_array": [
-      4500,
-      5000,
-      5420,
-      5500
+      5800,
+      5800,
+      5800,
+      6750,
+      12000
     ],
     "slots": 2,
-    "timestamp": "20191211012051",
-    "price_per_slot": 2486,
-    "price_avg": 4973
+    "timestamp": "20191215212003",
+    "price_per_slot": 2900,
+    "price_avg": 5800
   },
   {
     "name": "ME adapter for AK",
@@ -1535,17 +1503,15 @@
     "marketPositionOffset": 0,
     "price_array": [
       5458,
-      6000,
-      6100,
-      6111,
-      6379,
-      6694,
-      7500
+      5860,
+      5865,
+      5900,
+      6000
     ],
     "slots": 1,
-    "timestamp": "20191211012055",
-    "price_per_slot": 5852,
-    "price_avg": 5852
+    "timestamp": "20191215212006",
+    "price_per_slot": 5727,
+    "price_avg": 5727
   },
   {
     "name": "UBR GEN2 stock",
@@ -1562,18 +1528,17 @@
     "marketSearchName": "UBR GEN2",
     "marketPositionOffset": 0,
     "price_array": [
-      17400,
-      17990,
-      18080,
-      18811,
-      18900,
-      18999,
-      19091
+      17899,
+      17900,
+      19091,
+      19900,
+      20000,
+      25000
     ],
     "slots": 2,
-    "timestamp": "20191211012058",
-    "price_per_slot": 8911,
-    "price_avg": 17823
+    "timestamp": "20191215212009",
+    "price_per_slot": 9148,
+    "price_avg": 18296
   },
   {
     "name": "AKS-74/AKS-74U PT Lock",
@@ -1591,23 +1556,23 @@
     "marketPositionOffset": 0,
     "price_array": [
       3487,
-      5790,
-      5800,
-      5999,
+      4500,
+      5555,
+      5600,
       6000,
-      6500,
+      6000,
+      6900,
+      6949,
       7000,
       8487,
       8487,
-      8500,
-      15900,
-      38000,
-      38999
+      10000,
+      13900
     ],
     "slots": 1,
-    "timestamp": "20191211012102",
-    "price_per_slot": 5025,
-    "price_avg": 5025
+    "timestamp": "20191215212013",
+    "price_per_slot": 4514,
+    "price_avg": 4514
   },
   {
     "name": "Izhmash SOK-12 AK type stock",
@@ -1627,7 +1592,7 @@
       1695
     ],
     "slots": 2,
-    "timestamp": "20191211012106",
+    "timestamp": "20191215212016",
     "price_per_slot": 847,
     "price_avg": 1695
   },
@@ -1646,13 +1611,14 @@
     "marketSearchName": "MFT BUS Stock",
     "marketPositionOffset": 0,
     "price_array": [
-      11989,
-      11990
+      15000,
+      16000,
+      16666
     ],
     "slots": 2,
-    "timestamp": "20191211012109",
-    "price_per_slot": 5994,
-    "price_avg": 11989
+    "timestamp": "20191215212019",
+    "price_per_slot": 7944,
+    "price_avg": 15888
   },
   {
     "name": "Zenit PT-3 \"Klassika\" stock",
@@ -1669,24 +1635,24 @@
     "marketSearchName": "Zenit PT-3 \"Klassika\" stock",
     "marketPositionOffset": 0,
     "price_array": [
+      18999,
       21553,
-      23648,
-      23649,
-      23650,
-      23699,
-      23700,
-      23784,
-      23785,
-      23799,
-      23800,
-      23932,
-      23950,
-      23999
+      22000,
+      24333,
+      24739,
+      24750,
+      25000,
+      25995,
+      26000,
+      28000,
+      28222,
+      28999,
+      29000
     ],
     "slots": 2,
-    "timestamp": "20191211012113",
-    "price_per_slot": 11475,
-    "price_avg": 22950
+    "timestamp": "20191215212022",
+    "price_per_slot": 10425,
+    "price_avg": 20850
   },
   {
     "name": "Zenit PT-1 \"Klassika\" stock",
@@ -1704,24 +1670,23 @@
     "marketPositionOffset": 0,
     "price_array": [
       12699,
-      14000,
-      15999,
-      16397,
-      16399,
-      16399,
-      16399,
-      16400,
-      16420,
-      16450,
-      16500,
-      16500,
-      16555,
-      16599
+      14400,
+      14444,
+      14998,
+      14999,
+      15000,
+      15399,
+      15404,
+      16999,
+      17000,
+      17000,
+      17000,
+      17300
     ],
     "slots": 2,
-    "timestamp": "20191211012116",
-    "price_per_slot": 7116,
-    "price_avg": 14232
+    "timestamp": "20191215212025",
+    "price_per_slot": 6923,
+    "price_avg": 13847
   },
   {
     "name": "Molot wooden VPO-136 stock",
@@ -1738,12 +1703,13 @@
     "marketSearchName": "Molot wooden VPO-136 stock",
     "marketPositionOffset": 0,
     "price_array": [
-      1970
+      1970,
+      2372
     ],
     "slots": 2,
-    "timestamp": "20191211012120",
-    "price_per_slot": 985,
-    "price_avg": 1970
+    "timestamp": "20191215212028",
+    "price_per_slot": 1085,
+    "price_avg": 2171
   },
   {
     "name": "Izhmash metal stock for AKS-74U (6P26 Sb.5)",
@@ -1760,12 +1726,13 @@
     "marketSearchName": "Izhmash metal stock for AKS-74U (6P26 Sb.5)",
     "marketPositionOffset": 0,
     "price_array": [
-      1606
+      1606,
+      2008
     ],
     "slots": 2,
-    "timestamp": "20191211012124",
-    "price_per_slot": 803,
-    "price_avg": 1606
+    "timestamp": "20191215212037",
+    "price_per_slot": 903,
+    "price_avg": 1807
   },
   {
     "name": "Wooden stock for Molot OP-SKS",
@@ -1804,25 +1771,19 @@
     "marketSearchName": "Izhmash wooden",
     "marketPositionOffset": 1,
     "price_array": [
-      3339,
-      18000,
-      19900,
+      15000,
       20000,
-      20000,
-      23000,
-      23500,
-      24000,
-      25000,
-      25000,
-      25000,
-      28000,
       30000,
-      33000
+      30000,
+      35000,
+      36000,
+      38000,
+      50000
     ],
     "slots": 2,
-    "timestamp": "20191208211735",
-    "price_per_slot": 6873,
-    "price_avg": 13746
+    "timestamp": "20191215212050",
+    "price_per_slot": 10833,
+    "price_avg": 21666
   },
   {
     "name": "Wooden stock 56-A-231 Sb.5",
@@ -1840,21 +1801,15 @@
     "marketPositionOffset": 0,
     "price_array": [
       4914,
-      6000,
-      6000,
-      6300,
-      6500,
-      6500,
+      5000,
+      5000,
       7000,
-      7000,
-      7999,
-      8000,
-      8000
+      14999
     ],
     "slots": 4,
-    "timestamp": "20191211012135",
-    "price_per_slot": 1409,
-    "price_avg": 5638
+    "timestamp": "20191215212053",
+    "price_per_slot": 1242,
+    "price_avg": 4971
   },
   {
     "name": "Izhmash polymer AK-74 stock (6P20 Sb.7)",
@@ -1872,13 +1827,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       2151,
-      3396,
-      3399
+      3790
     ],
     "slots": 2,
-    "timestamp": "20191211012138",
-    "price_per_slot": 1491,
-    "price_avg": 2982
+    "timestamp": "20191215212102",
+    "price_per_slot": 1485,
+    "price_avg": 2970
   },
   {
     "name": "TSNIITochMash VSS Vintorez stock",
@@ -1896,14 +1850,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       1858,
-      5800,
+      5999,
       6000,
-      7000
+      9999
     ],
     "slots": 2,
-    "timestamp": "20191211012142",
-    "price_per_slot": 2276,
-    "price_avg": 4552
+    "timestamp": "20191215212105",
+    "price_per_slot": 2309,
+    "price_avg": 4619
   },
   {
     "name": "Plastic pistol grip for MP-133/153",
@@ -1921,20 +1875,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       6641,
+      7070,
       7099,
-      7100,
-      7184,
-      7190,
-      7195,
-      7500,
-      7888,
-      7999,
-      8000
+      7111
     ],
     "slots": 1,
-    "timestamp": "20191211012145",
-    "price_per_slot": 6946,
-    "price_avg": 6946
+    "timestamp": "20191215212108",
+    "price_per_slot": 6936,
+    "price_avg": 6936
   },
   {
     "name": "TSNIITochMash AS VAL stock",
@@ -1952,14 +1900,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       3236,
-      7998,
-      7999,
-      12000
+      5000
     ],
     "slots": 2,
-    "timestamp": "20191211012149",
-    "price_per_slot": 3205,
-    "price_avg": 6411
+    "timestamp": "20191215212111",
+    "price_per_slot": 2059,
+    "price_avg": 4118
   },
   {
     "name": "APB detachable wire stock",
@@ -1977,15 +1923,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       7066,
-      8100,
-      8101,
-      8167,
-      8168
+      9969,
+      10000,
+      12555
     ],
     "slots": 1,
-    "timestamp": "20191211012153",
-    "price_per_slot": 7755,
-    "price_avg": 7755
+    "timestamp": "20191215212115",
+    "price_per_slot": 9011,
+    "price_avg": 9011
   },
   {
     "name": "SIG retractable stock pipe adapter",
@@ -2002,14 +1947,13 @@
     "marketSearchName": "SIG retractable stock pipe adapter",
     "marketPositionOffset": 0,
     "price_array": [
-      5000,
-      8498,
-      8600
+      7499,
+      7500
     ],
     "slots": 1,
-    "timestamp": "20191211012156",
-    "price_per_slot": 7366,
-    "price_avg": 7366
+    "timestamp": "20191215212118",
+    "price_per_slot": 7499,
+    "price_avg": 7499
   },
   {
     "name": "Troy M7A1 PDW stock",
@@ -2027,22 +1971,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       5739,
-      7339,
-      7399,
-      7400,
-      7500,
-      7500,
-      7500,
-      8000,
-      8000,
-      8200,
-      8500,
-      8700
+      6094,
+      6095,
+      6099,
+      6100,
+      6100,
+      6222,
+      6339,
+      6398,
+      6439,
+      6666,
+      6900,
+      6999,
+      7135
     ],
     "slots": 2,
-    "timestamp": "20191211012200",
-    "price_per_slot": 3412,
-    "price_avg": 6825
+    "timestamp": "20191215212121",
+    "price_per_slot": 2988,
+    "price_avg": 5976
   },
   {
     "name": "Armacon Baskak stock",
@@ -2059,21 +2005,25 @@
     "marketSearchName": "Armacon Baskak stock",
     "marketPositionOffset": 0,
     "price_array": [
-      5400,
-      5700,
-      5800,
+      3800,
+      3900,
+      3990,
+      3999,
+      4000,
+      4100,
+      4490,
+      4498,
+      4499,
+      4500,
+      4500,
+      4999,
       5812,
-      6000,
-      6500,
-      7999,
-      8000,
-      10000,
-      10000
+      6996
     ],
     "slots": 2,
-    "timestamp": "20191211012203",
-    "price_per_slot": 2816,
-    "price_avg": 5633
+    "timestamp": "20191215212124",
+    "price_per_slot": 1948,
+    "price_avg": 3896
   },
   {
     "name": "Wooden stock for MP-133/153",
@@ -2090,13 +2040,12 @@
     "marketSearchName": "Wooden stock for MP-133/153",
     "marketPositionOffset": 0,
     "price_array": [
-      1529,
-      9977
+      1529
     ],
     "slots": 2,
-    "timestamp": "20191211012207",
-    "price_per_slot": 2876,
-    "price_avg": 5753
+    "timestamp": "20191215212127",
+    "price_per_slot": 764,
+    "price_avg": 1529
   },
   {
     "name": "Early produced SIG collapsing/telescoping MCX/MPX stock",
@@ -2135,18 +2084,16 @@
     "marketSearchName": "Plastic stock for MP-133/153",
     "marketPositionOffset": 0,
     "price_array": [
-      18900,
-      19000,
-      19999,
+      17999,
+      18399,
+      18499,
       20000,
-      20000,
-      23900,
-      24000
+      22000
     ],
     "slots": 2,
-    "timestamp": "20191211012214",
-    "price_per_slot": 9649,
-    "price_avg": 19299
+    "timestamp": "20191215212133",
+    "price_per_slot": 9149,
+    "price_avg": 18299
   },
   {
     "name": "Recoil pad from GP-25 for AK Accessory Kit",
@@ -2164,24 +2111,22 @@
     "marketPositionOffset": 0,
     "price_array": [
       3361,
-      4000,
-      4598,
-      4599,
-      4600,
-      4797,
       4798,
-      4799,
-      4800,
-      4989,
-      4990,
-      5001,
-      5258,
-      5259
+      5000,
+      5763,
+      5767,
+      5880,
+      5888,
+      6499,
+      6500,
+      6598,
+      6599,
+      19000
     ],
     "slots": 1,
-    "timestamp": "20191211012218",
-    "price_per_slot": 3986,
-    "price_avg": 3986
+    "timestamp": "20191215212136",
+    "price_per_slot": 4386,
+    "price_avg": 4386
   },
   {
     "name": "COLT \"A2\" buffer tube",
@@ -2198,25 +2143,15 @@
     "marketSearchName": "COLT \"A2\" buffer tube",
     "marketPositionOffset": 0,
     "price_array": [
-      4000,
-      4321,
-      4718,
-      5988,
-      5989,
-      5990,
-      5993,
+      5500,
+      5999,
       6000,
-      6243,
-      6250,
-      6900,
-      16000,
-      17500,
-      40000
+      48888
     ],
     "slots": 2,
-    "timestamp": "20191211012221",
-    "price_per_slot": 2173,
-    "price_avg": 4346
+    "timestamp": "20191215212140",
+    "price_per_slot": 2916,
+    "price_avg": 5833
   },
   {
     "name": "LOBAEV Arms Stock",
@@ -2233,12 +2168,14 @@
     "marketSearchName": "LOBAEV Arms Stock",
     "marketPositionOffset": 0,
     "price_array": [
-      19995
+      78000,
+      79999,
+      90000
     ],
     "slots": 2,
-    "timestamp": "20191211012225",
-    "price_per_slot": 9997,
-    "price_avg": 19995
+    "timestamp": "20191215212143",
+    "price_per_slot": 41333,
+    "price_avg": 82666
   },
   {
     "name": "Molot wooden VPO-209 stock",
@@ -2256,13 +2193,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       1857,
-      2366,
-      2500
+      7000
     ],
     "slots": 2,
-    "timestamp": "20191211012229",
-    "price_per_slot": 1120,
-    "price_avg": 2241
+    "timestamp": "20191215212146",
+    "price_per_slot": 2214,
+    "price_avg": 4428
   },
   {
     "name": "Colt buffer tube",
@@ -2279,14 +2215,23 @@
     "marketSearchName": "Colt buffer tube",
     "marketPositionOffset": 0,
     "price_array": [
+      1250,
       1269,
+      1900,
+      1990,
+      1991,
+      2300,
+      2500,
+      4999,
+      10000,
       11111,
-      12068
+      16000,
+      16000
     ],
     "slots": 2,
-    "timestamp": "20191211012232",
-    "price_per_slot": 4074,
-    "price_avg": 8149
+    "timestamp": "20191215212149",
+    "price_per_slot": 736,
+    "price_avg": 1473
   },
   {
     "name": "Izhmash wooden AK-74 stock (6P20 Sb.5)",
@@ -2306,7 +2251,7 @@
       1921
     ],
     "slots": 2,
-    "timestamp": "20191211012236",
+    "timestamp": "20191215212158",
     "price_per_slot": 960,
     "price_avg": 1921
   },
@@ -2325,12 +2270,12 @@
     "marketSearchName": "Metal Izhmash stock for PP-19-01",
     "marketPositionOffset": 0,
     "price_array": [
-      12000
+      1961
     ],
     "slots": 2,
-    "timestamp": "20191211012240",
-    "price_per_slot": 6000,
-    "price_avg": 12000
+    "timestamp": "20191215212207",
+    "price_per_slot": 980,
+    "price_avg": 1961
   },
   {
     "name": "SGA stock for M870",
@@ -2348,16 +2293,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       9281,
-      9883,
-      9884,
-      9985,
-      9988,
-      11995
+      9695
     ],
     "slots": 2,
-    "timestamp": "20191211012243",
-    "price_per_slot": 4841,
-    "price_avg": 9682
+    "timestamp": "20191215212210",
+    "price_per_slot": 4744,
+    "price_avg": 9488
   },
   {
     "name": "Remington SPS Polymer stock for M870",
@@ -2409,13 +2350,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       2647,
-      4711,
-      4900
+      4900,
+      5000
     ],
     "slots": 1,
-    "timestamp": "20191211012250",
-    "price_per_slot": 4086,
-    "price_avg": 4086
+    "timestamp": "20191215212217",
+    "price_per_slot": 4182,
+    "price_avg": 4182
   },
   {
     "name": "Tapco INTRAFUSE Stock for SKS",
@@ -2433,17 +2374,22 @@
     "marketPositionOffset": 0,
     "price_array": [
       9001,
-      11000,
-      11251,
-      11269,
+      12500,
+      12586,
+      12588,
+      12599,
+      13000,
+      15000,
+      15800,
+      22000,
       24500,
-      27999,
-      43000
+      36740,
+      39800
     ],
     "slots": 3,
-    "timestamp": "20191211012254",
-    "price_per_slot": 3472,
-    "price_avg": 10417
+    "timestamp": "20191215212220",
+    "price_per_slot": 3787,
+    "price_avg": 11362
   },
   {
     "name": "Fab Defense UAS for AK",
@@ -2460,22 +2406,16 @@
     "marketSearchName": "Fab Defense UAS for AK",
     "marketPositionOffset": 0,
     "price_array": [
+      16000,
       17364,
-      17998,
+      18122,
       18123,
-      18194,
-      18195,
-      18197,
-      18199,
-      18500,
-      18999,
-      23998,
-      32000
+      18199
     ],
     "slots": 2,
-    "timestamp": "20191211012258",
-    "price_per_slot": 8914,
-    "price_avg": 17828
+    "timestamp": "20191215212223",
+    "price_per_slot": 8581,
+    "price_avg": 17162
   },
   {
     "name": "FN P90 stock",
@@ -2492,12 +2432,12 @@
     "marketSearchName": "FN P90 stock",
     "marketPositionOffset": 0,
     "price_array": [
-      10000
+      8888
     ],
     "slots": 3,
-    "timestamp": "20191211012301",
-    "price_per_slot": 3333,
-    "price_avg": 10000
+    "timestamp": "20191215212226",
+    "price_per_slot": 2962,
+    "price_avg": 8888
   },
   {
     "name": "FN PS90 stock",
@@ -2515,14 +2455,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       3618,
-      4609,
       4618,
-      6000
+      5000
     ],
     "slots": 3,
-    "timestamp": "20191211012305",
-    "price_per_slot": 1427,
-    "price_avg": 4281
+    "timestamp": "20191215212229",
+    "price_per_slot": 1470,
+    "price_avg": 4412
   },
   {
     "name": "FN Butt pad for P90",
@@ -2539,16 +2478,16 @@
     "marketSearchName": "FN Butt pad for P90",
     "marketPositionOffset": 0,
     "price_array": [
-      4998,
-      4999,
-      5000,
-      5000,
+      4298,
+      4490,
+      4499,
+      4980,
       20999
     ],
     "slots": 1,
-    "timestamp": "20191211012308",
-    "price_per_slot": 4999,
-    "price_avg": 4999
+    "timestamp": "20191215212232",
+    "price_per_slot": 4429,
+    "price_avg": 4429
   },
   {
     "name": "Damage Industries Butt-pad for P90",
@@ -2565,15 +2504,19 @@
     "marketSearchName": "Damage Industries Butt-pad for P90",
     "marketPositionOffset": 0,
     "price_array": [
-      4990,
-      4999,
-      5000,
-      5555
+      4500,
+      4747,
+      5010,
+      5111,
+      5199,
+      6200,
+      6776,
+      6777
     ],
     "slots": 1,
-    "timestamp": "20191211012312",
-    "price_per_slot": 4996,
-    "price_avg": 4996
+    "timestamp": "20191215212236",
+    "price_per_slot": 4752,
+    "price_avg": 4752
   },
   {
     "name": "M700 MOD X Gen.3 stock",
@@ -2590,16 +2533,16 @@
     "marketSearchName": "M700 MOD X Gen.3 stock",
     "marketPositionOffset": 0,
     "price_array": [
-      18949,
-      19000,
-      19995,
-      20998,
-      21000
+      26499,
+      26898,
+      27800,
+      27888,
+      28888
     ],
     "slots": 2,
-    "timestamp": "20191211012316",
-    "price_per_slot": 9657,
-    "price_avg": 19314
+    "timestamp": "20191215212239",
+    "price_per_slot": 13532,
+    "price_avg": 27065
   },
   {
     "name": "Buffer tube side folder adapter for M700",
@@ -2616,13 +2559,16 @@
     "marketSearchName": "Buffer tube side folder adapter for M700",
     "marketPositionOffset": 0,
     "price_array": [
-      6110,
-      6111
+      3499,
+      3522,
+      3533,
+      4450,
+      4900
     ],
     "slots": 1,
-    "timestamp": "20191208211915",
-    "price_per_slot": 6110,
-    "price_avg": 6110
+    "timestamp": "20191215212242",
+    "price_per_slot": 3518,
+    "price_avg": 3518
   },
   {
     "name": "Magpul PRO 700 chassis",
@@ -2640,21 +2586,15 @@
     "marketPositionOffset": 0,
     "price_array": [
       19410,
-      20980,
-      20990,
-      20999,
-      20999,
-      21000,
-      21200,
-      24179,
-      24190,
-      27999,
-      59500
+      21409,
+      21410,
+      22000,
+      22220
     ],
     "slots": 3,
-    "timestamp": "20191211012323",
-    "price_per_slot": 6820,
-    "price_avg": 20460
+    "timestamp": "20191215212251",
+    "price_per_slot": 6914,
+    "price_avg": 20743
   },
   {
     "name": "PRO 700 folding stock",
@@ -2672,12 +2612,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       5075,
-      8075
+      6488
     ],
     "slots": 2,
-    "timestamp": "20191211012327",
-    "price_per_slot": 3287,
-    "price_avg": 6575
+    "timestamp": "20191215212254",
+    "price_per_slot": 2890,
+    "price_avg": 5781
   },
   {
     "name": "Promag Archangel polymer stock for M700",
@@ -2695,18 +2635,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       21840,
-      22999,
-      23290,
-      23300,
-      23398,
-      23399,
-      23400,
-      25498
+      27999
     ],
     "slots": 3,
-    "timestamp": "20191211012330",
-    "price_per_slot": 7569,
-    "price_avg": 22709
+    "timestamp": "20191215212257",
+    "price_per_slot": 8306,
+    "price_avg": 24919
   },
   {
     "name": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
@@ -2724,15 +2658,18 @@
     "marketPositionOffset": 1,
     "price_array": [
       6760,
-      8300,
-      8400,
-      8597,
-      8599
+      8860,
+      8868,
+      8870,
+      8879,
+      8880,
+      8888,
+      100000
     ],
     "slots": 2,
-    "timestamp": "20191211012334",
-    "price_per_slot": 3910,
-    "price_avg": 7820
+    "timestamp": "20191215212300",
+    "price_per_slot": 4081,
+    "price_avg": 8162
   },
   {
     "name": "CAA AKTS AK-74 Buffer Tube for AK and compatable (foldable)",
@@ -2749,16 +2686,15 @@
     "marketSearchName": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
     "marketPositionOffset": 0,
     "price_array": [
+      6440,
       6448,
-      7749,
-      7750,
-      7770,
-      7800
+      6890,
+      8400
     ],
     "slots": 2,
-    "timestamp": "20191211012337",
-    "price_per_slot": 3657,
-    "price_avg": 7315
+    "timestamp": "20191215212303",
+    "price_per_slot": 3296,
+    "price_avg": 6592
   },
   {
     "name": "Fab Defence UAS Stock for SKS",
@@ -2776,18 +2712,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       21653,
-      22800,
-      22849,
-      22850,
-      22899,
-      22995,
-      23450,
-      23650
+      24555,
+      25000
     ],
     "slots": 3,
-    "timestamp": "20191211012341",
-    "price_per_slot": 7478,
-    "price_avg": 22434
+    "timestamp": "20191215212307",
+    "price_per_slot": 7912,
+    "price_avg": 23736
   },
   {
     "name": "Double Star Ace Socom gen.4 stock for AR-15",
@@ -2805,17 +2736,19 @@
     "marketPositionOffset": 0,
     "price_array": [
       11076,
-      11076,
-      12000,
+      12500,
+      12700,
+      13000,
       13500,
-      13999,
       14000,
-      20000
+      14100,
+      15000,
+      17000
     ],
     "slots": 2,
-    "timestamp": "20191211012345",
-    "price_per_slot": 5692,
-    "price_avg": 11384
+    "timestamp": "20191215212310",
+    "price_per_slot": 6046,
+    "price_avg": 12092
   },
   {
     "name": "Double Star recoil pad 0.5 for ACE stock series",
@@ -2832,18 +2765,14 @@
     "marketSearchName": "Double Star recoil pad 0.5 for ACE stock series",
     "marketPositionOffset": 0,
     "price_array": [
-      6200,
-      6949,
-      6950,
-      7100,
-      7400,
-      8000,
-      8300
+      6500,
+      9989,
+      9999
     ],
     "slots": 1,
-    "timestamp": "20191211012348",
-    "price_per_slot": 6699,
-    "price_avg": 6699
+    "timestamp": "20191215212313",
+    "price_per_slot": 8829,
+    "price_avg": 8829
   },
   {
     "name": "Magpul CTR Carbine stock",
@@ -2860,25 +2789,25 @@
     "marketSearchName": "Magpul CTR Carbine stock",
     "marketPositionOffset": 0,
     "price_array": [
-      13300,
-      13400,
-      13900,
-      14998,
-      15000,
-      15000,
-      15250,
-      16000,
-      16500,
-      17890,
-      17900,
-      17900,
-      19500,
-      19899
+      14999,
+      19000,
+      19999,
+      19999,
+      20000,
+      20000,
+      20000,
+      20000,
+      22500,
+      22999,
+      23000,
+      23000,
+      23332,
+      23333
     ],
     "slots": 2,
-    "timestamp": "20191211012352",
-    "price_per_slot": 6766,
-    "price_avg": 13533
+    "timestamp": "20191215212322",
+    "price_per_slot": 8999,
+    "price_avg": 17999
   },
   {
     "name": "Fab Defence GLR-17 Stock for Glock and compatable",
@@ -2896,22 +2825,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       9936,
-      14989,
-      14997,
-      14997,
-      14998,
-      14999,
-      15300,
-      15399,
+      13000,
+      13333,
+      14450,
+      14500,
+      14888,
+      15000,
+      15000,
       15500,
-      16000,
-      16000,
-      28000
+      16444,
+      16490,
+      16500,
+      17480,
+      17500
     ],
     "slots": 2,
-    "timestamp": "20191211012355",
-    "price_per_slot": 6653,
-    "price_avg": 13307
+    "timestamp": "20191215212325",
+    "price_per_slot": 6044,
+    "price_avg": 12089
   },
   {
     "name": "AT AICS polymer stock for M700",
@@ -2929,17 +2860,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       27560,
+      28988,
       28999,
-      29000,
-      29989,
-      29990,
-      30000,
-      34800
+      31997,
+      31998,
+      35000
     ],
     "slots": 4,
-    "timestamp": "20191211012359",
-    "price_per_slot": 7129,
-    "price_avg": 28519
+    "timestamp": "20191215212328",
+    "price_per_slot": 7128,
+    "price_avg": 28515
   },
   {
     "name": "HK End Cap Stock for MP5 Kurz",
@@ -2957,14 +2887,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       2725,
-      6117,
-      8444,
-      8600
+      4500,
+      4999,
+      8444
     ],
     "slots": 1,
-    "timestamp": "20191211012403",
-    "price_per_slot": 5762,
-    "price_avg": 5762
+    "timestamp": "20191215212331",
+    "price_per_slot": 4074,
+    "price_avg": 4074
   },
   {
     "name": "Magpul PRS GEN3 stock",
@@ -2981,21 +2911,24 @@
     "marketSearchName": "Magpul PRS GEN3 stock",
     "marketPositionOffset": 0,
     "price_array": [
+      15500,
+      15555,
+      16000,
+      16950,
+      16999,
+      17000,
+      17450,
       17500,
-      17900,
-      17999,
-      18000,
-      18000,
-      18800,
-      19500,
-      19700,
-      20000,
-      22000,
-      23990
+      17500,
+      17500,
+      17990,
+      19000,
+      21000,
+      211001
     ],
     "slots": 2,
-    "timestamp": "20191211012406",
-    "price_per_slot": 8899,
-    "price_avg": 17799
+    "timestamp": "20191215212341",
+    "price_per_slot": 7842,
+    "price_avg": 15685
   }
 ]

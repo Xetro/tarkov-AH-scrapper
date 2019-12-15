@@ -330,12 +330,22 @@
     },
     "barrels": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Homespun 121mm 7.62x25 TT barrel with threading": "Homespun 121mm 7.62x25",
+            "540mm barrel for MR-133 12ga shotgun with rib" : "540mm barrel for",
+            "660mm barrel for MR-133 12ga shotgun": "660mm barrel for",
+            "710mm barrel for MR-133 12ga shotgun with rib": "710mm barrel for "
+        },
+        "positionExceptions": {
+            "540mm barrel for MR-133 12ga shotgun with rib": 1,
+            "610mm barrel for MP-133 12ga shotgun": 1,
+            "710mm barrel for MR-133 12ga shotgun with rib": 1,
+            "508mm barrel for M870 12ga": 1
+        },
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [2, 4, 5, 28, 29, 64, 65, 66, 67, 72],
         "useRegex": 1,
         "additionalRegex": "Barrels(.|\n)+Gas blocks"
     },

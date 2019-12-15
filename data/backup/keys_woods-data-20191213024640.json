@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Yotota car key",
+    "category": "keys_woods",
+    "image": "Yotota-car-key-Icon.png",
+    "title": "Yotota car key",
+    "pageId": 5504,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f4/Yotota-car-key-Icon.png",
+    "filePath": "yotota_car_key",
+    "marketSearchName": "Yotota car key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      999,
+      1000,
+      1000,
+      1300,
+      1700,
+      2000,
+      2300,
+      2500,
+      2500,
+      2600,
+      2699,
+      2700,
+      2900
+    ],
+    "slots": 1,
+    "timestamp": "20191213013243",
+    "price_per_slot": 999,
+    "price_avg": 999
+  },
+  {
+    "name": "Key ZB-014",
+    "category": "keys_woods",
+    "image": "ZB-014-key-Icon.png",
+    "title": "Key ZB-014",
+    "pageId": 5129,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/ZB-014-key-Icon.png",
+    "filePath": "key_zb_014",
+    "marketSearchName": "Key ZB-014",
+    "marketPositionOffset": 0,
+    "price_array": [
+      7000,
+      7999,
+      8000,
+      8000,
+      8000,
+      9000,
+      9950,
+      10000,
+      13900,
+      15000,
+      15000,
+      15000,
+      16000
+    ],
+    "slots": 1,
+    "timestamp": "20191213013247",
+    "price_per_slot": 7666,
+    "price_avg": 7666
+  },
+  {
+    "name": "Shturman key",
+    "category": "keys_woods",
+    "image": "Shturman_Key_Icon.png",
+    "title": "Shturman key",
+    "pageId": 15493,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/Shturman_Key_Icon.png?version=4e102d2c9856b3c3dc1b588cf96b8846",
+    "filePath": "shturman_key",
+    "marketSearchName": "Shturman key",
+    "marketPositionOffset": 0,
+    "price_array": [
+      259999,
+      264200,
+      265000,
+      269888,
+      269999,
+      269999,
+      270000,
+      270000,
+      270000,
+      270000
+    ],
+    "slots": 1,
+    "timestamp": "20191213013250",
+    "price_per_slot": 263066,
+    "price_avg": 263066
+  }
+]

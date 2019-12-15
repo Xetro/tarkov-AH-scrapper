@@ -11,11 +11,14 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; Written by LorenWard
 
-#ifWinActive, ahk_exe EscapeFromTarkov.exe
+; #ifWinActive, ahk_exe EscapeFromTarkov.exe
 
 *~F2::
 
-Categories := ["flash_hiders_muzzle_brakes", "magazines"]
+Categories := ["handguards"]
+
+FileRead, slow_search, slow_search.txt
+sSlow_search := StrReplace(slow_search, "`r`n", ",")
 
 for index, category in Categories
 {
@@ -25,33 +28,29 @@ for index, category in Categories
 
 	parsedJSON := JSON.Load(JSONString)
 
-
 	for k, v in parsedJSON
 	{
 		search := v.marketSearchName
 		offset := (33*v.marketPositionOffset)
-		y := (170+offset)
+		y := (170+offset) 
 		MouseMove, 150, 120
 		sleep 200
-		Click 
-		sleep 300
+		Click  
+		sleep 400
 		Send, %search%
-		If (search = "Pachmayr tactical rubber grip" or search = "Magazine")
-		{
-			sleep 4000
-		}
-		sleep 900
+		if search contains %sSlow_search%
+			sleep 3500
+		sleep 1000
 		MouseMove, 150, %y%
+		sleep 400
 		Click 
 		filename := v.filePath
 		timestamp := A_now
 		prePath := "../data/images/raw/"
 		extension := ".png"
 		fullPath = %prePath%%filename%--%timestamp%%extension%
-		sleep 900
+		sleep 1000
 		CaptureScreen("50, 100, 1450, 1170", "true", fullPath)
-		sleep 300
-
 	}
 
 }

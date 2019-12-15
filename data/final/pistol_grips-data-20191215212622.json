@@ -14,15 +14,13 @@
     "marketSearchName": "US Palm pistol grip for AK",
     "marketPositionOffset": 0,
     "price_array": [
-      12995,
-      14249,
-      14300,
-      42000
+      13994,
+      14299
     ],
     "slots": 1,
-    "timestamp": "20191211010830",
-    "price_per_slot": 13848,
-    "price_avg": 13848
+    "timestamp": "20191215211226",
+    "price_per_slot": 14146,
+    "price_avg": 14146
   },
   {
     "name": "HK Grip V.2 pistol grip for AR-15 based systems",
@@ -39,16 +37,13 @@
     "marketSearchName": "HK Grip V.2 pistol grip for AR-15 based systems",
     "marketPositionOffset": 0,
     "price_array": [
-      6448,
-      6449,
-      7599,
-      7998,
-      7999
+      7999,
+      8000
     ],
     "slots": 1,
-    "timestamp": "20191211010834",
-    "price_per_slot": 6832,
-    "price_avg": 6832
+    "timestamp": "20191215211229",
+    "price_per_slot": 7999,
+    "price_avg": 7999
   },
   {
     "name": "Izhmash SVDS pistol grip",
@@ -90,12 +85,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       2413,
-      6999
+      7500,
+      14999,
+      15000
     ],
     "slots": 1,
-    "timestamp": "20191211010841",
-    "price_per_slot": 4706,
-    "price_avg": 4706
+    "timestamp": "20191215211241",
+    "price_per_slot": 8304,
+    "price_avg": 8304
   },
   {
     "name": "Razor Arms TT rubber grips",
@@ -113,13 +110,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       5096,
-      6999,
-      7000
+      9999
     ],
     "slots": 1,
-    "timestamp": "20191211010845",
-    "price_per_slot": 6365,
-    "price_avg": 6365
+    "timestamp": "20191215211245",
+    "price_per_slot": 7547,
+    "price_avg": 7547
   },
   {
     "name": "Hogue like TT rubber grips",
@@ -137,12 +133,14 @@
     "marketPositionOffset": 0,
     "price_array": [
       2808,
+      3758,
+      4997,
       4999
     ],
     "slots": 1,
-    "timestamp": "20191211010848",
-    "price_per_slot": 3903,
-    "price_avg": 3903
+    "timestamp": "20191215211248",
+    "price_per_slot": 3854,
+    "price_avg": 3854
   },
   {
     "name": "Wooden Sig Sauer Elite pistol grip for P226",
@@ -159,13 +157,12 @@
     "marketSearchName": "Wooden Sig Sauer Elite pistol grip for P226",
     "marketPositionOffset": 0,
     "price_array": [
-      2080,
-      5555
+      2080
     ],
     "slots": 1,
-    "timestamp": "20191211010852",
-    "price_per_slot": 3817,
-    "price_avg": 3817
+    "timestamp": "20191215211251",
+    "price_per_slot": 2080,
+    "price_avg": 2080
   },
   {
     "name": "Emperor scorpion Sig Sauer pistol grip for P226",
@@ -183,13 +180,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       2548,
-      5100,
-      7000
+      5100
     ],
     "slots": 1,
-    "timestamp": "20191211010855",
-    "price_per_slot": 4882,
-    "price_avg": 4882
+    "timestamp": "20191215211254",
+    "price_per_slot": 3824,
+    "price_avg": 3824
   },
   {
     "name": "Hogue Chain link pistol grip for P226",
@@ -210,7 +206,7 @@
       11000
     ],
     "slots": 1,
-    "timestamp": "20191211010859",
+    "timestamp": "20191215211257",
     "price_per_slot": 9816,
     "price_avg": 9816
   },
@@ -229,13 +225,12 @@
     "marketSearchName": "Axelson Tacical MK.25 pistol grip for P226",
     "marketPositionOffset": 0,
     "price_array": [
-      3120,
-      7500
+      3120
     ],
     "slots": 1,
-    "timestamp": "20191211010903",
-    "price_per_slot": 5310,
-    "price_avg": 5310
+    "timestamp": "20191215211300",
+    "price_per_slot": 3120,
+    "price_avg": 3120
   },
   {
     "name": "PM-Laser TT-206 side grips with LAM",
@@ -255,7 +250,7 @@
       3630
     ],
     "slots": 1,
-    "timestamp": "20191211010906",
+    "timestamp": "20191215211303",
     "price_per_slot": 3630,
     "price_avg": 3630
   },
@@ -275,21 +270,18 @@
     "marketPositionOffset": 0,
     "price_array": [
       2817,
-      4439,
-      4440,
-      4444,
-      4500,
-      6490,
-      6498,
-      6499,
-      6500,
-      6700,
-      6999
+      4998,
+      5000,
+      5555,
+      5900,
+      6000,
+      6659,
+      6660
     ],
     "slots": 1,
-    "timestamp": "20191211010910",
-    "price_per_slot": 3898,
-    "price_avg": 3898
+    "timestamp": "20191215211307",
+    "price_per_slot": 4271,
+    "price_avg": 4271
   },
   {
     "name": "Izhmash AK-12 regular pistol grip",
@@ -307,17 +299,19 @@
     "marketPositionOffset": 0,
     "price_array": [
       1560,
-      5979,
-      5980,
-      5989,
-      8000,
-      9855,
-      21900
+      5555,
+      6195,
+      6300,
+      6495,
+      6500,
+      6700,
+      6777,
+      6800
     ],
     "slots": 1,
-    "timestamp": "20191211010913",
-    "price_per_slot": 4506,
-    "price_avg": 4506
+    "timestamp": "20191215211316",
+    "price_per_slot": 4436,
+    "price_avg": 4436
   },
   {
     "name": "Tacfire pistol grip for Mosin rifle",
@@ -334,20 +328,14 @@
     "marketSearchName": "Tacfire pistol grip for Mosin rifle",
     "marketPositionOffset": 0,
     "price_array": [
-      6498,
-      6499,
-      6500,
-      6950,
-      6999,
-      7490,
-      7499,
-      7500,
-      9399
+      6554,
+      9384,
+      9385
     ],
     "slots": 1,
-    "timestamp": "20191211010917",
-    "price_per_slot": 6499,
-    "price_avg": 6499
+    "timestamp": "20191215211319",
+    "price_per_slot": 8441,
+    "price_avg": 8441
   },
   {
     "name": "HK \"Battle Grip\" pistol grip for AR-15 based systems",
@@ -364,19 +352,22 @@
     "marketSearchName": "HK \"Battle Grip\" pistol grip for AR-15 based systems",
     "marketPositionOffset": 0,
     "price_array": [
+      3000,
+      4499,
       4500,
       5000,
-      5899,
-      6000,
-      6500,
-      7999,
-      8000,
-      9999
+      5000,
+      6299,
+      6950,
+      6998,
+      7000,
+      7200,
+      7500
     ],
     "slots": 1,
-    "timestamp": "20191211010921",
-    "price_per_slot": 5133,
-    "price_avg": 5133
+    "timestamp": "20191215211322",
+    "price_per_slot": 3999,
+    "price_avg": 3999
   },
   {
     "name": "HK Battle Grip with Beavertail pistol grip for AR-15 based systems",
@@ -392,11 +383,13 @@
     "filePath": "hk_battle_grip_with_beavertail_pistol_grip_for_ar_15_based_systems",
     "marketSearchName": "HK Battle Grip with Beavertail pistol grip for AR-15 based systems",
     "marketPositionOffset": 0,
-    "price_array": [2400],
+    "price_array": [
+      8999
+    ],
     "slots": 1,
-    "timestamp": "20191207212644",
-    "price_per_slot": 2400,
-    "price_avg": 2400
+    "timestamp": "20191215211325",
+    "price_per_slot": 8999,
+    "price_avg": 8999
   },
   {
     "name": "Fab AG FAL pistol grip for SA-58",
@@ -414,14 +407,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       4551,
-      4689,
-      4690,
-      4695
+      4710,
+      4777,
+      5180,
+      5186,
+      5187
     ],
     "slots": 1,
-    "timestamp": "20191211010928",
-    "price_per_slot": 4643,
-    "price_avg": 4643
+    "timestamp": "20191215211328",
+    "price_per_slot": 4679,
+    "price_avg": 4679
   },
   {
     "name": "Regular \"DS Arms\" pistol grip for SA-58",
@@ -438,13 +433,12 @@
     "marketSearchName": "Regular \"DS Arms\" pistol grip for SA-58",
     "marketPositionOffset": 0,
     "price_array": [
-      1144,
-      1430
+      1144
     ],
     "slots": 1,
-    "timestamp": "20191211010932",
-    "price_per_slot": 1287,
-    "price_avg": 1287
+    "timestamp": "20191215211332",
+    "price_per_slot": 1144,
+    "price_avg": 1144
   },
   {
     "name": "TAPCO SAW-Style black pistol grip for SA-58",
@@ -462,14 +456,17 @@
     "marketPositionOffset": 0,
     "price_array": [
       3336,
-      4499,
+      5000,
+      5100,
+      5800,
+      5900,
       5990,
       5999
     ],
     "slots": 1,
-    "timestamp": "20191211010935",
-    "price_per_slot": 4608,
-    "price_avg": 4608
+    "timestamp": "20191215211335",
+    "price_per_slot": 4478,
+    "price_avg": 4478
   },
   {
     "name": "Rubber with finger grooves pistol grip for P226",
@@ -487,13 +484,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       3224,
-      6000,
-      6500
+      6000
     ],
     "slots": 1,
-    "timestamp": "20191211010939",
-    "price_per_slot": 5241,
-    "price_avg": 5241
+    "timestamp": "20191215211338",
+    "price_per_slot": 4612,
+    "price_avg": 4612
   },
   {
     "name": "Magpul MOE pistol grip for AK",
@@ -511,14 +507,19 @@
     "marketPositionOffset": 0,
     "price_array": [
       7651,
-      11000,
-      11999,
-      14500
+      9998,
+      9999,
+      10000,
+      10500,
+      11888,
+      12500,
+      14000,
+      14750
     ],
     "slots": 1,
-    "timestamp": "20191211010942",
-    "price_per_slot": 10216,
-    "price_avg": 10216
+    "timestamp": "20191215211347",
+    "price_per_slot": 9216,
+    "price_avg": 9216
   },
   {
     "name": "M14ALCS(MOD. 0) pistol grip for M14",
@@ -536,15 +537,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       2718,
-      5300,
-      5470,
-      5497,
-      5498
+      3000
     ],
     "slots": 1,
-    "timestamp": "20191211010946",
-    "price_per_slot": 4496,
-    "price_avg": 4496
+    "timestamp": "20191215211350",
+    "price_per_slot": 2859,
+    "price_avg": 2859
   },
   {
     "name": "PP-19-01 Izhmash pistol grip",
@@ -562,13 +560,13 @@
     "marketPositionOffset": 0,
     "price_array": [
       935,
-      1500,
-      2333
+      1169,
+      3435
     ],
     "slots": 1,
-    "timestamp": "20191211010950",
-    "price_per_slot": 1589,
-    "price_avg": 1589
+    "timestamp": "20191215211359",
+    "price_per_slot": 1846,
+    "price_avg": 1846
   },
   {
     "name": "TOZ 002 pistol grip for TOZ-106",
@@ -585,12 +583,12 @@
     "marketSearchName": "TOZ 002 pistol grip for TOZ-106",
     "marketPositionOffset": 0,
     "price_array": [
-      0
+      948
     ],
     "slots": 1,
-    "timestamp": "20191211010953",
-    "price_per_slot": 0,
-    "price_avg": 0
+    "timestamp": "20191215211402",
+    "price_per_slot": 948,
+    "price_avg": 948
   },
   {
     "name": "Polymer Izhmekh pistol grip for MP-443",
@@ -607,13 +605,12 @@
     "marketSearchName": "Polymer Izhmekh pistol grip for MP-443",
     "marketPositionOffset": 0,
     "price_array": [
-      732,
-      1200
+      732
     ],
     "slots": 1,
-    "timestamp": "20191211010957",
-    "price_per_slot": 966,
-    "price_avg": 966
+    "timestamp": "20191215211405",
+    "price_per_slot": 732,
+    "price_avg": 732
   },
   {
     "name": "Sig Sauer pistol grip for P226",
@@ -631,13 +628,12 @@
     "marketPositionOffset": 0,
     "price_array": [
       2548,
-      5100,
-      7000
+      5100
     ],
     "slots": 1,
-    "timestamp": "20191211011001",
-    "price_per_slot": 4882,
-    "price_avg": 4882
+    "timestamp": "20191215211409",
+    "price_per_slot": 3824,
+    "price_avg": 3824
   },
   {
     "name": "Fancy TT side grips",
@@ -654,12 +650,12 @@
     "marketSearchName": "Fancy TT side grips",
     "marketPositionOffset": 0,
     "price_array": [
-      25000
+      5000
     ],
     "slots": 1,
-    "timestamp": "20191207212726",
-    "price_per_slot": 25000,
-    "price_avg": 25000
+    "timestamp": "20191215211412",
+    "price_per_slot": 5000,
+    "price_avg": 5000
   },
   {
     "name": "Standard TT side grips",
@@ -676,15 +672,21 @@
     "marketSearchName": "Standard TT side grips",
     "marketPositionOffset": 0,
     "price_array": [
-      1307,
-      1308,
-      3000,
-      3169
+      3900,
+      4000,
+      7500,
+      7500,
+      7500,
+      10000,
+      12500,
+      14900,
+      15000,
+      15000
     ],
     "slots": 1,
-    "timestamp": "20191211011008",
-    "price_per_slot": 1871,
-    "price_avg": 1871
+    "timestamp": "20191215211415",
+    "price_per_slot": 5133,
+    "price_avg": 5133
   },
   {
     "name": "Izhmash AK bakelite pistol grip (6P4 Sb.8V)",
@@ -701,13 +703,12 @@
     "marketSearchName": "Izhmash AK bakelite pistol grip (6P4 Sb.8V)",
     "marketPositionOffset": 0,
     "price_array": [
-      795,
-      994
+      795
     ],
     "slots": 1,
-    "timestamp": "20191211011011",
-    "price_per_slot": 894,
-    "price_avg": 894
+    "timestamp": "20191215211424",
+    "price_per_slot": 795,
+    "price_avg": 795
   },
   {
     "name": "Izhmash AK polymer pistol grip (6P1 Sb.8)",
@@ -724,14 +725,12 @@
     "marketSearchName": "Izhmash AK polymer pistol grip (6P1 Sb.8)",
     "marketPositionOffset": 0,
     "price_array": [
-      821,
-      1000,
-      1026
+      821
     ],
     "slots": 1,
-    "timestamp": "20191211011015",
-    "price_per_slot": 949,
-    "price_avg": 949
+    "timestamp": "20191215211433",
+    "price_per_slot": 821,
+    "price_avg": 821
   },
   {
     "name": "Izhmash AKM bakelite pistol grip",
@@ -748,13 +747,17 @@
     "marketSearchName": "Izhmash AKM bakelite pistol grip",
     "marketPositionOffset": 0,
     "price_array": [
-      912,
-      14999
+      4999,
+      5000,
+      5500,
+      6000,
+      8900,
+      12999
     ],
     "slots": 1,
-    "timestamp": "20191211011019",
-    "price_per_slot": 7955,
-    "price_avg": 7955
+    "timestamp": "20191215211442",
+    "price_per_slot": 5166,
+    "price_avg": 5166
   },
   {
     "name": "Wooden Izhmash AKM pistol grip for AK",
@@ -771,12 +774,17 @@
     "marketSearchName": "Wooden Izhmash AKM pistol grip for AK",
     "marketPositionOffset": 0,
     "price_array": [
-      0
+      936,
+      11999,
+      12000,
+      12000,
+      14000,
+      15000
     ],
     "slots": 1,
-    "timestamp": "20191211011022",
-    "price_per_slot": 0,
-    "price_avg": 0
+    "timestamp": "20191215211451",
+    "price_per_slot": 8311,
+    "price_avg": 8311
   },
   {
     "name": "Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)",
@@ -793,13 +801,23 @@
     "marketSearchName": "Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)",
     "marketPositionOffset": 0,
     "price_array": [
+      700,
       769,
-      961
+      961,
+      3000,
+      3500,
+      3500,
+      3500,
+      4000,
+      5000,
+      7000,
+      7000,
+      7500
     ],
     "slots": 1,
-    "timestamp": "20191211011026",
-    "price_per_slot": 865,
-    "price_avg": 865
+    "timestamp": "20191215211501",
+    "price_per_slot": 810,
+    "price_avg": 810
   },
   {
     "name": "Molot AK bakelite pistol grip",
@@ -818,13 +836,12 @@
     "price_array": [
       830,
       999,
-      999,
-      1000
+      3500
     ],
     "slots": 1,
-    "timestamp": "20191211011029",
-    "price_per_slot": 942,
-    "price_avg": 942
+    "timestamp": "20191215211504",
+    "price_per_slot": 1776,
+    "price_avg": 1776
   },
   {
     "name": "TAPCO SAW-Style pistol grip for AK",
@@ -841,16 +858,18 @@
     "marketSearchName": "TAPCO SAW-Style black pistol grip for ak",
     "marketPositionOffset": 0,
     "price_array": [
-      5940,
-      5987,
-      5989,
-      5990,
+      5900,
+      5905,
+      5905,
+      5909,
+      5910,
+      5930,
       5995
     ],
     "slots": 1,
-    "timestamp": "20191211011033",
-    "price_per_slot": 5972,
-    "price_avg": 5972
+    "timestamp": "20191215211507",
+    "price_per_slot": 5903,
+    "price_avg": 5903
   },
   {
     "name": "Zenit RK-3 AK pistol grip",
@@ -868,22 +887,22 @@
     "marketPositionOffset": 0,
     "price_array": [
       8770,
+      8994,
+      8997,
+      8998,
       8999,
-      9156,
-      9157,
-      9158,
-      9159,
-      9177,
-      9180,
-      9189,
-      9211,
-      11000,
-      11000
+      9097,
+      9098,
+      9099,
+      9100,
+      9195,
+      9230,
+      9300
     ],
     "slots": 1,
-    "timestamp": "20191211011037",
-    "price_per_slot": 8975,
-    "price_avg": 8975
+    "timestamp": "20191215211510",
+    "price_per_slot": 8920,
+    "price_avg": 8920
   },
   {
     "name": "Colt A2 AR-15 pistol grip",
@@ -900,12 +919,17 @@
     "marketSearchName": "Colt A2 AR-15 pistol grip",
     "marketPositionOffset": 0,
     "price_array": [
-      0
+      8700,
+      9000,
+      10000,
+      10000,
+      16000,
+      16819
     ],
     "slots": 1,
-    "timestamp": "20191211011040",
-    "price_per_slot": 0,
-    "price_avg": 0
+    "timestamp": "20191212212930",
+    "price_per_slot": 9233,
+    "price_avg": 9233
   },
   {
     "name": "DI ECS FDE pistol grip for AR-15 based systems",
@@ -923,14 +947,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       1511,
-      2999,
-      3650,
-      3700
+      3459,
+      3499,
+      3500,
+      4496,
+      4500
     ],
     "slots": 1,
-    "timestamp": "20191211011044",
-    "price_per_slot": 2720,
-    "price_avg": 2720
+    "timestamp": "20191215211516",
+    "price_per_slot": 2823,
+    "price_avg": 2823
   },
   {
     "name": "Hera Arms CQR pistol grip-stock",
@@ -939,7 +965,7 @@
     "title": "Hera Arms CQR pistol grip-stock",
     "pageId": 8405,
     "size": {
-      "width": "1",
+      "width": "2",
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Hacqr.png?version=524c823e2855dc88ce664981713386cc",
@@ -947,15 +973,13 @@
     "marketSearchName": "Hera Arms CQR pistol grip-stock",
     "marketPositionOffset": 0,
     "price_array": [
-      45000,
-      49000,
-      50000,
-      52499
+      39999,
+      47899
     ],
-    "slots": 1,
-    "timestamp": "20191211011048",
-    "price_per_slot": 48000,
-    "price_avg": 48000
+    "slots": 2,
+    "timestamp": "20191215211519",
+    "price_per_slot": 21974,
+    "price_avg": 43949
   },
   {
     "name": "Hogue OverMolded Rubber Grip",
@@ -972,17 +996,14 @@
     "marketSearchName": "Hogue OverMolded Rubber Grip",
     "marketPositionOffset": 0,
     "price_array": [
-      4740,
-      4741,
-      4744,
-      4746,
-      4799,
+      3997,
+      3999,
       4800
     ],
     "slots": 1,
-    "timestamp": "20191211011051",
-    "price_per_slot": 4741,
-    "price_avg": 4741
+    "timestamp": "20191215211523",
+    "price_per_slot": 4265,
+    "price_avg": 4265
   },
   {
     "name": "MIAD Pistol grip for AR-15 based systems",
@@ -999,15 +1020,20 @@
     "marketSearchName": "MIAD Pistol grip for AR-15 based systems",
     "marketPositionOffset": 0,
     "price_array": [
-      4100,
-      4898,
-      4900,
-      186000
+      4600,
+      4600,
+      5000,
+      5250,
+      5445,
+      5500,
+      5997,
+      5997,
+      5999
     ],
     "slots": 1,
-    "timestamp": "20191211011055",
-    "price_per_slot": 4632,
-    "price_avg": 4632
+    "timestamp": "20191215211526",
+    "price_per_slot": 4733,
+    "price_avg": 4733
   },
   {
     "name": "Magpul MOE AR-15 pistol grip",
@@ -1024,16 +1050,18 @@
     "marketSearchName": "Magpul MOE AR-15 pistol grip",
     "marketPositionOffset": 0,
     "price_array": [
-      22998,
-      25000,
-      25000,
-      25700,
-      25789
+      26999,
+      27000,
+      27900,
+      27999,
+      28000,
+      29000,
+      29999
     ],
     "slots": 1,
-    "timestamp": "20191211011058",
-    "price_per_slot": 24332,
-    "price_avg": 24332
+    "timestamp": "20191215211535",
+    "price_per_slot": 27299,
+    "price_avg": 27299
   },
   {
     "name": "Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons",
@@ -1050,25 +1078,25 @@
     "marketSearchName": "Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons",
     "marketPositionOffset": 0,
     "price_array": [
-      13990,
-      13993,
-      13995,
-      13999,
-      14100,
-      14200,
-      14380,
-      14388,
-      14389,
-      14398,
-      14400,
-      14470,
-      14480,
-      14500
+      14000,
+      14950,
+      14999,
+      14999,
+      15400,
+      15555,
+      16800,
+      16900,
+      16993,
+      16994,
+      16995,
+      17577,
+      17579,
+      17770
     ],
     "slots": 1,
-    "timestamp": "20191211011102",
-    "price_per_slot": 13992,
-    "price_avg": 13992
+    "timestamp": "20191215211538",
+    "price_per_slot": 14649,
+    "price_avg": 14649
   },
   {
     "name": "Stark AR Rifle Grip for AR-15-compatible weapons",
@@ -1086,21 +1114,17 @@
     "marketPositionOffset": 0,
     "price_array": [
       4999,
-      5990,
-      5999,
-      6000,
-      6000,
-      6000,
-      6501,
+      5700,
+      5995,
       6595,
       7555,
       7600,
-      10000
+      15000
     ],
     "slots": 1,
-    "timestamp": "20191211011106",
-    "price_per_slot": 5662,
-    "price_avg": 5662
+    "timestamp": "20191215211541",
+    "price_per_slot": 5564,
+    "price_avg": 5564
   },
   {
     "name": "Pistol grip SIG MPX",
@@ -1140,13 +1164,16 @@
     "marketSearchName": "ZMZ Polymer pistol grip for PP-91",
     "marketPositionOffset": 0,
     "price_array": [
-      15000,
-      28000
+      1715,
+      14887,
+      14888,
+      19999,
+      20000
     ],
     "slots": 1,
-    "timestamp": "20191211011113",
-    "price_per_slot": 21500,
-    "price_avg": 21500
+    "timestamp": "20191215211547",
+    "price_per_slot": 10496,
+    "price_avg": 10496
   },
   {
     "name": "AS VAL Pistol grip",
@@ -1163,12 +1190,18 @@
     "marketSearchName": "AS VAL Pistol grip",
     "marketPositionOffset": 1,
     "price_array": [
-      1553
+      1553,
+      1930,
+      1941,
+      9998,
+      9999,
+      12000,
+      13000
     ],
     "slots": 1,
-    "timestamp": "20191211011116",
-    "price_per_slot": 1553,
-    "price_avg": 1553
+    "timestamp": "20191215211551",
+    "price_per_slot": 1808,
+    "price_avg": 1808
   },
   {
     "name": "Pachmayr tactical rubber grip",
@@ -1185,12 +1218,13 @@
     "marketSearchName": "Pachmayr tactical rubber grip",
     "marketPositionOffset": 0,
     "price_array": [
-      2101
+      2103,
+      5000
     ],
     "slots": 1,
-    "timestamp": "20191211011124",
-    "price_per_slot": 2101,
-    "price_avg": 2101
+    "timestamp": "20191215211600",
+    "price_per_slot": 3551,
+    "price_avg": 3551
   },
   {
     "name": "Skeletonized AR-15 pistol grip",
@@ -1207,19 +1241,19 @@
     "marketSearchName": "Skeletonized AR-15 pistol grip",
     "marketPositionOffset": 0,
     "price_array": [
-      10777,
-      11750,
-      11750,
-      12100,
-      12345,
-      12800,
-      12887,
-      12888
+      13300,
+      15300,
+      15777,
+      16400,
+      16700,
+      17887,
+      19000,
+      21000
     ],
     "slots": 1,
-    "timestamp": "20191211011128",
-    "price_per_slot": 11425,
-    "price_avg": 11425
+    "timestamp": "20191215211603",
+    "price_per_slot": 14792,
+    "price_avg": 14792
   },
   {
     "name": "AS VAL Pistol grip-buffer tube",
@@ -1237,18 +1271,24 @@
     "marketPositionOffset": 0,
     "price_array": [
       8505,
-      9000,
-      9390,
-      9398,
-      9400,
-      9599,
-      10200,
-      44444
+      9999,
+      10000,
+      10000,
+      10000,
+      10498,
+      10499,
+      11000,
+      12500,
+      13000,
+      20000,
+      26000,
+      26000,
+      26900
     ],
     "slots": 2,
-    "timestamp": "20191211011131",
-    "price_per_slot": 4482,
-    "price_avg": 8965
+    "timestamp": "20191215211606",
+    "price_per_slot": 4750,
+    "price_avg": 9501
   },
   {
     "name": "TAPCO SAW-Style pistol grip for SKS INTRAFUSE Kit",
@@ -1266,22 +1306,18 @@
     "marketPositionOffset": 0,
     "price_array": [
       2810,
+      3500,
       3699,
-      3799,
-      3799,
-      4199,
-      4245,
-      4300,
-      4400,
       4498,
-      4749,
-      4969,
-      5000
+      4499,
+      4945,
+      5998,
+      18998
     ],
     "slots": 1,
-    "timestamp": "20191211011135",
-    "price_per_slot": 3436,
-    "price_avg": 3436
+    "timestamp": "20191215211609",
+    "price_per_slot": 3336,
+    "price_avg": 3336
   },
   {
     "name": "Hera Arms HG-15 pistol grip for AR-15 based systems",
@@ -1298,15 +1334,15 @@
     "marketSearchName": "Hera Arms HG-15 pistol grip for AR-15 based systems",
     "marketPositionOffset": 0,
     "price_array": [
-      7777,
-      7878,
-      7879,
-      7900
+      6600,
+      6620,
+      6665,
+      6666
     ],
     "slots": 1,
-    "timestamp": "20191211011138",
-    "price_per_slot": 7844,
-    "price_avg": 7844
+    "timestamp": "20191215211612",
+    "price_per_slot": 6628,
+    "price_avg": 6628
   },
   {
     "name": "Magpul Pistol Grip for Pro 700 Kit",
@@ -1323,18 +1359,12 @@
     "marketSearchName": "Magpul Pistol Grip for Pro 700 Kit",
     "marketPositionOffset": 0,
     "price_array": [
-      1944,
-      3990,
-      3994,
-      3995,
-      3998,
-      4499,
-      4500
+      1944
     ],
     "slots": 1,
-    "timestamp": "20191211011142",
-    "price_per_slot": 3309,
-    "price_avg": 3309
+    "timestamp": "20191215211622",
+    "price_per_slot": 1944,
+    "price_avg": 1944
   },
   {
     "name": "SI Enhanced pistol grip for AK",
@@ -1352,15 +1382,18 @@
     "marketPositionOffset": 0,
     "price_array": [
       4056,
+      5963,
+      5984,
+      5990,
+      5990,
       6000,
-      6384,
-      6398,
-      6399
+      6397,
+      6398
     ],
     "slots": 1,
-    "timestamp": "20191211011146",
-    "price_per_slot": 5480,
-    "price_avg": 5480
+    "timestamp": "20191215211625",
+    "price_per_slot": 5334,
+    "price_avg": 5334
   },
   {
     "name": "KGB MG-47 pistol grip for AK",
@@ -1377,25 +1410,25 @@
     "marketSearchName": "KGB MG-47 pistol grip for AK",
     "marketPositionOffset": 0,
     "price_array": [
-      6175,
-      18000,
-      19250,
-      21999,
+      18999,
+      19000,
+      19000,
+      19000,
+      20000,
+      21000,
       22000,
-      26000,
-      27000,
-      28850,
-      28997,
-      28998,
-      28999,
-      29000,
-      30000,
-      40000
+      22000,
+      22000,
+      22750,
+      22800,
+      22990,
+      23000,
+      25000
     ],
     "slots": 1,
-    "timestamp": "20191211011149",
-    "price_per_slot": 14475,
-    "price_avg": 14475
+    "timestamp": "20191215211628",
+    "price_per_slot": 18999,
+    "price_avg": 18999
   },
   {
     "name": "Fab Defence AG-58 pistol grip for VZ-58",
@@ -1413,14 +1446,16 @@
     "marketPositionOffset": 0,
     "price_array": [
       6865,
+      9000,
+      9110,
       9111,
-      9450,
+      9499,
       9500
     ],
     "slots": 1,
-    "timestamp": "20191211011153",
-    "price_per_slot": 8475,
-    "price_avg": 8475
+    "timestamp": "20191215211631",
+    "price_per_slot": 8325,
+    "price_avg": 8325
   },
   {
     "name": "HK Ergo PSG-1 style pistol grip for AR-15 based systems",
@@ -1437,22 +1472,23 @@
     "marketSearchName": "HK Ergo PSG-1 style pistol grip for AR-15 based systems",
     "marketPositionOffset": 0,
     "price_array": [
-      26900,
-      27000,
-      27000,
-      27300,
-      27400,
-      27450,
-      27499,
-      27500,
-      27700,
-      27790,
-      27799,
-      27848
+      28911,
+      28999,
+      29000,
+      29292,
+      29999,
+      30000,
+      30000,
+      30000,
+      31677,
+      31900,
+      31987,
+      31989,
+      31990
     ],
     "slots": 1,
-    "timestamp": "20191211011156",
-    "price_per_slot": 26966,
-    "price_avg": 26966
+    "timestamp": "20191215211634",
+    "price_per_slot": 28970,
+    "price_avg": 28970
   }
 ]

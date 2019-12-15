@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Zenit Perst-3 tactical device",
+    "category": "tactical_combo_devices",
+    "image": "ZenitPerst3Icon.png",
+    "title": "Zenit Perst-3 tactical device",
+    "pageId": 13845,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/ZenitPerst3Icon.png?version=fe5690c264bf0cb50c6f7aeddb619fd0",
+    "filePath": "zenit_perst_3_tactical_device",
+    "marketSearchName": "Zenit Perst-3 tactical device",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18414,
+      22200,
+      22400,
+      22600,
+      22777
+    ],
+    "slots": 1,
+    "timestamp": "20191212213317",
+    "price_per_slot": 21004,
+    "price_avg": 21004
+  },
+  {
+    "name": "2IRS Klesch flashlight + laser designator",
+    "category": "tactical_combo_devices",
+    "image": "2irs.png",
+    "title": "2IRS Klesch flashlight + laser designator",
+    "pageId": 7773,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/2irs.png?version=39562a6bcc1a67e78fbeae8b4740e3b2",
+    "filePath": "2irs_klesch_flashlight___laser_designator",
+    "marketSearchName": "2IRS Klesch flashlight",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18666,
+      18900,
+      20000,
+      20000
+    ],
+    "slots": 1,
+    "timestamp": "20191212213319",
+    "price_per_slot": 19188,
+    "price_avg": 19188
+  },
+  {
+    "name": "2P Klesch flashlight + laser designator",
+    "category": "tactical_combo_devices",
+    "image": "Klesch.png",
+    "title": "2P Klesch flashlight + laser designator",
+    "pageId": 3073,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/Klesch.png?version=80139225e60927860532a8b5ea9b89a3",
+    "filePath": "2p_klesch_flashlight___laser_designator",
+    "marketSearchName": "2P Klesch flashlight",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9999,
+      10000,
+      11400,
+      11400,
+      11600,
+      11666,
+      11900,
+      11900,
+      11999,
+      12000,
+      12000,
+      12000,
+      12000,
+      12555
+    ],
+    "slots": 1,
+    "timestamp": "20191212213321",
+    "price_per_slot": 10466,
+    "price_avg": 10466
+  },
+  {
+    "name": "2U \"Kleh\" tactical flashlight",
+    "category": "tactical_combo_devices",
+    "image": "Kleh_Icon.png",
+    "title": "2U \"Kleh\" tactical flashlight",
+    "pageId": 11052,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5d/Kleh_Icon.png?version=2b0b6f60dc1bce0c5175982e332f29b8",
+    "filePath": "2u__kleh__tactical_flashlight",
+    "marketSearchName": "2U \"Kleh\" tactical flashlight",
+    "marketPositionOffset": 0,
+    "price_array": [
+      11855,
+      12271,
+      12298,
+      12299,
+      12800,
+      13399,
+      13400,
+      13500,
+      13900
+    ],
+    "slots": 1,
+    "timestamp": "20191212213324",
+    "price_per_slot": 12141,
+    "price_avg": 12141
+  },
+  {
+    "name": "AN/PEQ-15 tactical device",
+    "category": "tactical_combo_devices",
+    "image": "Peq.png",
+    "title": "AN/PEQ-15 tactical device",
+    "pageId": 3210,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ce/Peq.png?version=c98af4e1745be78175095b6836a2975d",
+    "filePath": "an_peq_15_tactical_device",
+    "marketSearchName": "AN/PEQ-15 tactical device",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18000,
+      18000,
+      19000,
+      19000,
+      19000,
+      19000,
+      20000,
+      20000,
+      20668
+    ],
+    "slots": 1,
+    "timestamp": "20191212213326",
+    "price_per_slot": 18333,
+    "price_avg": 18333
+  },
+  {
+    "name": "Glock Tactical GL21 flashlight with laser",
+    "category": "tactical_combo_devices",
+    "image": "Gl21.png",
+    "title": "Glock Tactical GL21 flashlight with laser",
+    "pageId": 8265,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a5/Gl21.png?version=39562a6bcc1a67e78fbeae8b4740e3b2",
+    "filePath": "glock_tactical_gl21_flashlight_with_laser",
+    "marketSearchName": "Glock Tactical GL21 flashlight with laser",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9999,
+      10000,
+      11666,
+      12110,
+      12222,
+      13000,
+      13000,
+      14498,
+      14700,
+      15686,
+      15687,
+      19608
+    ],
+    "slots": 1,
+    "timestamp": "20191212213328",
+    "price_per_slot": 10555,
+    "price_avg": 10555
+  },
+  {
+    "name": "Holosun LS321 Tactical device",
+    "category": "tactical_combo_devices",
+    "image": "Ls321.png",
+    "title": "Holosun LS321 Tactical device",
+    "pageId": 3075,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/42/Ls321.png?version=109c209a4fe5e29a3846db261ef09af9",
+    "filePath": "holosun_ls321_tactical_device",
+    "marketSearchName": "Holosun LS321 Tactical device",
+    "marketPositionOffset": 0,
+    "price_array": [
+      90001,
+      10000,
+      11500,
+      13534,
+      16999,
+      17000,
+      17000,
+      17000,
+      17777,
+      18000,
+      18000,
+      18000,
+      18499
+    ],
+    "slots": 1,
+    "timestamp": "20191212213330",
+    "price_per_slot": 37167,
+    "price_avg": 37167
+  },
+  {
+    "name": "LA-5 tactical device",
+    "category": "tactical_combo_devices",
+    "image": "LA-5 tactical device Icon.png",
+    "title": "LA-5 tactical device",
+    "pageId": 12870,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/LA-5_tactical_device_Icon.png",
+    "filePath": "la_5_tactical_device",
+    "marketSearchName": "LA-5 tactical device",
+    "marketPositionOffset": 0,
+    "price_array": [
+      18900,
+      19000,
+      21000
+    ],
+    "slots": 1,
+    "timestamp": "20191212213332",
+    "price_per_slot": 19633,
+    "price_avg": 19633
+  },
+  {
+    "name": "LAS/TAC 2 tactical flashlight",
+    "category": "tactical_combo_devices",
+    "image": "LASTAC 2 Icon.png",
+    "title": "LAS/TAC 2 tactical flashlight",
+    "pageId": 10866,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/LASTAC_2_Icon.png?version=d360a7f5bad33266a9e24b36db5c74c0",
+    "filePath": "las_tac_2_tactical_flashlight",
+    "marketSearchName": "LAS/TAC 2 tactical flashlight",
+    "marketPositionOffset": 0,
+    "price_array": [
+      20000,
+      23232,
+      23333,
+      24400,
+      24500,
+      24500,
+      29000
+    ],
+    "slots": 1,
+    "timestamp": "20191212213334",
+    "price_per_slot": 22188,
+    "price_avg": 22188
+  },
+  {
+    "name": "Surefire XC1 tactical flashlight",
+    "category": "tactical_combo_devices",
+    "image": "Xc1.png",
+    "title": "Surefire XC1 tactical flashlight",
+    "pageId": 8301,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/dc/Xc1.png?version=da966f71fd9be76c0814fea12ec81112",
+    "filePath": "surefire_xc1_tactical_flashlight",
+    "marketSearchName": "Surefire XC1 tactical flashlight",
+    "marketPositionOffset": 0,
+    "price_array": [
+      13500,
+      13999,
+      14000,
+      14000,
+      14400,
+      14800,
+      14899,
+      14900,
+      15420,
+      15900,
+      15998,
+      15999,
+      168501
+    ],
+    "slots": 1,
+    "timestamp": "20191212213336",
+    "price_per_slot": 13833,
+    "price_avg": 13833
+  },
+  {
+    "name": "X400 tactical flashlight",
+    "category": "tactical_combo_devices",
+    "image": "X400.png",
+    "title": "X400 tactical flashlight",
+    "pageId": 3083,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/X400.png?version=3e01c6815250c1672d5ef7b506b8176f",
+    "filePath": "x400_tactical_flashlight",
+    "marketSearchName": "X400 tactical flashlight",
+    "marketPositionOffset": 0,
+    "price_array": [
+      9999,
+      10000,
+      10000,
+      10989,
+      11000,
+      11999,
+      12000,
+      12000,
+      12400,
+      12477,
+      12500
+    ],
+    "slots": 1,
+    "timestamp": "20191212213339",
+    "price_per_slot": 9999,
+    "price_avg": 9999
+  },
+  {
+    "name": "NcSTAR Tactical blue laser LAM-Module",
+    "category": "tactical_combo_devices",
+    "image": "TBL Icon.PNG",
+    "title": "NcSTAR Tactical blue laser LAM-Module",
+    "pageId": 15434,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a7/TBL_Icon.PNG?version=a5ecdf0a509122df2718ab68cd0dae6e",
+    "filePath": "ncstar_tactical_blue_laser_lam_module",
+    "marketSearchName": "NcSTAR Tactical blue laser LAM-Module",
+    "marketPositionOffset": 0,
+    "price_array": [
+      4428,
+      4500,
+      5900,
+      5900,
+      5958,
+      5959,
+      6000,
+      6000,
+      6444,
+      6500,
+      7450,
+      7450,
+      7500
+    ],
+    "slots": 1,
+    "timestamp": "20191212213341",
+    "price_per_slot": 4942,
+    "price_avg": 4942
+  },
+  {
+    "name": "AN/PEQ-2 tactical device",
+    "category": "tactical_combo_devices",
+    "image": "ANPEQ2 Icon.png",
+    "title": "AN/PEQ-2 tactical device",
+    "pageId": 15499,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/ANPEQ2_Icon.png?version=e845d08317f86b57064a5b6efef655c0",
+    "filePath": "an_peq_2_tactical_device",
+    "marketSearchName": "AN/PEQ-2 tactical device",
+    "marketPositionOffset": 0,
+    "price_array": [
+      10000,
+      11000,
+      11111,
+      11700,
+      11888,
+      12370,
+      12380,
+      12390,
+      13000,
+      14750,
+      15000
+    ],
+    "slots": 1,
+    "timestamp": "20191212213343",
+    "price_per_slot": 10703,
+    "price_avg": 10703
+  },
+  {
+    "name": "Steiner Dbal PL tactical flashlight",
+    "category": "tactical_combo_devices",
+    "image": "Steiner Dbal PL tactical flashlight.PNG",
+    "title": "Steiner Dbal PL tactical flashlight",
+    "pageId": 15536,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3b/Steiner_Dbal_PL_tactical_flashlight.PNG?version=f6f6f7a883cb4ae8c90f0943c962efaf",
+    "filePath": "steiner_dbal_pl_tactical_flashlight",
+    "marketSearchName": "Steiner Dbal PL tactical flashlight",
+    "marketPositionOffset": 0,
+    "price_array": [
+      15550,
+      15888
+    ],
+    "slots": 1,
+    "timestamp": "20191212213345",
+    "price_per_slot": 15719,
+    "price_avg": 15719
+  }
+]
