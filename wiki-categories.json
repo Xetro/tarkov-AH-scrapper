@@ -25,17 +25,19 @@
         "usePages": [1, 2, 3],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [3, 32, 33],
+        "ignore": [3],
         "useRegex": 0
     },
     "face_cover": {
         "name": "face_cover",
         "searchExceptions" : {},
-        "positionExceptions": {},
+        "positionExceptions": {
+            "Shemagh": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [4, 5, 6, 16],
+        "ignore": [4, 5, 6],
         "useRegex": 0
     },
     "eyewear": {
@@ -68,6 +70,26 @@
         },
         "positionExceptions": {},
         "usePages": [3],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "armored_chest_rigs": {
+        "name": "chest_rigs",
+        "searchExceptions" : { },
+        "positionExceptions": {},
+        "usePages": [2],
+        "nameIndex": 1,
+        "imgFileIndex": 0,
+        "ignore": [],
+        "useRegex": 0
+    },
+    "armor_vests": {
+        "name": "armor_vests",
+        "searchExceptions" : { },
+        "positionExceptions": {},
+        "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
@@ -268,12 +290,33 @@
     },
     "magazines": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "MPX with TTI Base pad +11 41-round 9x19 magazine": "MPX with TTI Base pad",
+            "PUFGUN SG-919 20 20-round 9x19 magazine for PP-19-01": "PUFGUN SG-919 20 20-round 9x19 magazine for",
+            "30-round 5.45x39 magazine for AK-12 and compatibles": "30-round 5.45x39 magazine for",
+            "6L29 30-round 5.56x45 magazine for АK-101 and compatible weapons": "6L29 30-round 5.56x45 magazine for",
+            "30-round 7.62x39 magazine for АK-103 and compatible weapons": "30-round 7.62x39 magazine for",
+            "30-round 6L23 5.45x39 magazine for AK-74 and compatibles": "30-round 6L23 5.45x39 magazine for",
+            "45-round 6L26 5.45x39 magazine for AK-74 and compatibles": "45-round 6L26 5.45x39 magazine for",
+            "MP-153 5-rd magazine extension": "5-rd magazine extension",
+            "MP-153 6-rd magazine extension": "6-rd magazine extension",
+            "MP-153 7-rd magazine extension": "7-rd magazine extension",
+            "MP-153 8-rd magazine extension": "8-rd magazine extension",
+            "60-round 6L31 5.45x39 magazine for AK-74 and compatibles": "60-round 6L31 5.45x39 magazine for",
+            "TT-105 7.62x25 TT Magazine": "TT-105 7.62x25",
+            "6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons": "6L20 30-round 5.45x39 magazine for",
+            "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons": "6L18 45-round 5.45x39 magazine for",
+            "10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles": "10-round Saiga 545 5.45x39 magazine for",
+            "2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106": "2-shot MC 20-01 Sb.3 20ga magazine for",
+            "Standard MP7 40-round 4.6x30 magazine": "Standard MP7 40-round"
+        },
+        "positionExceptions": {
+            "30-round 5.45x39 magazine for AK-12 and compatibles": 1
+        },
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [107],
+        "ignore": [51, 113, 120],
         "useRegex": 1,
         "additionalRegex": "Magazines(.|\n)+Mounts"
     },
@@ -554,7 +597,7 @@
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [0, 30],
+        "ignore": [0],
         "useRegex": 2,
         "additionalRegex": "Customs=(.|\n)+Woods="
     },

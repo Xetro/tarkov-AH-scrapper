@@ -1,0 +1,3045 @@
+[
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "T-Shaped Plug",
+        "quantity": 5
+      }
+    ],
+    "item": "Submachinegun 19-01 Vityaz-SN 9x19"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Clin wiper",
+        "quantity": 1
+      }
+    ],
+    "item": "30 pcs. 5.45x39 BP gs ammo pack"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Can of delicious beef stew",
+        "quantity": 1
+      }
+    ],
+    "item": "30 pcs. 5.45x39 BT gs ammo pack"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Spark plug",
+        "quantity": 2
+      }
+    ],
+    "item": "Zenit-Belomo PSO 1M2-1 4x24 scope"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Horse figurine",
+        "quantity": 2
+      }
+    ],
+    "item": "Kalashnikov AKS-74U 5.45x39"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Bolts",
+        "quantity": 1
+      },
+      {
+        "name": "Screw nut",
+        "quantity": 1
+      }
+    ],
+    "item": "PM 9x18PM pistol"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "A pack of screws",
+        "quantity": 1
+      },
+      {
+        "name": "Bolts",
+        "quantity": 1
+      }
+    ],
+    "item": "Stechkin Automatic Pistol 9x18PM"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "D Size Battery",
+        "quantity": 2
+      },
+      {
+        "name": "AA Battery",
+        "quantity": 4
+      }
+    ],
+    "item": "Mosin bolt-action sniper rifle"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Can of beef stew",
+        "quantity": 3
+      }
+    ],
+    "item": "AKM 7.62x39 assault rifle"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Dry fuel",
+        "quantity": 1
+      }
+    ],
+    "item": "30 pcs. 5.45x39 BT gs ammo pack"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Hot Rod",
+        "quantity": 2
+      }
+    ],
+    "item": "30 pcs. 5.45x39 BS gs ammo pack"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Energy-saving lamp",
+        "quantity": 1
+      }
+    ],
+    "item": "RGD-5 hand grenade"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Spark plug",
+        "quantity": 1
+      },
+      {
+        "name": "Wrench",
+        "quantity": 1
+      }
+    ],
+    "item": "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Round pliers",
+        "quantity": 1
+      }
+    ],
+    "item": "Standard 9x18PM 30-round magazine for PP-91"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Damaged hard drive",
+        "quantity": 2
+      }
+    ],
+    "item": "60-round 6L31 5.45x39 magazine for AK-74 and compatibles"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Pompon hat",
+        "quantity": 2
+      }
+    ],
+    "item": "MPL-50 entrenching tool"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "PC CPU",
+        "quantity": 1
+      }
+    ],
+    "item": "Yarygin MP-443 Grach 9x19 pistol"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Air filter for gas mask",
+        "quantity": 2
+      }
+    ],
+    "item": "Special Sniper Rifle VSS Vintorez"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Cat figurine",
+        "quantity": 1
+      }
+    ],
+    "item": "Kalashnikov AKS-74UB 5.45x39"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Malboro Cigarettes",
+        "quantity": 4
+      },
+      {
+        "name": "Apollon Soyuz cigarettes",
+        "quantity": 6
+      }
+    ],
+    "item": "SV-98 bolt-action sniper rifle"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Apollon Soyuz cigarettes",
+        "quantity": 5
+      }
+    ],
+    "item": "AK-74N"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Toothpaste",
+        "quantity": 2
+      },
+      {
+        "name": "Toilet paper",
+        "quantity": 2
+      }
+    ],
+    "item": "AK-74 5.45x39 assault rifle"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Insulating tape",
+        "quantity": 1
+      }
+    ],
+    "item": "8 pcs pack of 9x39 7N9 SPP ammo"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Energy-saving lamp",
+        "quantity": 2
+      }
+    ],
+    "item": "F-1 Hand grenade"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Pliers",
+        "quantity": 3
+      }
+    ],
+    "item": "30-round SR3M.130 9x39 SR3M magazine"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Water bottle with a filter Aquamari",
+        "quantity": 2
+      },
+      {
+        "name": "Air filter for gas mask",
+        "quantity": 2
+      }
+    ],
+    "item": "6h5 Bayonet"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "gunpowder \"Hawk\"",
+        "quantity": 1
+      }
+    ],
+    "item": "9x21 Serdyukov automatic pistol SR1MP Gyurza"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Geiger-Muller counter",
+        "quantity": 2
+      },
+      {
+        "name": "MRE",
+        "quantity": 4
+      }
+    ],
+    "item": "AS VAL"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Gunpowder \"Kite\"",
+        "quantity": 2
+      },
+      {
+        "name": "7.62x51 mm M61",
+        "quantity": 100
+      }
+    ],
+    "item": "RPK-16 5.45x39 light machine gun"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Long flat screwdriver",
+        "quantity": 2
+      },
+      {
+        "name": "Metal cutting scissors",
+        "quantity": 2
+      }
+    ],
+    "item": "Special Sniper Rifle VSS Vintorez"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Bottle of vodka Tarkovskaya",
+        "quantity": 3
+      }
+    ],
+    "item": "ASh-12 12.7x55 assault rifle"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Strike Cigarettes",
+        "quantity": 1
+      }
+    ],
+    "item": "8 pcs pack of 9x39 7N12 BP ammo"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Gunpowder \"Eagle\"",
+        "quantity": 1
+      }
+    ],
+    "item": "95-round 5.45x39 magazine for RPK-16 and compatibles"
+  },
+  {
+    "trader": "Prapor",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Military circuit board",
+        "quantity": 5
+      }
+    ],
+    "item": "ASh-12 12.7x55 assault rifle"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Paid AntiRoach",
+        "quantity": 1
+      }
+    ],
+    "item": "Salewa FIRST AID KIT"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Vita juice",
+        "quantity": 1
+      }
+    ],
+    "item": "Slickers bar"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Matches",
+        "quantity": 1
+      },
+      {
+        "name": "Crickent lighter",
+        "quantity": 1
+      }
+    ],
+    "item": "Can of pacific saury"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Disposable syringe",
+        "quantity": 1
+      }
+    ],
+    "item": "Iskra lunch box"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Matches",
+        "quantity": 2
+      }
+    ],
+    "item": "Analgin painkillers"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Duct tape",
+        "quantity": 2
+      }
+    ],
+    "item": "Car first aid kit"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Matches",
+        "quantity": 4
+      },
+      {
+        "name": "Crickent lighter",
+        "quantity": 4
+      }
+    ],
+    "item": "Pile of meds"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Disposable syringe",
+        "quantity": 2
+      }
+    ],
+    "item": "Immobilizing splint (alu)"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Rye croutons",
+        "quantity": 1
+      }
+    ],
+    "item": "Emelya rye croutons"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Golden neck chain",
+        "quantity": 4
+      }
+    ],
+    "item": "Customs office key"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Cat figurine",
+        "quantity": 1
+      },
+      {
+        "name": "Bronze lion",
+        "quantity": 1
+      },
+      {
+        "name": "Horse figurine",
+        "quantity": 5
+      }
+    ],
+    "item": "Documents case"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Crickent lighter",
+        "quantity": 10
+      },
+      {
+        "name": "Ortodontox toothpaste",
+        "quantity": 2
+      },
+      {
+        "name": "Toilet paper",
+        "quantity": 2
+      }
+    ],
+    "item": "Grizzly First Aid Kit"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Pack of sugar",
+        "quantity": 1
+      },
+      {
+        "name": "Sodium bicarbonate",
+        "quantity": 1
+      }
+    ],
+    "item": "IFAK personal tactical first aid kit"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Pile of meds",
+        "quantity": 6
+      }
+    ],
+    "item": "Pistol case"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Disposable syringe",
+        "quantity": 2
+      },
+      {
+        "name": "Ultraviolet lamp",
+        "quantity": 1
+      }
+    ],
+    "item": "Combat stimulant injector SJ1 TGLabs"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Medical bloodset",
+        "quantity": 7
+      },
+      {
+        "name": "Disposable syringe",
+        "quantity": 7
+      },
+      {
+        "name": "Vaseline",
+        "quantity": 2
+      }
+    ],
+    "item": "Meds case"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Purified water",
+        "quantity": 6
+      },
+      {
+        "name": "Water filter",
+        "quantity": 5
+      }
+    ],
+    "item": "RB-AK key"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Hydrogen peroxide",
+        "quantity": 8
+      },
+      {
+        "name": "Saline solution",
+        "quantity": 6
+      }
+    ],
+    "item": "Keytool"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Ophthalmoscope",
+        "quantity": 20
+      },
+      {
+        "name": "Pile of meds",
+        "quantity": 10
+      }
+    ],
+    "item": "Items case"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Condensed milk",
+        "quantity": 60
+      },
+      {
+        "name": "Pack of oat flakes",
+        "quantity": 10
+      }
+    ],
+    "item": "Key to KIBA store outlet"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Roler submariner gold wrist watch",
+        "quantity": 2
+      },
+      {
+        "name": "Golden neck chain",
+        "quantity": 5
+      },
+      {
+        "name": "Gold skull ring",
+        "quantity": 2
+      }
+    ],
+    "item": "Money case"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Portable defibrillator",
+        "quantity": 10
+      },
+      {
+        "name": "LEDX Skin Transilluminator",
+        "quantity": 10
+      },
+      {
+        "name": "Ibuprofen painkillers",
+        "quantity": 8
+      }
+    ],
+    "item": "T H I C C Items case"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "\"Fierce Hatchling\" moonshine",
+        "quantity": 40
+      },
+      {
+        "name": "Bottle of Dan Jackiel Whiskey",
+        "quantity": 30
+      },
+      {
+        "name": "Bottle of vodka Tarkovskaya",
+        "quantity": 25
+      }
+    ],
+    "item": "T H I C C Items case"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Hydrogen peroxide",
+        "quantity": 1
+      },
+      {
+        "name": "Saline solution",
+        "quantity": 1
+      }
+    ],
+    "item": "Combat stimulant injector SJ6 TGLabs"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Pile of meds",
+        "quantity": 1
+      },
+      {
+        "name": "Medical bloodset",
+        "quantity": 1
+      }
+    ],
+    "item": "Ibuprofen painkillers"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Pile of meds",
+        "quantity": 5
+      }
+    ],
+    "item": "Pack of sugar"
+  },
+  {
+    "trader": "Therapist",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Schaman shampoo",
+        "quantity": 5
+      }
+    ],
+    "item": "Regenerative stimulant injector eTG-change"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Horse figurine",
+        "quantity": 2
+      }
+    ],
+    "item": "Vepr KM / VPO-136 7.62x39 carbine"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Rechargeable battery",
+        "quantity": 1
+      }
+    ],
+    "item": "ADAR 2-15 .223 Carbine"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "D Size Battery",
+        "quantity": 6
+      }
+    ],
+    "item": "Rotor 43 9x19 muzzle brake"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "T-Shaped Plug",
+        "quantity": 1
+      }
+    ],
+    "item": "5 pcs. 12x70 DIPP ammo box"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 5
+      }
+    ],
+    "item": "Eotech 553 holographic sight"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 5
+      }
+    ],
+    "item": "Hensoldt FF 4-16x56 scope"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Wooden clock",
+        "quantity": 2
+      },
+      {
+        "name": "Roler submariner gold wrist watch",
+        "quantity": 1
+      }
+    ],
+    "item": "Trijicon REAP-IR thermal riflescope"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Horse figurine",
+        "quantity": 10
+      }
+    ],
+    "item": "DVL-10 Saboteur sniper rifle"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Chainlet",
+        "quantity": 2
+      }
+    ],
+    "item": "20 pcs. 9x19 mm DIPP ammo box"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Military COFDM wireless Signal Transmitter",
+        "quantity": 1
+      },
+      {
+        "name": "Military base checkpoint key",
+        "quantity": 1
+      },
+      {
+        "name": "Chain with Prokill medallion",
+        "quantity": 1
+      }
+    ],
+    "item": "M-2 Tactical Sword"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 4
+      }
+    ],
+    "item": "TGP-A 5.45x39 muzzle device/suppressor"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Phased array element",
+        "quantity": 1
+      }
+    ],
+    "item": "DVL-10 Saboteur sniper rifle"
+  },
+  {
+    "trader": "Skier",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "\"Fierce Hatchling\" moonshine",
+        "quantity": 7
+      },
+      {
+        "name": "Bottle of vodka Tarkovskaya",
+        "quantity": 2
+      }
+    ],
+    "item": "Weapon case"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Bars A-2607- 95x18",
+        "quantity": 8
+      }
+    ],
+    "item": "HK MP5 9x19 submachinegun (Navy 3 Round Burst)"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Zibbo lighter",
+        "quantity": 2
+      }
+    ],
+    "item": "M67 Hand grenade"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Bars A-2607- Damascus",
+        "quantity": 4
+      }
+    ],
+    "item": "P226R 9x19 pistol"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Damaged hard drive",
+        "quantity": 1
+      }
+    ],
+    "item": "Flyye MBSS Backpack"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 7
+      }
+    ],
+    "item": "SIG MPX 9x19 Submachine gun"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "PC CPU",
+        "quantity": 3
+      },
+      {
+        "name": "CPU Fan",
+        "quantity": 3
+      }
+    ],
+    "item": "Colt M4A1 5.56x45 Assault Rifle"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Damaged hard drive",
+        "quantity": 3
+      },
+      {
+        "name": "RAM",
+        "quantity": 2
+      }
+    ],
+    "item": "DS Arms SA-58 7.62x51"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "USB Adapter",
+        "quantity": 8
+      }
+    ],
+    "item": "Springfield Armory M1A 7.62x51"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "D Size Battery",
+        "quantity": 4
+      }
+    ],
+    "item": "20 pcs pack 5.56x45 Warmage ammo"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Printed circuit board",
+        "quantity": 2
+      }
+    ],
+    "item": "60-round MAG5-60 5.56x45 STANAG magazine"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Air filter for gas mask",
+        "quantity": 1
+      }
+    ],
+    "item": "Magpul PMAG D-60 5.56x45 60-round magazine"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 4
+      }
+    ],
+    "item": "SilencerCo Osprey 9 9x19mm sound suppressor"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 20
+      }
+    ],
+    "item": "Remington R11 RSASS 7.62x51"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Military cable",
+        "quantity": 2
+      }
+    ],
+    "item": "FN P90 5.7x28 submachinegun"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "\"Fierce Hatchling\" moonshine",
+        "quantity": 1
+      }
+    ],
+    "item": "GPNVG-18 Night Vision"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 1
+      }
+    ],
+    "item": "FN Five-seveN MK2 5.7x28 pistol"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Slim diary",
+        "quantity": 1
+      },
+      {
+        "name": "Diary",
+        "quantity": 1
+      }
+    ],
+    "item": "Folder with intelligence"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 3
+      }
+    ],
+    "item": "AK-74N 5.45x39 assault rifle"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Broken GPhone X",
+        "quantity": 1
+      }
+    ],
+    "item": "Crye Airframe Chops"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Broken GPhone X",
+        "quantity": 1
+      },
+      {
+        "name": "Power supply unit",
+        "quantity": 1
+      }
+    ],
+    "item": "HK MP7A2 4.6x30 submachinegun"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Bottle of Dan Jackiel Whiskey",
+        "quantity": 3
+      }
+    ],
+    "item": "Colt M4A1 5.56x45 Assault Rifle"
+  },
+  {
+    "trader": "Peacekeeper",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Phased array element",
+        "quantity": 4
+      },
+      {
+        "name": "Military circuit board",
+        "quantity": 5
+      },
+      {
+        "name": "LEDX Skin Transilluminator",
+        "quantity": 1
+      }
+    ],
+    "item": "Secure container Beta"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Broken GPhone",
+        "quantity": 1
+      },
+      {
+        "name": "Broken LCD",
+        "quantity": 2
+      }
+    ],
+    "item": "AN/PVS-14 Night Vision Monocular"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Pliers",
+        "quantity": 1
+      },
+      {
+        "name": "Screwdriver",
+        "quantity": 1
+      },
+      {
+        "name": "Wrench",
+        "quantity": 1
+      },
+      {
+        "name": "Insulating tape",
+        "quantity": 1
+      },
+      {
+        "name": "Construction measuring tape",
+        "quantity": 1
+      }
+    ],
+    "item": "A set of tools"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Gunpowder \"Kite\"",
+        "quantity": 4
+      },
+      {
+        "name": "Gunpowder \"Eagle\"",
+        "quantity": 1
+      }
+    ],
+    "item": "Ammo case"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Damaged hard drive",
+        "quantity": 2
+      }
+    ],
+    "item": "Custom plastic MP-133 forestock with mounts"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 1
+      }
+    ],
+    "item": "HK MP7A1 4.6x30 submachinegun"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Pliers Elite",
+        "quantity": 4
+      }
+    ],
+    "item": "MP-133 12ga shotgun"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Roler submariner gold wrist watch",
+        "quantity": 1
+      }
+    ],
+    "item": "Submachinegun 19-01 Vityaz-SN 9x19"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Wires",
+        "quantity": 1
+      },
+      {
+        "name": "Capacitors",
+        "quantity": 2
+      }
+    ],
+    "item": "TT pistol 7.62x25 TT"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 2
+      },
+      {
+        "name": "GP coin",
+        "quantity": 3
+      }
+    ],
+    "item": "Colt M4A1 5.56x45 Assault Rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Tetriz portable game",
+        "quantity": 1
+      }
+    ],
+    "item": "Physical bitcoin"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Electric drill",
+        "quantity": 1
+      },
+      {
+        "name": "Broken GPhone",
+        "quantity": 1
+      }
+    ],
+    "item": "Vulcan MG night scope 3.5x"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 1
+      }
+    ],
+    "item": "Wilcox Skull Lock head mount"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Weapon parts",
+        "quantity": 12
+      },
+      {
+        "name": "WD-40 100ml.",
+        "quantity": 4
+      },
+      {
+        "name": "Phased array element",
+        "quantity": 1
+      }
+    ],
+    "item": "AKM 7.62x39 assault rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "DVD drive",
+        "quantity": 5
+      },
+      {
+        "name": "Ultraviolet lamp",
+        "quantity": 3
+      },
+      {
+        "name": "Weapon parts",
+        "quantity": 2
+      }
+    ],
+    "item": "SIG MPX 9x19 Submachine gun"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Kinda cowboy hat",
+        "quantity": 3
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Military power filter",
+        "quantity": 1
+      }
+    ],
+    "item": "OP-SKS"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Broken LCD",
+        "quantity": 3
+      }
+    ],
+    "item": "Working LCD"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 5
+      }
+    ],
+    "item": "FN P90 5.7x28 submachinegun"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 1
+      }
+    ],
+    "item": "Simonov Semi-Automatic Carbine SKS 7.62x39"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Light bulb",
+        "quantity": 3
+      },
+      {
+        "name": "D Size Battery",
+        "quantity": 2
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Light bulb",
+        "quantity": 5
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Chainlet",
+        "quantity": 3
+      }
+    ],
+    "item": "PM/PPSH 9x18PM 84-round drum mag for PM"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 12
+      }
+    ],
+    "item": "Weapon case"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Military cable",
+        "quantity": 2
+      },
+      {
+        "name": "Energy-saving lamp",
+        "quantity": 5
+      }
+    ],
+    "item": "Remington Model 700 Sniper rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Powerbank",
+        "quantity": 1
+      },
+      {
+        "name": "Weapon parts",
+        "quantity": 1
+      }
+    ],
+    "item": "Remington Model 870 12ga shotgun"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Insulating tape",
+        "quantity": 20
+      }
+    ],
+    "item": "Springfield Armory M1A 7.62x51"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Mosin rifle sniper carbine stock",
+        "quantity": 1
+      },
+      {
+        "name": "Regular 730mm Mosin barrel",
+        "quantity": 1
+      },
+      {
+        "name": "Wilston cigarettes",
+        "quantity": 1
+      }
+    ],
+    "item": "Mosin bolt-action sniper rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Chain with Prokill medallion",
+        "quantity": 1
+      }
+    ],
+    "item": "Colt M4A1 5.56x45 Assault Rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Magnet",
+        "quantity": 2
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Damaged hard drive",
+        "quantity": 5
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "WD-40 400ml",
+        "quantity": 2
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Power supply unit",
+        "quantity": 1
+      }
+    ],
+    "item": "X Products X-5 MP5 50-round 9x19 magazine"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "AA Battery",
+        "quantity": 2
+      },
+      {
+        "name": "D Size Battery",
+        "quantity": 2
+      }
+    ],
+    "item": "SGA stock for M870"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Electric drill",
+        "quantity": 1
+      }
+    ],
+    "item": "SilencerCo Osprey 9 9x19mm sound suppressor"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "RAM",
+        "quantity": 4
+      },
+      {
+        "name": "T-Shaped Plug",
+        "quantity": 1
+      }
+    ],
+    "item": "Silencerco Hybrid 46 multi-caliber silencer"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Nippers",
+        "quantity": 1
+      },
+      {
+        "name": "Wrench",
+        "quantity": 1
+      }
+    ],
+    "item": "Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Rechargeable battery",
+        "quantity": 1
+      }
+    ],
+    "item": "Magpul MOE M870 forestock"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Power supply unit",
+        "quantity": 2
+      }
+    ],
+    "item": "Fab Defence GL Shock Stock"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Wilston cigarettes",
+        "quantity": 1
+      }
+    ],
+    "item": "Colt AR-15 charging handle for AR-15"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Malboro Cigarettes",
+        "quantity": 4
+      },
+      {
+        "name": "Apollon Soyuz cigarettes",
+        "quantity": 2
+      }
+    ],
+    "item": "260mm barrel for AR-15 and compatible 5.56x45"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "CPU Fan",
+        "quantity": 1
+      },
+      {
+        "name": "RAM",
+        "quantity": 1
+      }
+    ],
+    "item": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "T-Shaped Plug",
+        "quantity": 15
+      }
+    ],
+    "item": "ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Broken GPhone",
+        "quantity": 2
+      },
+      {
+        "name": "Printed circuit board",
+        "quantity": 1
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 1
+      },
+      {
+        "name": "Physical bitcoin",
+        "quantity": 1
+      }
+    ],
+    "item": "Colt M4A1 5.56x45 Assault Rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 4
+      }
+    ],
+    "item": "Colt M4A1 5.56x45 Assault Rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Malboro Cigarettes",
+        "quantity": 3
+      },
+      {
+        "name": "Military cable",
+        "quantity": 1
+      }
+    ],
+    "item": "AK-74M 5.45x39 assault rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Phased array element",
+        "quantity": 3
+      }
+    ],
+    "item": "6B43 Zabralo-Sh 6A Armor"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Weapon parts",
+        "quantity": 8
+      }
+    ],
+    "item": "DS Arms SA-58 7.62x51"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 2
+      }
+    ],
+    "item": "GLOCK 17 9x19 pistol"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Capacitors",
+        "quantity": 8
+      },
+      {
+        "name": "Weapon parts",
+        "quantity": 2
+      }
+    ],
+    "item": "RPK-16 5.45x39 light machine gun"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Wilston cigarettes",
+        "quantity": 17
+      }
+    ],
+    "item": "Springfield Armory M1A 7.62x51"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Magnet",
+        "quantity": 2
+      }
+    ],
+    "item": "Rotor 43 7.62x39 muzzle brake"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Wires",
+        "quantity": 4
+      }
+    ],
+    "item": "X Products X-5 MP5 50-round 9x19 magazine"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Weapon parts",
+        "quantity": 10
+      }
+    ],
+    "item": "DS Arms SA-58 7.62x51"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Electric motor",
+        "quantity": 8
+      },
+      {
+        "name": "Wires",
+        "quantity": 15
+      },
+      {
+        "name": "Broken LCD",
+        "quantity": 4
+      },
+      {
+        "name": "Phased array element",
+        "quantity": 1
+      }
+    ],
+    "item": "Weapon case"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 2
+      }
+    ],
+    "item": "AK-104 7.62x39 assault rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 1
+      },
+      {
+        "name": "GP coin",
+        "quantity": 2
+      }
+    ],
+    "item": "Lone Star TX-15 DML Rifle"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Military thermal vision module Iridium",
+        "quantity": 1
+      },
+      {
+        "name": "Military gyrotachometer",
+        "quantity": 2
+      },
+      {
+        "name": "Military circuit board",
+        "quantity": 1
+      }
+    ],
+    "item": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Military thermal vision module Iridium",
+        "quantity": 2
+      },
+      {
+        "name": "Military circuit board",
+        "quantity": 2
+      }
+    ],
+    "item": "Trijicon REAP-IR thermal riflescope"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 2
+      }
+    ],
+    "item": "TerraGroup Labs access keycard"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Physical bitcoin",
+        "quantity": 30
+      }
+    ],
+    "item": "T H I C C Weapon case"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Geiger-Muller counter",
+        "quantity": 1
+      }
+    ],
+    "item": "X-14 M14 50 round 7.62x51 magazine"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Broken GPhone",
+        "quantity": 1
+      }
+    ],
+    "item": "X-FAL FAL/SA-58 7.62x51 50 rnd magazine"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Printed circuit board",
+        "quantity": 3
+      }
+    ],
+    "item": "M14 Ultimak M8 upper part"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Round pliers",
+        "quantity": 4
+      }
+    ],
+    "item": "MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "NIXXOR lens",
+        "quantity": 4
+      }
+    ],
+    "item": "DS Arms SA-58 7.62x51"
+  },
+  {
+    "trader": "Mechanic",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "SAS drive",
+        "quantity": 2
+      },
+      {
+        "name": "SSD drive",
+        "quantity": 1
+      }
+    ],
+    "item": "Graphics card"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Ox bleach",
+        "quantity": 2
+      }
+    ],
+    "item": "6B47 Ratnik-BSh Helmet"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Soap",
+        "quantity": 2
+      },
+      {
+        "name": "Toilet paper",
+        "quantity": 4
+      }
+    ],
+    "item": "6B5-15 Zh -86 \"Uley\" armored rig"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Lower half-mask",
+        "quantity": 3
+      }
+    ],
+    "item": "PACA Soft Armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Chainlet",
+        "quantity": 1
+      }
+    ],
+    "item": "K1S Visor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 2
+      }
+    ],
+    "item": "Flyye MBSS Backpack"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Alyonka chocolate bar",
+        "quantity": 1
+      }
+    ],
+    "item": "VKBO army bag"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Printer paper",
+        "quantity": 2
+      }
+    ],
+    "item": "GSSh-01 active headset"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Chainlet",
+        "quantity": 1
+      }
+    ],
+    "item": "Tactical fleece hat"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 7
+      }
+    ],
+    "item": "6B47 Helmet with cover (flora digital)"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "TT pistol 7.62x25 TT Gold",
+        "quantity": 3
+      }
+    ],
+    "item": "5.11 Tactec plate carrier"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Anti-fragmentation glasses",
+        "quantity": 2
+      }
+    ],
+    "item": "UNTAR helmet"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Max energy",
+        "quantity": 3
+      }
+    ],
+    "item": "MF-UNTAR armor vest"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Coffee Majaica",
+        "quantity": 1
+      },
+      {
+        "name": "TarCola",
+        "quantity": 1
+      },
+      {
+        "name": "Pack of milk",
+        "quantity": 1
+      }
+    ],
+    "item": "BNTI Kirasa-N armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Piece of plexiglas",
+        "quantity": 2
+      }
+    ],
+    "item": "ZSh-1-2M face shield"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Matches",
+        "quantity": 6
+      }
+    ],
+    "item": "Peltor ComTac 2 headset"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Duct tape",
+        "quantity": 5
+      },
+      {
+        "name": "Heat-exchange alkali surface washer",
+        "quantity": 1
+      }
+    ],
+    "item": "ANA Tactical Alpha chest rig"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Energy-saving lamp",
+        "quantity": 3
+      }
+    ],
+    "item": "Camelbak Tri-Zip Backpack"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Piece of plexiglas",
+        "quantity": 3
+      }
+    ],
+    "item": "LSHZ-2DTM face shield"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 3
+      }
+    ],
+    "item": "Maska 1Sch helmet"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Golden neck chain",
+        "quantity": 2
+      },
+      {
+        "name": "Coffee Majaica",
+        "quantity": 3
+      }
+    ],
+    "item": "BNTI Gzhel-K armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Water bottle with a filter Aquamari",
+        "quantity": 4
+      }
+    ],
+    "item": "ANA Tactical M1 armored rig"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Round frame sunglasses",
+        "quantity": 4
+      },
+      {
+        "name": "K1S Visor",
+        "quantity": 3
+      }
+    ],
+    "item": "ANA Tactical M2 armored rig"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "GP-5 gasmask",
+        "quantity": 3
+      },
+      {
+        "name": "Neoprene mask",
+        "quantity": 6
+      }
+    ],
+    "item": "5.11 Tactec plate carrier"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Ortodontox toothpaste",
+        "quantity": 3
+      },
+      {
+        "name": "Schaman shampoo",
+        "quantity": 5
+      }
+    ],
+    "item": "Crye Precision AVS platecarrier"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Altyn face shield",
+        "quantity": 3
+      }
+    ],
+    "item": "Altyn face shield"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Antique teapot",
+        "quantity": 1
+      }
+    ],
+    "item": "Belt-A + Belt-B gear rig"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Pack of sugar",
+        "quantity": 1
+      },
+      {
+        "name": "Can of pacific saury",
+        "quantity": 3
+      },
+      {
+        "name": "Slickers bar",
+        "quantity": 3
+      }
+    ],
+    "item": "SSO \"Attack 2\" raid backpack"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Screwdriver",
+        "quantity": 5
+      },
+      {
+        "name": "Wrench",
+        "quantity": 5
+      },
+      {
+        "name": "Metal cutting scissors",
+        "quantity": 1
+      }
+    ],
+    "item": "DEVTAC Ronin ballistic helmet"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 10
+      }
+    ],
+    "item": "IOTV Gen4 armor (high mobility kit)"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Bottle of Dan Jackiel Whiskey",
+        "quantity": 3
+      }
+    ],
+    "item": "Ars Arma A18 Skanda plate carrier"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Ox bleach",
+        "quantity": 4
+      },
+      {
+        "name": "Schaman shampoo",
+        "quantity": 2
+      }
+    ],
+    "item": "Wartech TV-110 plate carrier"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Wooden clock",
+        "quantity": 4
+      },
+      {
+        "name": "Cat figurine",
+        "quantity": 2
+      }
+    ],
+    "item": "IOTV Gen4 armor (full protection)"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Piece of plexiglas",
+        "quantity": 4
+      }
+    ],
+    "item": "Altyn face shield"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "GP coin",
+        "quantity": 2
+      }
+    ],
+    "item": "Maska 1Sch face shield"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Piece of plexiglas",
+        "quantity": 7
+      }
+    ],
+    "item": "Vulkan-5 face shield"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Bronze lion",
+        "quantity": 3
+      }
+    ],
+    "item": "IOTV Gen4 armor (full protection)"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Antique vase",
+        "quantity": 2
+      },
+      {
+        "name": "Antique teapot",
+        "quantity": 3
+      }
+    ],
+    "item": "Zhuk-6a heavy armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 10
+      }
+    ],
+    "item": "ANA Tactical M2 armored rig"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 6
+      }
+    ],
+    "item": "Altyn face shield"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Paracord",
+        "quantity": 1
+      },
+      {
+        "name": "Ox bleach",
+        "quantity": 3
+      }
+    ],
+    "item": "Mystery Ranch Blackjack 50 backpack (multicam)"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 1
+      }
+    ],
+    "item": "Kinda cowboy hat"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Marked key",
+        "quantity": 1
+      },
+      {
+        "name": "Office 112 West wing key",
+        "quantity": 1
+      },
+      {
+        "name": "Paracord",
+        "quantity": 7
+      }
+    ],
+    "item": "Crash Axe"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Dogtag",
+        "quantity": 25
+      }
+    ],
+    "item": "6B43 Zabralo-Sh 6A Armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "6B43 Zabralo-Sh 6A Armor",
+        "quantity": 4
+      }
+    ],
+    "item": "6B43 Zabralo-Sh 6A Armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Round pliers",
+        "quantity": 5
+      },
+      {
+        "name": "Construction measuring tape",
+        "quantity": 5
+      },
+      {
+        "name": "Pliers",
+        "quantity": 4
+      }
+    ],
+    "item": "Altyn helmet"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "\"Fierce Hatchling\" moonshine",
+        "quantity": 1
+      },
+      {
+        "name": "Bottle of vodka Tarkovskaya",
+        "quantity": 5
+      }
+    ],
+    "item": "6B43 Zabralo-Sh 6A Armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Gold skull ring",
+        "quantity": 3
+      },
+      {
+        "name": "Golden neck chain",
+        "quantity": 6
+      }
+    ],
+    "item": "IOTV Gen4 armor (assault kit)"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Air filter for gas mask",
+        "quantity": 4
+      },
+      {
+        "name": "Paracord",
+        "quantity": 2
+      }
+    ],
+    "item": "FORT Redut-T5 body armor"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Antique vase",
+        "quantity": 1
+      },
+      {
+        "name": "Chainlet",
+        "quantity": 6
+      }
+    ],
+    "item": "5.11 Tactec plate carrier"
+  },
+  {
+    "trader": "Ragman",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Gold skull ring",
+        "quantity": 1
+      },
+      {
+        "name": "Golden neck chain",
+        "quantity": 2
+      }
+    ],
+    "item": "Ars Arma A18 Skanda plate carrier"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Wrench",
+        "quantity": 2
+      },
+      {
+        "name": "Screwdriver",
+        "quantity": 2
+      }
+    ],
+    "item": "MP-153 12ga semi-automatic shotgun"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Soap",
+        "quantity": 1
+      }
+    ],
+    "item": "VKBO army bag"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Bolts",
+        "quantity": 2
+      }
+    ],
+    "item": "Cobra EKP-8-18 reflex sight"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Zibbo lighter",
+        "quantity": 1
+      }
+    ],
+    "item": "Sb.5 5-round 12/76 magazine for SOK-12 and compatible weapons"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Matches",
+        "quantity": 2
+      }
+    ],
+    "item": "Dovetail OP-SKS mount."
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Nippers",
+        "quantity": 3
+      }
+    ],
+    "item": "CMS kit"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 1,
+    "trade": [
+      {
+        "name": "Matches",
+        "quantity": 15
+      }
+    ],
+    "item": "Metal fuel tank"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Powerbank",
+        "quantity": 1
+      },
+      {
+        "name": "Magnet",
+        "quantity": 2
+      },
+      {
+        "name": "Ultraviolet lamp",
+        "quantity": 1
+      }
+    ],
+    "item": "Nightforce ATACR 7-35x56 riflescope"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "5L propane tank",
+        "quantity": 1
+      }
+    ],
+    "item": "34mm one piece magmount made by Nightforce"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Iskra lunch box",
+        "quantity": 4
+      },
+      {
+        "name": "MRE",
+        "quantity": 1
+      },
+      {
+        "name": "Factory exit key",
+        "quantity": 1
+      }
+    ],
+    "item": "Factory exit key"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 2,
+    "trade": [
+      {
+        "name": "Hot Rod",
+        "quantity": 10
+      },
+      {
+        "name": "TarCola",
+        "quantity": 5
+      },
+      {
+        "name": "Can of herring",
+        "quantity": 5
+      },
+      {
+        "name": "Squash spread",
+        "quantity": 5
+      }
+    ],
+    "item": "Mr. Holodilnick thermobag"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Pack of sugar",
+        "quantity": 5
+      },
+      {
+        "name": "Water bottle with a filter Aquamari",
+        "quantity": 2
+      }
+    ],
+    "item": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Iskra lunch box",
+        "quantity": 3
+      }
+    ],
+    "item": "Bramit silencer for a Mosin rifle"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Paracord",
+        "quantity": 10
+      },
+      {
+        "name": "Duct tape",
+        "quantity": 15
+      },
+      {
+        "name": "Insulating tape",
+        "quantity": 10
+      },
+      {
+        "name": "A pack of nails",
+        "quantity": 12
+      }
+    ],
+    "item": "Small S I C C case"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Toothpaste",
+        "quantity": 5
+      },
+      {
+        "name": "Toilet paper",
+        "quantity": 5
+      },
+      {
+        "name": "Hydrogen peroxide",
+        "quantity": 2
+      }
+    ],
+    "item": "Camper axe"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Dry fuel",
+        "quantity": 10
+      },
+      {
+        "name": "5L propane tank",
+        "quantity": 12
+      },
+      {
+        "name": "Fuel conditioner",
+        "quantity": 5
+      }
+    ],
+    "item": "Red Rebel Ice pick"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Radiator helix",
+        "quantity": 10
+      }
+    ],
+    "item": "Trijicon REAP-IR thermal riflescope"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 3,
+    "trade": [
+      {
+        "name": "Can of sprats",
+        "quantity": 5
+      },
+      {
+        "name": "Water bottle with a filter Aquamari",
+        "quantity": 4
+      },
+      {
+        "name": "Squash spread",
+        "quantity": 6
+      }
+    ],
+    "item": "Saiga 12ga ver. 10 12/76 shotgun"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Water bottle with a filter Aquamari",
+        "quantity": 1
+      }
+    ],
+    "item": "20 pcs. 9x19 mm DIPP ammo box"
+  },
+  {
+    "trader": "Jaeger",
+    "traderLoyalty": 4,
+    "trade": [
+      {
+        "name": "Humpback salmon",
+        "quantity": 5
+      }
+    ],
+    "item": "20 pcs pack 5.56x45 Warmage ammo"
+  }
+]

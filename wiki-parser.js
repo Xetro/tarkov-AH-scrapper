@@ -6,7 +6,7 @@ const OPTIONS = {
   method: "get"
 };
 
-const REQ_DELAY = 200;
+const REQ_DELAY = 300;
 
 const wikitextRegex = {
   0: /\!\s?\[\[(.*?)\]\]/g,
@@ -163,7 +163,6 @@ const getItemSize = (item, pageId, index) => {
   return new Promise((resolve, reject) => {
     setTimeout(async () => {
       try {
-
         const path = `/api.php?action=query&prop=revisions&rvprop=content&format=json&pageids=${pageId}`; //&rvsection=0 removed because errors sometimes
         const data = await wikiAPIRequest(path);
         const keys = Object.keys(data.query.pages);
@@ -193,7 +192,12 @@ const getItemPage = (item, index) => {
   return new Promise((resolve, reject) => {
     setTimeout(async () => {
       try {
-        const pageTitle = encodeURIComponent(item);
+        let pageTitle = encodeURIComponent(item);
+        if (item === '6B5-16 Zh -86 "Uley" armored rig') {
+          pageTitle = '6B5-16';
+        } else if (item === '6B5-15 Zh -86 "Uley" armored rig') {
+          pageTitle = '6B5-15';
+        }
         const path = `/api.php?action=query&list=search&srlimit=1&srsearch=${pageTitle}&format=json`;
 
         const data = await wikiAPIRequest(path);
@@ -213,9 +217,14 @@ const getImageUrl = (item, index) => {
   return new Promise((resolve, reject) => {
     setTimeout(async () => {
       try {
-        const imageTitle = encodeURIComponent(item.image);
-        const path = `/api.php?action=query&prop=imageinfo&format=json&titles=File:${imageTitle}&iiprop=url`;
+        let imageTitle;
+        if (item.image !== "Molot_magazine_for_AK_and_compatibles%2C_75-round_capacity_icon.png") {
+          imageTitle = encodeURIComponent(item.image);
+        } else {
+          imageTitle = item.image;
+        }
 
+        const path = `/api.php?action=query&prop=imageinfo&format=json&titles=File:${imageTitle}&iiprop=url`;
         const data = await wikiAPIRequest(path);
 
         const keys = Object.keys(data.query.pages);
@@ -228,6 +237,61 @@ const getImageUrl = (item, index) => {
     }, REQ_DELAY * index);
   });
 };
+
+const getBarters = async () => {
+  const barterItemAndCount = /link=(.*?)\]\](.*?)?(x\d+)?(.*?)(?=\[\[)/gs;
+  const singleBarter = /\|-(.*?)(?=\|-)/gs;
+  const barterLevel = /LL(\d)/g;
+
+  const path = `/api.php?action=parse&page=barter_trades&prop=wikitext&format=json`;
+  const data = await wikiAPIRequest(path);
+
+  let wikiText = data.parse.wikitext["*"];
+
+  let barterMatches = wikiText.matchAll(singleBarter);
+  let barters = []
+
+  for (let barter of barterMatches) {
+    let trades = {
+      trader: "undefined",
+      traderLoyalty: 1,
+      trade: [],
+      item: undefined
+    }
+
+    traderSet = false;
+    let matches = barter[1].matchAll(barterItemAndCount)
+
+    for (let match of matches) {
+      if (
+        match[1] === 'Prapor' || 
+        match[1] === 'Therapist' || 
+        match[1] === 'Skier' || 
+        match[1] === 'Peacekeeper' || 
+        match[1] === 'Ragman' || 
+        match[1] === 'Jaeger' || 
+        match[1] === 'Mechanic'
+      ) {
+        trades.trader = match[1];
+        let lvl = Array.from(barter[1].matchAll(barterLevel), m => m[1]);
+        trades.traderLoyalty = parseInt(lvl[0]);
+        traderSet = true;
+      } else if (!traderSet) {
+        let quantity = match[3] ? parseInt(match[3].slice(1)) : 1;
+        let item = {
+          name: match[1],
+          quantity
+        }
+
+        trades.trade.push(item);
+      } else {
+        trades.item = match[1];
+        barters.push(trades);
+      }
+    }
+  }
+  return barters;
+}
 
 const wikiAPIRequest = path => {
   return new Promise((resolve, reject) => {
@@ -266,5 +330,6 @@ const withRetries = (request, retries=4, err=null) => {
 }
 
 module.exports = {
-  getItemsFromCategory
+  getItemsFromCategory,
+  getBarters
 };

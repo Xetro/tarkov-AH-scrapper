@@ -153,8 +153,8 @@ const runOCR = async (category) => {
         item.price_array = item.price_array.map(price => parseInt(price));
 
         let price_avg;
-        if (item.price_array.length > 2) {
-            const sliced = item.price_array.slice(0, 3);
+        if (item.price_array.length > 1) {
+            const sliced = item.price_array.slice(0, 2);
             const sum = sliced.reduce((acc, val) => acc + val, 0);
             price_avg = Math.floor(sum / sliced.length);
         } else {
@@ -226,6 +226,9 @@ const correctPriceErrors = (item) => {
         args = args.slice(1);
         if (args.length && args[0] === 'all') {
             allCategories().catch(err => console.log('Error: ', err));
+        } else if (args.length && args[0] === 'barters') {
+            const bartersJSON = await wikiParser.getBarters();
+            await writeFile(`./data/barters/barter-data.json`, JSON.stringify(bartersJSON, null, 2));
         } else if (args.length) {
             for (const category of args) {
                 await singleCategory(category).catch(err => console.log('Error: ', err));
