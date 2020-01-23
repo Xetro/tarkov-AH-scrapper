@@ -89,7 +89,7 @@ const singleCategory = async (category) => {
 
 const takeFromOld = async (category, name) => {
     let backups = glob.sync(`./data/backup/${category}-data-*.json`);
-    console.log('BACKUPS: ', backups);
+    console.log('BACKUPS: ', backups.length);
     if (!backups.length) {
          console.log('NO BACKUPS - RETURNING 0: ');
         return 0;
@@ -153,13 +153,12 @@ const runOCR = async (category) => {
         item.price_array = item.price_array.map(price => parseInt(price));
 
         let price_avg;
-        if (item.price_array.length > 1) {
+        if (item.price_array.length > 2) {
             const sliced = item.price_array.slice(0, 2);
             const sum = sliced.reduce((acc, val) => acc + val, 0);
             price_avg = Math.floor(sum / sliced.length);
         } else {
-            const sum = item.price_array.reduce((acc, val) => acc + val, 0);
-            price_avg = Math.floor(sum / item.price_array.length);
+            price_avg = item.price_array[0];
         }
 
         const slots = item.size.width * item.size.height;

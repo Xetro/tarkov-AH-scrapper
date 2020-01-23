@@ -6,7 +6,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #include screen.ahk
 #include JSON.ahk
 
-
 #Persistent
 
 ; Written by LorenWard
@@ -15,8 +14,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 *~F2::
 
-Categories := ["loot"]
-
+Categories := ["suppressors", "medical", "injectors", "provisions", "keys_labs", "keys_reserve", "keys_shoreline", "loot"]
+ 
 FileRead, slow_search, slow_search.txt
 sSlow_search := StrReplace(slow_search, "`r`n", ",")
 
@@ -43,19 +42,23 @@ for index, category in Categories
 		MouseMove, 150, 120
 		sleep 200
 		Click  
-		sleep 400
-		Send, %search%
+		sleep 200
+		SendRaw, %search%
 		if (category = "magazines") {
 			if search in %sSlow_search%
 				sleep 4000
+		} if (category = "762x51" or category = "762x54" or category = "762x39" or category = "762x25") {
+			if search in %sSlow_search%
+				sleep 2000
 		} else {
 			if search contains %sSlow_search% 
-				sleep 3000
+				sleep 4000
 		}
-		sleep 1000
+		sleep 400
 		MouseMove, 150, %y%
 		sleep 400
 		Click 
+		
 		filename := v.filePath
 		timestamp := A_now
 		prePath := "../data/images/raw/"

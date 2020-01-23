@@ -6,7 +6,7 @@ const OPTIONS = {
   method: "get"
 };
 
-const REQ_DELAY = 300;
+const REQ_DELAY = 100;
 
 const wikitextRegex = {
   0: /\!\s?\[\[(.*?)\]\]/g,
@@ -29,7 +29,7 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
   results = [].concat.apply([], results);
 
   if (categoryData.ignore.length) {
-    results = results.filter((item, index) => !categoryData.ignore.includes(index));
+    results = results.filter((item) => !categoryData.ignore.includes(item[categoryData.nameIndex]));
   }
 
   promiseArray = [];
@@ -59,7 +59,7 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
 
   promiseArray = [];
   for (let [index, item] of results.entries()) {
-    const boundFunction = getItemSize.bind(null, item.title, item.pageId, index);
+    const boundFunction = getItemSize.bind(null, item.name, item.pageId, index);
     const sizeRequest = withRetries(boundFunction);
     promiseArray.push(sizeRequest);
   }
@@ -193,10 +193,21 @@ const getItemPage = (item, index) => {
     setTimeout(async () => {
       try {
         let pageTitle = encodeURIComponent(item);
-        if (item === '6B5-16 Zh -86 "Uley" armored rig') {
-          pageTitle = '6B5-16';
-        } else if (item === '6B5-15 Zh -86 "Uley" armored rig') {
-          pageTitle = '6B5-15';
+        switch (item) {
+          case '6B5-16 Zh -86 "Uley" armored rig':
+            pageTitle = '6B5-16';
+            break;
+          case '6B5-15 Zh -86 "Uley" armored rig':
+            pageTitle = '6B5-15';
+            break;   
+          case 'A*B Arms MOD X mount for M700':
+            pageTitle = encodeURIComponent('Arms MOD X mount for M700');
+            break; 
+          case 'A*B Arms MOD X Gen.3 keymod handguard for M700':
+            pageTitle = encodeURIComponent('Arms MOD X Gen.3 keymod handguard for M700');
+            break;     
+          default:
+            break;
         }
         const path = `/api.php?action=query&list=search&srlimit=1&srsearch=${pageTitle}&format=json`;
 
@@ -222,6 +233,11 @@ const getImageUrl = (item, index) => {
           imageTitle = encodeURIComponent(item.image);
         } else {
           imageTitle = item.image;
+        }
+
+        if (item.name === "Arbalet Patriot K+W mount") {
+          console.log(imageTitle);
+          console.log(item.image);
         }
 
         const path = `/api.php?action=query&prop=imageinfo&format=json&titles=File:${imageTitle}&iiprop=url`;

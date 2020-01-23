@@ -55,7 +55,19 @@ const prepareImage = async (processedImgPath, filePath) => {
   }
 }
 
+const prepareAll = async () => {
+  let files = fs.readdirSync('./data/images/raw');
+  files.forEach(async (file) => {
+    const processedImgPath = `./data/images/processed/${file.slice(0, -3)}tif`;
+    const filePath = `./data/images/raw/${file}`;
+    await prepareImage(processedImgPath, filePath);
+  });
+ 
+
+}
+
 module.exports = {
   processImage,
-  initOCR
+  initOCR,
+  prepareAll
 };

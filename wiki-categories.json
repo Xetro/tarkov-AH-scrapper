@@ -12,12 +12,16 @@
         "usePages": [1, 9, 14, 15],
         "nameIndex": 0,
         "imgFileIndex": 1,
-        "ignore": [6, 13],
+        "ignore": [
+            "AK-74",
+            "AKS-74"
+        ],
         "useRegex": 1
     },
     "headwear": {
         "name": "headwear",
         "searchExceptions" : {
+            "SSh-68 helmet (1968 steel helmet)": "SSh-68 helmet",
             "Highcom Striker ACHHC IIIA helmet": "Highcom Striker ACHHC IIIA black",
             "Highcom Striker ULACH IIIA helmet": "Highcom Striker ULACH IIIA black"
         },
@@ -25,7 +29,7 @@
         "usePages": [1, 2, 3],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [3],
+        "ignore": [],
         "useRegex": 0
     },
     "face_cover": {
@@ -37,7 +41,7 @@
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [4, 5, 6],
+        "ignore": [],
         "useRegex": 0
     },
     "eyewear": {
@@ -173,14 +177,38 @@
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": [
+            "GK-01 compensator",
+            "SilencerCo choke adapter for 12ga shotguns"
+        ],
         "useRegex": 1,
         "additionalRegex": "Muzzle adapters(.|\n)+Flash hiders & muzzle brakes"
     },
     "flash_hiders_muzzle_brakes": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "SRVV 7.62x39 AK muzzlebrake & compensator": "SRVV 7.62x39",
+            "SRVV 5.45x39 AK-74 muzzlebrake": "SRVV 5.45x39",
+            "Socom 16 7.62x51 muzzlebrake & compensator for M1A (threaded)": "Socom 16 7.62x51 muzzlebrake & compensator for M1A",
+            "Socom 16 7.62x51 muzzlebrake & compensator for M1A (unthreaded)": "Socom 16 7.62x51 muzzlebrake & compensator for M1A",
+            "Izhmash 5.56x45 АK-102 muzzlebrake & compensator (6P44 0-20)": "6P44 0-20",
+            "Izhmash 7.62x39 АK-103 muzzlebrake & compensator": "Izhmash 7.62x39 А",
+            "Izhmash 7.62x39 АK-104 muzzlebrake & compensator (6P46 0-20)": "6P46 0-20",
+            "Izhmash 5.45x39 АK-105 muzzlebrake & compensator (6P44 0-20)": "6P44 0-20",
+            "Izhmash 5.45x39 АK-74M muzzlebrake & compensator (6P20 0-20)": "6P20 0-20",
+            "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)": "6P20 0-20",
+            "Izhmash 5.56x45 АK-101 muzzlebrake & compensator": "Izhmash 5.56x45",
+            "DVL-10 M2 muzzle break": "DVL-10",
+            "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator": "Izhmash 5.45x39 RP",
+            "Venom Antidote muzzlebrake & compensator for AK": "Venom Antidote muzzlebrake & compensator for",
+            "Alpha Wolf Bullnose 9x19 Compensator": "Alpha Wolf Bullnose",
+            "Izhmash 7.62x39 AKM muzzlebrake & compensator (6P1 0-14)": "6P1 0-14"
+        },
+        "positionExceptions": {
+            "Socom 16 7.62x51 muzzlebrake & compensator for M1A (threaded)": 1,
+            "DVL-10 M2 muzzle break": 5,
+            "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)": 1
+        },
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -199,7 +227,7 @@
         "usePages": [2],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [35],
+        "ignore": [],
         "useRegex": 1,
         "additionalRegex": "Suppressors(.|\n)+"
     },
@@ -214,7 +242,7 @@
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [0],
+        "ignore": ["ELCAN Specter OS4x assault scope"],
         "useRegex": 1,
         "additionalRegex": "Assault scopes(.|\n)+Reflex sights"
     },
@@ -262,7 +290,10 @@
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [5, 14],
+        "ignore": [
+            "Nightforce NXS 2.5-10x24 scope",
+            "PAG-17 scope"
+        ],
         "useRegex": 1,
         "additionalRegex": "Scopes(.|\n)+Special scopes"
     },
@@ -316,18 +347,25 @@
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [51, 113, 120],
+        "ignore": [
+            "100 rounds belt",
+            "MP-153 foreend cap",
+            "AGS-30 30-Grenades box 30x29"
+        ],
         "useRegex": 1,
         "additionalRegex": "Magazines(.|\n)+Mounts"
     },
     "mounts": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "Arbalet Patriot K+W mount": "Arbalet Patriot K",
+            "Arms 18 mount for M14": "Arms #18 mount"
+        },
         "positionExceptions": {},
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [96],
+        "ignore": [],
         "useRegex": 1,
         "additionalRegex": "Mounts(.|\n)+Stocks & chassis"
     },
@@ -360,14 +398,7 @@
         "usePages": [4],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [
-            17,
-            25,
-            26,
-            49,
-            56,
-            61
-        ],
+        "ignore": [],
         "useRegex": 1,
         "additionalRegex": "Stocks & chassis(.|\n)+"
     },
@@ -388,7 +419,7 @@
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [2, 4, 5, 28, 29, 64, 65, 66, 67, 72],
+        "ignore": [],
         "useRegex": 1,
         "additionalRegex": "Barrels(.|\n)+Gas blocks"
     },
@@ -416,7 +447,7 @@
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [72, 3, 13, 20, 48, 77, 84],
+        "ignore": [],
         "useRegex": 1,
         "additionalRegex": "Handguards(.|\n)+Pistol grips"
     },
@@ -433,14 +464,26 @@
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [26, 37, 53],
+        "ignore": [],
         "useRegex": 1,
         "additionalRegex": "Pistol grips(.|\n)+Receivers & slides "
     },
     "receivers_slides": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Izhmash АK-74M dust cover (6P34 0-1)": "6P34 0-1",
+            "Izhmash AK-74 dust cover (6P1 0-1)": "6P1 0-1",
+            "Izhmash AKM dust cover (6P1 0-1)": "6P1 0-1",
+            "Molot AKM type dust cover": "type dust cover",
+            "Zenit B-33 dust cover for AK-74": "Zenit B-33 dust cover",
+            "AKademia Bastion dust cover for AK": "AKademia Bastion dust cover",
+            "Fab Defence PDC dust cover for AK-74": "Fab Defence PDC dust cover",
+            "TWS Dog leg rail dust cover for AK": "TWS Dog leg rail dust cover"
+        },
+        "positionExceptions": {
+            "Izhmash AK-74 dust cover (6P1 0-1)": 1,
+            "Izhmash AKM dust cover (6P1 0-1)": 2
+        },
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -569,7 +612,9 @@
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [2],
+        "ignore": [
+            "Dogtag"
+        ],
         "useRegex": 0
     },
     "keys_factory": {
@@ -597,7 +642,9 @@
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [0],
+        "ignore": [
+            "Factory exit key"
+        ],
         "useRegex": 2,
         "additionalRegex": "Customs=(.|\n)+Woods="
     },
@@ -619,7 +666,9 @@
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [1],
+        "ignore": [
+            "The key to the closed premises of the sanatorium"
+        ],
         "useRegex": 2,
         "additionalRegex": "Shoreline(.|\n)+Interchange="
     },
@@ -659,8 +708,7 @@
     "containers": {
         "name": "containers",
         "searchExceptions" : {
-            "Mr. Holodilnick thermobag": "Holodilnick",
-            "Magazine case": "Magazine"
+            "Mr. Holodilnick thermobag": "Holodilnick"
         },
         "positionExceptions": {
             "Items case": 1
@@ -811,7 +859,7 @@
         "name": ".366_TKM",
         "searchExceptions" : {
             ".366 TKM EKO": "EKO",
-            ".366 TKM FMJ": ".366 ",
+            ".366 TKM FMJ": "FMJ",
             ".366 TKM Geksa": "Geksa"
         },
         "positionExceptions": {

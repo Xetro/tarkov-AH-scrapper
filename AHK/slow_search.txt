@@ -21,3 +21,26 @@ PUFGUN SG-919 30 30-round 9x19 magazine for PP-19-01
 7.62x39 ribbed metal magazine for AK and compatibles,, 10-round capacity
 30-round 6L23 5.45x39 magazine for
 45-round 6L26 5.45x39 magazine for
+Fortis Red Brake 7.62x51 muzzle brake for AR-10
+Socom 16 7.62x51 muzzlebrake & compensator for M1A
+Compensator 2A \"X3\" 7.62x51 for AR-10
+Stock silencer for PB 9x18 PM
+Stock adapter Tactica Tula 12003 for MP-133/153
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm Ultra Nosler
+7.62x51 mm TPZ SP
+7.62x51 mm BPZ FMJ
+7.62x54R 7N1 Sniper cartridge
+7.62x54R SNB
+7.62x54R LPS Gzh
+7.62x54R T-46M
+7.62x54R 7N37
+7.62x54R 7BT1
+7.62x39 mm US
+7.62x39 mm T45M
+7.62x39 mm HP
+7.62x39 mm BP
+7.62x25mm TT PT gzh
+7.62x25mm TT Pst gzh
