@@ -662,14 +662,14 @@
   {
     "name": "Key to HEP station storage",
     "category": "keys_shoreline",
-    "image": "wiki.png",
+    "image": "HEPSKeyIcon.png",
     "title": "Key to HEP station storage",
     "pageId": 15631,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a0/HEPSKeyIcon.png?version=db3b352688e561d9c1edc77b851e55c5",
     "filePath": "key_to_hep_station_storage",
     "marketSearchName": "Key to HEP station storage",
     "marketPositionOffset": 0

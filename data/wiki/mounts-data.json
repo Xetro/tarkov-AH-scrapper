@@ -15,6 +15,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Arms 18 mount for M14",
+    "category": "mounts",
+    "image": "Arms18icon.png",
+    "title": "Arms 18 mount for M14",
+    "pageId": 10416,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Arms18icon.png?version=f78598c4ae97bdb07d981efa5386d609",
+    "filePath": "arms_18_mount_for_m14",
+    "marketSearchName": "Arms #18 mount",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "SVDS Upper Band",
     "category": "mounts",
     "image": "SVDS Lower Band icon.png",
@@ -24,7 +39,7 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/SVDS_Lower_Band_icon.png?version=5730721d62d4e69b58191c69fd893c20",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/SVDS_Lower_Band_icon.png?version=9a8019537aca09c5f7a38114af1c28f3",
     "filePath": "svds_upper_band",
     "marketSearchName": "SVDS Upper Band",
     "marketPositionOffset": 0
@@ -225,18 +240,18 @@
     "marketPositionOffset": 0
   },
   {
-    "name": "Compact mount Mount for sights",
+    "name": "Compact mount for sights",
     "category": "mounts",
     "image": "Compact mount Mount for sights icon.png",
-    "title": "Compact mount Mount for sights",
+    "title": "Compact mount for sights",
     "pageId": 12789,
     "size": {
       "width": "1",
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/Compact_mount_Mount_for_sights_icon.png?version=f1ae9503933491e4354c4e5e4bacc8a1",
-    "filePath": "compact_mount_mount_for_sights",
-    "marketSearchName": "Compact mount Mount for sights",
+    "filePath": "compact_mount_for_sights",
+    "marketSearchName": "Compact mount for sights",
     "marketPositionOffset": 0
   },
   {
@@ -537,21 +552,6 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/22/UTG4Icon.png?version=8a70445aaadd5c2579d22b4134c30be1",
     "filePath": "m14_utg_4_point_locking_deluxe_mount",
     "marketSearchName": "M14 UTG 4 point locking deluxe mount",
-    "marketPositionOffset": 0
-  },
-  {
-    "name": "Arms 18 mount for M14",
-    "category": "mounts",
-    "image": "Arms18icon.png",
-    "title": "Arms 18 mount for M14",
-    "pageId": 10416,
-    "size": {
-      "width": "1",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Arms18icon.png?version=f78598c4ae97bdb07d981efa5386d609",
-    "filePath": "arms_18_mount_for_m14",
-    "marketSearchName": "Arms 18 mount for M14",
     "marketPositionOffset": 0
   },
   {
@@ -1397,14 +1397,14 @@
   {
     "name": "FN EFFEN 90 rail",
     "category": "mounts",
-    "image": "wiki.png",
+    "image": "EFFEN Icon.png",
     "title": "FN EFFEN 90 rail",
     "pageId": 15424,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5b/EFFEN_Icon.png?version=f7b7ea3763f99c5d642cea27b2cff4fe",
     "filePath": "fn_effen_90_rail",
     "marketSearchName": "FN EFFEN 90 rail",
     "marketPositionOffset": 0
@@ -1440,16 +1440,31 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "A*B Arms MOD X mount for M700",
+    "category": "mounts",
+    "image": "AB_Arms_MOD_X_mount_for_M700_icon.png",
+    "title": "A*B Arms MOD X mount for M700",
+    "pageId": 15442,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/AB_Arms_MOD_X_mount_for_M700_icon.png?version=cb7d5fe9329559e74bb3e6ebf50a1677",
+    "filePath": "a_b_arms_mod_x_mount_for_m700",
+    "marketSearchName": "A*B Arms MOD X mount for M700",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Magpul inline mount for PRO 700 chassis",
     "category": "mounts",
-    "image": "wiki.png",
+    "image": "Pro700 Inline Icon.png",
     "title": "Magpul inline mount for PRO 700 chassis",
     "pageId": 15446,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b1/Pro700_Inline_Icon.png?version=f3dbb193eea7474a055a5c1bcd0b34a3",
     "filePath": "magpul_inline_mount_for_pro_700_chassis",
     "marketSearchName": "Magpul inline mount for PRO 700 chassis",
     "marketPositionOffset": 0
@@ -1466,7 +1481,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "arbalet_patriot_k_w_mount",
-    "marketSearchName": "Arbalet Patriot K+W mount",
+    "marketSearchName": "Arbalet Patriot K",
     "marketPositionOffset": 0
   },
   {
@@ -1517,16 +1532,151 @@
   {
     "name": "FN RMR Mount for 5-7 Mk.2",
     "category": "mounts",
-    "image": "wiki.png",
+    "image": "57 RMR mount Icon.png",
     "title": "FN RMR Mount for 5-7 Mk.2",
     "pageId": 15611,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/20/57_RMR_mount_Icon.png?version=c2349bb8bb2c87f871406e2bdf783676",
     "filePath": "fn_rmr_mount_for_5_7_mk_2",
     "marketSearchName": "FN RMR Mount for 5-7 Mk.2",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "25mm rings made by UTG",
+    "category": "mounts",
+    "image": "25mm rings made by UTG icon.png",
+    "title": "25mm rings made by UTG",
+    "pageId": 16930,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/25mm_rings_made_by_UTG_icon.png?version=cf6cb8efc24c473ee6fcc3e5119c8ae7",
+    "filePath": "25mm_rings_made_by_utg",
+    "marketSearchName": "25mm rings made by UTG",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "SVD Low sidemount",
+    "category": "mounts",
+    "image": "SVD Low sidemount icon.png",
+    "title": "SVD Low sidemount",
+    "pageId": 16934,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ec/SVD_Low_sidemount_icon.png?version=9923a08f62d6f1dfab6f642df3446e4c",
+    "filePath": "svd_low_sidemount",
+    "marketSearchName": "SVD Low sidemount",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "B&T MP9 side rail",
+    "category": "mounts",
+    "image": "B&T MP9 side rail icon.png",
+    "title": "B&T MP9 side rail",
+    "pageId": 16937,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b4/B%26T_MP9_side_rail_icon.png",
+    "filePath": "b_t_mp9_side_rail",
+    "marketSearchName": "B&T MP9 side rail",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "B&T MP9 bottom rail",
+    "category": "mounts",
+    "image": "B&T MP9 bottom rail icon.png",
+    "title": "B&T MP9 bottom rail",
+    "pageId": 16940,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/56/B%26T_MP9_bottom_rail_icon.png",
+    "filePath": "b_t_mp9_bottom_rail",
+    "marketSearchName": "B&T MP9 bottom rail",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "EMTI-019 Mount",
+    "category": "mounts",
+    "image": "EMTI-019 Mount icon.png",
+    "title": "EMTI-019 Mount",
+    "pageId": 16941,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/EMTI-019_Mount_icon.png",
+    "filePath": "emti_019_mount",
+    "marketSearchName": "EMTI-019 Mount",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Orsis medium lenght rail",
+    "category": "mounts",
+    "image": "Orsis medium lenght rail icon.png",
+    "title": "Orsis medium lenght rail",
+    "pageId": 16946,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/80/Orsis_medium_lenght_rail_icon.png?version=898b874eb15357a44b990844888894bf",
+    "filePath": "orsis_medium_lenght_rail",
+    "marketSearchName": "Orsis medium lenght rail",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Orsis long lenght rail",
+    "category": "mounts",
+    "image": "Orsis long lenght rail icon.png",
+    "title": "Orsis long lenght rail",
+    "pageId": 16949,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b2/Orsis_long_lenght_rail_icon.png?version=0daec7c9d28184c97fbbc54ba8068600",
+    "filePath": "orsis_long_lenght_rail",
+    "marketSearchName": "Orsis long lenght rail",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Orsis scope mount for T-5000M",
+    "category": "mounts",
+    "image": "Orsis scope mount for T-5000M icon.png",
+    "title": "Orsis scope mount for T-5000M",
+    "pageId": 16952,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/Orsis_scope_mount_for_T-5000M_icon.png",
+    "filePath": "orsis_scope_mount_for_t_5000m",
+    "marketSearchName": "Orsis scope mount for T-5000M",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Scope mount for VPO-215",
+    "category": "mounts",
+    "image": "Scope mount for VPO-215 icon.png",
+    "title": "Scope mount for VPO-215",
+    "pageId": 16955,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/64/Scope_mount_for_VPO-215_icon.png",
+    "filePath": "scope_mount_for_vpo_215",
+    "marketSearchName": "Scope mount for VPO-215",
     "marketPositionOffset": 0
   }
 ]

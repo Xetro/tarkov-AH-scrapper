@@ -270,6 +270,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "DT MDR .308",
+    "category": "weapons",
+    "image": "DT MDR 308.png",
+    "title": "DT MDR 7.62x51 Assault Rifle",
+    "pageId": 16743,
+    "size": {
+      "width": "4",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/DT_MDR_308.png?version=b478f5a31d078a2a24d952f37bf18171",
+    "filePath": "dt_mdr__308",
+    "marketSearchName": "DT MDR 7.62x51 Assault Rifle",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "HK 416A5",
     "category": "weapons",
     "image": "HK416Image.png",
@@ -477,6 +492,36 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/HKMP7A1Image.png?version=458abc4b898d9c154d62468ce1c608f4",
     "filePath": "mp7a1",
     "marketSearchName": "HK MP7A1 4.6x30 submachinegun",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "MP9",
+    "category": "weapons",
+    "image": "MP9 View.png",
+    "title": "B&T MP9 9x19 submachinegun",
+    "pageId": 16759,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0e/MP9_View.png?version=de8b1a2f28583dd79a199fbd2b953655",
+    "filePath": "mp9",
+    "marketSearchName": "B&T MP9 9x19 submachinegun",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "MP9-N",
+    "category": "weapons",
+    "image": "B&T MP9-N 9x19 Submachinegun.png",
+    "title": "B&T MP9-N 9x19 Submachinegun",
+    "pageId": 16848,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fd/B%26T_MP9-N_9x19_Submachinegun.png",
+    "filePath": "mp9_n",
+    "marketSearchName": "B&T MP9-N 9x19 Submachinegun",
     "marketPositionOffset": 0
   },
   {
@@ -705,6 +750,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "SR-25",
+    "category": "weapons",
+    "image": "SR-25 View.png",
+    "title": "Knight's Armament Company SR-25 7.62x51",
+    "pageId": 16841,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/69/SR-25_View.png",
+    "filePath": "sr_25",
+    "marketSearchName": "Knight's Armament Company SR-25 7.62x51",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "SVDS",
     "category": "weapons",
     "image": "SVD-S.png",
@@ -795,6 +855,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "T-5000",
+    "category": "weapons",
+    "image": "T-5000 View.png",
+    "title": "Orsis T-5000 .308 sniper rifle",
+    "pageId": 16677,
+    "size": {
+      "width": "5",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ea/T-5000_View.png",
+    "filePath": "t_5000",
+    "marketSearchName": "Orsis T-5000 .308 sniper rifle",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "SV-98",
     "category": "weapons",
     "image": "Sv98.png",
@@ -807,6 +882,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7d/Sv98.png?version=2bd8b8f52ac5312d03ee4f911ac2715f",
     "filePath": "sv_98",
     "marketSearchName": "SV-98 bolt-action sniper rifle",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "VPO-215",
+    "category": "weapons",
+    "image": "VPO-215 View.png",
+    "title": "Molot VPO-215 .366 TKM rifle",
+    "pageId": 16840,
+    "size": {
+      "width": "5",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/VPO-215_View.png",
+    "filePath": "vpo_215",
+    "marketSearchName": "Molot VPO-215 .366 TKM rifle",
     "marketPositionOffset": 0
   },
   {
@@ -1104,7 +1194,7 @@
       "width": "1",
       "height": "3"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/Gerber_Downrange_Tomahawk.png?version=3e4d11ba5decf722dc8d46422ba383e0",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4e/Gerber_Downrange_Tomahawk.png?version=9f07ce6fec2085aa7db206ac9e1108ff",
     "filePath": "kiba_arms_tactical_tomahawk",
     "marketSearchName": "Kiba Arms Tactical Tomahawk",
     "marketPositionOffset": 0

@@ -1,5 +1,20 @@
 [
   {
+    "name": "7.62x54R 7BT1",
+    "category": "762x54",
+    "image": "7bt1 icon.png",
+    "title": "7.62x54R 7BT1",
+    "pageId": 16668,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fc/7bt1_icon.png?version=b5f7a854d1d30cb065ea3c728330506a",
+    "filePath": "7_62x54r_7bt1",
+    "marketSearchName": "7.62x54R 7BT1",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "7.62x54R 7N1 Sniper cartridge",
     "category": "762x54",
     "image": "7N1ICON.png",
@@ -9,9 +24,24 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/7N1ICON.png?version=2945bdfeaab966c63761abdb87d7218d",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/7N1ICON.png?version=e52d9ce8ba9e729de16c51b888301b3e",
     "filePath": "7_62x54r_7n1_sniper_cartridge",
     "marketSearchName": "7.62x54R 7N1 Sniper cartridge",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "7.62x54R 7N37",
+    "category": "762x54",
+    "image": "7N37 ICON.png",
+    "title": "7.62x54R 7N37",
+    "pageId": 16601,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d0/7N37_ICON.png?version=fcf33f0d73ae924ce57bbc58985f323d",
+    "filePath": "7_62x54r_7n37",
+    "marketSearchName": "7.62x54R 7N37",
     "marketPositionOffset": 0
   },
   {
@@ -24,7 +54,7 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/LPSGZHICON.png?version=d4d0b86625e54fe31d334fec2b6cd251",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/88/LPSGZHICON.png?version=56f42c7a7bd93a5b2b79cdad71a731d6",
     "filePath": "7_62x54r_lps_gzh",
     "marketSearchName": "7.62x54R LPS Gzh",
     "marketPositionOffset": 0
@@ -39,9 +69,24 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/SNBICON.png?version=95dc9486b9875f2227008ad171917790",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/SNBICON.png?version=abc6e5616df03512afc858089471fbd5",
     "filePath": "7_62x54r_snb",
     "marketSearchName": "7.62x54R SNB",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "7.62x54R T-46M",
+    "category": "762x54",
+    "image": "T46M AMMO.png",
+    "title": "7.62x54R T-46M",
+    "pageId": 16533,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/T46M_AMMO.png?version=71b0b74b5dd14bf2f8405e9a0472d30d",
+    "filePath": "7_62x54r_t_46m",
+    "marketSearchName": "7.62x54R T-46M",
     "marketPositionOffset": 0
   }
 ]

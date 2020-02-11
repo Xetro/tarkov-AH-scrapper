@@ -45,6 +45,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "TW EXFIL Ear Covers",
+    "category": "additional_armor",
+    "image": "TW EXFIL Ear Covers icon.gif",
+    "title": "TW EXFIL Ear Covers",
+    "pageId": 16762,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/TW_EXFIL_Ear_Covers_icon.gif?version=2555a4e1e24deb3964b17eafc98de90e",
+    "filePath": "tw_exfil_ear_covers",
+    "marketSearchName": "TW EXFIL Ear Covers",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Crye Airframe Chops",
     "category": "additional_armor",
     "image": "CryeAirframeChops icon.png",

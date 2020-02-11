@@ -1,5 +1,20 @@
 [
   {
+    "name": "7.62x51 mm BPZ FMJ",
+    "category": "762x51",
+    "image": "BPZ FMJ icon.png",
+    "title": "7.62x51 mm BPZ FMJ",
+    "pageId": 16676,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5b/BPZ_FMJ_icon.png?version=a0001f89d2f66a1aa9be0ee348ad7ffa",
+    "filePath": "7_62x51_mm_bpz_fmj",
+    "marketSearchName": "7.62x51 mm BPZ FMJ",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "7.62x51 mm M61",
     "category": "762x51",
     "image": "M61ICON.png",
@@ -9,7 +24,7 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/M61ICON.png?version=64083bc1554a9c38b3cae37f63fc5a46",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e3/M61ICON.png?version=5b8c1b3e1d824fe18ff3dcb9a738ac6b",
     "filePath": "7_62x51_mm_m61",
     "marketSearchName": "7.62x51 mm M61",
     "marketPositionOffset": 0
@@ -24,7 +39,7 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/M62ICON.png?version=12e68658b06114fe25f951e8bb5fc199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/M62ICON.png?version=bd11499a1d4181801eb1daa270b3df1b",
     "filePath": "7_62x51_mm_m62",
     "marketSearchName": "7.62x51 mm M62",
     "marketPositionOffset": 0
@@ -39,9 +54,39 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/M80ICON.png?version=31613b599bd38c4d92010035be2af0fc",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/94/M80ICON.png?version=d59b2dde5e8f92093b9fe06a2c280616",
     "filePath": "7_62x51_mm_m80",
     "marketSearchName": "7.62x51 mm M80",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "7.62x51 mm TPZ SP",
+    "category": "762x51",
+    "image": "TPZ SP icon.png",
+    "title": "7.62x51 mm TPZ SP",
+    "pageId": 16675,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/19/TPZ_SP_icon.png?version=08525e9f5feec03e28712e8f5c0c14d4",
+    "filePath": "7_62x51_mm_tpz_sp",
+    "marketSearchName": "7.62x51 mm TPZ SP",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "7.62x51 mm Ultra Nosler",
+    "category": "762x51",
+    "image": "Ultra Nosler icon.png",
+    "title": "7.62x51 mm Ultra Nosler",
+    "pageId": 16628,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b8/Ultra_Nosler_icon.png?version=746dc6480f978bd8a33a3d625a78d61b",
+    "filePath": "7_62x51_mm_ultra_nosler",
+    "marketSearchName": "7.62x51 mm Ultra Nosler",
     "marketPositionOffset": 0
   }
 ]

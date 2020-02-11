@@ -1,17 +1,17 @@
 [
   {
-    "name": "Gemech ONE 7.62x51 Sound Suppressor",
+    "name": "Gemtech ONE 7.62x51 Sound Suppressor",
     "category": "suppressors",
     "image": "Gemech ONE Icon.png",
-    "title": "Gemech ONE 7.62x51 Sound Suppressor",
+    "title": "Gemtech ONE 7.62x51 Sound Suppressor",
     "pageId": 13894,
     "size": {
       "width": "2",
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a8/Gemech_ONE_Icon.png?version=a16d66bb0fd8b23c034786fec8d79986",
-    "filePath": "gemech_one_7_62x51_sound_suppressor",
-    "marketSearchName": "Gemech ONE 7.62x51 Sound Suppressor",
+    "filePath": "gemtech_one_7_62x51_sound_suppressor",
+    "marketSearchName": "Gemtech ONE 7.62x51 Sound Suppressor",
     "marketPositionOffset": 0
   },
   {
@@ -525,6 +525,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "AS VAL 9x39 integral barrel-suppressor",
+    "category": "suppressors",
+    "image": "Valsuppressoricon.png",
+    "title": "AS VAL 9x39 integral barrel-suppressor",
+    "pageId": 3064,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/Valsuppressoricon.png?version=f513247c5f635c96d0c28420bde9147e",
+    "filePath": "as_val_9x39_integral_barrel_suppressor",
+    "marketSearchName": "AS VAL 9x39 integral barrel-suppressor",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "PP-91-01 Kedr-B 9x18PM suppressor",
     "category": "suppressors",
     "image": "PP-91-01 Suppressor icon.png",
@@ -542,14 +557,14 @@
   {
     "name": "ASh-12 12.7x55 tactical suppressor",
     "category": "suppressors",
-    "image": "wiki.png",
+    "image": "ASh Silencer Icon.png",
     "title": "ASh-12 12.7x55 tactical suppressor",
     "pageId": 15410,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6a/ASh_Silencer_Icon.png?version=e8398cde7d86876a168889c30e4f01c1",
     "filePath": "ash_12_12_7x55_tactical_suppressor",
     "marketSearchName": "ASh-12 12.7x55 tactical suppressor",
     "marketPositionOffset": 0
@@ -572,14 +587,14 @@
   {
     "name": "Daniel Defence Wave QD Sound Suppressor",
     "category": "suppressors",
-    "image": "wiki.png",
+    "image": "Wave QD Silencer Icon.png",
     "title": "Daniel Defence Wave QD Sound Suppressor",
     "pageId": 15473,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Wave_QD_Silencer_Icon.png?version=557f3fa0686ed0f366d13c4607cc75c4",
     "filePath": "daniel_defence_wave_qd_sound_suppressor",
     "marketSearchName": "Daniel Defence Wave QD Sound Suppressor",
     "marketPositionOffset": 0
@@ -587,14 +602,14 @@
   {
     "name": "Gemtech SFN-57 5.7x28mm silencer",
     "category": "suppressors",
-    "image": "wiki.png",
+    "image": "SFN-57 Icon.png",
     "title": "Gemtech SFN-57 5.7x28mm silencer",
     "pageId": 15565,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/df/SFN-57_Icon.png",
     "filePath": "gemtech_sfn_57_5_7x28mm_silencer",
     "marketSearchName": "Gemtech SFN-57 5.7x28mm silencer",
     "marketPositionOffset": 0
@@ -612,6 +627,51 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/Ultra_5_Icon.PNG?version=86d070db5e6821e7c7784eb681d17b34",
     "filePath": "thunder_beast_ultra_5_sound_suppressor",
     "marketSearchName": "Thunder Beast Ultra 5 Sound Suppressor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "KAC PRS QDC 7.62x51 Sound Suppressor",
+    "category": "suppressors",
+    "image": "PRS QDC SILENCER ICON.png",
+    "title": "KAC PRS QDC 7.62x51 Sound Suppressor",
+    "pageId": 16850,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/PRS_QDC_SILENCER_ICON.png?version=8a3c5c7118689221fdce7a33905e6138",
+    "filePath": "kac_prs_qdc_7_62x51_sound_suppressor",
+    "marketSearchName": "KAC PRS QDC 7.62x51 Sound Suppressor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Rotor 43 7.62x54 muzzle brake",
+    "category": "suppressors",
+    "image": "Rotor 43 7.62x54 muzzle brake icon.png",
+    "title": "Rotor 43 7.62x54 muzzle brake",
+    "pageId": 16853,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/06/Rotor_43_7.62x54_muzzle_brake_icon.png",
+    "filePath": "rotor_43_7_62x54_muzzle_brake",
+    "marketSearchName": "Rotor 43 7.62x54 muzzle brake",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "B&T MP9 9x19mm sound suppressor",
+    "category": "suppressors",
+    "image": "B&T MP9 9x19mm sound suppressor icon.png",
+    "title": "B&T MP9 9x19mm sound suppressor",
+    "pageId": 16856,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/B%26T_MP9_9x19mm_sound_suppressor_icon.png",
+    "filePath": "b_t_mp9_9x19mm_sound_suppressor",
+    "marketSearchName": "B&T MP9 9x19mm sound suppressor",
     "marketPositionOffset": 0
   }
 ]

@@ -44,3 +44,4 @@ Stock adapter Tactica Tula 12003 for MP-133/153
 7.62x39 mm BP
 7.62x25mm TT PT gzh
 7.62x25mm TT Pst gzh
+Muzzlebrake Odin Works Atlas-7 7.62x51 for AR-10

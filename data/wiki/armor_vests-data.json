@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Module-3M bodyarmor",
+    "category": "armor_vests",
+    "image": "3M icon.png",
+    "title": "Module-3M bodyarmor",
+    "pageId": 5994,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/3M_icon.png?version=aac4bc6bd680ae06534a33d5760dc2c4",
+    "filePath": "module_3m_bodyarmor",
+    "marketSearchName": "Module-3M bodyarmor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "PACA Soft Armor",
+    "category": "armor_vests",
+    "image": "PACA icon.png",
+    "title": "PACA Soft Armor",
+    "pageId": 4141,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/PACA_icon.png?version=43f34cb25316b7bc6461d96c25cf5f7f",
+    "filePath": "paca_soft_armor",
+    "marketSearchName": "PACA Soft Armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B2 armor (flora)",
+    "category": "armor_vests",
+    "image": "6B2 Icon.png",
+    "title": "6B2 armor (flora)",
+    "pageId": 16726,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ca/6B2_Icon.png?version=0f10cb8383c7b63c999128c7726782ac",
+    "filePath": "6b2_armor__flora_",
+    "marketSearchName": "6B2 armor (flora)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "MF-UNTAR armor vest",
+    "category": "armor_vests",
+    "image": "UNTARArmorIcon.png",
+    "title": "MF-UNTAR armor vest",
+    "pageId": 9553,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/UNTARArmorIcon.png?version=d38f772653f22444ab99a3bf89cff3a1",
+    "filePath": "mf_untar_armor_vest",
+    "marketSearchName": "MF-UNTAR armor vest",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Zhuk-3 Press armor",
+    "category": "armor_vests",
+    "image": "Zhuk-3 Press armor icon.png",
+    "title": "Zhuk-3 Press armor",
+    "pageId": 12773,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/Zhuk-3_Press_armor_icon.png",
+    "filePath": "zhuk_3_press_armor",
+    "marketSearchName": "Zhuk-3 Press armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B23-1 armor (digital flora pattern)",
+    "category": "armor_vests",
+    "image": "6B23-1icon.png",
+    "title": "6B23-1 armor (digital flora pattern)",
+    "pageId": 12772,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/6B23-1icon.png",
+    "filePath": "6b23_1_armor__digital_flora_pattern_",
+    "marketSearchName": "6B23-1 armor (digital flora pattern)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "BNTI Kirasa-N armor",
+    "category": "armor_vests",
+    "image": "BNTIKirasaNarmorIcon.png",
+    "title": "BNTI Kirasa-N armor",
+    "pageId": 10722,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b6/BNTIKirasaNarmorIcon.png?version=d1abb1039f80d63e1ad8543b24e8b2d4",
+    "filePath": "bnti_kirasa_n_armor",
+    "marketSearchName": "BNTI Kirasa-N armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Highcom Trooper TFO armor (multicam)",
+    "category": "armor_vests",
+    "image": "Highcom Trooper TFO armor (multicam) icon.png",
+    "title": "Highcom Trooper TFO armor (multicam)",
+    "pageId": 12518,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bb/Highcom_Trooper_TFO_armor_%28multicam%29_icon.png",
+    "filePath": "highcom_trooper_tfo_armor__multicam_",
+    "marketSearchName": "Highcom Trooper TFO armor (multicam)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B13 assault armor",
+    "category": "armor_vests",
+    "image": "6B13 assault armor icon.gif",
+    "title": "6B13 assault armor",
+    "pageId": 12938,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/6B13_assault_armor_icon.gif?version=f50020b3aff18d03e57532871c791306",
+    "filePath": "6b13_assault_armor",
+    "marketSearchName": "6B13 assault armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B23-2 armor (mountain flora pattern)",
+    "category": "armor_vests",
+    "image": "6B23-2 armorIcon.png",
+    "title": "6B23-2 armor (mountain flora pattern)",
+    "pageId": 12776,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/6B23-2_armorIcon.png",
+    "filePath": "6b23_2_armor__mountain_flora_pattern_",
+    "marketSearchName": "6B23-2 armor (mountain flora pattern)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "BNTI Gzhel-K armor",
+    "category": "armor_vests",
+    "image": "GZHELKArmorIcon.png",
+    "title": "BNTI Gzhel-K armor",
+    "pageId": 9554,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a1/GZHELKArmorIcon.png?version=4b9f1dbf1afb685cec8c0cc03ac2fa52",
+    "filePath": "bnti_gzhel_k_armor",
+    "marketSearchName": "BNTI Gzhel-K armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "FORT Redut-M body armor",
+    "category": "armor_vests",
+    "image": "FORT Redut-M body armor icon.png",
+    "title": "FORT Redut-M body armor",
+    "pageId": 13945,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/FORT_Redut-M_body_armor_icon.png",
+    "filePath": "fort_redut_m_body_armor",
+    "marketSearchName": "FORT Redut-M body armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B13 M assault armor (tan)",
+    "category": "armor_vests",
+    "image": "6B13 M icon.png",
+    "title": "6B13 M assault armor (tan)",
+    "pageId": 12496,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/6B13_M_icon.png?version=26fabadf51a3fcba8f9defb0861dc60c",
+    "filePath": "6b13_m_assault_armor__tan_",
+    "marketSearchName": "6B13 M assault armor (tan)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "IOTV Gen4 armor (high mobility kit)",
+    "category": "armor_vests",
+    "image": "Gen4hmk.png",
+    "title": "IOTV Gen4 armor (high mobility kit)",
+    "pageId": 10723,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/26/Gen4hmk.png?version=b9ae24b038dc1ce9195ae8e02262d6e4",
+    "filePath": "iotv_gen4_armor__high_mobility_kit_",
+    "marketSearchName": "IOTV Gen4 armor (high mobility kit)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "IOTV Gen4 armor (assault kit)",
+    "category": "armor_vests",
+    "image": "Gen4assault.png",
+    "title": "IOTV Gen4 armor (assault kit)",
+    "pageId": 10724,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/05/Gen4assault.png?version=dcdf39446e788af8c415464a1a20cf65",
+    "filePath": "iotv_gen4_armor__assault_kit_",
+    "marketSearchName": "IOTV Gen4 armor (assault kit)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "IOTV Gen4 armor (full protection)",
+    "category": "armor_vests",
+    "image": "IOTVfullIcon.png",
+    "title": "IOTV Gen4 armor (full protection)",
+    "pageId": 10725,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/52/IOTVfullIcon.png?version=30b636420c80c733dd7dd6bc0f93d64e",
+    "filePath": "iotv_gen4_armor__full_protection_",
+    "marketSearchName": "IOTV Gen4 armor (full protection)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "FORT Redut-T5 body armor",
+    "category": "armor_vests",
+    "image": "FORT Redut-T5 body armor icon.png",
+    "title": "FORT Redut-T5 body armor",
+    "pageId": 13946,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/FORT_Redut-T5_body_armor_icon.png",
+    "filePath": "fort_redut_t5_body_armor",
+    "marketSearchName": "FORT Redut-T5 body armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Zhuk-6a heavy armor",
+    "category": "armor_vests",
+    "image": "Zhuk-6a heavy armor icon.png",
+    "title": "Zhuk-6a heavy armor",
+    "pageId": 12487,
+    "size": {
+      "width": "3",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/Zhuk-6a_heavy_armor_icon.png",
+    "filePath": "zhuk_6a_heavy_armor",
+    "marketSearchName": "Zhuk-6a heavy armor",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B43 Zabralo-Sh 6A Armor",
+    "category": "armor_vests",
+    "image": "FORT armor icon.png",
+    "title": "6B43 Zabralo-Sh 6A Armor",
+    "pageId": 4139,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/90/FORT_armor_icon.png?version=9df3bc6c89360be29a7ad872c80e4eb2",
+    "filePath": "6b43_zabralo_sh_6a_armor",
+    "marketSearchName": "6B43 Zabralo-Sh 6A Armor",
+    "marketPositionOffset": 0
+  }
+]

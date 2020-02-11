@@ -48,10 +48,10 @@
     "name": "Regular VPO-101 \"Vepr Hunter\" stock",
     "category": "stocks_chassis",
     "image": "VPO-101SIcon.png",
-    "title": "Vepr Hunter/VPO-101 7.62x51 carbine",
-    "pageId": 13615,
+    "title": "Regular VPO-101 \"Vepr Hunter\" stock",
+    "pageId": 13613,
     "size": {
-      "width": "5",
+      "width": "4",
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7c/VPO-101SIcon.png",
@@ -255,6 +255,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Infantry Mosin rifle stock",
+    "category": "stocks_chassis",
+    "image": "Infantrymosinstockicon.png",
+    "title": "Infantry Mosin rifle stock",
+    "pageId": 12622,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ac/Infantrymosinstockicon.png?version=d18a46e73835a58684882b2d954d156d",
+    "filePath": "infantry_mosin_rifle_stock",
+    "marketSearchName": "Infantry Mosin rifle stock",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Izhmash AK-12 regular stock",
     "category": "stocks_chassis",
     "image": "Ak12stockicon.png",
@@ -357,6 +372,36 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/HKSlimLineStockIcon.png?version=0f2d33bab347a8ab1ba88bf1113eeb29",
     "filePath": "hk_slim_line_stock",
     "marketSearchName": "HK Slim Line Stock",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Regular stock for HK MP7A1",
+    "category": "stocks_chassis",
+    "image": "A1StockIcon.png",
+    "title": "Regular stock for HK MP7A1",
+    "pageId": 11885,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/A1StockIcon.png?version=e179ebaafa491b08b589608037640a95",
+    "filePath": "regular_stock_for_hk_mp7a1",
+    "marketSearchName": "Regular stock for HK MP7A1",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Regular stock for HK MP7A2",
+    "category": "stocks_chassis",
+    "image": "MP7A2StockIcon.png",
+    "title": "Regular stock for HK MP7A2",
+    "pageId": 11886,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/05/MP7A2StockIcon.png?version=3b7ee828c019b6be57812844e97eb9bc",
+    "filePath": "regular_stock_for_hk_mp7a2",
+    "marketSearchName": "Regular stock for HK MP7A2",
     "marketPositionOffset": 0
   },
   {
@@ -690,6 +735,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)",
+    "category": "stocks_chassis",
+    "image": "6p4nsb.1-19icon.png",
+    "title": "Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)",
+    "pageId": 9742,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4b/6p4nsb.1-19icon.png",
+    "filePath": "izhmash_shoulder_piece_for_akmsn__6p4_sb_1_19_",
+    "marketSearchName": "Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "IzhMash metal stock for AKS-74 (6P21 Sb.5)",
     "category": "stocks_chassis",
     "image": "6p21sb.5.png",
@@ -780,6 +840,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "TOZ stock for TOZ-106",
+    "category": "stocks_chassis",
+    "image": "Tozstockicon.png",
+    "title": "TOZ stock for TOZ-106",
+    "pageId": 8429,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2a/Tozstockicon.png?version=507525b8a77fb9d7c26c90e8fe7bd928",
+    "filePath": "toz_stock_for_toz_106",
+    "marketSearchName": "TOZ stock for TOZ-106",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "HK A3 old stock model",
     "category": "stocks_chassis",
     "image": "Hka3stock.png",
@@ -837,6 +912,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f6/Me4icon.png?version=03c21cd37a395fa5e700690039e11e0f",
     "filePath": "me_adapter_for_ak",
     "marketSearchName": "ME adapter for",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Izhmash shoulder piece for AKMS (6P4 Sb.1-19)",
+    "category": "stocks_chassis",
+    "image": "Akmsstock.png",
+    "title": "Izhmash shoulder piece for AKMS (6P4 Sb.1-19)",
+    "pageId": 8421,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/Akmsstock.png?version=291a1aa75c8af20f66cdcf3c51526fd0",
+    "filePath": "izhmash_shoulder_piece_for_akms__6p4_sb_1_19_",
+    "marketSearchName": "Izhmash shoulder piece for AKMS (6P4 Sb.1-19)",
     "marketPositionOffset": 0
   },
   {
@@ -1472,32 +1562,32 @@
   {
     "name": "Promag Archangel polymer stock for M700",
     "category": "stocks_chassis",
-    "image": "wiki.png",
+    "image": "Promag Archangel polymer stock for M700 icon.jpg",
     "title": "Promag Archangel polymer stock for M700",
     "pageId": 15453,
     "size": {
       "width": "3",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/73/Promag_Archangel_polymer_stock_for_M700_icon.jpg?version=da8304a3b74240511e0533ef3f56564d",
     "filePath": "promag_archangel_polymer_stock_for_m700",
     "marketSearchName": "Promag Archangel polymer stock for M700",
     "marketPositionOffset": 0
   },
   {
-    "name": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
+    "name": "CAA AKTS AK-74 Buffer Tube for AK and compatible",
     "category": "stocks_chassis",
     "image": "wiki.png",
-    "title": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
+    "title": "CAA AKTS AK-74 Buffer Tube for AK and compatible",
     "pageId": 16052,
     "size": {
       "width": "2",
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "caa_akts_ak_74_buffer_tube_for_ak_and_compatable",
-    "marketSearchName": "CAA AKTS AK-74 Buffer Tube for AK and compatable",
-    "marketPositionOffset": 1
+    "filePath": "caa_akts_ak_74_buffer_tube_for_ak_and_compatible",
+    "marketSearchName": "CAA AKTS AK-74 Buffer Tube for AK and compatible",
+    "marketPositionOffset": 0
   },
   {
     "name": "CAA AKTS AK-74 Buffer Tube for AK and compatable (foldable)",
@@ -1532,14 +1622,14 @@
   {
     "name": "Double Star Ace Socom gen.4 stock for AR-15",
     "category": "stocks_chassis",
-    "image": "wiki.png",
+    "image": "Double Star Ace Socom gen.4 stock for AR-15 icon.jpg",
     "title": "Double Star Ace Socom gen.4 stock for AR-15",
     "pageId": 15500,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/Double_Star_Ace_Socom_gen.4_stock_for_AR-15_icon.jpg",
     "filePath": "double_star_ace_socom_gen_4_stock_for_ar_15",
     "marketSearchName": "Double Star Ace Socom gen.4 stock for AR-15",
     "marketPositionOffset": 0
@@ -1562,14 +1652,14 @@
   {
     "name": "Magpul CTR Carbine stock",
     "category": "stocks_chassis",
-    "image": "wiki.png",
+    "image": "CTR FDE Icon.png",
     "title": "Magpul CTR Carbine stock",
     "pageId": 15513,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f7/CTR_FDE_Icon.png?version=2dcfa9d3976b41fac20ac0854d70d9c7",
     "filePath": "magpul_ctr_carbine_stock",
     "marketSearchName": "Magpul CTR Carbine stock",
     "marketPositionOffset": 0
@@ -1592,14 +1682,14 @@
   {
     "name": "AT AICS polymer stock for M700",
     "category": "stocks_chassis",
-    "image": "wiki.png",
+    "image": "AT AICS Polymer Stock for M700 stash.jpg",
     "title": "AT AICS polymer stock for M700",
     "pageId": 15542,
     "size": {
       "width": "4",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bf/AT_AICS_Polymer_Stock_for_M700_stash.jpg?version=faaa87bccd09c2893ff0ea64ca2ff1f7",
     "filePath": "at_aics_polymer_stock_for_m700",
     "marketSearchName": "AT AICS polymer stock for M700",
     "marketPositionOffset": 0
@@ -1622,16 +1712,76 @@
   {
     "name": "Magpul PRS GEN3 stock",
     "category": "stocks_chassis",
-    "image": "PRS Gen 3 Grey.PNG",
+    "image": "PRSG3BLK_Icon.png",
     "title": "Magpul PRS GEN3 stock",
     "pageId": 15575,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6b/PRS_Gen_3_Grey.PNG?version=2421da5bc2f6d49b6c1d04b7a5fe7bf6",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/PRSG3BLK_Icon.png?version=be05b503a98eba7c1eb54f3b2c119b05",
     "filePath": "magpul_prs_gen3_stock",
     "marketSearchName": "Magpul PRS GEN3 stock",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Regular stock for B&T MP9",
+    "category": "stocks_chassis",
+    "image": "Regular stock for B&T MP9 icon.png",
+    "title": "Regular stock for B&T MP9",
+    "pageId": 16859,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/eb/Regular_stock_for_B%26T_MP9_icon.png",
+    "filePath": "regular_stock_for_b_t_mp9",
+    "marketSearchName": "Regular stock for B&T MP9",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Regular VPO-215 stock",
+    "category": "stocks_chassis",
+    "image": "Regular VPO-215 stock icon.png",
+    "title": "Regular VPO-215 stock",
+    "pageId": 16862,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/ca/Regular_VPO-215_stock_icon.png",
+    "filePath": "regular_vpo_215_stock",
+    "marketSearchName": "Regular VPO-215 stock",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Orsis T-5000M Stock",
+    "category": "stocks_chassis",
+    "image": "Orsis T-5000M Stock icon.png",
+    "title": "Orsis T-5000M Stock",
+    "pageId": 16865,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/86/Orsis_T-5000M_Stock_icon.png",
+    "filePath": "orsis_t_5000m_stock",
+    "marketSearchName": "Orsis T-5000M Stock",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Orsis Aluminium body for T-5000",
+    "category": "stocks_chassis",
+    "image": "Orsis Aluminium body for T-5000 icon.png",
+    "title": "Orsis Aluminium body for T-5000",
+    "pageId": 16868,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/61/Orsis_Aluminium_body_for_T-5000_icon.png",
+    "filePath": "orsis_aluminium_body_for_t_5000",
+    "marketSearchName": "Orsis Aluminium body for T-5000",
     "marketPositionOffset": 0
   }
 ]

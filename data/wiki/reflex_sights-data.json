@@ -135,21 +135,6 @@
     "marketPositionOffset": 0
   },
   {
-    "name": "NPZ USP-1 4x scope",
-    "category": "reflex_sights",
-    "image": "NPZ USP-1 4x scope icon v2.png",
-    "title": "NPZ USP-1 4x scope",
-    "pageId": 15343,
-    "size": {
-      "width": "1",
-      "height": "1"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1e/NPZ_USP-1_4x_scope_icon_v2.png",
-    "filePath": "npz_usp_1_4x_scope",
-    "marketSearchName": "NPZ USP-1 4x scope",
-    "marketPositionOffset": 0
-  },
-  {
     "name": "OKP-7 reflex sight",
     "category": "reflex_sights",
     "image": "Okp-7icon.png",
@@ -242,14 +227,14 @@
   {
     "name": "FN Ring sight reflex sight",
     "category": "reflex_sights",
-    "image": "Mrsicon.png",
+    "image": "FN Ring Sight Icon.png",
     "title": "FN Ring sight reflex sight",
     "pageId": 15451,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Mrsicon.png?version=983e48c52ec89c3db5dc71bd52d34fed",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/FN_Ring_Sight_Icon.png?version=aad71a3686ae4bbfcbaf71f9e9c9b13c",
     "filePath": "fn_ring_sight_reflex_sight",
     "marketSearchName": "FN Ring sight reflex sight",
     "marketPositionOffset": 0
@@ -257,14 +242,14 @@
   {
     "name": "Trijicon SRS-02 reflex sight",
     "category": "reflex_sights",
-    "image": "wiki.png",
+    "image": "SRS-02 Icon.png",
     "title": "Trijicon SRS-02 reflex sight",
     "pageId": 15550,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/84/SRS-02_Icon.png",
     "filePath": "trijicon_srs_02_reflex_sight",
     "marketSearchName": "Trijicon SRS-02 reflex sight",
     "marketPositionOffset": 0

@@ -167,14 +167,14 @@
   {
     "name": "K&M The Handler charge handle for P90",
     "category": "charging_handles",
-    "image": "wiki.png",
+    "image": "K&M_The_Handler_charge_handle_for_P90_icon.png",
     "title": "K&M The Handler charge handle for P90",
     "pageId": 15417,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d0/K%26M_The_Handler_charge_handle_for_P90_icon.png",
     "filePath": "k_m_the_handler_charge_handle_for_p90",
     "marketSearchName": "K&M The Handler charge handle for P90",
     "marketPositionOffset": 0
@@ -192,6 +192,51 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/MP5_Kurz_Cocking_Handle_icon.png?version=7efc7276b21706066eb7d9a55417cf09",
     "filePath": "mp5_kurz_cocking_handle",
     "marketSearchName": "MP5 Kurz Cocking Handle",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "KAC Ambidextrous Charging Handle for AR-10",
+    "category": "charging_handles",
+    "image": "KAC Ambidextrous Charging Handle for AR-10 icon.png",
+    "title": "KAC Ambidextrous Charging Handle for AR-10",
+    "pageId": 16766,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/KAC_Ambidextrous_Charging_Handle_for_AR-10_icon.png",
+    "filePath": "kac_ambidextrous_charging_handle_for_ar_10",
+    "marketSearchName": "KAC Ambidextrous Charging Handle for AR-10",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "B&T charging handle for MP9",
+    "category": "charging_handles",
+    "image": "B&T charging handle for MP9 icon.png",
+    "title": "B&T charging handle for MP9",
+    "pageId": 16769,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/B%26T_charging_handle_for_MP9_icon.png",
+    "filePath": "b_t_charging_handle_for_mp9",
+    "marketSearchName": "B&T charging handle for MP9",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "KAC Charging Handle for SR-25",
+    "category": "charging_handles",
+    "image": "KAC Charging Handle for SR-25 icon.png",
+    "title": "KAC Charging Handle for SR-25",
+    "pageId": 16772,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/95/KAC_Charging_Handle_for_SR-25_icon.png",
+    "filePath": "kac_charging_handle_for_sr_25",
+    "marketSearchName": "KAC Charging Handle for SR-25",
     "marketPositionOffset": 0
   }
 ]

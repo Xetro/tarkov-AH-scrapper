@@ -150,6 +150,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Velocity Systems Multi-Purpose Patrol Vest",
+    "category": "chest_rigs",
+    "image": "MPPV ICon.png",
+    "title": "Velocity Systems Multi-Purpose Patrol Vest",
+    "pageId": 16844,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/MPPV_ICon.png?version=9516ccb91ef4ddaad0cfef18ff37474d",
+    "filePath": "velocity_systems_multi_purpose_patrol_vest",
+    "marketSearchName": "Velocity Systems Multi-Purpose Patrol Vest",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Belt-A + Belt-B gear rig",
     "category": "chest_rigs",
     "image": "Belt-A Belt-B gear rig icon.png",

@@ -47,14 +47,14 @@
   {
     "name": "Desert Tech pistol grip for MDR",
     "category": "pistol_grips",
-    "image": "Desert Tech pistol grip for MDR icon.png",
+    "image": "Desert Tech pistol grip for MDR icon.gif",
     "title": "Desert Tech pistol grip for MDR",
     "pageId": 13621,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/67/Desert_Tech_pistol_grip_for_MDR_icon.png?version=76911cfecd1b310d9d675f3df1f807d8",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Desert_Tech_pistol_grip_for_MDR_icon.gif?version=a33556e68c0abc8da7867890f639ae22",
     "filePath": "desert_tech_pistol_grip_for_mdr",
     "marketSearchName": "Desert Tech pistol grip for MDR",
     "marketPositionOffset": 0
@@ -390,6 +390,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "TSNIITOCHMASH bakelite PB side grips",
+    "category": "pistol_grips",
+    "image": "Bakelitepbgrips.png",
+    "title": "TSNIITOCHMASH bakelite PB side grips",
+    "pageId": 3383,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/40/Bakelitepbgrips.png?version=0f20c91adc5e48699a908f2b51f42ce4",
+    "filePath": "tsniitochmash_bakelite_pb_side_grips",
+    "marketSearchName": "TSNIITOCHMASH bakelite PB side grips",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Fancy TT side grips",
     "category": "pistol_grips",
     "image": "TTGrip_Fancy_Icon.png",
@@ -540,6 +555,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "APS bakelite side-pieces",
+    "category": "pistol_grips",
+    "image": "APS bakelite side-pieces icon.png",
+    "title": "APS bakelite side-pieces",
+    "pageId": 9705,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/15/APS_bakelite_side-pieces_icon.png",
+    "filePath": "aps_bakelite_side_pieces",
+    "marketSearchName": "APS bakelite side-pieces",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Colt A2 AR-15 pistol grip",
     "category": "pistol_grips",
     "image": "A2m4standard.png",
@@ -576,7 +606,7 @@
     "title": "Hera Arms CQR pistol grip-stock",
     "pageId": 8405,
     "size": {
-      "width": "2",
+      "width": "1",
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/43/Hacqr.png?version=524c823e2855dc88ce664981713386cc",
@@ -765,6 +795,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Polymer pistol grip for M9A3",
+    "category": "pistol_grips",
+    "image": "M9A3PolymerGripIcon.png",
+    "title": "Polymer pistol grip for M9A3",
+    "pageId": 15401,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/M9A3PolymerGripIcon.png?version=d27280d04d43190d3d02d4d82d53a6c7",
+    "filePath": "polymer_pistol_grip_for_m9a3",
+    "marketSearchName": "Polymer pistol grip for M9A3",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Hera Arms HG-15 pistol grip for AR-15 based systems",
     "category": "pistol_grips",
     "image": "wiki.png",
@@ -852,6 +897,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/ErgoPSG-1icon.png",
     "filePath": "hk_ergo_psg_1_style_pistol_grip_for_ar_15_based_systems",
     "marketSearchName": "HK Ergo PSG-1 style pistol grip for AR-15 based systems",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Orsis T-5000 Pistol Grip",
+    "category": "pistol_grips",
+    "image": "Orsis T-5000 Pistol Grip icon.png",
+    "title": "Orsis T-5000 Pistol Grip",
+    "pageId": 16882,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2b/Orsis_T-5000_Pistol_Grip_icon.png",
+    "filePath": "orsis_t_5000_pistol_grip",
+    "marketSearchName": "Orsis T-5000 Pistol Grip",
     "marketPositionOffset": 0
   }
 ]

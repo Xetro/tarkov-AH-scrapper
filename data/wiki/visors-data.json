@@ -60,6 +60,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "TW EXFIL Ballistic helmet face shield",
+    "category": "visors",
+    "image": "EXFIL_FACESHIELD.gif",
+    "title": "TW EXFIL Ballistic helmet face shield",
+    "pageId": 16738,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7f/EXFIL_FACESHIELD.gif?version=2e36e7f6f7379a7ee20f2964dc3e203a",
+    "filePath": "tw_exfil_ballistic_helmet_face_shield",
+    "marketSearchName": "TW EXFIL Ballistic helmet face shield",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "ZSh-1-2M face shield",
     "category": "visors",
     "image": "Zshfaceshieldicon.png",

@@ -206,7 +206,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/6p340-1icon.png",
     "filePath": "izhmash__k_74m_dust_cover__6p34_0_1_",
-    "marketSearchName": "Izhmash АK-74M dust cover (6P34 0-1)",
+    "marketSearchName": "6P34 0-1",
     "marketPositionOffset": 0
   },
   {
@@ -236,8 +236,8 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d8/6p1_0-1akn.png",
     "filePath": "izhmash_ak_74_dust_cover__6p1_0_1_",
-    "marketSearchName": "Izhmash AK-74 dust cover (6P1 0-1)",
-    "marketPositionOffset": 0
+    "marketSearchName": "6P1 0-1",
+    "marketPositionOffset": 1
   },
   {
     "name": "Izhmash AKM dust cover (6P1 0-1)",
@@ -251,8 +251,8 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/6p1-01akm.png",
     "filePath": "izhmash_akm_dust_cover__6p1_0_1_",
-    "marketSearchName": "Izhmash AKM dust cover (6P1 0-1)",
-    "marketPositionOffset": 0
+    "marketSearchName": "6P1 0-1",
+    "marketPositionOffset": 2
   },
   {
     "name": "Molot AKM type dust cover",
@@ -266,7 +266,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/Akmtype.png?version=c84f781e11c1da8192066f36c39847e3",
     "filePath": "molot_akm_type_dust_cover",
-    "marketSearchName": "Molot AKM type dust cover",
+    "marketSearchName": "type dust cover",
     "marketPositionOffset": 0
   },
   {
@@ -371,7 +371,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e4/B-33.png",
     "filePath": "zenit_b_33_dust_cover_for_ak_74",
-    "marketSearchName": "Zenit B-33 dust cover for AK-74",
+    "marketSearchName": "Zenit B-33 dust cover",
     "marketPositionOffset": 0
   },
   {
@@ -587,14 +587,14 @@
   {
     "name": "M9A3 9x19 pistol slide",
     "category": "receivers_slides",
-    "image": "wiki.png",
+    "image": "M9A3PistolSlideIcon.png",
     "title": "M9A3 9x19 pistol slide",
     "pageId": 15022,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3f/M9A3PistolSlideIcon.png?version=607d6ef9f8f0f36baf73441cf5370448",
     "filePath": "m9a3_9x19_pistol_slide",
     "marketSearchName": "M9A3 9x19 pistol slide",
     "marketPositionOffset": 0
@@ -656,7 +656,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/31/AKademia_Bastion_dust_cover_for_AK.PNG?version=8e7871bc76a399e891e663410d0d853b",
     "filePath": "akademia_bastion_dust_cover_for_ak",
-    "marketSearchName": "AKademia Bastion dust cover for AK",
+    "marketSearchName": "AKademia Bastion dust cover",
     "marketPositionOffset": 0
   },
   {
@@ -671,7 +671,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "fab_defence_pdc_dust_cover_for_ak_74",
-    "marketSearchName": "Fab Defence PDC dust cover for AK-74",
+    "marketSearchName": "Fab Defence PDC dust cover",
     "marketPositionOffset": 0
   },
   {
@@ -686,7 +686,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c2/TWS_Dog_leg_rail_dust_cover_for_AK.png?version=8581cd849736bee847538765db834464",
     "filePath": "tws_dog_leg_rail_dust_cover_for_ak",
-    "marketSearchName": "TWS Dog leg rail dust cover for AK",
+    "marketSearchName": "TWS Dog leg rail dust cover",
     "marketPositionOffset": 0
   },
   {
@@ -732,6 +732,66 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/TX15_LW_Upper_Icon.PNG?version=44f4fb3ddbd179a4d36b3eb004e44927",
     "filePath": "lightweight_upper_5_56x45_for_tx15_rifle",
     "marketSearchName": "Lightweight upper 5.56x45 for TX15 rifle",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Upper receiver KAC 7.62x51 for SR-25 rifle",
+    "category": "receivers_slides",
+    "image": "Upper receiver KAC 7.62x51 for SR-25 rifle icon.png",
+    "title": "Upper receiver KAC 7.62x51 for SR-25 rifle",
+    "pageId": 16911,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0e/Upper_receiver_KAC_7.62x51_for_SR-25_rifle_icon.png",
+    "filePath": "upper_receiver_kac_7_62x51_for_sr_25_rifle",
+    "marketSearchName": "Upper receiver KAC 7.62x51 for SR-25 rifle",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Upper receiver B&T 9x19 for MP9-N SMG",
+    "category": "receivers_slides",
+    "image": "Upper receiver B&T 9x19 for MP9-N SMG icon.png",
+    "title": "Upper receiver B&T 9x19 for MP9-N SMG",
+    "pageId": 16914,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d0/Upper_receiver_B%26T_9x19_for_MP9-N_SMG_icon.png",
+    "filePath": "upper_receiver_b_t_9x19_for_mp9_n_smg",
+    "marketSearchName": "Upper receiver B&T 9x19 for MP9-N SMG",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Upper receiver B&T 9x19 for MP9-N SMG",
+    "category": "receivers_slides",
+    "image": "Upper receiver B&T 9x19 for MP9 SMG icon.png",
+    "title": "Upper receiver B&T 9x19 for MP9-N SMG",
+    "pageId": 16914,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a6/Upper_receiver_B%26T_9x19_for_MP9_SMG_icon.png",
+    "filePath": "upper_receiver_b_t_9x19_for_mp9_n_smg",
+    "marketSearchName": "Upper receiver B&T 9x19 for MP9-N SMG",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Custom SVDS dust cover",
+    "category": "receivers_slides",
+    "image": "Custom SVDS dust cover icon.png",
+    "title": "Custom SVDS dust cover",
+    "pageId": 16918,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/60/Custom_SVDS_dust_cover_icon.png?version=35c915241c18847904767ff204cca255",
+    "filePath": "custom_svds_dust_cover",
+    "marketSearchName": "Custom SVDS dust cover",
     "marketPositionOffset": 0
   }
 ]

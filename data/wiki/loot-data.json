@@ -1524,7 +1524,7 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Nippers_small.jpg?version=22f72e359e9c6aff1368bf87ef8a3ca8",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/6d/Nippers_small.jpg?version=2ee843174980005234195d8d4cd389e4",
     "filePath": "nippers",
     "marketSearchName": "Nippers",
     "marketPositionOffset": 0
@@ -1884,7 +1884,7 @@
       "width": "1",
       "height": "2"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/30x160mmShellicon.png?version=8b4479cb0b2b520741dfd2d9c13ff04f",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9d/30x160mmShellicon.png?version=3b166745364a70aebae88398cbf654fa",
     "filePath": "ofz_30x160mm_shell",
     "marketSearchName": "OFZ 30",
     "marketPositionOffset": 0
@@ -1974,7 +1974,7 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/RadiatorHelixIcon.png?version=4926ab9902029f2bb7977f10baad092a",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/RadiatorHelixIcon.png?version=7d01e66cf423391895ddc615124897ad",
     "filePath": "radiator_helix",
     "marketSearchName": "Radiator helix",
     "marketPositionOffset": 0
@@ -2004,7 +2004,7 @@
       "width": "1",
       "height": "2"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7b/Lada_manual_icon.png?version=f22872f2f9e9abb22f2648dd6f6fa4ff",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7b/Lada_manual_icon.png?version=f75e9a070357b9563c1e0e5cdf6f6459",
     "filePath": "technical_documentation",
     "marketSearchName": "Technical documentation",
     "marketPositionOffset": 0
@@ -2127,6 +2127,51 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/SlimDiaryIcon.png?version=63f02b39a57bee953723b0cbcd8bd91c",
     "filePath": "slim_diary",
     "marketSearchName": "Slim diary",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Christmas tree decoration ball (red)",
+    "category": "loot",
+    "image": "Christmas ornament red icon.png",
+    "title": "Christmas tree decoration ball (red)",
+    "pageId": 16732,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/82/Christmas_ornament_red_icon.png?version=168751afd70cb5a9d548ee4742356f0c",
+    "filePath": "christmas_tree_decoration_ball__red_",
+    "marketSearchName": "Christmas tree decoration ball (red)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Christmas tree decoration ball (silver)",
+    "category": "loot",
+    "image": "Christmas ornament silver icon.png",
+    "title": "Christmas tree decoration ball (silver)",
+    "pageId": 16735,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/00/Christmas_ornament_silver_icon.png?version=a8837148246356308f1441eeee14ad91",
+    "filePath": "christmas_tree_decoration_ball__silver_",
+    "marketSearchName": "Christmas tree decoration ball (silver)",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Christmas tree decoration ball (violet)",
+    "category": "loot",
+    "image": "Christmas ornament violet icon.png",
+    "title": "Christmas tree decoration ball (violet)",
+    "pageId": 16736,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4c/Christmas_ornament_violet_icon.png?version=168751afd70cb5a9d548ee4742356f0c",
+    "filePath": "christmas_tree_decoration_ball__violet_",
+    "marketSearchName": "Christmas tree decoration ball (violet)",
     "marketPositionOffset": 0
   }
 ]

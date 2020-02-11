@@ -433,5 +433,20 @@
     "filePath": "unknown_key",
     "marketSearchName": "Unknown key",
     "marketPositionOffset": 0
+  },
+  {
+    "name": "USEC stash on Customs key",
+    "category": "keys_customs",
+    "image": "USECstashoncustomskeyicon.png",
+    "title": "USEC stash on Customs key",
+    "pageId": 14983,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/a3/USECstashoncustomskeyicon.png?version=ec1f695284f5309b26866c25eecfe4ec",
+    "filePath": "usec_stash_on_customs_key",
+    "marketSearchName": "USEC stash on Customs key",
+    "marketPositionOffset": 0
   }
 ]

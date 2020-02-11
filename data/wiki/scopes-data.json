@@ -193,5 +193,35 @@
     "filePath": "kmz_1p69_3_10x_riflescope",
     "marketSearchName": "KMZ 1P69 3-10x riflescope",
     "marketPositionOffset": 0
+  },
+  {
+    "name": "VOMZ Pilad 4х32 riflescope",
+    "category": "scopes",
+    "image": "VOMZ Pilad 4х32 riflescope icon.png",
+    "title": "VOMZ Pilad 4х32 riflescope",
+    "pageId": 16924,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b8/VOMZ_Pilad_4%D1%8532_riflescope_icon.png",
+    "filePath": "vomz_pilad_4_32_riflescope",
+    "marketSearchName": "VOMZ Pilad 4х32 riflescope",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "NcSTAR ADO P4 Sniper 3-9x42 riflescope",
+    "category": "scopes",
+    "image": "NcSTAR ADO P4 Sniper 3-9x42 riflescope icon.png",
+    "title": "NcSTAR ADO P4 Sniper 3-9x42 riflescope",
+    "pageId": 16927,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c4/NcSTAR_ADO_P4_Sniper_3-9x42_riflescope_icon.png",
+    "filePath": "ncstar_ado_p4_sniper_3_9x42_riflescope",
+    "marketSearchName": "NcSTAR ADO P4 Sniper 3-9x42 riflescope",
+    "marketPositionOffset": 0
   }
 ]

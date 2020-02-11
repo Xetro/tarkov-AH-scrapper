@@ -60,6 +60,51 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Slender mask",
+    "category": "face_cover",
+    "image": "SlenderMaskIcon.png",
+    "title": "Slender mask",
+    "pageId": 11725,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/09/SlenderMaskIcon.png?version=ad032aeaa5e4fdb6a5dc827eeb1afb9c",
+    "filePath": "slender_mask",
+    "marketSearchName": "Slender mask",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Misha Mayorov's mask",
+    "category": "face_cover",
+    "image": "MishaMaskIcon.png",
+    "title": "Misha Mayorov's mask",
+    "pageId": 11726,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fa/MishaMaskIcon.png?version=8d1394b4068daa2a926ccac8797c8248",
+    "filePath": "misha_mayorov_s_mask",
+    "marketSearchName": "Misha Mayorov's mask",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Jason mask",
+    "category": "face_cover",
+    "image": "JasonMaskIcon.png",
+    "title": "Jason mask",
+    "pageId": 11727,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/37/JasonMaskIcon.png?version=892b83de2fe62fdfe36fd2f0aced684b",
+    "filePath": "jason_mask",
+    "marketSearchName": "Jason mask",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Balaclava",
     "category": "face_cover",
     "image": "Balaclava_icon.png",
@@ -132,7 +177,7 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/Shemagicon.png?version=cfaad8514f347333c81c3a38f5f1e194",
     "filePath": "shemagh",
     "marketSearchName": "Shemagh",
-    "marketPositionOffset": 0
+    "marketPositionOffset": 1
   },
   {
     "name": "Shemagh (var. 2)",
@@ -192,6 +237,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/72/Fake_Mustache_icon.png?version=54acf671b0fb841d4ccff00ef0bf831e",
     "filePath": "fake_mustache",
     "marketSearchName": "Fake mustache",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Fake white beard",
+    "category": "face_cover",
+    "image": "Fake white beard icon.png",
+    "title": "Fake white beard",
+    "pageId": 12762,
+    "size": {
+      "width": "1",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/24/Fake_white_beard_icon.png?version=a2fe98a572f128dcb296518215281789",
+    "filePath": "fake_white_beard",
+    "marketSearchName": "Fake white beard",
     "marketPositionOffset": 0
   }
 ]

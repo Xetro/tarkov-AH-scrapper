@@ -30,6 +30,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Soft tank crew helmet TSH-4M-L",
+    "category": "headwear",
+    "image": "TankHelm2.png",
+    "title": "Soft tank crew helmet TSH-4M-L",
+    "pageId": 16674,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/20/TankHelm2.png?version=b83e786f84ea00fd52f681448fb7cd9c",
+    "filePath": "soft_tank_crew_helmet_tsh_4m_l",
+    "marketSearchName": "Soft tank crew helmet TSH-4M-L",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Kolpak-1S riot helmet",
     "category": "headwear",
     "image": "Kolpak-1S Icon.png",
@@ -75,6 +90,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Jack-o'-lantern tactical pumpkin helmet",
+    "category": "headwear",
+    "image": "PumpkinHelmetIcon.png",
+    "title": "Jack-o'-lantern tactical pumpkin helmet",
+    "pageId": 6066,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/eb/PumpkinHelmetIcon.png?version=d6bb87d75dfad9a27b9df8ec8b5a45aa",
+    "filePath": "jack_o__lantern_tactical_pumpkin_helmet",
+    "marketSearchName": "Jack-o'-lantern tactical pumpkin helmet",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "UNTAR helmet",
     "category": "headwear",
     "image": "UNTARHelmetIcon.png",
@@ -105,21 +135,6 @@
     "marketPositionOffset": 0
   },
   {
-    "name": "SSh-68 helmet (1968 steel helmet)",
-    "category": "headwear",
-    "image": "SSH-68Icon.png",
-    "title": "SSh-68 helmet (1968 steel helmet)",
-    "pageId": 12260,
-    "size": {
-      "width": "2",
-      "height": "2"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/aa/SSH-68Icon.png",
-    "filePath": "ssh_68_helmet__1968_steel_helmet_",
-    "marketSearchName": "SSh-68 helmet (1968 steel helmet)",
-    "marketPositionOffset": 0
-  },
-  {
     "name": "LZSh light helmet",
     "category": "headwear",
     "image": "LZSh light helmet icon.png",
@@ -132,6 +147,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/68/LZSh_light_helmet_icon.png?version=f0f980c59f58063630bd02470bdd3c5e",
     "filePath": "lzsh_light_helmet",
     "marketSearchName": "LZSh light helmet",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "SSh-68 helmet (1968 steel helmet)",
+    "category": "headwear",
+    "image": "SSH-68Icon.png",
+    "title": "SSh-68 helmet (1968 steel helmet)",
+    "pageId": 12260,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/aa/SSH-68Icon.png",
+    "filePath": "ssh_68_helmet__1968_steel_helmet_",
+    "marketSearchName": "SSh-68 helmet",
     "marketPositionOffset": 0
   },
   {
@@ -189,7 +219,7 @@
       "width": "2",
       "height": "2"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/MICH_Icon.PNG?version=ddba3a832f2e36bf0593205907938b7d",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cb/MICH_Icon.PNG?version=6d9180ec30fc65474a2830fa97e99e64",
     "filePath": "msa_ach_tc_2001_mich_series_helmet",
     "marketSearchName": "MSA ACH TC-2001 MICH Series Helmet",
     "marketPositionOffset": 0
@@ -225,21 +255,6 @@
     "marketPositionOffset": 0
   },
   {
-    "name": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
-    "category": "headwear",
-    "image": "FASTMT_Icon.gif",
-    "title": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
-    "pageId": 7442,
-    "size": {
-      "width": "2",
-      "height": "2"
-    },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/FASTMT_Icon.gif?version=f71fe14f7611a81794305c375d1b8c59",
-    "filePath": "ops_core_fast_mt_super_high_cut_helmet",
-    "marketSearchName": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
-    "marketPositionOffset": 0
-  },
-  {
     "name": "ZSh-1-2M helmet",
     "category": "headwear",
     "image": "ZSH-1-2M_Icon.gif",
@@ -270,6 +285,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "category": "headwear",
+    "image": "FASTMT_Icon.gif",
+    "title": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "pageId": 7442,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/FASTMT_Icon.gif?version=f71fe14f7611a81794305c375d1b8c59",
+    "filePath": "ops_core_fast_mt_super_high_cut_helmet",
+    "marketSearchName": "Ops-Core Fast MT SUPER HIGH CUT Helmet",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Crye Precision Airframe Tan",
     "category": "headwear",
     "image": "Crye Precision Airframe Tan Icon.png",
@@ -282,6 +312,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e1/Crye_Precision_Airframe_Tan_Icon.png?version=c1eca57eef1834c1fc45c0afe400fabc",
     "filePath": "crye_precision_airframe_tan",
     "marketSearchName": "Crye Precision Airframe Tan",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Team Wendy EXFIL Ballistic Helmet",
+    "category": "headwear",
+    "image": "Team Wendy EXFIL Ballistic Helmet icon.gif",
+    "title": "Team Wendy EXFIL Ballistic Helmet",
+    "pageId": 16808,
+    "size": {
+      "width": "2",
+      "height": "2"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/89/Team_Wendy_EXFIL_Ballistic_Helmet_icon.gif?version=d650b25586996498407f2fa4a7834ce2",
+    "filePath": "team_wendy_exfil_ballistic_helmet",
+    "marketSearchName": "Team Wendy EXFIL Ballistic Helmet",
     "marketPositionOffset": 0
   },
   {
@@ -462,6 +507,36 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f7/Baseball_cap_icon.png?version=720769920e4e7166683ba82ce87d76d1",
     "filePath": "baseball_cap",
     "marketSearchName": "Baseball cap",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Ded Moroz hat",
+    "category": "headwear",
+    "image": "Rushatxmasicon.png",
+    "title": "Ded Moroz hat",
+    "pageId": 7989,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/44/Rushatxmasicon.png?version=81d7ba44d3e5a2bc4db03d96de87dead",
+    "filePath": "ded_moroz_hat",
+    "marketSearchName": "Ded Moroz hat",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Santa's hat",
+    "category": "headwear",
+    "image": "Euhaticon.png",
+    "title": "Santa's hat",
+    "pageId": 7990,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/Euhaticon.png?version=214e68f4b71c235503078ce22e47a1a9",
+    "filePath": "santa_s_hat",
+    "marketSearchName": "Santa's hat",
     "marketPositionOffset": 0
   },
   {

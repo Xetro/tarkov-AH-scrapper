@@ -116,7 +116,7 @@
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/Magbox_icon.png?version=0a608165b58bf589f1f55511151744b2",
     "filePath": "magazine_case",
-    "marketSearchName": "Magazine",
+    "marketSearchName": "Magazine case",
     "marketPositionOffset": 0
   },
   {
@@ -189,7 +189,7 @@
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/SmallSICCIcon.png?version=c9d9563ff60b845afb0165277d45c58b",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/da/SmallSICCIcon.png?version=e36d76bf0c629aff5ffdaec1f875d208",
     "filePath": "small_s_i_c_c_case",
     "marketSearchName": "Small S I C C case",
     "marketPositionOffset": 0

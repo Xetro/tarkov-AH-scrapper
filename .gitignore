@@ -1,3 +1,11 @@
 node_modules
+data/backup/*
+data/final/*
+data/backup-final/*
+data/in-database
 data/images/raw/*
+data/images/ocr
+data/images/selected-test
+data/images/test-data
+data/images/ocr
 data/images/processed/*

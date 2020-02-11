@@ -887,14 +887,14 @@
   {
     "name": "Beretta M9A3 Standard Rearsight",
     "category": "iron_sights",
-    "image": "wiki.png",
+    "image": "M9A3StandardRearSightIcon.png",
     "title": "Beretta M9A3 Standard Rearsight",
     "pageId": 15403,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/42/M9A3StandardRearSightIcon.png?version=19edbe6d5e97e4347955cd2eb83686f8",
     "filePath": "beretta_m9a3_standard_rearsight",
     "marketSearchName": "Beretta M9A3 Standard Rearsight",
     "marketPositionOffset": 0
@@ -902,14 +902,14 @@
   {
     "name": "Sight Mount M9 rear sight bearing",
     "category": "iron_sights",
-    "image": "wiki.png",
+    "image": "M9 Sightmount bearing Icon.png",
     "title": "Sight Mount M9 rear sight bearing",
     "pageId": 15404,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/fb/M9_Sightmount_bearing_Icon.png?version=3a9f899662f26758e6d169e591494222",
     "filePath": "sight_mount_m9_rear_sight_bearing",
     "marketSearchName": "Sight Mount M9 rear sight bearing",
     "marketPositionOffset": 0
@@ -917,14 +917,14 @@
   {
     "name": "Rearsight ASh-12 Carry Handle",
     "category": "iron_sights",
-    "image": "wiki.png",
+    "image": "Ash-12 Carryhandle rail Icon.png",
     "title": "Rearsight ASh-12 Carry Handle",
     "pageId": 15407,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/de/Ash-12_Carryhandle_rail_Icon.png",
     "filePath": "rearsight_ash_12_carry_handle",
     "marketSearchName": "Rearsight ASh-12 Carry Handle",
     "marketPositionOffset": 0
@@ -932,14 +932,14 @@
   {
     "name": "ASh-12 Folding sight Frontsight",
     "category": "iron_sights",
-    "image": "wiki.png",
+    "image": "Ash-12 Frontsight Icon.png",
     "title": "ASh-12 Folding sight Frontsight",
     "pageId": 15408,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/Ash-12_Frontsight_Icon.png",
     "filePath": "ash_12_folding_sight_frontsight",
     "marketSearchName": "ASh-12 Folding sight Frontsight",
     "marketPositionOffset": 0
@@ -972,6 +972,51 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e0/Five-seveN_MK2_Standard_Frontsight_icon.png",
     "filePath": "five_seven_mk2_standard_frontsight",
     "marketSearchName": "Five-seveN MK2 Standard Frontsight",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "KAC Folding micro sight Rear",
+    "category": "iron_sights",
+    "image": "KAC Folding micro sight Rear icon.png",
+    "title": "KAC Folding micro sight Rear",
+    "pageId": 16812,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/cf/KAC_Folding_micro_sight_Rear_icon.png?version=c1a15008004a9e2e8815a90dfab76326",
+    "filePath": "kac_folding_micro_sight_rear",
+    "marketSearchName": "KAC Folding micro sight Rear",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "KAC Folding micro sight Frontsight",
+    "category": "iron_sights",
+    "image": "KAC Folding micro sight Frontsight icon.png",
+    "title": "KAC Folding micro sight Frontsight",
+    "pageId": 16815,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c6/KAC_Folding_micro_sight_Frontsight_icon.png?version=1a104afff01db293952880b3a640b9fb",
+    "filePath": "kac_folding_micro_sight_frontsight",
+    "marketSearchName": "KAC Folding micro sight Frontsight",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "B&T MP9 Standard Rear-sight",
+    "category": "iron_sights",
+    "image": "B&T MP9 Standard Rear-sight icon.png",
+    "title": "B&T MP9 Standard Rear-sight",
+    "pageId": 16818,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ed/B%26T_MP9_Standard_Rear-sight_icon.png",
+    "filePath": "b_t_mp9_standard_rear_sight",
+    "marketSearchName": "B&T MP9 Standard Rear-sight",
     "marketPositionOffset": 0
   }
 ]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "6B5-16 Zh -86 \"Uley\" armored rig",
+    "category": "armored_chest_rigs",
+    "image": "6B5-16 armored rig icon.png",
+    "title": "6B5-16 Zh -86 \"Uley\" armored rig",
+    "pageId": 12691,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c7/6B5-16_armored_rig_icon.png",
+    "filePath": "6b5_16_zh__86__uley__armored_rig",
+    "marketSearchName": "6B5-16 Zh -86 \"Uley\" armored rig",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B3TM-01M armored rig",
+    "category": "armored_chest_rigs",
+    "image": "6B3TM-01M Icon.png",
+    "title": "6B3TM-01M armored rig",
+    "pageId": 15587,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/79/6B3TM-01M_Icon.png",
+    "filePath": "6b3tm_01m_armored_rig",
+    "marketSearchName": "6B3TM-01M armored rig",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "6B5-15 Zh -86 \"Uley\" armored rig",
+    "category": "armored_chest_rigs",
+    "image": "6B5-15icon.png",
+    "title": "6B5-15 Zh -86 \"Uley\" armored rig",
+    "pageId": 12778,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8e/6B5-15icon.png",
+    "filePath": "6b5_15_zh__86__uley__armored_rig",
+    "marketSearchName": "6B5-15 Zh -86 \"Uley\" armored rig",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "ANA Tactical M2 armored rig",
+    "category": "armored_chest_rigs",
+    "image": "M2Inventory.PNG",
+    "title": "ANA Tactical M2 armored rig",
+    "pageId": 9563,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0f/M2Inventory.PNG?version=fe6625cd3c30ede617b7ccc8897052bf",
+    "filePath": "ana_tactical_m2_armored_rig",
+    "marketSearchName": "ANA Tactical M2 armored rig",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "ANA Tactical M1 armored rig",
+    "category": "armored_chest_rigs",
+    "image": "ANA Tactical M1 icon.png",
+    "title": "ANA Tactical M1 armored rig",
+    "pageId": 12683,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3c/ANA_Tactical_M1_icon.png?version=a4a389ca14595942195d8c3ca7b34554",
+    "filePath": "ana_tactical_m1_armored_rig",
+    "marketSearchName": "ANA Tactical M1 armored rig",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Crye Precision AVS platecarrier",
+    "category": "armored_chest_rigs",
+    "image": "AVS_icon.png",
+    "title": "Crye Precision AVS platecarrier",
+    "pageId": 4152,
+    "size": {
+      "width": "3",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/ae/AVS_icon.png?version=c751806876d1977bb370c02f1c56780e",
+    "filePath": "crye_precision_avs_platecarrier",
+    "marketSearchName": "Crye Precision AVS platecarrier",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Ars Arma A18 Skanda plate carrier",
+    "category": "armored_chest_rigs",
+    "image": "A18 Icon.png",
+    "title": "Ars Arma A18 Skanda plate carrier",
+    "pageId": 15589,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f8/A18_Icon.png?version=f89ba86db9606c676c131d48ae09885c",
+    "filePath": "ars_arma_a18_skanda_plate_carrier",
+    "marketSearchName": "Ars Arma A18 Skanda plate carrier",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Wartech TV-110 plate carrier",
+    "category": "armored_chest_rigs",
+    "image": "Wartech TV-110 plate carrier icon.png",
+    "title": "Wartech TV-110 plate carrier",
+    "pageId": 12684,
+    "size": {
+      "width": "4",
+      "height": "3"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/ee/Wartech_TV-110_plate_carrier_icon.png",
+    "filePath": "wartech_tv_110_plate_carrier",
+    "marketSearchName": "Wartech TV-110 plate carrier",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "5.11 Tactec plate carrier",
+    "category": "armored_chest_rigs",
+    "image": "TactecIcon.png",
+    "title": "5.11 Tactec plate carrier",
+    "pageId": 10775,
+    "size": {
+      "width": "4",
+      "height": "4"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e9/TactecIcon.png?version=87ab58c17ef74a8c86d6328cab4b9612",
+    "filePath": "5_11_tactec_plate_carrier",
+    "marketSearchName": "5.11 Tactec plate carrier",
+    "marketPositionOffset": 0
+  }
+]

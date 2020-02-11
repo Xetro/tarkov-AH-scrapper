@@ -137,14 +137,14 @@
   {
     "name": "USP-1 scope eyecup",
     "category": "auxiliary_parts",
-    "image": "wiki.png",
+    "image": "USP-1 eyecup Icon.png",
     "title": "USP-1 scope eyecup",
     "pageId": 15460,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2d/USP-1_eyecup_Icon.png",
     "filePath": "usp_1_scope_eyecup",
     "marketSearchName": "USP-1 scope eyecup",
     "marketPositionOffset": 0
@@ -152,14 +152,14 @@
   {
     "name": "1P59 scope eyecup",
     "category": "auxiliary_parts",
-    "image": "wiki.png",
+    "image": "1P59 Eyecup Icon.png",
     "title": "1P59 scope eyecup",
     "pageId": 15498,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/75/1P59_Eyecup_Icon.png?version=c1418f1da0455f614be7ec26b536ae09",
     "filePath": "1p59_scope_eyecup",
     "marketSearchName": "1P59 scope eyecup",
     "marketPositionOffset": 0
@@ -167,14 +167,14 @@
   {
     "name": "KAC short panel for URX 3/3.1",
     "category": "auxiliary_parts",
-    "image": "wiki.png",
+    "image": "KAC URX Short Icon.gif",
     "title": "KAC short panel for URX 3/3.1",
     "pageId": 15504,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f9/KAC_URX_Short_Icon.gif?version=8bb01008afe9a68a81f43f0d10f400cf",
     "filePath": "kac_short_panel_for_urx_3_3_1",
     "marketSearchName": "KAC short panel for URX 3/3.1",
     "marketPositionOffset": 0
@@ -182,14 +182,14 @@
   {
     "name": "KAC long panel for URX 3/3.1",
     "category": "auxiliary_parts",
-    "image": "wiki.png",
+    "image": "KAC URX Long Icon.gif",
     "title": "KAC long panel for URX 3/3.1",
     "pageId": 15505,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9c/KAC_URX_Long_Icon.gif?version=ff67ab3f34a871a0f95780129cbad860",
     "filePath": "kac_long_panel_for_urx_3_3_1",
     "marketSearchName": "KAC long panel for URX 3/3.1",
     "marketPositionOffset": 0
@@ -197,14 +197,14 @@
   {
     "name": "KAC stopper panel for URX 3/3.1",
     "category": "auxiliary_parts",
-    "image": "wiki.png",
+    "image": "KAC URX Stopper Icon.gif",
     "title": "KAC stopper panel for URX 3/3.1",
     "pageId": 15506,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/81/KAC_URX_Stopper_Icon.gif?version=ae51530e3123fb03232a7a796c7e573c",
     "filePath": "kac_stopper_panel_for_urx_3_3_1",
     "marketSearchName": "KAC stopper panel for URX 3/3.1",
     "marketPositionOffset": 0

@@ -30,6 +30,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "6.5\" 9x19 barrel for MPX",
+    "category": "barrels",
+    "image": "6.5MPXBarrelIcon.png",
+    "title": "6.5\" 9x19 barrel for MPX",
+    "pageId": 13849,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/6.5MPXBarrelIcon.png",
+    "filePath": "6_5__9x19_barrel_for_mpx",
+    "marketSearchName": "6.5\" 9x19 barrel for MPX",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "406mm barrel for MDR and compatible 5.56x45",
     "category": "barrels",
     "image": "406mm barrel for MDR and compatible 5.56x45 icon.png",
@@ -42,6 +57,36 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/23/406mm_barrel_for_MDR_and_compatible_5.56x45_icon.png",
     "filePath": "406mm_barrel_for_mdr_and_compatible_5_56x45",
     "marketSearchName": "406mm barrel for MDR and compatible 5.56x45",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "22\" barrel for a SVDS 7.62x54",
+    "category": "barrels",
+    "image": "22 barrel for a SVDS 7.62x54 icon.png",
+    "title": "22\" barrel for a SVDS 7.62x54",
+    "pageId": 13841,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/22_barrel_for_a_SVDS_7.62x54_icon.png",
+    "filePath": "22__barrel_for_a_svds_7_62x54",
+    "marketSearchName": "22\" barrel for a SVDS 7.62x54",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "4.5\" 9x19 barrel for MPX",
+    "category": "barrels",
+    "image": "4.5MPXBarrelIcon.png",
+    "title": "4.5\" 9x19 barrel for MPX",
+    "pageId": 13848,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c3/4.5MPXBarrelIcon.png",
+    "filePath": "4_5__9x19_barrel_for_mpx",
+    "marketSearchName": "4.5\" 9x19 barrel for MPX",
     "marketPositionOffset": 0
   },
   {
@@ -372,6 +417,36 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9a/500mmdvl.png?version=2cb54d6d895c2fe0d96576dd87cd6962",
     "filePath": "500mm__308_barrel_for_dvl_10",
     "marketSearchName": "500mm .308 barrel for DVL-10",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "116mm 7.62x25 TT barrel",
+    "category": "barrels",
+    "image": "Ttstandard.png",
+    "title": "116mm 7.62x25 TT barrel",
+    "pageId": 3167,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Ttstandard.png?version=9773a179c7e5c2496d9c3e52a838a5af",
+    "filePath": "116mm_7_62x25_tt_barrel",
+    "marketSearchName": "116mm 7.62x25 TT barrel",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "116mm 7.62x25 TT gilded barrel",
+    "category": "barrels",
+    "image": "116mmTTGold Icon.png",
+    "title": "116mm 7.62x25 TT gilded barrel",
+    "pageId": 11015,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/116mmTTGold_Icon.png?version=e915d158f73fb0f553c1af9a00b820d1",
+    "filePath": "116mm_7_62x25_tt_gilded_barrel",
+    "marketSearchName": "116mm 7.62x25 TT gilded barrel",
     "marketPositionOffset": 0
   },
   {
@@ -885,16 +960,76 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Barrel with compensator for Glock 18C 9x19",
+    "category": "barrels",
+    "image": "Barrel with compensator for Glock 18C 9x19 Icon.png",
+    "title": "Barrel with compensator for Glock 18C 9x19",
+    "pageId": 10981,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f5/Barrel_with_compensator_for_Glock_18C_9x19_Icon.png?version=40577696183eb1475a13d861be76a07c",
+    "filePath": "barrel_with_compensator_for_glock_18c_9x19",
+    "marketSearchName": "Barrel with compensator for Glock 18C 9x19",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "510mm barrel for MP-43e-1c 12ga",
+    "category": "barrels",
+    "image": "510mm MP-43e-1s 12ga Icon.png",
+    "title": "510mm barrel for MP-43e-1c 12ga",
+    "pageId": 9869,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/83/510mm_MP-43e-1s_12ga_Icon.png",
+    "filePath": "510mm_barrel_for_mp_43e_1c_12ga",
+    "marketSearchName": "510mm barrel for MP-43e-1c 12ga",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "725mm barrel for MP-43e-1s 12ga",
+    "category": "barrels",
+    "image": "725mm_MP-43e-1s_12ga_Icon.png",
+    "title": "725mm barrel for MP-43e-1s 12ga",
+    "pageId": 3140,
+    "size": {
+      "width": "5",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/725mm_MP-43e-1s_12ga_Icon.png",
+    "filePath": "725mm_barrel_for_mp_43e_1s_12ga",
+    "marketSearchName": "725mm barrel for MP-43e-1s 12ga",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Threaded barrel for M9A3 9x19",
+    "category": "barrels",
+    "image": "M9A3ThreadedBarrelIcon.png",
+    "title": "Threaded barrel for M9A3 9x19",
+    "pageId": 14992,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/39/M9A3ThreadedBarrelIcon.png?version=df668209819e138e9a36452a613b27b4",
+    "filePath": "threaded_barrel_for_m9a3_9x19",
+    "marketSearchName": "Threaded barrel for M9A3 9x19",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "10.5\" barrel for P90 5.7x28",
     "category": "barrels",
-    "image": "wiki.png",
+    "image": "10.5 barrel for P90 5.7x28 icon.png",
     "title": "10.5\" barrel for P90 5.7x28",
     "pageId": 15427,
     "size": {
       "width": "2",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/70/10.5_barrel_for_P90_5.7x28_icon.png",
     "filePath": "10_5__barrel_for_p90_5_7x28",
     "marketSearchName": "10.5\" barrel for P90 5.7x28",
     "marketPositionOffset": 0
@@ -945,6 +1080,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Barrel for Five-seveN 5.7x28",
+    "category": "barrels",
+    "image": "Barrel_for_Five_seveN_5.7x28_icon.png",
+    "title": "Barrel for Five-seveN 5.7x28",
+    "pageId": 15562,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/Barrel_for_Five_seveN_5.7x28_icon.png",
+    "filePath": "barrel_for_five_seven_5_7x28",
+    "marketSearchName": "Barrel for Five-seveN 5.7x28",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Threaded barrel for Five-seveN 5.7x28",
     "category": "barrels",
     "image": "wiki.png",
@@ -962,14 +1112,14 @@
   {
     "name": "18\" barrel for AR-15 and compatible 5.56x45",
     "category": "barrels",
-    "image": "wiki.png",
+    "image": "18 barrel for AR-15 and compatible 5.56x45 icon.png",
     "title": "18\" barrel for AR-15 and compatible 5.56x45",
     "pageId": 15577,
     "size": {
       "width": "3",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d6/18_barrel_for_AR-15_and_compatible_5.56x45_icon.png",
     "filePath": "18__barrel_for_ar_15_and_compatible_5_56x45",
     "marketSearchName": "18\" barrel for AR-15 and compatible 5.56x45",
     "marketPositionOffset": 0
@@ -977,16 +1127,91 @@
   {
     "name": "20\" barrel for AR-15 and compatible 5.56x45",
     "category": "barrels",
-    "image": "wiki.png",
+    "image": "20 barrel for AR 15 and compatible 5.56x45 Icon.png",
     "title": "20\" barrel for AR-15 and compatible 5.56x45",
     "pageId": 15578,
     "size": {
       "width": "4",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/97/20_barrel_for_AR_15_and_compatible_5.56x45_Icon.png",
     "filePath": "20__barrel_for_ar_15_and_compatible_5_56x45",
     "marketSearchName": "20\" barrel for AR-15 and compatible 5.56x45",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "660mm .308 barrel for T-5000",
+    "category": "barrels",
+    "image": "660mm .308 barrel for T-5000 icon.png",
+    "title": "660mm .308 barrel for T-5000",
+    "pageId": 16748,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/02/660mm_.308_barrel_for_T-5000_icon.png",
+    "filePath": "660mm__308_barrel_for_t_5000",
+    "marketSearchName": "660mm .308 barrel for T-5000",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "20\" barrel for SR-25 and compatible 7.62x51",
+    "category": "barrels",
+    "image": "20 Inch SR-25 Barrel Icon.png",
+    "title": "20\" barrel for SR-25 and compatible 7.62x51",
+    "pageId": 16750,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/98/20_Inch_SR-25_Barrel_Icon.png",
+    "filePath": "20__barrel_for_sr_25_and_compatible_7_62x51",
+    "marketSearchName": "20\" barrel for SR-25 and compatible 7.62x51",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "16\" barrel for SR-25 and compatible 7.62x51",
+    "category": "barrels",
+    "image": "16 INCH SR-25 BARREL ICON.png",
+    "title": "16\" barrel for SR-25 and compatible 7.62x51",
+    "pageId": 16757,
+    "size": {
+      "width": "4",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5a/16_INCH_SR-25_BARREL_ICON.png",
+    "filePath": "16__barrel_for_sr_25_and_compatible_7_62x51",
+    "marketSearchName": "16\" barrel for SR-25 and compatible 7.62x51",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "23\" barrel for a VPO-215 .366TKM",
+    "category": "barrels",
+    "image": "23 barrel for a VPO-215 .366TKM icon.png",
+    "title": "23\" barrel for a VPO-215 .366TKM",
+    "pageId": 16753,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e6/23_barrel_for_a_VPO-215_.366TKM_icon.png",
+    "filePath": "23__barrel_for_a_vpo_215__366tkm",
+    "marketSearchName": "23\" barrel for a VPO-215 .366TKM",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "16 inch .308 barrel for MDR and compatible",
+    "category": "barrels",
+    "image": "16 inch .308 barrel for MDR and compatible icon.png",
+    "title": "16 inch .308 barrel for MDR and compatible",
+    "pageId": 16755,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/16_inch_.308_barrel_for_MDR_and_compatible_icon.png",
+    "filePath": "16_inch__308_barrel_for_mdr_and_compatible",
+    "marketSearchName": "16 inch .308 barrel for MDR and compatible",
     "marketPositionOffset": 0
   }
 ]

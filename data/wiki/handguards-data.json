@@ -45,6 +45,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Desert Tech foregrip for MDR",
+    "category": "handguards",
+    "image": "Desert Tech foregrip for MDR icon.gif",
+    "title": "Desert Tech foregrip for MDR",
+    "pageId": 13605,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/66/Desert_Tech_foregrip_for_MDR_icon.gif?version=aea75a469326e7fc462c3a5aad82b21e",
+    "filePath": "desert_tech_foregrip_for_mdr",
+    "marketSearchName": "Desert Tech foregrip for MDR",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "HK MRS 14\" keymod foregrip for 416A5",
     "category": "handguards",
     "image": "HK Keymod Icon.png",
@@ -180,6 +195,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Polymer SVDS handguard",
+    "category": "handguards",
+    "image": "Polymer SVDS foregrip icon.png",
+    "title": "Polymer SVDS handguard",
+    "pageId": 13839,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/30/Polymer_SVDS_foregrip_icon.png?version=351e2de36a57cd0fe3d4547f931d33e0",
+    "filePath": "polymer_svds_handguard",
+    "marketSearchName": "Polymer SVDS handguard",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "SAI 14.5\" QD Rail foregrip for AR15",
     "category": "handguards",
     "image": "SAI14.5Icon.png",
@@ -267,6 +297,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/b3/Midwest_m-lok_icon.png",
     "filePath": "midwest_13_5__m_lok_foregrip_for_416a5",
     "marketSearchName": "Midwest 13.5\" M-LOK foregrip for 416A5",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Izhmash RPK-16 regular handguard",
+    "category": "handguards",
+    "image": "Izhmash RPK-16 regular handguard icon.png",
+    "title": "Izhmash RPK-16 regular handguard",
+    "pageId": 12583,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/8/8b/Izhmash_RPK-16_regular_handguard_icon.png",
+    "filePath": "izhmash_rpk_16_regular_handguard",
+    "marketSearchName": "Izhmash RPK-16 regular handguard",
     "marketPositionOffset": 0
   },
   {
@@ -675,6 +720,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "Izhmekh MP-153 Polymer stock",
+    "category": "handguards",
+    "image": "Mp153polymer.png",
+    "title": "Izhmekh MP-153 Polymer stock",
+    "pageId": 3107,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/6/62/Mp153polymer.png?version=4bc5fd51613ef878ef57dea9e841daa1",
+    "filePath": "izhmekh_mp_153_polymer_stock",
+    "marketSearchName": "Izhmekh MP-153 Polymer stock",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "Krebs Custom UFM Keymod System handguard for AKM",
     "category": "handguards",
     "image": "Ufm.png",
@@ -992,14 +1052,14 @@
   {
     "name": "Polymer AK-100 series foregrip",
     "category": "handguards",
-    "image": "wiki.png",
+    "image": "PolymerAK100ForegripIcon.png",
     "title": "Polymer AK-100 series foregrip",
     "pageId": 15411,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d0/PolymerAK100ForegripIcon.png?version=2fa09489e9ddfb2ba3de6aa7e0109b49",
     "filePath": "polymer_ak_100_series_foregrip",
     "marketSearchName": "Polymer AK-100 series foregrip",
     "marketPositionOffset": 0
@@ -1020,6 +1080,21 @@
     "marketPositionOffset": 0
   },
   {
+    "name": "A*B Arms MOD X Gen.3 keymod handguard for M700",
+    "category": "handguards",
+    "image": "AB_Arms_MOD_X_Gen3_keymod_handguard_for_M700_icon.png",
+    "title": "A*B Arms MOD X Gen.3 keymod handguard for M700",
+    "pageId": 15441,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1c/AB_Arms_MOD_X_Gen3_keymod_handguard_for_M700_icon.png?version=003a218f350a46d5bf231ce317613d80",
+    "filePath": "a_b_arms_mod_x_gen_3_keymod_handguard_for_m700",
+    "marketSearchName": "A*B Arms MOD X Gen.3 keymod handguard for M700",
+    "marketPositionOffset": 0
+  },
+  {
     "name": "5.45 Design \"Aggressor\" handguard for AK",
     "category": "handguards",
     "image": "wiki.png",
@@ -1035,18 +1110,18 @@
     "marketPositionOffset": 0
   },
   {
-    "name": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "name": "Strike Industries Viper carbine length M-LOK foregrip for AR-15",
     "category": "handguards",
     "image": "wiki.png",
-    "title": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "title": "Strike Industries Viper carbine length M-LOK foregrip for AR-15",
     "pageId": 15475,
     "size": {
       "width": "2",
       "height": "1"
     },
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
-    "filePath": "strike_industries_viper_carabine_length_m_lok_foregrip_for_ar_15",
-    "marketSearchName": "Strike Industries Viper carabine length M-LOK foregrip for AR-15",
+    "filePath": "strike_industries_viper_carbine_length_m_lok_foregrip_for_ar_15",
+    "marketSearchName": "Strike Industries Viper carbine length M-LOK foregrip for AR-15",
     "marketPositionOffset": 0
   },
   {
@@ -1077,6 +1152,21 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
     "filePath": "noveske_sws_n6_split_handguard_for_ar_10_compatible_systems",
     "marketSearchName": "Noveske SWS N6 Split handguard for AR-10-compatible systems",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "CAA HX-5 MP5 handguard",
+    "category": "handguards",
+    "image": "wiki.png",
+    "title": "CAA HX-5 MP5 handguard",
+    "pageId": 15480,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "filePath": "caa_hx_5_mp5_handguard",
+    "marketSearchName": "CAA HX-5 MP5 handguard",
     "marketPositionOffset": 0
   },
   {
@@ -1142,14 +1232,14 @@
   {
     "name": "TDI AKM-L handguard for AK",
     "category": "handguards",
-    "image": "wiki.png",
+    "image": "AKM-L_Icon.gif",
     "title": "TDI AKM-L handguard for AK",
     "pageId": 15518,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/eb/AKM-L_Icon.gif",
     "filePath": "tdi_akm_l_handguard_for_ak",
     "marketSearchName": "TDI AKM-L handguard for AK",
     "marketPositionOffset": 0
@@ -1164,9 +1254,24 @@
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/DingDongGripIcon.png?version=449df473ba27803b1360875e5bb5d755",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/27/DingDongGripIcon.png?version=fe856a0cacc5772f96f3a731ea9ef97e",
     "filePath": "wooden_caf_wasr_10_63_handguard",
     "marketSearchName": "Wooden CAF WASR 10-63 handguard",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "MP5k Polymer handguard",
+    "category": "handguards",
+    "image": "MP5k_Polymer_handguard_icon.png",
+    "title": "MP5k Polymer handguard",
+    "pageId": 15553,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/46/MP5k_Polymer_handguard_icon.png?version=c9aaa20852fa730545edc0ee5a8afe85",
+    "filePath": "mp5k_polymer_handguard",
+    "marketSearchName": "MP5k Polymer handguard",
     "marketPositionOffset": 0
   },
   {
@@ -1182,6 +1287,51 @@
     "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/42/Ion_Lite_Icon.PNG?version=5097343003267f6fd49afe6ab476b926",
     "filePath": "lone_star_ion_lite_handguard_for_ar_15_and_compatible",
     "marketSearchName": "Lone Star Ion Lite handguard for AR-15 and compatible",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "URX-4 handguard for AR-10 and compatible",
+    "category": "handguards",
+    "image": "URX-4 handguard for AR-10 and compatible icon.png",
+    "title": "URX-4 handguard for AR-10 and compatible",
+    "pageId": 16796,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/33/URX-4_handguard_for_AR-10_and_compatible_icon.png",
+    "filePath": "urx_4_handguard_for_ar_10_and_compatible",
+    "marketSearchName": "URX-4 handguard for AR-10 and compatible",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "Orsis handguard for T-5000",
+    "category": "handguards",
+    "image": "Orsis handguard for T-5000 icon.png",
+    "title": "Orsis handguard for T-5000",
+    "pageId": 16799,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/17/Orsis_handguard_for_T-5000_icon.png",
+    "filePath": "orsis_handguard_for_t_5000",
+    "marketSearchName": "Orsis handguard for T-5000",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "SAG MK1 Freefloat Chassis for SVD",
+    "category": "handguards",
+    "image": "SAG MK1 Freefloat Chassis for SVD icon.png",
+    "title": "SAG MK1 Freefloat Chassis for SVD",
+    "pageId": 16803,
+    "size": {
+      "width": "3",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bd/SAG_MK1_Freefloat_Chassis_for_SVD_icon.png?version=6485465c41bc99cebd02529b5ff38c24",
+    "filePath": "sag_mk1_freefloat_chassis_for_svd",
+    "marketSearchName": "SAG MK1 Freefloat Chassis for SVD",
     "marketPositionOffset": 0
   }
 ]

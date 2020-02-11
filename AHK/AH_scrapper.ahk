@@ -14,7 +14,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 *~F2::
 
-Categories := ["suppressors", "medical", "injectors", "provisions", "keys_labs", "keys_reserve", "keys_shoreline", "loot"]
+Categories := ["headwear", "weapons", "armor_vests", "armored_chest_rigs", "special_scopes", "provisions", "loot"]
+
  
 FileRead, slow_search, slow_search.txt
 sSlow_search := StrReplace(slow_search, "`r`n", ",")
@@ -43,17 +44,27 @@ for index, category in Categories
 		sleep 200
 		Click  
 		sleep 200
-		SendRaw, %search%
+		Send, %search%
+
+
 		if (category = "magazines") {
 			if search in %sSlow_search%
-				sleep 4000
+				sleep 3000
 		} if (category = "762x51" or category = "762x54" or category = "762x39" or category = "762x25") {
 			if search in %sSlow_search%
 				sleep 2000
 		} else {
 			if search contains %sSlow_search% 
-				sleep 4000
+				sleep 3000
 		}
+
+		sleep 500
+		Send, {BackSpace}
+		LastChar := SubStr(search, 0, 1)
+		sleep 400
+		Send %lastChar%
+		sleep 300
+
 		sleep 400
 		MouseMove, 150, %y%
 		sleep 400
@@ -64,7 +75,7 @@ for index, category in Categories
 		prePath := "../data/images/raw/"
 		extension := ".png"
 		fullPath = %prePath%%filename%--%timestamp%%extension%
-		sleep 1200
+		sleep 1000
 		CaptureScreen("50, 100, 1450, 1170", "true", fullPath)
 	}
 

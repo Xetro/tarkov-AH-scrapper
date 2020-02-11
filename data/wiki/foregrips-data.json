@@ -272,14 +272,14 @@
   {
     "name": "ASh-12 Vertical pistol grip",
     "category": "foregrips",
-    "image": "wiki.png",
+    "image": "ASh-12 Foregrip Icon.png",
     "title": "ASh-12 Vertical pistol grip",
     "pageId": 15435,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/7d/ASh-12_Foregrip_Icon.png",
     "filePath": "ash_12_vertical_pistol_grip",
     "marketSearchName": "ASh-12 Vertical pistol grip",
     "marketPositionOffset": 0
@@ -287,16 +287,46 @@
   {
     "name": "RTM Pillau Tactical grip",
     "category": "foregrips",
-    "image": "wiki.png",
+    "image": "Pillau Icon.png",
     "title": "RTM Pillau Tactical grip",
     "pageId": 15455,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/28/Pillau_Icon.png?version=7b1152463c0453449f7068c55c1c1f19",
     "filePath": "rtm_pillau_tactical_grip",
     "marketSearchName": "RTM Pillau Tactical grip",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "B&T MP9 Vertical grip",
+    "category": "foregrips",
+    "image": "B&T MP9 Vertical grip icon.png",
+    "title": "B&T MP9 Vertical grip",
+    "pageId": 16784,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c5/B%26T_MP9_Vertical_grip_icon.png",
+    "filePath": "b_t_mp9_vertical_grip",
+    "marketSearchName": "B&T MP9 Vertical grip",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "T-5000 Pad",
+    "category": "foregrips",
+    "image": "T-5000 Pad icon.png",
+    "title": "T-5000 Pad",
+    "pageId": 16787,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/7/70/T-5000_Pad_icon.png",
+    "filePath": "t_5000_pad",
+    "marketSearchName": "T-5000 Pad",
     "marketPositionOffset": 0
   }
 ]

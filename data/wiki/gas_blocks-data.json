@@ -227,16 +227,46 @@
   {
     "name": "JP Enterprises Gas System-5b",
     "category": "gas_blocks",
-    "image": "wiki.png",
+    "image": "JPG Icon.PNG",
     "title": "JP Enterprises Gas System-5b",
     "pageId": 15476,
     "size": {
       "width": "1",
       "height": "1"
     },
-    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/b/bc/Wiki.png?version=9e41c9564fa2d9ed406cdf3c7bafd199",
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c3/JPG_Icon.PNG?version=0313d803573e4fc6ab69607abc4bbb00",
     "filePath": "jp_enterprises_gas_system_5b",
     "marketSearchName": "JP Enterprises Gas System-5b",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "VS-24 Handguard with a VS-33c gas block combo for AK",
+    "category": "gas_blocks",
+    "image": "VS Combo Normal Icon.gif",
+    "title": "VS-24 Handguard with a VS-33c gas block combo for AK",
+    "pageId": 15461,
+    "size": {
+      "width": "2",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/2/2c/VS_Combo_Normal_Icon.gif?version=76d52dd29413ee543031cd6d00490b4a",
+    "filePath": "vs_24_handguard_with_a_vs_33c_gas_block_combo_for_ak",
+    "marketSearchName": "VS-24 Handguard with a VS-33c gas block combo for AK",
+    "marketPositionOffset": 0
+  },
+  {
+    "name": "KAC Low Profile Gas Block",
+    "category": "gas_blocks",
+    "image": "KAC Low Profile Gas Block icon.png",
+    "title": "KAC Low Profile Gas Block",
+    "pageId": 16792,
+    "size": {
+      "width": "1",
+      "height": "1"
+    },
+    "imagePath": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d9/KAC_Low_Profile_Gas_Block_icon.png?version=32fe9447fa4475dd3744e7a62d855ba2",
+    "filePath": "kac_low_profile_gas_block",
+    "marketSearchName": "KAC Low Profile Gas Block",
     "marketPositionOffset": 0
   }
 ]
