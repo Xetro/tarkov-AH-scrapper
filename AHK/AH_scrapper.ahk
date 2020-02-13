@@ -6,16 +6,15 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #include screen.ahk
 #include JSON.ahk
 
-#Persistent
+FileEncoding, UTF-8
 
-; Written by LorenWard
+#Persistent
 
 #ifWinActive, ahk_exe EscapeFromTarkov.exe
 
 *~F2::
 
-Categories := ["headwear", "weapons", "armor_vests", "armored_chest_rigs", "special_scopes", "provisions", "loot"]
-
+Categories := ["keys_factory", "keys_customs", "keys_woods", "keys_shoreline", "keys_interchange", "keys_labs", "keys_reserve", "armor_vests", "armored_chest_rigs", "headwear", "loot"]
  
 FileRead, slow_search, slow_search.txt
 sSlow_search := StrReplace(slow_search, "`r`n", ",")
@@ -37,15 +36,17 @@ for index, category in Categories
 
 	for k, v in parsedJSON
 	{
+		clipboard := ""
 		search := v.marketSearchName
 		offset := (33*v.marketPositionOffset)
-		y := (170+offset) 
+		y := (160+offset) 
 		MouseMove, 150, 120
 		sleep 200
 		Click  
 		sleep 200
-		Send, %search%
-
+		clipboard := search
+		ClipWait
+		Send, ^v
 
 		if (category = "magazines") {
 			if search in %sSlow_search%
@@ -62,11 +63,11 @@ for index, category in Categories
 		Send, {BackSpace}
 		LastChar := SubStr(search, 0, 1)
 		sleep 400
-		Send %lastChar%
+		Send {Text}%lastChar%
 		sleep 300
 
 		sleep 400
-		MouseMove, 150, %y%
+		MouseMove, 45, %y%
 		sleep 400
 		Click 
 		
@@ -76,7 +77,7 @@ for index, category in Categories
 		extension := ".png"
 		fullPath = %prePath%%filename%--%timestamp%%extension%
 		sleep 1000
-		CaptureScreen("50, 100, 1450, 1170", "true", fullPath)
+		CaptureScreen("50, 100, 1600, 1170", "true", fullPath)
 	}
 
 	if (category = "armor_vests" or category = "armored_chest_rigs") {

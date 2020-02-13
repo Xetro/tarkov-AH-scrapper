@@ -191,23 +191,22 @@
             "SRVV 5.45x39 AK-74 muzzlebrake": "SRVV 5.45x39",
             "Socom 16 7.62x51 muzzlebrake & compensator for M1A (threaded)": "Socom 16 7.62x51 muzzlebrake & compensator for M1A",
             "Socom 16 7.62x51 muzzlebrake & compensator for M1A (unthreaded)": "Socom 16 7.62x51 muzzlebrake & compensator for M1A",
-            "Izhmash 5.56x45 АK-102 muzzlebrake & compensator (6P44 0-20)": "6P44 0-20",
-            "Izhmash 7.62x39 АK-103 muzzlebrake & compensator": "Izhmash 7.62x39 А",
-            "Izhmash 7.62x39 АK-104 muzzlebrake & compensator (6P46 0-20)": "6P46 0-20",
-            "Izhmash 5.45x39 АK-105 muzzlebrake & compensator (6P44 0-20)": "6P44 0-20",
-            "Izhmash 5.45x39 АK-74M muzzlebrake & compensator (6P20 0-20)": "6P20 0-20",
-            "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)": "6P20 0-20",
-            "Izhmash 5.56x45 АK-101 muzzlebrake & compensator": "Izhmash 5.56x45",
+            "Izhmash 5.56x45 АK-102 muzzlebrake & compensator (6P44 0-20)": "Izhmash 5.56x45 АК-102 muzzlebrake & compensator (6P44 0-20)",
+            "Izhmash 7.62x39 АK-103 muzzlebrake & compensator": "Izhmash 7.62x39 АК-103 muzzlebrake & compensator",
+            "Izhmash 7.62x39 АK-104 muzzlebrake & compensator (6P46 0-20)": "Izhmash 7.62x39 АК-104 muzzlebrake & compensator (6P46 0-20)",
+            "Izhmash 5.45x39 АK-105 muzzlebrake & compensator (6P44 0-20)": "Izhmash 5.45x39 АК-105 muzzlebrake & compensator (6P44 0-20)",
+            "Izhmash 5.45x39 АK-74M muzzlebrake & compensator (6P20 0-20)": "Izhmash 5.45x39 АК-74M muzzlebrake & compensator (6P20 0-20)",
+            "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)": "Izhmash 5.45x39 АК-74 muzzlebrake & compensator (6P20 0-20)",
+            "Izhmash 5.56x45 АK-101 muzzlebrake & compensator": "Izhmash 5.56x45 АК-101 muzzlebrake & compensator",
+            "Izhmash 7.62x39 AKM muzzlebrake & compensator (6P1 0-14)": "Izhmash 7.62x39 АКM muzzlebrake & compensator",
             "DVL-10 M2 muzzle break": "DVL-10",
-            "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator": "Izhmash 5.45x39 RP",
+            "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator": "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator",
             "Venom Antidote muzzlebrake & compensator for AK": "Venom Antidote muzzlebrake & compensator for",
-            "Alpha Wolf Bullnose 9x19 Compensator": "Alpha Wolf Bullnose",
-            "Izhmash 7.62x39 AKM muzzlebrake & compensator (6P1 0-14)": "6P1 0-14"
+            "Alpha Wolf Bullnose 9x19 Compensator": "Alpha Wolf Bullnose"
         },
         "positionExceptions": {
-            "Socom 16 7.62x51 muzzlebrake & compensator for M1A (threaded)": 1,
-            "DVL-10 M2 muzzle break": 5,
-            "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)": 1
+            "Socom 16 7.62x51 muzzlebrake & compensator for M1A (unthreaded)": 1,
+            "DVL-10 M2 muzzle break": 5
         },
         "usePages": [2],
         "nameIndex": 1,
@@ -310,7 +309,9 @@
     },
     "charging_handles": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "B&T charging handle for MP9": "B&T charging handle for MP9"
+        },
         "positionExceptions": {},
         "usePages": [4],
         "nameIndex": 1,
@@ -425,7 +426,9 @@
     },
     "gas_blocks": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "UltiMAK M1-B gas tube for AK": "UltiMAK M1-B gas tube for"
+        },
         "positionExceptions": {},
         "usePages": [5],
         "nameIndex": 1,
