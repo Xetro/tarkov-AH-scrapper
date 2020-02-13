@@ -1,4 +1,0 @@
-MaxRounds Powermag              30000
-Pmag 30 AK/AKM 30rounds         3600
-Pmag 30 AK74 30rounds         3000
-Izhmash AKMS 30rounds           1200
