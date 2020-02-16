@@ -89,9 +89,7 @@ const singleCategory = async (category) => {
 
 const takeFromOld = async (category, name) => {
     let backups = glob.sync(`./data/backup/${category}-data-*.json`);
-    console.log('BACKUPS: ', backups.length);
     if (!backups.length) {
-         console.log('NO BACKUPS - RETURNING 0: ');
         return 0;
     }
     backups = backups.sort((a, b) => b.slice(-19, -5) - a.slice(-19, -5));
@@ -105,7 +103,6 @@ const takeFromOld = async (category, name) => {
 
         if (item) {
             foundItem = item;
-            console.log('ITEM FOUND: ', foundItem.name, foundItem.timestamp);
             break;
         }
 
@@ -113,11 +110,69 @@ const takeFromOld = async (category, name) => {
     }
 
     if (foundItem) {
-        console.log('RETURNING ITEM: ', foundItem.name);
         return foundItem;
     }
-    console.log('ITEM NOT FOUND RETURNING 0');
     return 0;
+}
+
+const newProcess = async () => {
+
+    let finalJSON = [];
+
+    for (const [category, categoryData] of Object.entries(categories)) {
+        const priceFiles = glob.sync(`./data/python/${category}-data-*.json`);
+
+        let categoryItems = fs.readFileSync(`./data/wiki/${category}-data.json`, 'utf-8');
+        categoryItems = JSON.parse(categoryItems);
+
+        let priceData = [];
+
+        if (priceFiles.length) {
+            priceData = fs.readFileSync(priceFiles[0], 'utf-8');
+            priceData = JSON.parse(priceData);
+
+        }
+
+        categoryItems = await Promise.all(categoryItems.map(async item => {
+            const slots = item.size.width * item.size.height;
+            let foundItemWithPrice
+            if (priceData.length) {
+                foundItemWithPrice = priceData.find(_item => _item.name === item.name);
+
+                if (foundItemWithPrice) {
+                    // console.log('FOUND')
+                    return {
+                        ...foundItemWithPrice,
+                        slots
+                    };
+                }
+            }
+            foundItemWithPrice = await takeFromOld(category, item.name);
+
+            if (foundItemWithPrice === 0) {
+                // console.log('NOT FOUND')
+                return
+            } else {
+                // console.log('FOUND OLD')
+                return {
+                    
+                    ...foundItemWithPrice,
+                    slots
+                };
+            }
+        }));
+
+        finalJSON = finalJSON.concat(categoryItems);
+    }
+
+    try {
+        const timestamp = moment().format('YYYYMMDDHHmmss');
+        await writeFile(`./data/data-${timestamp}.json`, JSON.stringify(finalJSON));
+        console.log('File writen');
+    } catch (error) {
+        console.log(error);
+        throw error;
+    }
 }
 
 const runOCR = async (category) => {
@@ -140,10 +195,8 @@ const runOCR = async (category) => {
             let old = await takeFromOld(category, item.name);
 
             if (old === 0) {
-                console.log('OLD IS  0');
                 item.price_array = [0];
             } else {
-                console.log('OLD IS', old.name);
                 return old;
             }
         }
@@ -284,6 +337,8 @@ const correctPriceErrors = (item) => {
             throw error;
         }
   
+    } else if (args.length && args[0] === 'new') {
+        newProcess();
     } else {
         console.log('Provide arguments for operation. \'wiki\' or \'ocr\'');
     }
