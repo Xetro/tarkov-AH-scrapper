@@ -19,6 +19,7 @@
   "dependencies": {
     "glob": "^7.1.6",
     "moment": "^2.24.0",
+    "pg": "^7.18.1",
     "tesseract.js-node": "^0.1.0"
   }
 }
