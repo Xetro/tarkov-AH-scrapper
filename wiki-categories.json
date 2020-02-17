@@ -235,9 +235,6 @@
         "name": "weapon_mods",
         "searchExceptions" : {},
         "positionExceptions": {
-            "ELCAN SpecterDR 1x/4x Scope": 1,
-            "Trijicon ACOG TA01NSN 4x32 scope": 1
-
         },
         "usePages": [3],
         "nameIndex": 1,
@@ -252,7 +249,8 @@
             "OKP-7 reflex sight (Dovetail)": "OKP-7 reflex sight"
         },
         "positionExceptions": {
-            "OKP-7 reflex sight": 1
+            "OKP-7 reflex sight": 1,
+            "OKP-7 reflex sight (Dovetail)": 1
         },
         "usePages": [3],
         "nameIndex": 1,
@@ -264,7 +262,9 @@
     "compact_reflex_sights": {
         "name": "weapon_mods",
         "searchExceptions" : {},
-        "positionExceptions": {},
+        "positionExceptions": {
+            "Trijicon RMR": 2
+        },
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -274,8 +274,13 @@
     },
     "iron_sights": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
-        "positionExceptions": {},
+        "searchExceptions" : {
+            "Izhmash rear sight for PP-19-01": "Izhmash rear sight fro PP-19-01"
+        },
+        "positionExceptions": {
+            "Glock Front Sight": 1,
+            "Glock Rear Sight": 1
+        },
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -285,7 +290,9 @@
     },
     "scopes": {
         "name": "weapon_mods",
-        "searchExceptions" : {},
+        "searchExceptions" : {
+            "VOMZ Pilad 4х32 riflescope":"VOMZ Pilad 4x32 riflescope"
+        },
         "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
@@ -574,7 +581,8 @@
             "Immobilizing splint (alu)": "Immobilizing splint"
         },
         "positionExceptions": {
-            "Immobilizing splint (alu)": 1
+            "Immobilizing splint (alu)": 1,
+            "Immobilizing splint": 1
         },
         "usePages": [2],
         "nameIndex": 1,
@@ -595,7 +603,9 @@
     "provisions": {
         "name": "provisions",
         "searchExceptions" : {},
-        "positionExceptions": {},
+        "positionExceptions": {
+            "Rye croutons": 1
+        },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
@@ -609,9 +619,11 @@
             "OFZ 30x160mm shell": "OFZ 30"
         },
         "positionExceptions": {
-            "RAM": 7,
-            "Flat screwdriver": 1,
-            "Diary": 1
+            "RAM": 6,
+            "Slim diary": 1,
+            "Toothpaste": 1,
+            "Screwdriver": 2,
+            "Weapon parts": 1
         },
         "usePages": [1],
         "nameIndex": 1,
@@ -640,8 +652,6 @@
         "name": "Keys_%26_Intel",
         "searchExceptions" : {},
         "positionExceptions": {
-            "Car key": 1,
-            "Portable cabin key": 1
         },
         "usePages": [1],
         "nameIndex": 1,
