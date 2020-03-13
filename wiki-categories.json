@@ -7,7 +7,7 @@
         },
         "positionExceptions": {
             "OP-SKS": 1,
-            "MP-133 12ga shotgun": 7,
+            "MP-133": 7,
             "APS": 1
         },
         "usePages": [1, 9, 14, 15],
@@ -17,27 +17,103 @@
             "AK-74",
             "AKS-74"
         ],
-        "useRegex": 1
+        "useRegex": 1,
+        "variants": {
+            "FN 5-7": {
+                "FN Five-seveN MK2 5.7x28 pistol Black": {
+                    "search_name": "FN Five-seveN MK2 5.7x28 pistol",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "FN Five-seveN MK2 FDE Frame 5.7x28 pistol": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "headwear": {
         "name": "headwear",
         "searchExceptions" : {
-            "SSh-68 helmet (1968 steel helmet)": "SSh-68 helmet",
-            "Highcom Striker ACHHC IIIA helmet": "Highcom Striker ACHHC IIIA black",
-            "Highcom Striker ULACH IIIA helmet": "Highcom Striker ULACH IIIA black"
+            "SSh-68 helmet (1968 steel helmet)": "SSh-68 helmet"
         },
-        "positionExceptions": {},
+        "positionExceptions": {
+            "Baseball cap": 2
+        },
         "usePages": [1, 2, 3],
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
-        "useRegex": 0
+        "useRegex": 0,
+        "variants": {
+            "Team Wendy EXFIL Ballistic Helmet": {
+                "Team Wendy EXFIL Ballistic Helmet Black": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Team Wendy EXFIL Ballistic Helmet Coyote": {
+                    "variant": "coyote",
+                    "gif_position": 0
+                }
+            },
+            "Maska 1Sch helmet": {
+                "Maska 1Sch helmet (green)": {
+                    "search_name": "Maska 1Sch helmet",
+                    "variant": "classic",
+                    "gif_position": 0
+                },
+                "Maska 1Sch helmet (Killa)": {
+                    "variant": "killa",
+                    "gif_position": 0
+                }
+            },
+            "Highcom Striker ULACH IIIA helmet": {
+                "Highcom Striker ULACH IIIA black helmet": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Highcom Striker ULACH IIIA tan helmet": {
+                    "variant": "tan",
+                    "gif_position": 0
+                }
+            },
+            "Highcom Striker ACHHC IIIA helmet": {
+                "Highcom Striker ACHHC IIIA black helmet": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Highcom Striker ACHHC IIIA olive helmet": {
+                    "variant": "olive",
+                    "gif_position": 0
+                }
+            },
+            "6B47 Ratnik-BSh Helmet": {
+                "6B47 Ratnik-BSh Helmet": {
+                    "variant": "classic",
+                    "gif_position": 0
+                },
+                "6B47 Helmet with cover (flora digital)": {
+                    "variant": "flora digital",
+                    "gif_position": 0
+                }
+            },
+            "ZSh-1-2M helmet": {
+                "ZSh-1-2M helmet (green)": {
+                    "search_name": "ZSh-1-2M helmet",
+                    "variant": "classic",
+                    "gif_position": 0
+                },
+                "ZSh-1-2M helmet (black)": {
+                    "variant": "black",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "face_cover": {
         "name": "face_cover",
         "searchExceptions" : {},
         "positionExceptions": {
-            "Shemagh": 1
         },
         "usePages": [1],
         "nameIndex": 1,
@@ -49,7 +125,8 @@
         "name": "eyewear",
         "searchExceptions" : {},
         "positionExceptions": {
-            "Anti-fragmentation glasses": 1
+            "Anti-fragmentation glasses": 1,
+            "Tactical glasses": 1
         },
         "usePages": [1],
         "nameIndex": 1,
@@ -70,15 +147,27 @@
     "chest_rigs": {
         "name": "chest_rigs",
         "searchExceptions" : {
-            "Belt-A + Belt-B gear rig": "Belt-A",
-            "Blackhawk! Commando Chest Harness": "Blackhawk"
+            "Belt-A + Belt-B gear rig": "Belt-A"
         },
         "positionExceptions": {},
         "usePages": [3],
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
-        "useRegex": 0
+        "useRegex": 0,
+        "variants": {
+            "Blackhawk! Commando Chest Harness": {
+                "Blackhawk! Commando Chest Harness (tan)": {
+                    "search_name:": "Blackhawk! Commando Chest Harness",
+                    "variant": "classic",
+                    "gif_position": 0
+                },
+                "Blackhawk! Commando Chest Harness (black)": {
+                    "variant": "black",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "armored_chest_rigs": {
         "name": "chest_rigs",
@@ -98,7 +187,19 @@
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
-        "useRegex": 0
+        "useRegex": 0,
+        "variants": {
+            "6B13 assault armor": {
+                "6B13 assault armor (digital flora pattern)": {
+                    "variant": "digital flora",
+                    "gif_position": 0
+                },
+                "6B13 assault armor (flora pattern)": {
+                    "variant": "flora",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "bipods": {
         "name": "weapon_mods",
@@ -115,14 +216,66 @@
         "name": "weapon_mods",
         "searchExceptions" : {},
         "positionExceptions": {
-            "Zenit RK-1 Foregrip": 1
         },
         "usePages": [1],
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Foregrips(.|\n)+Flashlights"
+        "additionalRegex": "Foregrips(.|\n)+Flashlights",
+        "variants": {
+            "Magpul M-LOK AFG Tactical grip": {
+                "Magpul M-LOK AFG (Black) Tactical grip": {
+                    "search_name:": "Magpul M-LOK AFG Tactical grip",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Magpul M-LOK AFG (Flat Dark Earth) Tactical grip": {
+                    "variant": "flat dark earth",
+                    "gif_position": 0
+                },
+                "Magpul M-LOK AFG (Olive Drab) Tactical grip": {
+                    "variant": "olive drab",
+                    "gif_position": 0
+                },
+                "Magpul M-LOK AFG (Stealth Gray) Tactical grip": {
+                    "variant": "stealth gray",
+                    "gif_position": 0
+                }
+            },
+            "Magpul AFG grip": {
+                "Magpul AFG grip black": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Magpul AFG grip FG": {
+                    "variant": "fg",
+                    "gif_position": 0
+                },
+                "Magpul AFG grip OD": {
+                    "variant": "od",
+                    "gif_position": 0
+                },
+                "Magpul AFG grip FDE": {
+                    "variant": "fde",
+                    "gif_position": 0
+                }
+            },
+            "Tango Down Stubby BGV-MK46K tactical grip": {
+                "Tango Down Stubby BGV-MK46K tactical grip Black": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Tango Down Stubby BGV-MK46K tactical grip FDE": {
+                    "variant": "fde",
+                    "gif_position": 0
+                },
+                "Tango Down Stubby BGV-MK46K tactical grip FG": {
+                    "variant": "fg",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "flashlights": {
         "name": "weapon_mods",
@@ -169,7 +322,42 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Auxiliary parts(.|\n)+"
+        "additionalRegex": "Auxiliary parts(.|\n)+",
+        "variants": {
+            "KAC stopper panel for URX 3/3.1": {
+                "KAC stopper panel for URX 3/3.1 Black": {
+                    "search_name:": "KAC stopper panel for URX 3/3.1",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "KAC stopper panel for URX 3/3.1 FDE": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            },
+            "KAC long panel for URX 3/3.1": {
+                "KAC long panel for URX 3/3.1 black": {
+                    "search_name:": "KAC long panel for URX 3/3.1",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "KAC long panel for URX 3/3.1 FDE": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            },
+            "KAC short panel for URX 3/3.1": {
+                "KAC short panel for URX 3/3.1 black": {
+                    "search_name:": "KAC short panel for URX 3/3.1",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "KAC short panel for URX 3/3.1 FDE": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "muzzle_adapters": {
         "name": "weapon_mods",
@@ -188,26 +376,23 @@
     "flash_hiders_muzzle_brakes": {
         "name": "weapon_mods",
         "searchExceptions" : {
-            "SRVV 7.62x39 AK muzzlebrake & compensator": "SRVV 7.62x39",
-            "SRVV 5.45x39 AK-74 muzzlebrake": "SRVV 5.45x39",
+            "SRVV 7.62x39 AK muzzlebrake & compensator": "SRVV 7.62x39 Ак muzzlebrake & compensator",
+            "SRVV 5.45x39 AK-74 muzzlebrake": "SRVV 5.45x39 Ак-74 muzzlebrake",
             "Socom 16 7.62x51 muzzlebrake & compensator for M1A (threaded)": "Socom 16 7.62x51 muzzlebrake & compensator for M1A",
             "Socom 16 7.62x51 muzzlebrake & compensator for M1A (unthreaded)": "Socom 16 7.62x51 muzzlebrake & compensator for M1A",
-            "Izhmash 5.56x45 АK-102 muzzlebrake & compensator (6P44 0-20)": "Izhmash 5.56x45 АК-102 muzzlebrake & compensator (6P44 0-20)",
-            "Izhmash 7.62x39 АK-103 muzzlebrake & compensator": "Izhmash 7.62x39 АК-103 muzzlebrake & compensator",
-            "Izhmash 7.62x39 АK-104 muzzlebrake & compensator (6P46 0-20)": "Izhmash 7.62x39 АК-104 muzzlebrake & compensator (6P46 0-20)",
-            "Izhmash 5.45x39 АK-105 muzzlebrake & compensator (6P44 0-20)": "Izhmash 5.45x39 АК-105 muzzlebrake & compensator (6P44 0-20)",
-            "Izhmash 5.45x39 АK-74M muzzlebrake & compensator (6P20 0-20)": "Izhmash 5.45x39 АК-74M muzzlebrake & compensator (6P20 0-20)",
-            "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)": "Izhmash 5.45x39 АК-74 muzzlebrake & compensator (6P20 0-20)",
-            "Izhmash 5.56x45 АK-101 muzzlebrake & compensator": "Izhmash 5.56x45 АК-101 muzzlebrake & compensator",
-            "Izhmash 7.62x39 AKM muzzlebrake & compensator (6P1 0-14)": "Izhmash 7.62x39 АКM muzzlebrake & compensator",
-            "DVL-10 M2 muzzle break": "DVL-10",
+            "Izhmash 5.56x45 АK-102 muzzlebrake & compensator (6P44 0-20)": "Izhmash 5.56x45 Ак-102 muzzlebrake & compensator (6P44 0-20)",
+            "Izhmash 7.62x39 АK-103 muzzlebrake & compensator": "Izhmash 7.62x39 Ак-103 muzzlebrake & compensator",
+            "Izhmash 7.62x39 АK-104 muzzlebrake & compensator (6P46 0-20)": "Izhmash 7.62x39 Ак-104 muzzlebrake & compensator (6P46 0-20)",
+            "Izhmash 5.45x39 АK-105 muzzlebrake & compensator (6P44 0-20)": "Izhmash 5.45x39 Ак-105 muzzlebrake & compensator (6P44 0-20)",
+            "Izhmash 5.45x39 АK-74M muzzlebrake & compensator (6P20 0-20)": "Izhmash 5.45x39 Ак-74M muzzlebrake & compensator (6P20 0-20)",
+            "Izhmash 5.45x39 AK-74 muzzlebrake & compensator (6P20 0-20)": "Izhmash 5.45x39 Ак-74 muzzlebrake & compensator (6P20 0-20)",
+            "Izhmash 5.56x45 АK-101 muzzlebrake & compensator": "Izhmash 5.56x45 Ак-101 muzzlebrake & compensator",
+            "Izhmash 7.62x39 AKM muzzlebrake & compensator (6P1 0-14)": "Izhmash 7.62x39 АкM muzzlebrake & compensator (6P1 0-14)",
+            "DVL-10 M2 muzzle break": "DVL-10 м2 muzzle break",
             "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator": "Izhmash 5.45x39 RPK-16 muzzlebrake & compensator",
-            "Venom Antidote muzzlebrake & compensator for AK": "Venom Antidote muzzlebrake & compensator for",
-            "Alpha Wolf Bullnose 9x19 Compensator": "Alpha Wolf Bullnose"
+            "Venom Antidote muzzlebrake & compensator for AK": "Venom Antidote muzzlebrake & compensator for Ак"
         },
         "positionExceptions": {
-            "Socom 16 7.62x51 muzzlebrake & compensator for M1A (unthreaded)": 1,
-            "DVL-10 M2 muzzle break": 5
         },
         "usePages": [2],
         "nameIndex": 1,
@@ -219,9 +404,8 @@
     "suppressors": {
         "name": "weapon_mods",
         "searchExceptions" : {
-            "Zenit DTK-4M muzzle brake": "Zenit DTK-4",
-            "Makeshift 7.62x25 TT silencer": "Makeshift 7.62x25",
-            "KAC QDSS NT-4 5.56x45 silencer": "KAC QDSS NT-4"
+            "Zenit DTK-4M muzzle brake": "Zenit DTK-4м muzzle brake",
+            "Makeshift 7.62x25 TT silencer": "Makeshift 7.62x25 тт silencer"
         },
         "positionExceptions": {},
         "usePages": [2],
@@ -229,7 +413,19 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Suppressors(.|\n)+"
+        "additionalRegex": "Suppressors(.|\n)+",
+        "variants": {
+            "KAC QDSS NT-4 5.56x45 silencer": {
+                "KAC QDSS NT-4 Black 5.56x45 silencer": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "KAC QDSS NT-4 FDE 5.56x45 silencer": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "assault_scopes": {
         "name": "weapon_mods",
@@ -241,7 +437,32 @@
         "imgFileIndex": 0,
         "ignore": ["ELCAN Specter OS4x assault scope"],
         "useRegex": 1,
-        "additionalRegex": "Assault scopes(.|\n)+Reflex sights"
+        "additionalRegex": "Assault scopes(.|\n)+Reflex sights",
+        "variants": {
+            "ELCAN SpecterDR 1x/4x Scope": {
+                "ELCAN SpecterDR 1x/4x Scope Black": {
+                    "search_name": "ELCAN SpecterDR 1x/4x Scope",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "ELCAN SpecterDR 1x/4x Scope FDE": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            },
+            "Trijicon ACOG TA01NSN 4x32 scope": {
+                "Trijicon ACOG TA01NSN 4x32 scope Black": {
+                    "search_name": "Trijicon ACOG TA01NSN 4x32 scope",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Trijicon ACOG TA01NSN 4x32 scope TAN": {
+                    "variant": "TAN",
+                    "gif_position": 0
+                }
+            }
+            
+        }
     },
     "reflex_sights": {
         "name": "weapon_mods",
@@ -257,7 +478,20 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Reflex sights(.|\n)+Compact reflex sights"
+        "additionalRegex": "Reflex sights(.|\n)+Compact reflex sights",
+        "variants": {
+            "Eotech HHS-1 sight": {
+                "Eotech HHS-1 sight Black": {
+                    "search_name": "Eotech HHS-1 sight",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Eotech HHS-1 sight Tan": {
+                    "variant": "TAN",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "compact_reflex_sights": {
         "name": "weapon_mods",
@@ -286,7 +520,31 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Iron sights(.|\n)+Scopes"
+        "additionalRegex": "Iron sights(.|\n)+Scopes",
+        "variants": {
+            "Magpul MBUS Gen.2 Frontsight": {
+                "Magpul MBUS Gen.2 Frontsight Black": {
+                    "search_name": "Magpul MBUS Gen.2 Frontsight",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Magpul MBUS Gen.2 Frontsight FDE": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            },
+            "Magpul MBUS Gen.2 Rearsight": {
+                "Magpul MBUS Gen.2 Rearsight Black": {
+                    "search_name": "Magpul MBUS Gen.2 Rearsight",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Magpul MBUS Gen.2 Rearsight FDE": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "scopes": {
         "name": "weapon_mods",
@@ -331,27 +589,25 @@
     "magazines": {
         "name": "weapon_mods",
         "searchExceptions" : {
-            "MPX with TTI Base pad +11 41-round 9x19 magazine": "MPX with TTI Base pad",
             "PUFGUN SG-919 20 20-round 9x19 magazine for PP-19-01": "PUFGUN SG-919 20 20-round 9x19 magazine for",
-            "30-round 5.45x39 magazine for AK-12 and compatibles": "30-round 5.45x39 magazine for",
-            "6L29 30-round 5.56x45 magazine for АK-101 and compatible weapons": "6L29 30-round 5.56x45 magazine for",
-            "30-round 7.62x39 magazine for АK-103 and compatible weapons": "30-round 7.62x39 magazine for",
-            "30-round 6L23 5.45x39 magazine for AK-74 and compatibles": "30-round 6L23 5.45x39 magazine for",
-            "45-round 6L26 5.45x39 magazine for AK-74 and compatibles": "45-round 6L26 5.45x39 magazine for",
-            "MP-153 5-rd magazine extension": "5-rd magazine extension",
-            "MP-153 6-rd magazine extension": "6-rd magazine extension",
-            "MP-153 7-rd magazine extension": "7-rd magazine extension",
-            "MP-153 8-rd magazine extension": "8-rd magazine extension",
-            "60-round 6L31 5.45x39 magazine for AK-74 and compatibles": "60-round 6L31 5.45x39 magazine for",
-            "TT-105 7.62x25 TT Magazine": "TT-105 7.62x25",
-            "6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons": "6L20 30-round 5.45x39 magazine for",
-            "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons": "6L18 45-round 5.45x39 magazine for",
-            "10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles": "10-round Saiga 545 5.45x39 magazine for",
+            "30-round 5.45x39 magazine for AK-12 and compatibles": "30-round 5.45x39 magazine for ак-12 and compatibles",
+            "6L29 30-round 5.56x45 magazine for АK-101 and compatible weapons": "6L29 30-round 5.56x45 magazine for ак-101 and compatible weapons",
+            "30-round 7.62x39 magazine for АK-103 and compatible weapons": "30-round 7.62x39 magazine for ак-103 and compatible weapons",
+            "30-round 6L23 5.45x39 magazine for AK-74 and compatibles": "30-round 6L23 5.45x39 magazine for ак-74 and compatibles",
+            "45-round 6L26 5.45x39 magazine for AK-74 and compatibles": "45-round 6L26 5.45x39 magazine for ак-74 and compatibles",
+            "MP-153 5-rd magazine extension": "мP-153 5-rd magazine extension",
+            "MP-153 6-rd magazine extension": "мP-153 6-rd magazine extension",
+            "MP-153 7-rd magazine extension": "мP-153 7-rd magazine extension",
+            "MP-153 8-rd magazine extension": "мP-153 8-rd magazine extension",
+            "60-round 6L31 5.45x39 magazine for AK-74 and compatibles": "60-round 6L31 5.45x39 magazine for ак-74 and compatibles",
+            "TT-105 7.62x25 TT Magazine": "TT-105 7.62x25 тт Magazine",
+            "6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons": "6L20 30-round 5.45x39 magazine for ак-74 and compatible weapons",
+            "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons": "6L18 45-round 5.45x39 magazine for ак-74 and compatible weapons",
+            "10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles": "10-round Saiga 545 5.45x39 magazine for ак-74 and compatibles",
             "2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106": "2-shot MC 20-01 Sb.3 20ga magazine for",
-            "Standard MP7 40-round 4.6x30 magazine": "Standard MP7 40-round"
+            "Standard MP7 40-round 4.6x30 magazine": "Standard MP7 40-round4.6x30 magazine"
         },
         "positionExceptions": {
-            "30-round 5.45x39 magazine for AK-12 and compatibles": 1
         },
         "usePages": [4],
         "nameIndex": 1,
@@ -362,7 +618,31 @@
             "AGS-30 30-Grenades box 30x29"
         ],
         "useRegex": 1,
-        "additionalRegex": "Magazines(.|\n)+Mounts"
+        "additionalRegex": "Magazines(.|\n)+Mounts",
+        "variants": {
+            "40-round PMAG GEN M3 40 5.56x45 STANAG magazine": {
+                "40-round PMAG GEN M3 Black 40 5.56x45 STANAG magazine": {
+                    "search_name": "40-round PMAG GEN M3 40 5.56x45 STANAG magazine",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "40-round PMAG GEN M3 FDE 40 5.56x45 STANAG magazine": {
+                    "variant":"FDE",
+                    "gif_position": 0
+                }
+            },
+            "PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine": {
+                "PMAG GEN M3 Black W 30 5.56x45 STANAG 30-round magazine": {
+                    "search_name": "PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "mounts": {
         "name": "weapon_mods",
@@ -376,7 +656,20 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Mounts(.|\n)+Stocks & chassis"
+        "additionalRegex": "Mounts(.|\n)+Stocks & chassis",
+        "variants": {
+            "Medium length rail for Hexagon": {
+                "Medium length rail for Hexagon (black)": {
+                    "search_name": "Medium length rail for Hexagon",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Medium length rail for Hexagon(Anodized Red)": {
+                    "variant": "anodized red",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "stocks_chassis": {
         "name": "weapon_mods",
@@ -400,8 +693,9 @@
         },
         "positionExceptions": {
             "M14 M14ALCS(MOD. 0) stock": 1,
-            "Regular Mosin rifle stock": 1,
+            "M14 M14ALCS(MOD. 0) stock (buttstock)": 1,
             "Izhmash wooden AKM stock (6P1 Sb.5)": 1,
+            "Izhmash polymer AK-74 stock (6P20 Sb.7)": 1,
             "CAA AKTS AK-74 Buffer Tube for AK and compatable": 1
         },
         "usePages": [4],
@@ -409,26 +703,56 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Stocks & chassis(.|\n)+"
+        "additionalRegex": "Stocks & chassis(.|\n)+",
+        "variants": {
+            "SI Advanced receiver extension buffer tube": {
+                "SI Advanced receiver extension buffer tube (black)": {
+                    "search_name": "SI Advanced receiver extension buffer tube",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "SI Advanced receiver extension buffer tube (anodized red)": {
+                    "variant": "anodized red",
+                    "gif_position": 0
+                }
+            },
+            "UBR GEN2 stock": {
+                "UBR GEN2 FDE stock": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                },
+                "UBR GEN2 black stock": {
+                    "variant": "FG",
+                    "gif_position": 0
+                }
+            },
+            "MOE Carbine stock OD": {
+                "MOE Carbine stock": {
+                    "variant": "OD",
+                    "gif_position": 0
+                },
+                "MOE Carbine stock SG": {
+                    "variant": "SG",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "barrels": {
         "name": "weapon_mods",
         "searchExceptions" : {
             "Homespun 121mm 7.62x25 TT barrel with threading": "Homespun 121mm 7.62x25",
-            "540mm barrel for MR-133 12ga shotgun with rib" : "540mm barrel for",
-            "660mm barrel for MR-133 12ga shotgun": "660mm barrel for",
-            "710mm barrel for MR-133 12ga shotgun with rib": "710mm barrel for "
+            "540mm barrel for MR-133 12ga shotgun with rib" : "540mm barrel for мR-133 12ga shotgun with rib",
+            "660mm barrel for MR-133 12ga shotgun": "660mm barrel for мR-133 12ga shotgun",
+            "710mm barrel for MR-133 12ga shotgun with rib": "710mm barrel for мR-133 12ga shotgun with rib",
+            "116mm 7.62x25 TT barrel": "116mm 7.62x25 тт barrel"
         },
         "positionExceptions": {
-            "540mm barrel for MR-133 12ga shotgun with rib": 1,
-            "610mm barrel for MP-133 12ga shotgun": 1,
-            "710mm barrel for MR-133 12ga shotgun with rib": 1,
-            "508mm barrel for M870 12ga": 1
         },
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
-        "ignore": [],
+        "ignore": ["510mm barrel for MP-43e-1c 12ga", "725mm barrel for MP-43e-1s 12ga"],
         "useRegex": 1,
         "additionalRegex": "Barrels(.|\n)+Gas blocks"
     },
@@ -443,16 +767,27 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Gas blocks(.|\n)+Handguards"
+        "additionalRegex": "Gas blocks(.|\n)+Handguards",
+        "variants": {
+            "VS-24 Handguard with a VS-33c gas block combo for AK": {
+                "VS-24 Handguard with a VS-33c gas block combo for AK Black": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "VS-24 white handguard with a VS-33c gas block combo for AK": {
+                    "variant": "white",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "handguards": {
         "name": "weapon_mods",
         "searchExceptions" : {
             "Magpul MOE SL carbine length M-LOK foregrip for AR15": "Magpul MOE SL carbine length M-LOK foregrip",
-            "Magpul Zhukov-U HAND GUARD for AK": "Magpul Zhukov-U HAND GUARD",
-            "Magpul MOE AKM HAND GUARD for AK": "Magpul MOE AKM HAND GUARD (Black) for AK",
             "LOBAEV Arms DVL-10 M2 handguard": "LOBAEV Arms DVL-10",
-            "B-10M foregrip and rail mount B-19": "b-10"
+            "B-10M foregrip and rail mount B-19": "B-10м foregrip and rail mount B-19",
+            "Strike Industries Viper carbine length M-LOK foregrip for AR-15": "Strike Industries Viper carbine length M-LOK foregrip"
         },
         "positionExceptions": {},
         "usePages": [5],
@@ -460,40 +795,171 @@
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Handguards(.|\n)+Pistol grips"
+        "additionalRegex": "Handguards(.|\n)+Pistol grips",
+        "variants": {
+            "Magpul MOE AKM HAND GUARD for AK": {
+                "Magpul MOE AKM HAND GUARD (Black) for AK": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Magpul MOE AKM HAND GUARD (Flat Dark Earth) for AK": {
+                    "variant": "flat dark earth",
+                    "gif_position": 0
+                },
+                "Magpul MOE AKM HAND GUARD (Plum) for AK": {
+                    "variant": "plum",
+                    "gif_position": 0
+                },
+                "Magpul MOE AKM HAND GUARD (Stealth Gray) for AK": {
+                    "variant": "stealth gray",
+                    "gif_position": 0
+                }
+            },
+            "Hexagon handguard for AK": {
+                "Hexagon handguard for AK (black)": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Hexagon handguard for AK(anodized red)": {
+                    "variant": "anodized red",
+                    "gif_position": 0
+                }
+            },
+            "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems": {
+                "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems (red)": {
+                    "variant": "red",
+                    "gif_position": 0,
+                    "search_name": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems"
+                },
+                "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems (black)": {
+                    "variant": "black",
+                    "gif_position": 0,
+                    "search_name": "Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems"
+                }
+            },
+            "Magpul Zhukov-U HAND GUARD for AK": {
+                "Magpul Zhukov-U HAND GUARD (Black) for AK": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Magpul Zhukov-U HAND GUARD (FDE) for AK": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                },
+                "Magpul Zhukov-U HAND GUARD (Plum) for AK": {
+                    "variant": "plum",
+                    "gif_position": 0
+                }
+            },
+            "TDI AKM-L handguard for AK": {
+                "TDI AKM-L handguard for AK Black": {
+                    "search_name": "TDI AKM-L handguard for AK",
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "TDI AKM-L handguard for AK Anodized Bronze": {
+                    "variant": "anodized bronze",
+                    "gif_position": 0
+                },
+                "TDI AKM-L handguard for AK Anodized Red": {
+                    "variant": "anodized red",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "pistol_grips": {
         "name": "weapon_mods",
         "searchExceptions" : {
-            "Regular \"DS Arms\" pistol grip for SA-58": "Regular \"DS Arms\" pistol grip for SA-58",
-            "TAPCO SAW-Style pistol grip for AK": "TAPCO SAW-Style black pistol grip for ak",
-            "Stark AR Rifle Grip for AR-15-compatible weapons": "Stark AR Rifle Grip (black) for ar-15"
+            "Regular \"DS Arms\" pistol grip for SA-58": "Regular \"DS Arms\" pistol grip for SA-58"
         },
         "positionExceptions": {
-            "AS VAL Pistol grip": 1
         },
         "usePages": [5],
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
         "useRegex": 1,
-        "additionalRegex": "Pistol grips(.|\n)+Receivers & slides "
+        "additionalRegex": "Pistol grips(.|\n)+Receivers & slides ",
+        "variants": {
+            "Hogue OverMolded Rubber Grip": {
+                "Hogue OverMolded Rubber Grip Black": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Hogue OverMolded Rubber Grip FDE": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                },
+                "Hogue OverMolded Rubber Grip Ghillie Earth": {
+                    "variant": "ghillie earth",
+                    "gif_position": 0
+                },
+                "Hogue OverMolded Rubber Grip Ghillie Green": {
+                    "variant": "ghillie green",
+                    "gif_position": 0
+                },
+                "Hogue OverMolded Rubber Grip OD Green": {
+                    "variant": "od greem",
+                    "gif_position": 0
+                }
+            },
+            "TAPCO SAW-Style pistol grip for AK": {
+                "TAPCO SAW-Style black pistol grip for AK": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "TAPCO SAW-Style FDE pistol grip for AK": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            },
+            "Stark AR Rifle Grip for AR-15-compatible weapons": {
+                "Stark AR Rifle Grip (black) for AR-15-compatible weapons": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Stark AR Rifle Grip (FDE) for AR-15-compatible weapons": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            },
+            "Desert Tech pistol grip for MDR": {
+                "Desert Tech pistol grip for MDR FDE": {
+                    "search_name": "Desert Tech pistol grip for MDR",
+                    "variant": "FDE",
+                    "gif_position": 0
+                },
+                "Desert Tech pistol grip for MDR Black": {
+                    "variant": "black",
+                    "gif_position": 0
+                }
+            },
+            "Sig Sauer pistol grip for P226": {
+                "Black polymer Sig Sauer pistol grip for P226": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "Sig Sauer FDE pistol grip for P226 (combat)": {
+                    "variant": "FDE",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "receivers_slides": {
         "name": "weapon_mods",
         "searchExceptions" : {
-            "Izhmash АK-74M dust cover (6P34 0-1)": "6P34 0-1",
-            "Izhmash AK-74 dust cover (6P1 0-1)": "6P1 0-1",
-            "Izhmash AKM dust cover (6P1 0-1)": "6P1 0-1",
-            "Molot AKM type dust cover": "type dust cover",
-            "Zenit B-33 dust cover for AK-74": "Zenit B-33 dust cover",
-            "AKademia Bastion dust cover for AK": "AKademia Bastion dust cover",
-            "Fab Defence PDC dust cover for AK-74": "Fab Defence PDC dust cover",
-            "TWS Dog leg rail dust cover for AK": "TWS Dog leg rail dust cover"
+            "Izhmash АK-74M dust cover (6P34 0-1)": "Izhmash Ак-74M dust cover (6p34 0-1)",
+            "Izhmash AK-74 dust cover (6P1 0-1)": "Izhmash Ак-74 dust cover (6P1 0-1)",
+            "Izhmash AKM dust cover (6P1 0-1)": "Izhmash АкM dust cover (6P1 0-1)",
+            "Molot AKM type dust cover": "Molot АкM type dust cover",
+            "Zenit B-33 dust cover for AK-74": "Zenit B-33 dust cover for Ак-74",
+            "AKademia Bastion dust cover for AK": "AKademia Bastion dust cover for Ак-74",
+            "Fab Defence PDC dust cover for AK-74": "Fab Defence PDC dust cover for Ак-74",
+            "TWS Dog leg rail dust cover for AK": "TWS Dog leg rail dust cover for Ак"
         },
         "positionExceptions": {
-            "Izhmash AK-74 dust cover (6P1 0-1)": 1,
-            "Izhmash AKM dust cover (6P1 0-1)": 2
         },
         "usePages": [5],
         "nameIndex": 1,
@@ -540,7 +1006,30 @@
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
-        "useRegex": 1
+        "useRegex": 1,
+        "variants": {
+            "Maska 1Sch face shield": {
+                "Maska 1Sch face shield (green)": {
+                    "search_name": "Maska 1Sch face shield",
+                    "variant": "classic",
+                    "gif_position": 0
+                },
+                "Maska 1Sch face shield (Killa)": {
+                    "variant": "killa",
+                    "gif_position": 0
+                }
+            },
+            "TW EXFIL Ballistic helmet face shield": {
+                "TW EXFIL Ballistic helmet face shield (black)": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "TW EXFIL Ballistic helmet face shield (coyote)": {
+                    "variant": "coyote",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "additional_armor": {
         "name": "gear_components",
@@ -552,7 +1041,19 @@
         "nameIndex": 1,
         "imgFileIndex": 0,
         "ignore": [],
-        "useRegex": 1
+        "useRegex": 1,
+        "variants": {
+            "TW EXFIL Ear Covers": {
+                "TW EXFIL Ear Covers Black": {
+                    "variant": "black",
+                    "gif_position": 0
+                },
+                "TW EXFIL Ear Covers Coyote": {
+                    "variant": "coyote",
+                    "gif_position": 0
+                }
+            }
+        }
     },
     "helmet_mounts": {
         "name": "gear_components",
@@ -620,7 +1121,6 @@
         },
         "positionExceptions": {
             "RAM": 6,
-            "Slim diary": 1,
             "Toothpaste": 1,
             "Screwdriver": 2,
             "Weapon parts": 1
@@ -725,7 +1225,7 @@
             "Mr. Holodilnick thermobag": "Holodilnick"
         },
         "positionExceptions": {
-            "Items case": 1
+            "Weapon case": 1
         },
         "usePages": [1],
         "nameIndex": 1,
@@ -747,7 +1247,6 @@
         "name": "7.62x25mm_Tokarev",
         "searchExceptions" : { },
         "positionExceptions": {
-            "7.62x25mm TT LRN": 1
         },
         "usePages": [3],
         "nameIndex": 1,
@@ -821,7 +1320,7 @@
             "5.56x45 mm Warmage": "Warmage"
         },
         "positionExceptions": {
-            "5.56x45 mm M855": 1
+            "5.56x45 mm Warmage": 1
         },
         "usePages": [3],
         "nameIndex": 1,
@@ -872,12 +1371,11 @@
     "366": {
         "name": ".366_TKM",
         "searchExceptions" : {
-            ".366 TKM EKO": "EKO",
-            ".366 TKM FMJ": "FMJ",
-            ".366 TKM Geksa": "Geksa"
+            ".366 TKM EKO": ".366 ткм EKO",
+            ".366 TKM FMJ": ".366 ткм FMJ",
+            ".366 TKM Geksa": ".366 ткм Geksa"
         },
         "positionExceptions": {
-            ".366 TKM FMJ": 1
         },
         "usePages": [3],
         "nameIndex": 1,

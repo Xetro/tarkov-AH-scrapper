@@ -110,6 +110,39 @@ const getItemsFromCategory = async (categoryName, categoryData) => {
     return item;
   })
 
+  if (!categoryData.variants) {
+    return results;
+  }
+
+  const variants = Object.keys(categoryData.variants);
+
+  results = results.reduce((sum, curr) => {
+    if (!variants.includes(curr.name)) {
+      sum.push(curr);
+      return sum;
+    }
+
+    for (let [variantName, variantData] of Object.entries(categoryData.variants[curr.name])) {
+      let name = variantName;
+      let title = variantName;
+      let marketSearchName = variantName;
+
+      if (variantData["search_name"]) {
+        marketSearchName = variantData["search_name"];
+      }
+
+      let filePath = variantName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+      sum.push({
+        ...curr,
+        name,
+        title,
+        marketSearchName,
+        filePath
+      });
+    }
+    return sum;
+  }, [])
+
   return results;
 };
 
