@@ -5,6 +5,7 @@ const util = require('util');
 const fs = require('fs');
 const moment = require('moment');
 const glob = require('glob');
+const path = require('path');
 
 
 const writeFile = (fileName, data) => util.promisify(fs.writeFile)(fileName, data);
@@ -49,6 +50,8 @@ const ammunition = {
     }
 }
 
+
+
 let args = process.argv.slice(2);
 
 const allCategories = async () => {
@@ -57,7 +60,7 @@ const allCategories = async () => {
 
         if (result) {
             try {
-                await writeFile(`./data/wiki/${category}-data.json`, JSON.stringify(result, null, 2));
+                await writeFile(`${__dirname}/data/wiki/${category}-data.json`, JSON.stringify(result, null, 2));
                 console.log('File writen');
             } catch (err) {
                 console.log(err);
@@ -77,7 +80,7 @@ const singleCategory = async (category) => {
 
     if (result) {
         try {
-            await writeFile(`./data/wiki/${category}-data.json`, JSON.stringify(result, null, 2));
+            await writeFile(`${__dirname}/data/wiki/${category}-data.json`, JSON.stringify(result, null, 2));
             console.log('File writen');
         } catch (err) {
             console.log(err);
@@ -88,8 +91,9 @@ const singleCategory = async (category) => {
 }
 
 const takeFromOld = async (category, name) => {
-    let backups = glob.sync(`./data/backup/${category}-data-*.json`);
+    let backups = glob.sync(`${__dirname}/data/backup/${category}-data-*.json`);
     if (!backups.length) {
+        console.log('Backups not found for: ', category);
         return 0;
     }
     backups = backups.sort((a, b) => b.slice(-19, -5) - a.slice(-19, -5));
@@ -112,6 +116,7 @@ const takeFromOld = async (category, name) => {
     if (foundItem) {
         return foundItem;
     }
+    console.log('Backups not found for item: ', name);
     return 0;
 }
 
@@ -120,9 +125,9 @@ const newProcess = async () => {
     let finalJSON = [];
 
     for (const [category, categoryData] of Object.entries(categories)) {
-        const priceFiles = glob.sync(`./data/python/${category}-data-*.json`);
+        const priceFiles = glob.sync(`${__dirname}/data/python/${category}-data-*.json`);
 
-        let categoryItems = fs.readFileSync(`./data/wiki/${category}-data.json`, 'utf-8');
+        let categoryItems = fs.readFileSync(`${__dirname}/data/wiki/${category}-data.json`, 'utf-8');
         categoryItems = JSON.parse(categoryItems);
 
         let priceData = [];
@@ -140,7 +145,9 @@ const newProcess = async () => {
                 foundItemWithPrice = priceData.find(_item => _item.name === item.name);
 
                 if (foundItemWithPrice) {
-                    // console.log('FOUND')
+                    if (ammunition.categories.includes(foundItemWithPrice.category)) {
+                        foundItemWithPrice.price_per_slot = Math.floor(foundItemWithPrice.price_avg * ammunition.stacks[foundItemWithPrice.category]);
+                    }
                     return {
                         ...foundItemWithPrice,
                         slots
@@ -154,6 +161,14 @@ const newProcess = async () => {
                 return
             } else {
                 // console.log('FOUND OLD')
+
+
+                // REMOVE ME
+                if (ammunition.categories.includes(foundItemWithPrice.category)) {
+                    foundItemWithPrice.price_per_slot = Math.floor(foundItemWithPrice.price_avg * ammunition.stacks[foundItemWithPrice.category]);
+                }
+                //# REMOVE ME
+
                 return {
                     
                     ...foundItemWithPrice,
@@ -162,12 +177,15 @@ const newProcess = async () => {
             }
         }));
 
+        // Remove nulls from NOT FOUND items
+        categoryItems = categoryItems.filter(item => item);
+
         finalJSON = finalJSON.concat(categoryItems);
     }
 
     try {
         const timestamp = moment().format('YYYYMMDDHHmmss');
-        await writeFile(`./data/data-${timestamp}.json`, JSON.stringify(finalJSON));
+        await writeFile(`${__dirname}/data/data-${timestamp}.json`, JSON.stringify(finalJSON));
         console.log('File writen');
     } catch (error) {
         console.log(error);
@@ -182,12 +200,12 @@ const runOCR = async (category) => {
         return;
     }
 
-    let JSONData = await readFile(`./data/wiki/${category}-data.json`);
+    let JSONData = await readFile(`${__dirname}/data/wiki/${category}-data.json`);
     JSONData = JSON.parse(JSONData);
 
     let JSONwithPrices = await Promise.all(JSONData.map(async item => {
 
-        const fullFilePath = glob.sync(`./data/images/raw/${item.filePath}--*.png`)[0];
+        const fullFilePath = glob.sync(`${__dirname}/data/images/raw/${item.filePath}--*.png`)[0];
 
         item.price_array = await ocr.processImage(item.filePath, fullFilePath);
 
@@ -243,7 +261,7 @@ const runOCR = async (category) => {
 
     try {
         const timestamp = moment().format('YYYYMMDDHHmmss');
-        await writeFile(`./data/final/${category}-data-${timestamp}.json`, JSON.stringify(JSONwithPrices, null, 2));
+        await writeFile(`${__dirname}/data/final/${category}-data-${timestamp}.json`, JSON.stringify(JSONwithPrices, null, 2));
         console.log('File writen');
     } catch (error) {
         console.log(error);
@@ -280,7 +298,7 @@ const correctPriceErrors = (item) => {
             allCategories().catch(err => console.log('Error: ', err));
         } else if (args.length && args[0] === 'barters') {
             const bartersJSON = await wikiParser.getBarters();
-            await writeFile(`./data/barters/barter-data.json`, JSON.stringify(bartersJSON, null, 2));
+            await writeFile(`${__dirname}/data/barters/barter-data.json`, JSON.stringify(bartersJSON, null, 2));
         } else if (args.length) {
             for (const category of args) {
                 await singleCategory(category).catch(err => console.log('Error: ', err));
@@ -302,7 +320,7 @@ const correctPriceErrors = (item) => {
         let finalFilePaths = []
         
         Object.keys(categories).forEach((category) => {
-            let foundPaths = glob.sync(`./data/@(backup|final)/${category}-*.json`);
+            let foundPaths = glob.sync(`${__dirname}/data/@(backup|final)/${category}-*.json`);
             if (!foundPaths.length) {
                 return;
             }
@@ -330,7 +348,7 @@ const correctPriceErrors = (item) => {
 
         try {
             const timestamp = moment().format('YYYYMMDDHHmmss');
-            await writeFile(`./data/data-${timestamp}.json`, JSON.stringify(finalData));
+            await writeFile(`${__dirname}/data/data-${timestamp}.json`, JSON.stringify(finalData));
             console.log('File writen');
         } catch (error) {
             console.log(error);
